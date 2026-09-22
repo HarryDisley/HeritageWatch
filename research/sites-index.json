@@ -1,6 +1,6 @@
 {
   "sites": [
-    { "slug": "stonehenge", "review_status": "draft", "proposed_status": "moderate_concern" },
-    { "slug": "ancient-city-of-aleppo", "review_status": "draft", "proposed_status": "high_concern" }
+    { "slug": "stonehenge", "review_status": "approved", "status": "moderate_concern", "confidence": "confirmed", "approved_by": "Harry Disley", "approved_date": "2026-09-22" },
+    { "slug": "ancient-city-of-aleppo", "review_status": "approved", "status": "high_concern", "confidence": "developing", "approved_by": "Harry Disley", "approved_date": "2026-09-22" }
   ]
 }

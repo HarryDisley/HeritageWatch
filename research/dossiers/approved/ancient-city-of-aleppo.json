@@ -17,14 +17,14 @@
   "threat_categories": [
     {
       "category": "armed_conflict",
-      "evidence_summary": "The Old City sustained extensive, confirmed damage during the Syrian civil war (approximately 2012-2016), including the complete destruction of the Great (Umayyad) Mosque's historic 11th-century minaret in 2013 and severe damage to the historic souks, documented in a joint UNESCO/UNITAR-UNOSAT satellite-imagery damage assessment. The property has remained on UNESCO's List of World Heritage in Danger since 2013. Conflict in the wider region did not end with that period: renewed fighting occurred in and around Aleppo in November-December 2024 (as part of the offensive that led to the fall of the Assad government), and further clashes between Syrian government forces and Kurdish-led SDF units were reported in Aleppo's northern suburbs in January 2026. Field reporting from February 2026 states the historic Old City itself was not directly affected by the January 2026 clashes and that reconstruction work continued uninterrupted, but the broader security and political situation in Syria remains actively unsettled under the post-Assad interim government.",
+      "evidence_summary": "The Old City sustained extensive, confirmed damage during the Syrian civil war (approximately 2012-2016), including the complete destruction of the Great (Umayyad) Mosque's historic 11th-century minaret in 2013 and severe damage to the historic souks, documented in a joint UNESCO/UNITAR-UNOSAT satellite-imagery damage assessment. The property has remained on UNESCO's List of World Heritage in Danger since 2013. Conflict in the wider region did not end with that period: renewed fighting occurred in and around Aleppo in November-December 2024 (as part of the offensive that led to the fall of the Assad government), and further clashes between Syrian government forces and Kurdish-led SDF units were reported in Aleppo's northern suburbs in January 2026. Field reporting from February 2026 states the historic Old City itself was not directly affected by the January 2026 clashes and that reconstruction work continued uninterrupted, but the broader security and political situation in Syria remains actively unsettled under the post-Assad interim government. Historical damage is documented in the site's record here and in events[] below, but the current classification (see status_history) is based on present conditions and the most recent credible evidence, not a cumulative tally of past events.",
       "first_identified_date": "2012",
       "date_note": null,
       "source_ids": ["src_00", "src_01", "src_02", "src_07", "src_08"]
     },
     {
       "category": "conservation_structural",
-      "evidence_summary": "Beyond direct conflict damage, UNESCO's own designation materials note pre-existing pressures from overpopulation and uncontrolled development predating the 2011 conflict. Post-conflict reconstruction now faces major funding and capacity gaps: per February 2026 field reporting citing World Bank estimates, damage across Aleppo governorate is estimated at $31 billion, with roughly 60% of the historic souks significantly damaged and 30% completely destroyed. Restoration is real but partial and slow: as one example, the Aga Khan Trust for Culture has restored 277 shops since 2018. This ongoing, substantial incompleteness of repair -- not the original 2012-2016 events themselves -- is what currently drives this threat category, per methodology sec1a.",
+      "evidence_summary": "Beyond direct conflict damage, UNESCO's own designation materials note pre-existing pressures from overpopulation and uncontrolled development predating the 2011 conflict. Post-conflict reconstruction now faces major funding and capacity gaps: per February 2026 field reporting citing World Bank estimates, damage across Aleppo governorate is estimated at $31 billion, with roughly 60% of the historic souks significantly damaged and 30% completely destroyed. Restoration is real but partial and slow: as one example, the Aga Khan Trust for Culture has restored 277 shops since 2018. This ongoing, substantial incompleteness of repair -- not the original 2012-2016 events themselves -- is what currently drives this threat category, per methodology §1a.",
       "first_identified_date": null,
       "date_note": "Pre-existing pressure predates the 2011 conflict per UNESCO's designation materials; no single identifiable start date found in sources reviewed. The reconstruction-incompleteness aspect is ongoing/current rather than dated to a single point.",
       "source_ids": ["src_00", "src_07"]
@@ -34,12 +34,14 @@
     {
       "status": "high_concern",
       "confidence": "developing",
-      "decision_trigger": "High Concern, on multiple independent grounds under the revised methodology (sec1): (1) official inscription on UNESCO's List of World Heritage in Danger since 2013 for substantive armed-conflict-related reasons; (2) the site sits in a country/region under continuing armed conflict and serious civil unrest, with credible regional reporting on risk to cultural property (clashes in Aleppo itself as recently as January 2026); and (3) the new explicit High Concern trigger for 'significant historical damage whose site-wide repair remains substantially incomplete' -- per 2026 field reporting, roughly 60% of the historic souks remain significantly damaged and only partial restoration (e.g., 277 of an unknown total shop count) has been completed since 2018. Critical Concern is NOT proposed: applying the current-vs-historical distinction (sec1a), the 2012-2016 destruction itself is historical (recorded in events[]) and the Old City was specifically reported unaffected by the most recent (Jan 2026) nearby clashes, so the 'ongoing severe threat materially affecting current survival/integrity/accessibility' bar for Critical is not clearly met on the evidence reviewed -- though this remains Harry's call to confirm, not an automated conclusion.",
-      "rationale": "This dossier proposes High Concern, not Critical, under the revised methodology's current-vs-historical distinction. The reasoning: the site's severe historical damage (2012-2016, including the minaret's destruction) is real, confirmed, and permanently recorded in events[] -- but per sec1a it does not by itself keep the site at Critical once it no longer materially affects present survival/integrity/accessibility. The current, present-day picture combines two things that pull in different directions: substantial ongoing risk (continuing national instability, incomplete repair of a majority of the souks, a Danger List listing that has never been lifted) versus genuine, evidenced, active progress (funded restoration work by AKTC and ALIPH, 3D documentation completed, partial reopening of the Great Mosque for prayer, and direct February 2026 field reporting that the most recent nearby clashes did not reach the historic core). High Concern is the reading that takes both seriously: real, unresolved risk, but not an active, site-threatening emergency as of the most recent evidence reviewed. Confidence is set to 'developing' rather than 'confirmed' or 'supported' because Syria's post-Assad political and security situation is itself still unsettled -- the interim government has been in place under two years, and localized fighting recurred in Aleppo as recently as eight months before this review -- so the trajectory, not just the current snapshot, remains genuinely in motion. This status recommendation is Claude's proposal only; per your explicit instruction, the final call on Aleppo's status is yours to make, not to be treated as pre-approved.",
+      "decision_trigger": "High Concern, on multiple independent grounds under the revised methodology (§1): (1) official inscription on UNESCO's List of World Heritage in Danger since 2013 for substantive armed-conflict-related reasons; (2) the site sits in a country/region under continuing armed conflict and serious civil unrest, with credible regional reporting on risk to cultural property (clashes in Aleppo itself as recently as January 2026); and (3) the explicit High Concern trigger for 'significant historical damage whose site-wide repair remains substantially incomplete' -- per 2026 field reporting, roughly 60% of the historic souks remain significantly damaged and only partial restoration has been completed since 2018. Critical Concern was considered and rejected: applying the current-vs-historical distinction (§1a), the 2012-2016 destruction itself is historical (recorded in events[] and threat_categories above), and the Old City was specifically reported unaffected by the most recent (Jan 2026) nearby clashes, so the 'ongoing severe threat materially affecting current survival/integrity/accessibility' bar for Critical is not met on the evidence reviewed.",
+      "rationale": "Historical damage is documented in the site's record (2012-2016 destruction, including the minaret's destruction, permanently recorded in events[] and threat_categories above), but the current classification is based on present conditions and the most recent credible evidence, not a cumulative tally of the site's whole history. The present-day picture combines real, unresolved risk (continuing national instability, incomplete repair of a majority of the souks, a Danger List listing that has never been lifted) with genuine, evidenced, active progress (funded restoration work by AKTC and ALIPH, 3D documentation completed, partial reopening of the Great Mosque for prayer, and direct February 2026 field reporting that the most recent nearby clashes did not reach the historic core). High Concern is the reading that takes both seriously: real, unresolved risk, but not an active, site-threatening emergency as of the most recent evidence reviewed. Confidence is set to Developing rather than Confirmed or Supported because Syria's post-Assad political and security situation is itself still unsettled -- the interim government has been in place under two years, and localized fighting recurred in Aleppo as recently as eight months before this review -- so the trajectory, not just the current snapshot, remains genuinely in motion.",
       "effective_date": "2026-09-22",
       "source_ids": ["src_00", "src_01", "src_02", "src_03", "src_07", "src_08"],
       "recorded_by": "claude-draft",
-      "approved_by": null
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-09-22",
+      "approval_note": "Approved as proposed: High Concern status and Developing confidence both agreed. Historical 2012-2016 damage agreed to remain prominently documented in the historical record without automatically driving the current status to Critical Concern under the revised methodology. Flagged Umayyad Mosque reopening claim (src_09) agreed to remain in the dossier as context-only, excluded from this status rationale."
     }
   ],
   "digital_preservation": {
@@ -125,7 +127,7 @@
     {
       "date": "not established",
       "title": "Partial reopening of the Great (Umayyad) Mosque for prayer",
-      "description": "Reported partial reopening of the mosque for prayer following restoration of the rebuilt minaret and repaired walls, with further restoration planned. FLAGGED: the exact date could not be confirmed, and this claim currently rests on a single source (a Syria travel/tourism website, src_09) carrying a reliability_note. Per methodology sec6/sec15, a flagged source cannot alone support a status-determining claim; this event is retained as context only and was not used as sole support for the status recommendation above (which rests on src_00/01/02/03/07/08).",
+      "description": "Reported partial reopening of the mosque for prayer following restoration of the rebuilt minaret and repaired walls, with further restoration planned. FLAGGED: the exact date could not be confirmed, and this claim currently rests on a single source (a Syria travel/tourism website, src_09) carrying a reliability_note. Per methodology §6/§15, a flagged source cannot alone support a status-determining claim; this event is retained as context only, reviewed and explicitly accepted as context-only by Harry (2026-09-22), and was not used as support for the status recommendation above.",
       "event_type": "protection_measure",
       "source_ids": ["src_09"]
     }
@@ -226,7 +228,7 @@
       "url": "https://syrianguides.com/aleppos-umayyad-mosque-reopens-partially-after-years-of-restoration/",
       "source_type": "other",
       "tier": 3,
-      "reliability_note": "Outlet's editorial standards/reliability not independently verified in this research pass. Per methodology sec6, this source cannot alone support a status-determining core claim; it is retained only as flagged context for one events[] entry, not used in the status rationale.",
+      "reliability_note": "Outlet's editorial standards/reliability not independently verified in this research pass. Per methodology §6, this source cannot alone support a status-determining core claim; it is retained only as flagged context for one events[] entry, not used in the status rationale. Harry reviewed and accepted this treatment (2026-09-22).",
       "published_date": "",
       "accessed_date": "2026-09-22"
     },
@@ -243,18 +245,18 @@
     }
   ],
   "editorial_checklist": {
-    "sources_real_and_accessible": false,
-    "core_claims_supported": false,
-    "status_matches_methodology": false,
-    "rationale_reflects_evidence": false,
-    "no_unsupported_prediction_language": false,
-    "conflicting_evidence_addressed": false,
-    "coordinates_verified": false,
-    "dpi_evidence_legitimate": false,
-    "last_reviewed_date_recorded": false,
-    "final_classification_approved": false
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
   },
-  "review_status": "draft",
+  "review_status": "approved",
   "last_verified_date": "2026-09-22",
   "changelog": [
     {
@@ -264,8 +266,13 @@
     },
     {
       "date": "2026-09-22",
-      "change": "Updated for methodology revision v2: applied the new current-vs-historical distinction (sec1a) and the new explicit High Concern trigger for substantially-incomplete historical-damage repair. Decision_trigger and rationale rewritten to cite the clarified rule directly rather than presenting the Critical-vs-High call as an open framework gap. Proposed status unchanged (High Concern / Developing) but now rests on an explicit rule rather than ad hoc reasoning. Added serial-property fields (not applicable, all null/false), reliability_note on all sources (flagged on src_09), first_identified_date left null with date_note where undateable. Still draft, still awaiting Harry's review -- final status decision explicitly reserved for Harry per his instruction, not to be auto-approved.",
+      "change": "Updated for methodology revision v2: applied the new current-vs-historical distinction (§1a) and the new explicit High Concern trigger for substantially-incomplete historical-damage repair. Decision_trigger and rationale rewritten to cite the clarified rule directly rather than presenting the Critical-vs-High call as an open framework gap. Proposed status unchanged (High Concern / Developing) but now rests on an explicit rule rather than ad hoc reasoning.",
       "changed_by": "claude"
+    },
+    {
+      "date": "2026-09-22",
+      "change": "Reviewed and approved by Harry Disley. Status (High Concern) and confidence (Developing) approved as proposed. Historical 2012-2016 damage confirmed to remain prominently documented without automatically driving status to Critical. Flagged src_09 (Umayyad Mosque reopening claim) confirmed as context-only, excluded from status rationale. All ten editorial checklist items completed. review_status advanced draft -> approved. This is HeritageWatch's first-ever approved site classification.",
+      "changed_by": "harry"
     }
   ]
 }

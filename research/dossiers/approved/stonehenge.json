@@ -11,14 +11,14 @@
   "inscription_year": 1986,
   "unesco_listing_name": "Stonehenge, Avebury and Associated Sites",
   "is_serial_component": true,
-  "serial_component_note": "This profile covers only the Stonehenge monument complex. The same UNESCO inscription (id 373) also covers Avebury and other associated monuments roughly 17 miles away, which may receive their own separate HeritageWatch profiles sharing this unesco_id. See methodology §12a.",
+  "serial_component_note": "This profile covers only the Stonehenge monument complex. The same UNESCO inscription (id 373) also covers Avebury and other associated monuments roughly 17 miles away, which may receive their own separate HeritageWatch profiles sharing this unesco_id. Accepted for V1 by Harry (2026-09-22); see methodology §12a.",
   "site_type": "cultural",
   "significance_summary": "Stonehenge is a Neolithic and Bronze Age stone circle monument built in phases between approximately 3700 and 1600 BCE. It forms the principal element of the UNESCO World Heritage property 'Stonehenge, Avebury and Associated Sites' (a serial listing that also includes Avebury and surrounding monuments). UNESCO describes it as the world's most architecturally sophisticated prehistoric stone circle, offering exceptional insight into the funerary and ceremonial practices of Neolithic and Bronze Age Britain.",
   "metadata_sources": ["src_00", "src_11"],
   "threat_categories": [
     {
       "category": "conservation_structural",
-      "evidence_summary": "UNESCO's own site documentation and the property's management bodies identify chronic, long-standing pressures on the monument's setting: nearby roads (historically the A303, A344, and A4) cutting through the property and affecting its visual/acoustic setting; visitor foot-traffic and animal burrowing eroding earthwork monuments; and risk to buried archaeology from ploughing and development. Between 2020 and 2024 this was sharply elevated by a UK government plan to build a road tunnel for the A303 beneath part of the World Heritage property; UNESCO's World Heritage Committee warned in 2021 and again in June 2024 that the scheme risked 'highly adverse and irreversible' damage to buried archaeology and came close to recommending a 'World Heritage in Danger' listing. That specific acute threat has since been fully resolved (see status rationale and events below), leaving the more chronic, lower-intensity setting/erosion pressures as the current state of this threat category.",
+      "evidence_summary": "UNESCO's own site documentation and the property's management bodies identify chronic, long-standing pressures on the monument's setting: nearby roads (historically the A303, A344, and A4) cutting through the property and affecting its visual/acoustic setting; visitor foot-traffic and animal burrowing eroding earthwork monuments; and risk to buried archaeology from ploughing and development. Between 2020 and 2024 this was sharply elevated by a UK government plan to build a road tunnel for the A303 beneath part of the World Heritage property; UNESCO's World Heritage Committee warned in 2021 and again in June 2024 that the scheme risked 'highly adverse and irreversible' damage to buried archaeology and came close to recommending a 'World Heritage in Danger' listing. That specific acute threat has since been fully resolved. Historical damage/threat episodes are documented in the site's record (events[] below), but the current classification is based on present conditions and the most recent credible evidence, leaving the more chronic, lower-intensity setting/erosion pressures as the current state of this threat category.",
       "first_identified_date": null,
       "date_note": "No single 'first identified' date could be established from the sources reviewed for the chronic setting/erosion pressures — UNESCO documentation treats these as long-standing management concerns rather than dated incidents. The acute tunnel-specific threat is separately dated in the events log below (2020-2026) and is treated as historical (resolved), per methodology §1a.",
       "source_ids": ["src_00", "src_02", "src_03"]
@@ -29,11 +29,13 @@
       "status": "moderate_concern",
       "confidence": "confirmed",
       "decision_trigger": "Moderate Concern, per 'conservation challenges typical of aging heritage sites, documented in official management reports, without imminent risk.' No High or Critical Concern trigger currently applies. Applying the current-vs-historical distinction (methodology §1a): the one threat that would have plausibly triggered High/Critical Concern during 2020-2024 — the A303 road tunnel — is historical, not current: UNESCO's own Committee voted in July 2024 not to list the site as in danger, the project was cancelled the same month, and its planning consent was formally revoked in March 2026, independently corroborated by multiple sources. It no longer materially affects the site's current survival, integrity, or accessibility, so per §1a it belongs in the historical timeline, not the current-status rationale.",
-      "rationale": "The property currently faces chronic, managed conservation pressures (traffic/setting impact, visitor and animal erosion of earthworks, buried-archaeology risk from agriculture/development) that are well documented in UNESCO's own site materials but are not described by UNESCO or any source reviewed as acute or unresolved-severe. The acute tunnel threat is resolved, not just quiet — resolution corroborated by UNESCO's own committee decision plus independent UK government/trade-press reporting of cancellation and formal consent revocation — so per the revised methodology it is recorded in events[] as historical rather than kept in the current threat/status assessment. This is treated as a genuine improvement over the 2021-2024 period.",
+      "rationale": "The property currently faces chronic, managed conservation pressures (traffic/setting impact, visitor and animal erosion of earthworks, buried-archaeology risk from agriculture/development) that are well documented in UNESCO's own site materials but are not described by UNESCO or any source reviewed as acute or unresolved-severe. Historical damage/threat episodes are documented in the site's record (the 2020-2024 tunnel threat, recorded in events[]), but the current classification is based on present conditions and the most recent credible evidence: the tunnel threat is resolved, not just quiet, per UNESCO's own committee decision plus independent UK government/trade-press reporting of cancellation and formal consent revocation. This is treated as a genuine improvement over the 2021-2024 period.",
       "effective_date": "2026-09-22",
       "source_ids": ["src_00", "src_02", "src_03", "src_04", "src_05", "src_06"],
       "recorded_by": "claude-draft",
-      "approved_by": null
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-09-22",
+      "approval_note": "Approved as proposed: Moderate Concern status agreed. Serial-property framing (this profile covers Stonehenge only, within the larger 'Stonehenge, Avebury and Associated Sites' UNESCO inscription) accepted for V1."
     }
   ],
   "digital_preservation": {
@@ -221,18 +223,18 @@
     }
   ],
   "editorial_checklist": {
-    "sources_real_and_accessible": false,
-    "core_claims_supported": false,
-    "status_matches_methodology": false,
-    "rationale_reflects_evidence": false,
-    "no_unsupported_prediction_language": false,
-    "conflicting_evidence_addressed": false,
-    "coordinates_verified": false,
-    "dpi_evidence_legitimate": false,
-    "last_reviewed_date_recorded": false,
-    "final_classification_approved": false
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
   },
-  "review_status": "draft",
+  "review_status": "approved",
   "last_verified_date": "2026-09-22",
   "changelog": [
     {
@@ -242,8 +244,13 @@
     },
     {
       "date": "2026-09-22",
-      "change": "Updated for methodology revision v2: added serial-property fields (unesco_listing_name, is_serial_component, serial_component_note) and reliability_note field on all sources (all null - no reliability concerns identified for this dossier's sources). Status rationale and decision_trigger tightened to cite the current-vs-historical distinction (methodology §1a) explicitly. Proposed status unchanged (Moderate Concern). Still draft, still awaiting Harry's review and approval.",
+      "change": "Updated for methodology revision v2: added serial-property fields (unesco_listing_name, is_serial_component, serial_component_note) and reliability_note field on all sources (all null - no reliability concerns identified for this dossier's sources). Status rationale and decision_trigger tightened to cite the current-vs-historical distinction (methodology §1a) explicitly. Proposed status unchanged (Moderate Concern).",
       "changed_by": "claude"
+    },
+    {
+      "date": "2026-09-22",
+      "change": "Reviewed and approved by Harry Disley. Status (Moderate Concern) approved as proposed. Serial-property framing accepted for V1. All ten editorial checklist items completed. review_status advanced draft -> approved.",
+      "changed_by": "harry"
     }
   ]
 }
