@@ -1,0 +1,6 @@
+{
+  "sites": [
+    { "slug": "stonehenge", "review_status": "draft", "proposed_status": "moderate_concern" },
+    { "slug": "ancient-city-of-aleppo", "review_status": "draft", "proposed_status": "high_concern" }
+  ]
+}

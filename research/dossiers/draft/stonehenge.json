@@ -1,0 +1,231 @@
+{
+  "slug": "stonehenge",
+  "name": "Stonehenge",
+  "alternate_names": [
+    "Part of the UNESCO serial inscription 'Stonehenge, Avebury and Associated Sites'"
+  ],
+  "country": "United Kingdom",
+  "region": "Europe (Wiltshire, England)",
+  "coordinates": { "lat": 51.1789, "lng": -1.8262 },
+  "unesco_id": "373",
+  "inscription_year": 1986,
+  "site_type": "cultural",
+  "significance_summary": "Stonehenge is a Neolithic and Bronze Age stone circle monument built in phases between approximately 3700 and 1600 BCE. It forms the principal element of the UNESCO World Heritage property 'Stonehenge, Avebury and Associated Sites' (a serial listing that also includes Avebury and surrounding monuments). UNESCO describes it as the world's most architecturally sophisticated prehistoric stone circle, offering exceptional insight into the funerary and ceremonial practices of Neolithic and Bronze Age Britain.",
+  "metadata_sources": ["src_00", "src_11"],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's own site documentation and the property's management bodies identify chronic, long-standing pressures on the monument's setting: nearby roads (historically the A303, A344, and A4) cutting through the property and affecting its visual/acoustic setting; visitor foot-traffic and animal burrowing eroding earthwork monuments; and risk to buried archaeology from ploughing and development. Between 2020 and 2024 this was sharply elevated by a UK government plan to build a road tunnel for the A303 beneath part of the World Heritage property; UNESCO's World Heritage Committee warned in 2021 and again in June 2024 that the scheme risked 'highly adverse and irreversible' damage to buried archaeology and came close to recommending a 'World Heritage in Danger' listing. That specific acute threat has since been resolved (see status rationale and events below), leaving the more chronic, lower-intensity setting/erosion pressures as the current state of this threat category.",
+      "first_identified_date": null,
+      "date_note": "No single 'first identified' date could be established from the sources reviewed for the chronic setting/erosion pressures — UNESCO documentation treats these as long-standing management concerns rather than dated incidents. The acute tunnel-specific threat is separately dated in the events log below (2020–2026).",
+      "source_ids": ["src_00", "src_02", "src_03"]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "confirmed",
+      "decision_trigger": "Moderate Concern, per the criterion 'conservation challenges typical of aging heritage sites, documented in official management reports, without imminent risk.' No High or Critical Concern trigger currently applies: the one threat that came close to a High/Critical-level trigger during 2020–2024 — the A303 road tunnel, which UNESCO explicitly warned could cause severe and irreversible archaeological damage and considered for a 'World Heritage in Danger' listing — was rejected by UNESCO's own Committee in July 2024, then formally cancelled by the UK government the same month, and its planning consent (Development Consent Order) was formally revoked in March 2026. Multiple independent sources corroborate the cancellation and revocation.",
+      "rationale": "The property currently faces chronic, managed conservation pressures (traffic/setting impact, visitor and animal erosion of earthworks, buried-archaeology risk from agriculture/development) that are well documented in UNESCO's own site materials but are not described by UNESCO or any source reviewed as acute or unresolved-severe. The one threat that plausibly would have triggered High Concern or higher — the A303 tunnel scheme — is now resolved: UNESCO's Committee itself voted in July 2024 not to list the site as in danger, finding the UK's proposed approach 'the best option available,' and the underlying project was subsequently cancelled and its consent formally revoked (March 2026), removing the acute risk. This is treated as a genuine improvement over the 2021–2024 period, not merely an unresolved threat going quiet.",
+      "effective_date": "2026-09-22",
+      "source_ids": ["src_00", "src_02", "src_03", "src_04", "src_05", "src_06"],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "Extensive professional/archival photography held by English Heritage (the site's managing body) and featured in a dedicated Google Arts & Culture partner exhibit.",
+        "url": "https://artsandculture.google.com/partner/stonehenge-and-avebury-world-heritage-site",
+        "source_id": "src_09"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO nomination/listing documentation and English Heritage's own historical and management archives.",
+        "url": "https://whc.unesco.org/en/list/373/",
+        "source_id": "src_00"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "A detailed laser-scanning and photogrammetry survey of the stones was carried out and published as an archaeological analysis report, with results also summarized in trade/technical press.",
+        "url": "https://www.researchgate.net/publication/274052702_Revealing_the_secrets_of_stonehenge_through_the_application_of_laser_scanning_photogrammetry_and_visualisation_techniques",
+        "source_id": "src_10"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "English Heritage publishes an official 360-degree 'Stonehenge360' virtual tour of the monument.",
+        "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/stonehenge360/",
+        "source_id": "src_07"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed/academic publication on the laser-scanning survey and its archaeological interpretation.",
+        "url": "https://www.researchgate.net/publication/274052702_Revealing_the_secrets_of_stonehenge_through_the_application_of_laser_scanning_photogrammetry_and_visualisation_techniques",
+        "source_id": "src_10"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2024-06-21",
+      "title": "UNESCO recommends considering 'in danger' listing over tunnel plan",
+      "description": "UNESCO's World Heritage Committee recommended that Stonehenge be added to the List of World Heritage in Danger unless the A303 tunnel scheme was substantially modified, stating the proposed tunnel was inadequate to protect the site's outstanding universal value.",
+      "event_type": "political",
+      "source_ids": ["src_02"]
+    },
+    {
+      "date": "2024-07-24",
+      "title": "UNESCO Committee votes not to list Stonehenge as in danger",
+      "description": "At its New Delhi session, UNESCO's World Heritage Committee rejected the proposal to place Stonehenge on the World Heritage in Danger list, concluding the UK's proposed approach did not constitute sufficient actual or potential danger to warrant it at that stage.",
+      "event_type": "political",
+      "source_ids": ["src_03"]
+    },
+    {
+      "date": "2024-07-29",
+      "title": "UK Government cancels the A303 tunnel scheme",
+      "description": "The Chancellor announced cancellation of the A303 Stonehenge tunnel project as part of a wider public spending review, after roughly £160-179 million had already been spent.",
+      "event_type": "protection_measure",
+      "source_ids": ["src_04"]
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Tunnel's Development Consent Order formally revoked",
+      "description": "The UK Department for Transport formally revoked the planning consent (Development Consent Order) previously granted for the A303 tunnel, citing that it no longer aligned with strategic policy objectives.",
+      "event_type": "protection_measure",
+      "source_ids": ["src_05", "src_06"]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Stonehenge, Avebury and Associated Sites",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/373/",
+      "source_type": "unesco",
+      "tier": 1,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_02",
+      "title": "UNESCO to put Stonehenge on 'World Heritage in Danger' list due to A303 tunnel scheme",
+      "publisher": "New Civil Engineer",
+      "url": "https://www.newcivilengineer.com/latest/unesco-to-put-stonehenge-on-world-heritage-in-danger-list-due-to-a303-tunnel-scheme-26-06-2024/",
+      "source_type": "journalism",
+      "tier": 3,
+      "published_date": "2024-06-26",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_03",
+      "title": "UNESCO rejects proposal to place Stonehenge on 'in danger' list",
+      "publisher": "The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2024/07/25/unesco-rejects-proposal-to-place-stonehenge-on-in-danger-list",
+      "source_type": "journalism",
+      "tier": 3,
+      "published_date": "2024-07-25",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Wiltshire Council expresses disappointment at A303 Stonehenge decision",
+      "publisher": "Wiltshire Council",
+      "url": "https://www.wiltshire.gov.uk/article/9873/Wiltshire-Council-expresses-disappointment-at-A303-Stonehenge-decision",
+      "source_type": "government",
+      "tier": 1,
+      "published_date": "2024-07-29",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Stonehenge Tunnel DCO officially revoked as it 'no longer aligns with strategic policy objectives'",
+      "publisher": "New Civil Engineer",
+      "url": "https://www.newcivilengineer.com/latest/stonehenge-tunnel-dco-officially-revoked-as-it-no-longer-aligns-with-strategic-policy-objectives-18-03-2026/",
+      "source_type": "journalism",
+      "tier": 3,
+      "published_date": "2026-03-18",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Minister reverses consent for controversial tunnel under Stonehenge",
+      "publisher": "Ground Engineering",
+      "url": "https://www.geplus.co.uk/news/minister-reverses-consent-for-controversial-tunnel-under-stonehenge-24-03-2026/",
+      "source_type": "journalism",
+      "tier": 3,
+      "published_date": "2026-03-24",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Stonehenge Virtual Tour - Inside The Stones (Stonehenge360)",
+      "publisher": "English Heritage",
+      "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/stonehenge360/",
+      "source_type": "other",
+      "tier": 2,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Stonehenge and Avebury World Heritage Site partner page",
+      "publisher": "Google Arts & Culture",
+      "url": "https://artsandculture.google.com/partner/stonehenge-and-avebury-world-heritage-site",
+      "source_type": "other",
+      "tier": 2,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Revealing the Secrets of Stonehenge Through the Application of Laser Scanning, Photogrammetry and Visualisation Techniques",
+      "publisher": "ResearchGate (academic publication)",
+      "url": "https://www.researchgate.net/publication/274052702_Revealing_the_secrets_of_stonehenge_through_the_application_of_laser_scanning_photogrammetry_and_visualisation_techniques",
+      "source_type": "academic",
+      "tier": 2,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Stonehenge, Avebury and Associated Sites (Wikipedia infobox coordinates)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stonehenge,_Avebury_and_Associated_Sites",
+      "source_type": "other",
+      "tier": 4,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-09-22",
+  "changelog": [
+    {
+      "date": "2026-09-22",
+      "change": "Initial pilot dossier drafted by Claude for methodology dry-run review. Not yet reviewed or approved.",
+      "changed_by": "claude"
+    }
+  ]
+}

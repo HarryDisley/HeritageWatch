@@ -1,0 +1,253 @@
+{
+  "slug": "ancient-city-of-aleppo",
+  "name": "Ancient City of Aleppo",
+  "alternate_names": ["Old City of Aleppo"],
+  "country": "Syria",
+  "region": "Middle East",
+  "coordinates": { "lat": 36.1992, "lng": 37.1625 },
+  "coordinate_note": "This point represents the Citadel of Aleppo, the historic core of the property, as a practical single-point marker. The UNESCO-inscribed property is an extended historic urban district, not a single point — see methodology notes on serial/area sites.",
+  "unesco_id": "21",
+  "inscription_year": 1986,
+  "site_type": "cultural",
+  "significance_summary": "The Ancient City of Aleppo preserves a cohesive historic urban fabric shaped by successive civilizations from the second millennium BCE onward. The property includes a 13th-century citadel, the 12th-century Great (Umayyad) Mosque, and an extensive network of medieval souks and other structures reflecting the layered cultures of its historic occupants.",
+  "metadata_sources": ["src_00", "src_13"],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The Old City sustained extensive, confirmed damage during the Syrian civil war (approximately 2012-2016), including the complete destruction of the Great (Umayyad) Mosque's historic 11th-century minaret in 2013 and severe damage to the historic souks, documented in a joint UNESCO/UNITAR-UNOSAT satellite-imagery damage assessment. The property has remained on UNESCO's List of World Heritage in Danger since 2013. Conflict in the wider region did not end with that period: renewed fighting in and around Aleppo occurred in November-December 2024 (as part of the offensive that led to the fall of the Assad government), and further clashes between Syrian government forces and Kurdish-led SDF units were reported in Aleppo's northern suburbs in January 2026. Field reporting from February 2026 states the historic Old City itself was not directly affected by the January 2026 clashes and that reconstruction work continued uninterrupted, but the broader security and political situation in Syria remains actively unsettled under the post-Assad interim government.",
+      "first_identified_date": "2012",
+      "source_ids": ["src_00", "src_01", "src_02", "src_07", "src_08"]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Beyond direct conflict damage, UNESCO's own designation materials note pre-existing pressures from overpopulation and uncontrolled development predating the 2011 conflict. Post-conflict reconstruction now faces major funding and capacity gaps: per February 2026 field reporting citing World Bank estimates, damage across Aleppo governorate is estimated at $31 billion, with roughly 60% of the historic souks significantly damaged and 30% completely destroyed. Restoration is real but partial and slow: as one example, the Aga Khan Trust for Culture has restored 277 shops since 2018.",
+      "first_identified_date": null,
+      "date_note": "Pre-dates the 2011 conflict per UNESCO's designation materials; no single identifiable start date found in sources reviewed.",
+      "source_ids": ["src_00", "src_07"]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "developing",
+      "decision_trigger": "High Concern, on two independent grounds: (1) official inscription on UNESCO's List of World Heritage in Danger since 2013 for substantive armed-conflict-related reasons, and (2) the site sits in a country/region under continuing armed conflict and serious civil unrest, with credible regional reporting on risk to cultural property (most recently, clashes in Aleppo itself in January 2026), even though the Old City was specifically reported unaffected by that particular episode.",
+      "rationale": "This was the hardest classification call in the pilot batch, and it is a genuine judgment call, not a mechanical output — flagged here explicitly rather than resolved silently. Two readings of the evidence are both defensible: (a) Critical Concern's first trigger ('confirmed destruction, severe damage... per an authoritative source') is written without an explicit recency limit, and the 2012-2016 damage to this property was severe, authoritatively confirmed (UNESCO/UNITAR-UNOSAT), and remains substantially unrepaired today (60% of souks still significantly damaged per 2026 reporting) - a literal reading could keep this at Critical Concern indefinitely on that basis alone. (b) Read in light of the methodology's own framing principle - that status describes 'documented present conditions,' not a permanent scar - the *current*, present-day picture is a site under active, funded, incrementally successful restoration (AKTC's 277 restored shops since 2018, ALIPH-funded 3D documentation and museum earthquake relief, partial reopening of the Great Mosque for prayer), where the most recent nearby fighting (Jan 2026) specifically did not reach the historic core, per direct field reporting. This dossier proposes High Concern under reading (b) - treating this similarly to the Angkor case the methodology document itself flags as a test of whether the system can recognize genuine improvement, not just decline - but reading (a) is a real, unresolved methodological question that should be settled explicitly (see notes on methodology sent alongside this batch) rather than left to be decided inconsistently site-by-site. Confidence is set to 'developing' rather than 'confirmed' or 'supported' because the current-day (2025-2026) security and political picture is itself still unsettled - Syria's interim government has been in place under two years, and localized fighting has recurred in Aleppo as recently as eight months before this review - so the trajectory, not just the current snapshot, remains genuinely in motion.",
+      "effective_date": "2026-09-22",
+      "source_ids": ["src_00", "src_01", "src_02", "src_03", "src_07", "src_08"],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Virtual-tour options were found (e.g., third-party VR/tour platforms) but their institutional backing and reliability could not be independently verified in this research pass, so this category is marked not confidently established rather than assumed present. See methodology notes.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "Extensive photographic documentation via the UNESCO/UNITAR-UNOSAT satellite and ground damage-assessment program and UNESCO's own image gallery for the site.",
+        "url": "https://whc.unesco.org/en/list/21/gallery/",
+        "source_id": "src_00"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO listing/nomination documentation and multiple State of Conservation reports filed since 2013.",
+        "url": "https://whc.unesco.org/en/list/21/",
+        "source_id": "src_00"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "ALIPH Foundation-funded project (operated by Iconem, 2023-2024) completed 3D digital documentation of 12 monuments in Aleppo.",
+        "url": "https://www.aliph-foundation.org/en/actions-country/SY",
+        "source_id": "src_06"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Academic and policy-research coverage of Aleppo's heritage destruction and reconstruction, including planning-focused academic analysis and satellite-based research programs.",
+        "url": "https://unitar.org/sustainable-development-goals/satellite-analysis-and-applied-research/whs-aleppo",
+        "source_id": "src_03"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013",
+      "title": "Historic minaret of the Great (Umayyad) Mosque destroyed",
+      "description": "The mosque's 11th-century minaret, described as a masterpiece of Islamic architecture, was completely destroyed during fighting; the mosque also suffered structural damage to its walls and a fire in the prayer hall during the broader 2012-2016 conflict period.",
+      "event_type": "damage",
+      "source_ids": ["src_05"]
+    },
+    {
+      "date": "2013",
+      "title": "Ancient City of Aleppo inscribed on UNESCO's List of World Heritage in Danger",
+      "description": "Listed in danger due to armed-conflict-related threats; the listing remains in effect as of the most recent State of Conservation reporting reviewed (2025).",
+      "event_type": "political",
+      "source_ids": ["src_00"]
+    },
+    {
+      "date": "2018-12",
+      "title": "UNESCO/UNITAR-UNOSAT publish comprehensive satellite damage assessment",
+      "description": "A joint UNESCO and UNITAR-UNOSAT report presented the first full satellite-based survey of damage across the Old City, informing subsequent recovery planning.",
+      "event_type": "other",
+      "source_ids": ["src_01", "src_02"]
+    },
+    {
+      "date": "2023",
+      "title": "ALIPH-funded earthquake relief for the Aleppo Museum",
+      "description": "Following the February 2023 Turkey-Syria earthquake, ALIPH funded conservation relief work at the Aleppo Museum, led by the University of Florence with local partners.",
+      "event_type": "natural_disaster",
+      "source_ids": ["src_06"]
+    },
+    {
+      "date": "2024-11/2024-12",
+      "title": "Renewed fighting in Aleppo amid the offensive that led to the fall of the Assad government",
+      "description": "Aleppo saw renewed armed conflict in late 2024 as part of the wider offensive that culminated in the fall of the Assad government in December 2024. Sources reviewed describe the citywide humanitarian and reconstruction challenge that followed but do not establish specific direct impact on the historic Old City in this period.",
+      "event_type": "political",
+      "source_ids": ["src_08"]
+    },
+    {
+      "date": "2026-01",
+      "title": "Clashes reported in Aleppo's northern suburbs",
+      "description": "Clashes between Syrian government forces and Kurdish-led SDF units in Aleppo's northern suburbs were reported, with at least 30 deaths. Field reporting from the following month states the historic Old City itself was not directly affected and reconstruction continued without interruption.",
+      "event_type": "political",
+      "source_ids": ["src_07"]
+    },
+    {
+      "date": "not established",
+      "title": "Partial reopening of the Great (Umayyad) Mosque for prayer",
+      "description": "Reported partial reopening of the mosque for prayer following restoration of the rebuilt minaret and repaired walls, with further restoration planned. FLAGGED: the exact date could not be confirmed, and this claim currently rests on a single source (a Syria travel/tourism website) whose editorial rigor was not independently verifiable in this research pass. Recommend treating this specific claim as unconfirmed until corroborated by a Tier 1-3 source before it is relied on for anything beyond general context.",
+      "event_type": "protection_measure",
+      "source_ids": ["src_09"]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Ancient City of Aleppo",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/21/",
+      "source_type": "unesco",
+      "tier": 1,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Comprehensive satellite imagery-based assessment of the Ancient City of Aleppo",
+      "publisher": "UNESCO Heritage Emergency Fund",
+      "url": "https://www.unesco.org/en/culture-emergencies/heritage-emergency-fund/comprehensive-satellite-imagery-based-assessment-ancient-city-aleppo",
+      "source_type": "unesco",
+      "tier": 1,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_02",
+      "title": "First full satellite survey of devastated ancient Aleppo raises recovery hopes",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/story/2018/12/1028761",
+      "source_type": "other",
+      "tier": 1,
+      "published_date": "2018-12",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_03",
+      "title": "The State of Cultural Heritage in the Ancient City of Aleppo",
+      "publisher": "UNITAR (UN Institute for Training and Research)",
+      "url": "https://unitar.org/sustainable-development-goals/satellite-analysis-and-applied-research/whs-aleppo",
+      "source_type": "other",
+      "tier": 1,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Syrians Won't Give Up on the Great Mosque of Aleppo",
+      "publisher": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/articles/reconstruction-great-mosque-aleppo-syria",
+      "source_type": "journalism",
+      "tier": 3,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Aliph Foundation actions in Syria",
+      "publisher": "ALIPH Foundation",
+      "url": "https://www.aliph-foundation.org/en/actions-country/SY",
+      "source_type": "ngo",
+      "tier": 1,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Life Returns to Aleppo's Old Town",
+      "publisher": "New Lines Magazine",
+      "url": "https://newlinesmag.com/spotlight/life-returns-to-aleppos-old-town/",
+      "source_type": "journalism",
+      "tier": 3,
+      "published_date": "2026-02-23",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_08",
+      "title": "After euphoria of Assad's fall, Syrians face daunting challenge of rebuilding Aleppo",
+      "publisher": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20241216-after-euphoria-of-assad-s-fall-syrians-face-daunting-challenge-of-rebuilding-aleppo",
+      "source_type": "journalism",
+      "tier": 3,
+      "published_date": "2024-12-16",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Aleppo's Umayyad Mosque Reopens Partially After Years of Restoration",
+      "publisher": "Syrian Guides",
+      "url": "https://syrianguides.com/aleppos-umayyad-mosque-reopens-partially-after-years-of-restoration/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Outlet's editorial standards/reliability not independently verified in this research pass; treat this specific claim as tentative pending corroboration.",
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Citadel of Aleppo (Wikipedia infobox coordinates)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Citadel_of_Aleppo",
+      "source_type": "other",
+      "tier": 4,
+      "published_date": "",
+      "accessed_date": "2026-09-22"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-09-22",
+  "changelog": [
+    {
+      "date": "2026-09-22",
+      "change": "Initial pilot dossier drafted by Claude for methodology dry-run review. Not yet reviewed or approved. Status recommendation (High Concern) reflects a genuine unresolved methodological judgment call — see rationale.",
+      "changed_by": "claude"
+    }
+  ]
+}
