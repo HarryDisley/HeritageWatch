@@ -1,0 +1,296 @@
+// HeritageWatch database schema
+//
+// This models the same shape as the approved dossier JSON files in
+// research/dossiers/approved/, so importing a dossier is mostly a direct
+// field-by-field copy (see scripts/import-dossiers.ts).
+//
+// Key design decisions (explained in chat, recorded here for reference):
+// - Public `status` (4 categories) and `confidence` (4 levels) are separate
+//   enums on StatusEntry, never merged into one field or a numeric score.
+// - StatusEntry is APPEND-ONLY: a new status is always a new row, never an
+//   UPDATE to an old one. The "current" status for a site is the row with
+//   the latest effectiveDate. This preserves full history, per methodology §17.
+// - Source is scoped to a single Site (not a shared global table), because
+//   that's how the approved dossiers already reference sources (src_00,
+//   src_01, ... are only unique *within* one dossier).
+// - Explicit join tables (ThreatCategorySource, StatusEntrySource,
+//   EventSource) instead of one generic polymorphic "citations" table,
+//   per the decision already recorded in claude/heritagewatch-v1-plan.md.
+// - Event.date is a nullable DateTime (only set when the source dossier has
+//   an unambiguous full date) plus a required dateDisplay string that always
+//   holds the raw value, because real dossier data includes values like
+//   "2018-12", "2024-11/2024-12", and "not established" that don't parse.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  // Supabase's pooled connection (pgbouncer, port 6543) is what the running
+  // app uses. Schema migrations need a direct, non-pooled connection instead
+  // (pgbouncer doesn't support the session-level features `prisma migrate`
+  // relies on), so DIRECT_URL points at Supabase's port-5432 connection.
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+// ---------- Enums ----------
+
+// The four public statuses. Deliberately descriptive, not numeric.
+enum SiteStatus {
+  SAFE
+  MODERATE_CONCERN
+  HIGH_CONCERN
+  CRITICAL_CONCERN
+}
+
+// How well-supported the current status is by evidence. Completely separate
+// from SiteStatus — a status is never changed just because confidence is low.
+enum ConfidenceLevel {
+  CONFIRMED
+  SUPPORTED
+  DEVELOPING
+  INSUFFICIENT_EVIDENCE
+}
+
+enum ThreatCategoryType {
+  ARMED_CONFLICT
+  NATURAL_DISASTER
+  ENVIRONMENTAL_CLIMATE
+  CONSERVATION_STRUCTURAL
+}
+
+enum SourceTier {
+  TIER_1 // Primary/official: UNESCO, national heritage ministries, ALIPH/Blue Shield/UNOSAT, UN News
+  TIER_2 // Institutional/academic: peer-reviewed work, universities/museums, established heritage NGOs
+  TIER_3 // Reputable journalism, always dated
+  TIER_4 // Reference/bootstrap: Wikipedia/Wikidata — metadata only, never a sole status-supporting source
+}
+
+enum DpiCategory {
+  PHOTOGRAPHIC
+  ARCHIVAL_RECORDS
+  THREE_D_DOCUMENTATION
+  VIRTUAL_TOUR
+  ACADEMIC_SCHOLARLY
+}
+
+enum DpiTier {
+  EXTENSIVE
+  MODERATE
+  LIMITED
+  MINIMAL
+}
+
+enum SiteType {
+  CULTURAL
+  NATURAL
+  MIXED
+}
+
+enum ReviewStatus {
+  DRAFT
+  APPROVED
+}
+
+// ---------- Core models ----------
+
+model Site {
+  id     String @id @default(cuid())
+  slug   String @unique
+
+  name            String
+  alternateNames  String[]
+  country         String
+  region          String
+  latitude        Float
+  longitude       Float
+  coordinateNote  String? @db.Text // e.g. "this point is a practical proxy, not the whole property"
+
+  unescoId           String?
+  inscriptionYear    Int?
+  unescoListingName  String? // for serial/composite UNESCO listings
+  isSerialComponent  Boolean @default(false)
+  serialComponentNote String? @db.Text
+
+  siteType            SiteType
+  significanceSummary String   @db.Text
+
+  // Digital Preservation Index summary (evidence rows live in DigitalPreservationEvidence below)
+  dpiTier        DpiTier?
+  dpiCoverageNote String? @db.Text // explains any category marked not-covered, e.g. virtual tour unverifiable
+
+  reviewStatus     ReviewStatus @default(APPROVED)
+  approvedBy       String?
+  approvedDate     DateTime?
+  lastVerifiedDate DateTime?
+
+  // Dossier-level record-keeping, carried over verbatim rather than modeled
+  // as extra tables — these are for transparency/display, not querying.
+  editorialChecklist Json? // the 10-item gate from the dossier, e.g. { "sources_real_and_accessible": true, ... }
+  changelog          Json? // [{ date, change, changed_by }, ...]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  threatCategories ThreatCategory[]
+  statusEntries    StatusEntry[]
+  events           Event[]
+  sources          Source[]
+  dpiEvidence      DigitalPreservationEvidence[]
+  metadataSources  SiteMetadataSource[]
+}
+
+model ThreatCategory {
+  id     String             @id @default(cuid())
+  siteId String
+  site   Site               @relation(fields: [siteId], references: [id], onDelete: Cascade)
+
+  category        ThreatCategoryType
+  evidenceSummary String             @db.Text
+
+  // Many real threats (chronic, long-standing pressures) have no single
+  // identifiable start date — that's a documented methodology finding, not
+  // missing data. dateNote explains why when firstIdentifiedDate is null.
+  firstIdentifiedDate DateTime?
+  dateNote            String?   @db.Text
+
+  sources ThreatCategorySource[]
+
+  @@index([siteId])
+}
+
+// Append-only. A site's current status is whichever row has the latest
+// effectiveDate — we never overwrite a row to "change" a status.
+model StatusEntry {
+  id     String @id @default(cuid())
+  siteId String
+  site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
+
+  status         SiteStatus
+  confidence     ConfidenceLevel
+  decisionTrigger String         @db.Text // which methodology rule this status satisfies
+  rationale      String          @db.Text
+
+  effectiveDate DateTime
+  recordedBy    String // e.g. "claude-draft"
+  approvedBy    String?
+  approvedDate  DateTime?
+  approvalNote  String? @db.Text
+
+  createdAt DateTime @default(now())
+
+  sources StatusEntrySource[]
+
+  @@index([siteId, effectiveDate])
+}
+
+model Event {
+  id     String @id @default(cuid())
+  siteId String
+  site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
+
+  // Parsed only when the dossier's date is an unambiguous single day.
+  date DateTime?
+  // Always holds the raw dossier value, e.g. "2018-12", "2024-11/2024-12", "not established".
+  dateDisplay String
+
+  title       String
+  description String  @db.Text
+  eventType   String // free-form: "political", "protection_measure", etc.
+
+  sources EventSource[]
+
+  @@index([siteId])
+}
+
+model Source {
+  id     String @id @default(cuid())
+  siteId String
+  site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
+
+  // The dossier's own id for this source (e.g. "src_00"), unique per site,
+  // kept so the import script can map source_ids from the JSON.
+  sourceKey String
+
+  title     String
+  publisher String
+  url       String
+  sourceType String // "unesco", "government", "journalism", "academic", "other", ...
+  tier       SourceTier
+
+  // A specific reliability concern that means this source, regardless of
+  // tier, cannot alone support a status-determining claim. Null = no concern.
+  reliabilityNote String? @db.Text
+
+  publishedDate        DateTime?
+  publishedDateDisplay String? // raw value for dates that don't parse (often "")
+  accessedDate          DateTime?
+
+  threatCategoryLinks ThreatCategorySource[]
+  statusEntryLinks    StatusEntrySource[]
+  eventLinks          EventSource[]
+  dpiEvidenceLinks    DigitalPreservationEvidence[]
+  metadataLinks       SiteMetadataSource[]
+
+  @@unique([siteId, sourceKey])
+  @@index([siteId])
+}
+
+model DigitalPreservationEvidence {
+  id     String @id @default(cuid())
+  siteId String
+  site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
+
+  category    DpiCategory
+  description String      @db.Text
+  url         String?
+
+  // Each DPI evidence entry cites exactly one source in the approved
+  // dossiers, so this is a direct foreign key rather than a join table.
+  sourceId String?
+  source   Source? @relation(fields: [sourceId], references: [id])
+
+  @@index([siteId])
+}
+
+// ---------- Join tables (explicit, not a generic polymorphic table) ----------
+
+model ThreatCategorySource {
+  threatCategoryId String
+  threatCategory   ThreatCategory @relation(fields: [threatCategoryId], references: [id], onDelete: Cascade)
+  sourceId         String
+  source           Source         @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  @@id([threatCategoryId, sourceId])
+}
+
+model StatusEntrySource {
+  statusEntryId String
+  statusEntry   StatusEntry @relation(fields: [statusEntryId], references: [id], onDelete: Cascade)
+  sourceId      String
+  source        Source      @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  @@id([statusEntryId, sourceId])
+}
+
+model EventSource {
+  eventId  String
+  event    Event  @relation(fields: [eventId], references: [id], onDelete: Cascade)
+  sourceId String
+  source   Source @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  @@id([eventId, sourceId])
+}
+
+// Basic metadata (name, country, coordinates, etc.) cites one dossier-level
+// list of sources rather than a per-field citation — see source-hierarchy.md.
+model SiteMetadataSource {
+  siteId   String
+  site     Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
+  sourceId String
+  source   Source @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  @@id([siteId, sourceId])
+}
