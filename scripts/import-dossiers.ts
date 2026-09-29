@@ -346,7 +346,7 @@ async function importDossier(filePath: string) {
         });
       }
     }
-  });
+  }, { timeout: 30000, maxWait: 10000 });
 
   console.log(`  Done: ${dossier.slug}`);
   return { skipped: false, slug: dossier.slug };
