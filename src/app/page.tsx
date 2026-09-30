@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { prisma } from "@/lib/prisma";
 import { STATUS_META } from "@/lib/display";
+import SiteMap from "@/components/SiteMap";
 import type { SiteStatus } from "@prisma/client";
 
 // Renders fresh on every request instead of being statically generated at
@@ -71,6 +72,25 @@ export default async function HomePage() {
               <div className="text-sm">{STATUS_META[status].label}</div>
             </div>
           ))}
+        </div>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="text-xl font-semibold text-neutral-900">Map</h2>
+        <p className="mt-1 text-sm text-neutral-500">
+          Marker color matches each site&apos;s current status. Click a marker for details.
+        </p>
+        <div className="mt-4">
+          <SiteMap
+            sites={sites.map((site) => ({
+              slug: site.slug,
+              name: site.name,
+              country: site.country,
+              latitude: site.latitude,
+              longitude: site.longitude,
+              status: site.statusEntries[0]?.status ?? null,
+            }))}
+          />
         </div>
       </section>
 
