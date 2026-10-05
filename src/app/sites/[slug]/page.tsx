@@ -31,12 +31,13 @@ export default async function SiteProfilePage({
         include: { sources: { include: { source: true } } },
       },
       events: {
-        orderBy: { createdAt: "asc" },
+        orderBy: { id: "asc" },
         include: { sources: { include: { source: true } } },
       },
       dpiEvidence: { include: { source: true } },
       sources: true,
       metadataSources: { include: { source: true } },
+      images: { orderBy: { displayOrder: "asc" } },
     },
   });
 
@@ -79,6 +80,45 @@ export default async function SiteProfilePage({
           </div>
         )}
       </header>
+
+      {site.images.length > 0 && (
+        <section className="mt-6">
+          <div className="grid gap-4 sm:grid-cols-2">
+            {site.images.map((image) => (
+              <figure
+                key={image.id}
+                className="overflow-hidden rounded-lg border border-neutral-200 bg-neutral-50"
+              >
+                {/* eslint-disable-next-line @next/next/no-img-element --
+                    External Wikimedia Commons URLs: next/image's optimizer
+                    would need these domains explicitly allow-listed, and
+                    for a handful of credited photos (not a large gallery
+                    users scroll through) that complexity isn't worth it. */}
+                <img
+                  src={image.url}
+                  alt={image.caption}
+                  className="h-56 w-full object-cover"
+                />
+                <figcaption className="p-3 text-sm">
+                  <p className="text-neutral-700">{image.caption}</p>
+                  <p className="mt-1 text-xs text-neutral-500">
+                    {image.takenDateDisplay && (
+                      <>Taken {image.takenDateDisplay} &middot; </>
+                    )}
+                    {image.credit} &middot; {image.license} &middot;{" "}
+                    <a
+                      href={image.sourceUrl}
+                      className="text-blue-700 hover:underline"
+                    >
+                      Source
+                    </a>
+                  </p>
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+        </section>
+      )}
 
       {site.isSerialComponent && site.serialComponentNote && (
         <div className="mt-6 rounded-lg border border-neutral-200 bg-neutral-50 p-4 text-sm text-neutral-700">

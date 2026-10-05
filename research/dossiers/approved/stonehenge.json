@@ -6,7 +6,10 @@
   ],
   "country": "United Kingdom",
   "region": "Europe (Wiltshire, England)",
-  "coordinates": { "lat": 51.1789, "lng": -1.8262 },
+  "coordinates": {
+    "lat": 51.1789,
+    "lng": -1.8262
+  },
   "unesco_id": "373",
   "inscription_year": 1986,
   "unesco_listing_name": "Stonehenge, Avebury and Associated Sites",
@@ -14,14 +17,41 @@
   "serial_component_note": "This profile covers only the Stonehenge monument complex. The same UNESCO inscription (id 373) also covers Avebury and other associated monuments roughly 17 miles away, which may receive their own separate HeritageWatch profiles sharing this unesco_id. Accepted for V1 by Harry (2026-09-22); see methodology §12a.",
   "site_type": "cultural",
   "significance_summary": "Stonehenge is a Neolithic and Bronze Age stone circle monument built in phases between approximately 3700 and 1600 BCE. It forms the principal element of the UNESCO World Heritage property 'Stonehenge, Avebury and Associated Sites' (a serial listing that also includes Avebury and surrounding monuments). UNESCO describes it as the world's most architecturally sophisticated prehistoric stone circle, offering exceptional insight into the funerary and ceremonial practices of Neolithic and Bronze Age Britain.",
-  "metadata_sources": ["src_00", "src_11"],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
+      "caption": "Stonehenge viewed from the northeast, showing the sarsen circle and trilithons.",
+      "credit": "Gareth Wiscombe",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+      "taken_date": null,
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Stonehenge_Closeup_July_2018.jpg",
+      "caption": "A closer view of the sarsen stones and lintels, showing the worked stone surfaces and jointing.",
+      "credit": "Mball93",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stonehenge_Closeup_July_2018.jpg",
+      "taken_date": "2018-07-06",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00",
+    "src_11"
+  ],
   "threat_categories": [
     {
       "category": "conservation_structural",
       "evidence_summary": "UNESCO's own site documentation and the property's management bodies identify chronic, long-standing pressures on the monument's setting: nearby roads (historically the A303, A344, and A4) cutting through the property and affecting its visual/acoustic setting; visitor foot-traffic and animal burrowing eroding earthwork monuments; and risk to buried archaeology from ploughing and development. Between 2020 and 2024 this was sharply elevated by a UK government plan to build a road tunnel for the A303 beneath part of the World Heritage property; UNESCO's World Heritage Committee warned in 2021 and again in June 2024 that the scheme risked 'highly adverse and irreversible' damage to buried archaeology and came close to recommending a 'World Heritage in Danger' listing. That specific acute threat has since been fully resolved. Historical damage/threat episodes are documented in the site's record (events[] below), but the current classification is based on present conditions and the most recent credible evidence, leaving the more chronic, lower-intensity setting/erosion pressures as the current state of this threat category.",
       "first_identified_date": null,
       "date_note": "No single 'first identified' date could be established from the sources reviewed for the chronic setting/erosion pressures — UNESCO documentation treats these as long-standing management concerns rather than dated incidents. The acute tunnel-specific threat is separately dated in the events log below (2020-2026) and is treated as historical (resolved), per methodology §1a.",
-      "source_ids": ["src_00", "src_02", "src_03"]
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03"
+      ]
     }
   ],
   "status_history": [
@@ -31,7 +61,14 @@
       "decision_trigger": "Moderate Concern, per 'conservation challenges typical of aging heritage sites, documented in official management reports, without imminent risk.' No High or Critical Concern trigger currently applies. Applying the current-vs-historical distinction (methodology §1a): the one threat that would have plausibly triggered High/Critical Concern during 2020-2024 — the A303 road tunnel — is historical, not current: UNESCO's own Committee voted in July 2024 not to list the site as in danger, the project was cancelled the same month, and its planning consent was formally revoked in March 2026, independently corroborated by multiple sources. It no longer materially affects the site's current survival, integrity, or accessibility, so per §1a it belongs in the historical timeline, not the current-status rationale.",
       "rationale": "The property currently faces chronic, managed conservation pressures (traffic/setting impact, visitor and animal erosion of earthworks, buried-archaeology risk from agriculture/development) that are well documented in UNESCO's own site materials but are not described by UNESCO or any source reviewed as acute or unresolved-severe. Historical damage/threat episodes are documented in the site's record (the 2020-2024 tunnel threat, recorded in events[]), but the current classification is based on present conditions and the most recent credible evidence: the tunnel threat is resolved, not just quiet, per UNESCO's own committee decision plus independent UK government/trade-press reporting of cancellation and formal consent revocation. This is treated as a genuine improvement over the 2021-2024 period.",
       "effective_date": "2026-09-22",
-      "source_ids": ["src_00", "src_02", "src_03", "src_04", "src_05", "src_06"],
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06"
+      ],
       "recorded_by": "claude-draft",
       "approved_by": "Harry Disley",
       "approved_date": "2026-09-22",
@@ -86,28 +123,37 @@
       "title": "UNESCO recommends considering 'in danger' listing over tunnel plan",
       "description": "UNESCO's World Heritage Committee recommended that Stonehenge be added to the List of World Heritage in Danger unless the A303 tunnel scheme was substantially modified, stating the proposed tunnel was inadequate to protect the site's outstanding universal value.",
       "event_type": "political",
-      "source_ids": ["src_02"]
+      "source_ids": [
+        "src_02"
+      ]
     },
     {
       "date": "2024-07-24",
       "title": "UNESCO Committee votes not to list Stonehenge as in danger",
       "description": "At its New Delhi session, UNESCO's World Heritage Committee rejected the proposal to place Stonehenge on the World Heritage in Danger list, concluding the UK's proposed approach did not constitute sufficient actual or potential danger to warrant it at that stage.",
       "event_type": "political",
-      "source_ids": ["src_03"]
+      "source_ids": [
+        "src_03"
+      ]
     },
     {
       "date": "2024-07-29",
       "title": "UK Government cancels the A303 tunnel scheme",
       "description": "The Chancellor announced cancellation of the A303 Stonehenge tunnel project as part of a wider public spending review, after roughly £160-179 million had already been spent.",
       "event_type": "protection_measure",
-      "source_ids": ["src_04"]
+      "source_ids": [
+        "src_04"
+      ]
     },
     {
       "date": "2026-03-18",
       "title": "Tunnel's Development Consent Order formally revoked",
       "description": "The UK Department for Transport formally revoked the planning consent (Development Consent Order) previously granted for the A303 tunnel, citing that it no longer aligned with strategic policy objectives.",
       "event_type": "protection_measure",
-      "source_ids": ["src_05", "src_06"]
+      "source_ids": [
+        "src_05",
+        "src_06"
+      ]
     }
   ],
   "sources": [

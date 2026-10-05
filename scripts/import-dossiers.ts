@@ -307,7 +307,27 @@ async function importDossier(filePath: string) {
       });
     }
 
-    // 7. Status history — APPEND-ONLY. Only insert entries that don't
+    // 7. Images — replaced each run just like sources/events/threat
+    // categories (not append-only: there's no methodology reason to keep
+    // old photo rows around the way StatusEntry history is kept).
+    await tx.siteImage.deleteMany({ where: { siteId: site.id } });
+    for (const img of dossier.images ?? []) {
+      await tx.siteImage.create({
+        data: {
+          siteId: site.id,
+          url: img.url,
+          caption: img.caption,
+          credit: img.credit,
+          license: img.license,
+          sourceUrl: img.source_url,
+          takenDate: parseFullDate(img.taken_date),
+          takenDateDisplay: img.taken_date ?? null,
+          displayOrder: img.display_order ?? 0,
+        },
+      });
+    }
+
+    // 8. Status history — APPEND-ONLY. Only insert entries that don't
     // already exist (matched on site + status + effectiveDate). Never
     // delete or edit an existing StatusEntry.
     for (const sh of dossier.status_history ?? []) {

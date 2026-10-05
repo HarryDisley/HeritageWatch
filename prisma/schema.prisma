@@ -140,6 +140,7 @@ model Site {
   sources          Source[]
   dpiEvidence      DigitalPreservationEvidence[]
   metadataSources  SiteMetadataSource[]
+  images           SiteImage[]
 }
 
 model ThreatCategory {
@@ -251,6 +252,41 @@ model DigitalPreservationEvidence {
   // dossiers, so this is a direct foreign key rather than a join table.
   sourceId String?
   source   Source? @relation(fields: [sourceId], references: [id])
+
+  @@index([siteId])
+}
+
+// A photo shown on a site's profile page. Not append-only like StatusEntry —
+// there's no methodology reason to keep old photo rows around, so this is
+// replaced (delete-then-recreate) on every import, same as Source/Event/
+// ThreatCategory.
+model SiteImage {
+  id     String @id @default(cuid())
+  siteId String
+  site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
+
+  url     String // the image file itself (a direct Wikimedia Commons /
+                  // UNESCO file URL, not a copy stored by this app)
+  caption String @db.Text
+
+  // Attribution, kept as plain strings rather than linked to the Source
+  // table - a photo credit ("Jane Smith") usually isn't the same shape as
+  // a cited publication, and most images here come from Wikimedia Commons
+  // rather than the dossier's own source list.
+  credit    String // photographer/uploader, as credited at the source
+  license   String // e.g. "CC BY-SA 3.0", "Public domain"
+  sourceUrl String // the Commons/UNESCO page this image and its license came from
+
+  // When the photo was taken, if known. This matters more than it might
+  // seem: for a site like Aleppo, a photo from before the conflict shows a
+  // very different place than one from after, so the taken date is part of
+  // what keeps a photo from being misleading about current condition.
+  takenDate        DateTime?
+  takenDateDisplay String? // raw value for dates that don't parse (often null)
+
+  displayOrder Int @default(0)
+
+  createdAt DateTime @default(now())
 
   @@index([siteId])
 }
