@@ -1,0 +1,523 @@
+{
+  "slug": "historic-centre-of-odesa",
+  "name": "Historic Centre of Odesa",
+  "alternate_names": [
+    "The Historic Centre of Odesa"
+  ],
+  "country": "Ukraine",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 46.4865,
+    "lng": 30.7416
+  },
+  "coordinate_note": "Converted from the point coordinates published on UNESCO's listing page (N46 29 11.22, E30 44 29.81). The inscribed property is an extended urban district of roughly 618.54 hectares (with a buffer zone of similar size, per UNESCO), not a single point; this marker is a practical single-point representation.",
+  "unesco_id": "1703",
+  "inscription_year": 2023,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "The Historic Centre of Odesa is a densely built Black Sea port-city district of neoclassical urban planning, with two- to four-storey buildings on tree-lined perpendicular streets. Developed during the rapid economic growth of the 19th and early 20th centuries, it reflects an interchange of values in Eastern Europe and the cultural diversity of the trading communities that shaped the city; UNESCO describes it as an outstanding 'time capsule' of that period.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Odesa_Opera_and_Ballet_Theatre_P1250965.jpg",
+      "caption": "Odesa Opera and Ballet Theatre, a landmark of the historic centre, photographed in July 2016, before the full-scale invasion. Not a record of the building's current condition.",
+      "credit": "Posterrr",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Odesa_Opera_and_Ballet_Theatre_P1250965.jpg",
+      "taken_date": "2016-07-31",
+      "taken_date_display": "31 July 2016",
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vorontsovskaya_Colonnade%2C_Odessa.jpg",
+      "caption": "The Vorontsov colonnade in Odesa, photographed in May 2015, before the full-scale invasion. Not a record of current condition.",
+      "credit": "Сіліч Марія",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vorontsovskaya_Colonnade,_Odessa.jpg",
+      "taken_date": "2015-05-03",
+      "taken_date_display": "3 May 2015",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The property was inscribed on the World Heritage List and, simultaneously, on the List of World Heritage in Danger in January 2023 under an emergency procedure because of threats from the war. Since then it has been struck repeatedly. UNESCO and Ukrainian reporting document damage from missile and drone strikes in July 2023 (including the Transfiguration Cathedral), September 2023, November 2024, January 2025 and, most recently, an attack on 9 August 2026 that UNESCO reports affected six cultural heritage buildings in the property. The World Heritage Committee's 2026 decision (48 COM 7A.32) states that over 60 cultural sites within the property have been damaged since the full-scale invasion began, expresses concern about intensifying threats, and retains the property on the Danger List. Odesa is subject to recurring long-range strikes rather than ground fighting inside the city; the evidence reviewed does not show combat at the property itself, and UNESCO missions have continued to reach and assess the site. Historical damage is documented in the site's record here and in events[] below, but the current classification (see status_history) is based on present conditions and the most recent credible evidence, not a cumulative tally of past events.",
+      "first_identified_date": null,
+      "date_note": "The threat dates from the start of the full-scale invasion (UNESCO's January 2023 inscription announcement refers to threats to the city since the beginning of the war). The date of the first damage to the property specifically was not established in the sources reviewed; the earliest dated attack documented here is 23 July 2023.",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Two related strands. (1) Incomplete repair of war damage: UNESCO's 2024 State of Conservation summary and later reporting describe stabilization, repair and restoration work by Ukrainian authorities and partners, but the sources reviewed document repair as partial for at least some buildings. For the Transfiguration Cathedral (hit July 2023), reporting from July 2025 says Italian-funded work had repaired part of the wall and roughly 108 square metres of roof near the altar, with a heating-system restoration under way, and a church official said repeated tenders cost a year and that wall paintings began to deteriorate during a winter without heating. A single outlet of lesser track record (see reliability_note on src_15) reported on 30 September 2026 that emergency repair work on another building damaged in July 2023 began in August 2026; this is retained as context only and is not used to support the status. (2) Pre-existing management pressures: UNESCO's listing page notes vulnerability from inadequate planning controls, inappropriate conservation practices and infill development, and the 2026 Committee decision urges stronger planning controls, building inventories, an emergency-preparedness-ready Management Plan and review of an Integrated Urban Plan, and asks Ukraine for comments on a reported construction project at 1B Kanatna Street. An academic study (2025) concludes that the overall planning structure of the historic centre has been preserved but that wartime conditions limit work to emergency conservation measures.",
+      "first_identified_date": null,
+      "date_note": "Planning-control and conservation-practice vulnerabilities are noted in UNESCO's listing text without a single start date; the repair-incompleteness aspect is ongoing and dates from the first strikes (July 2023 is the earliest dated damage documented here).",
+      "source_ids": [
+        "src_00",
+        "src_04",
+        "src_05",
+        "src_14",
+        "src_15",
+        "src_16"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Several named High Concern triggers match: (1) official UNESCO Danger List inscription for substantive reasons -- the property has been on the List of World Heritage in Danger since January 2023 because of the war, and the World Heritage Committee decided to retain it there in 2026 (48 COM 7A.32); (2) credible reports from two or more independent sources of specific damaging events within roughly the last five years that are not yet fully repaired -- UNESCO and Ukrainian/wire reporting on the July 2023, November 2024 and January 2025 strikes and UNESCO's own statement on the 9 August 2026 strike, with repair of at least the Transfiguration Cathedral documented as partial; and (3) region under active armed conflict with credible reporting on risk to cultural property. Critical Concern was considered and not selected, but THIS IS A CLOSE CALL. Arguments for Critical: the property was hit directly as recently as 9 August 2026 (about eight weeks before this review), strikes have recurred across three years, and the Committee describes intensifying threats and over 60 damaged sites. Arguments against, which carried the decision: the Critical triggers require severe verified current damage materially affecting survival/integrity/accessibility, fighting reported at or immediately adjacent to the property in an active combat zone, inaccessibility to monitors for six or more months, or collapse of protection. On the evidence reviewed, none is met: Odesa is exposed to recurring missile and drone strikes rather than ground combat; UNESCO damage-assessment missions have repeatedly reached the property (November 2024, January 2025, June 2025); the Committee commends Ukraine's protective measures; the documented damage is to individual buildings (facades, roofs, windows, interiors) and an academic study concludes the overall planning structure of the historic centre has been preserved. A reviewer who reads a continuing air-strike campaign that directly hits the property as meeting the 'active combat zone / ongoing severe threat' trigger could reasonably argue for Critical; this draft does not do so on the evidence in hand.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present-day picture combines real, unresolved and recurring risk with documented, active protection work. On the risk side: the property remains on the Danger List (retained by the Committee in 2026); the most recent UNESCO-reported attack on the property (9 August 2026) reportedly affected six cultural heritage buildings; the Committee reports over 60 damaged sites within the property and intensifying threats; and repair of at least some earlier damage is documented as partial (for example, the Transfiguration Cathedral, hit in July 2023, was still being restored with international funding as of July 2025 reporting). On the protection side: the Committee commends Ukraine's protective measures; UNESCO has delivered damage-assessment missions and, with ICOMOS, technical assistance on management-plan revision and disaster-risk management (2025); and 3D documentation of damaged and key buildings has been carried out. The property is still accessible to assessment missions and is not an active ground-combat zone on the evidence reviewed. Note on conflicting figures: UNESCO's 2024 State of Conservation summary reports roughly 100 heritage sites damaged within the property and buffer zone in the second half of 2023 alone, with 52 cultural properties reported damaged and 47 verified (five could not be verified due to restricted access), while the 2026 Committee decision cites over 60 sites within the property; these refer to different scopes and dates and have not been reconciled here, and neither figure drives the status on its own. Confidence is Supported rather than Confirmed because the status-determining claims rest on UNESCO primary documents plus Ukrainian and international reporting that agree, but the 2026 State Party report could not be read directly, the 9 August 2026 heritage damage rests on a single UNESCO statement (a wire-style report corroborates the attack but does not mention heritage), and the situation is changing quickly.",
+      "effective_date": "2026-10-04",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_10",
+        "src_13",
+        "src_14",
+        "src_16"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "All five categories have verified, publicly findable evidence, which meets the rubric's 'extensive' threshold, but coverage is uneven. The virtual-tour evidence found concerns one building (the Odesa Opera and Ballet Theatre) and dates from 2017, and the 3D evidence is for selected buildings and monuments (the Opera House, UNESCO-commissioned scanning of severely damaged properties, and 3D models of Odesa sculptures on Europeana), not a property-wide model. The Skeiron project page says the Opera House tour will be hosted on the theatre's website; not verified; the page was not located and checked directly in this pass, so that tour is not counted here. Reviewer should confirm whether the 'extensive' tier fairly describes selective rather than comprehensive documentation.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's image gallery for the property (multiple pages of images of landmarks such as the Opera and Ballet Theatre, the harbour, Vorontsov Palace and Derybasivska Street passages).",
+        "url": "https://whc.unesco.org/en/list/1703/gallery/",
+        "source_id": "src_00"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 2023 nomination materials (nomination text, maps, management plan), the 2023 ICOMOS evaluation, State of Conservation reports (2024-2026), Committee decisions, a February 2025 reactive monitoring mission report and periodic reporting submissions.",
+        "url": "https://whc.unesco.org/en/list/1703/documents/",
+        "source_id": "src_00"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "UNESCO reported in August 2023 that it had started 3D laser scanning of severely damaged properties in Odesa.",
+        "url": "https://ukraine.un.org/en/241188-unesco-presents-preliminary-results-its-mission-odesa",
+        "source_id": "src_03"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Skeiron 'HERITAGE. Digital. Odesa Opera House' project page (laser scanning plus photogrammetry; project marked completed).",
+        "url": "https://www.skeiron.com.ua/en/projects/ddd60aab-8395-4b7e-ba8d-5011b1f5f4d6",
+        "source_id": "src_17"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "CARARE report that the first Ukrainian 3D cultural heritage models published on Europeana include Odesa monuments scanned by the Odesa-based non-profit Pixelated Realities (scans from August 2022, before protective casings were installed).",
+        "url": "https://carare.eu/en/news/the-lions-of-odesa-enters-the-europeana-collection/",
+        "source_id": "src_18"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Google Arts & Culture story 'Quick Guide to Ukrainian Architecture: Opera Theaters', with a section and street-view links for the Odesa theatre. Building-level only.",
+        "url": "https://artsandculture.google.com/story/4wUx5rJNNJplwQ",
+        "source_id": "src_19"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Ukrinform report (8 November 2017) on Google Arts & Culture's 'Authentic Ukraine' virtual 3D tour of five Ukrainian opera theatres, including Odesa's. Building-level only.",
+        "url": "https://ukrinform.net/rubric-society/2339937-google-presents-virtual-3d-tour-of-ukrainian-opera-theatres.html",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed article 'Regeneration Problems of the Odesa Historical Environment in the Conditions of Post-War Reconstruction' (Kulikov and Krotowski, International Journal of Conservation Science, 2025), analysing the historic centre's urban development, protective zoning and war damage.",
+        "url": "https://ijcs.ro/public/IJCS-25-02_25_Kulikov.pdf",
+        "source_id": "src_16"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2023-01-25",
+      "title": "Historic Centre of Odesa inscribed on the World Heritage List and the List in Danger",
+      "description": "At an extraordinary session of the World Heritage Committee (24-25 January 2023), using an emergency procedure because of threats from the war, the property was inscribed on the World Heritage List and simultaneously on the List of World Heritage in Danger. The Danger List listing remains in effect following the Committee's 2026 decision.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_00",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2023-07-23",
+      "title": "Strikes damage Transfiguration Cathedral and other cultural sites",
+      "description": "Russian strikes on Odesa's city centre damaged the Transfiguration Cathedral, the city's principal Orthodox church (founded 1794), and a number of other significant cultural sites; UNESCO's Director-General condemned the attack and reported at least two people killed in preliminary information.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2023-08-08",
+      "title": "UNESCO mission reports over 50 damaged cultural properties",
+      "description": "Following a mission on 29 July-1 August 2023, UNESCO reported over 50 cultural properties with reported damage in Odesa, assessed the ten most severely affected on site (including the Transfiguration Cathedral and the House of Scientists), released US$169,000 from the Heritage Emergency Fund for protective installations and architectural studies, and began 3D laser scanning of severely damaged properties.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2023-09-25",
+      "title": "Port attack blast damages Vorontsov Palace and Prymorskyi Boulevard buildings",
+      "description": "Ukraine's Culture Ministry reported that the blast wave from an overnight attack on the port damaged windows and facades of the Vorontsov Palace and eight buildings on Prymorskyi Boulevard in the historic centre.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee retains Odesa on the Danger List (46 COM 7A.6)",
+      "description": "Based on a State Party report dated 31 January 2024, UNESCO's summary records five large-scale missile and drone strikes on the property in the second half of 2023 and damage to roughly 100 cultural heritage sites in the property and buffer zone (52 cultural properties reported damaged, 47 verified by UNESCO experts, per the summary; the summary says the remaining five could not be verified due to restricted access). The Committee retained the property on the Danger List, called on the Russian Federation to cease actions damaging it, commended Ukraine's protective measures while noting preparedness remained insufficient, and requested a proposal for the desired state of conservation for removal from the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024-11-14/2024-11-15",
+      "title": "Overnight strikes damage about twenty buildings in the historic centre",
+      "description": "UNESCO condemned Russian strikes during the night of 14-15 November 2024 that damaged approximately twenty buildings in the historic centre, including historical, religious and educational buildings; a UNESCO expert mission was dispatched on 16 November to assess damage and building safety.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2025-01-31",
+      "title": "Missile strike damages Bristol Hotel, Philharmonic and other heritage buildings",
+      "description": "A Russian missile attack on the historic centre damaged the Bristol Hotel, the Odesa Philharmonic and other buildings in the UNESCO-protected area. Ukraine's Ministry of Culture reported 19 damaged structures in the protection zone (a preliminary count); two women were reported injured in early reporting.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "title": "Italy-funded restoration continues at the Transfiguration Cathedral",
+      "description": "Reporting states Italy allocated EUR 64,000 from a EUR 500,000 pledge to restore the cathedral's heating system, after earlier Italian-funded repairs to part of the wall and about 108 square metres of roof near the altar; the cathedral's diocese separately repaired a further roof area of about 3,000 square metres. A cathedral official said delays had cost a year and that wall paintings had begun to deteriorate during a winter without heating.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "title": "UNESCO steps up support amid repeated attacks; repairs under way at four landmarks",
+      "description": "UNESCO reported damage-assessment missions after attacks in November 2024, January 2025 and the week of 23 June 2025, two joint UNESCO-ICOMOS technical assistance missions in 2025 on management-plan revision and disaster-risk management, and Italy- and Japan-supported urgent repairs at the House of Scientists, the Fine Arts Museum, the Stolyarsky Music School and the Transfiguration Cathedral, plus training in 3D laser scanning documentation and emergency preparedness.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "World Heritage Committee again retains Odesa on the Danger List (48 COM 7A.32)",
+      "description": "At its 48th session (Busan, 2026) the Committee deplored the invasion, noted that over 60 cultural sites within the property have been damaged since it began, commended Ukraine's protective measures, welcomed UNESCO and Advisory Body support, requested a proposal for removal from the Danger List by the 50th session and an updated conservation report by 1 February 2027, and decided to retain the property on the Danger List. Month shown is approximate; the exact decision date was not captured in the pages reviewed.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Emergency repair reportedly begins on another historic building damaged in July 2023 (context only)",
+      "description": "A report published 30 September 2026 by a single outlet states that emergency repair work on a historic house damaged by a strike on 23 July 2023 began on 3 August 2026 and is scheduled to run to August 2027; the source notes no public confirmation of the funding source. Retained as context only; it rests on one outlet carrying a reliability_note and is not used to support the status.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "title": "Attack reportedly affects six cultural heritage buildings in the property",
+      "description": "UNESCO (statement of 15 August 2026) reports that an attack on 9 August 2026 affected six cultural heritage buildings within the World Heritage property, naming the Brandt and Schulz House, the Gagarin Apartment Building, the Sturdza House, the Rossi Apartment Block and two further historic residential buildings. A Kyiv Independent report on the same night's attack (11 ballistic missiles and nearly 100 drones, at least 14 injured, residential buildings damaged in two districts) does not mention heritage; the heritage damage therefore rests on UNESCO's statement.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_07",
+        "src_13"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "The Historic Centre of Odesa",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1703/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Odesa inscribed on UNESCO's World Heritage List in the face of threats of destruction",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2518/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023-01-25",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Odesa: UNESCO strongly condemns repeated attacks against cultural heritage, including World Heritage",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2592/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023-07-23",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_03",
+      "title": "UNESCO presents preliminary results of its mission to Odesa",
+      "publisher": "United Nations in Ukraine (press release)",
+      "url": "https://ukraine.un.org/en/241188-unesco-presents-preliminary-results-its-mission-odesa",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023-08-08",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_04",
+      "title": "State of Conservation: The Historic Centre of Odesa (2024) and Decision 46 COM 7A.6",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4529",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024-01-31",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 48 COM 7A.32: The Historic Centre of Odesa (Ukraine)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9021",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Ukraine: UNESCO steps up support for the World Heritage site in Odesa amid escalating damage",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2800/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025-07-23",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Odesa: UNESCO condemns renewed attack on World Heritage property",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/odesa-unesco-condemns-renewed-attack-world-heritage-property",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026-08-15",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_09",
+      "title": "UNESCO condemns Russian strikes on Historic Center of Odesa",
+      "publisher": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/3928545-unesco-condemns-russian-strikes-on-historic-center-of-odesa.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2024-11-18",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Russian Missile Attack Hits Historic Center Of Odesa",
+      "publisher": "Radio Free Europe/Radio Liberty",
+      "url": "https://www.rferl.org/a/ukraine-odesa-russia-missile-attack-city-center-historic-unesco-site/33298917.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-01-31",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Russian strike on Odesa damages 19 UNESCO-protected buildings",
+      "publisher": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/3955383-russian-strike-on-odesa-damages-19-unescoprotected-buildings.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports figures from Ukraine's Ministry of Culture (a party to the conflict) and preliminary counts; the Odesa mayor cited a lower figure (around 15 sites) in other reporting not used here.",
+      "published_date": "2025-02-01",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Russian attack on Odesa damages 9 buildings in historic city center",
+      "publisher": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-strike-on-odesa-damages-9-buildings-in-historic-city-center/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2023-09-25",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Russian missile attack damages residential buildings in Odesa, injures at least 14",
+      "publisher": "Kyiv Independent",
+      "url": "https://kyivindependent.com/odesa-attack-aug-9-2026/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-08-09",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Italy to fund restoration of heating system at Odesa's Transfiguration Cathedral",
+      "publisher": "Rubryka",
+      "url": "https://rubryka.com/en/?p=773671",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-07-21",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_15",
+      "title": "In Odesa, a young company has begun emergency repair work on a damaged historic site",
+      "publisher": "Intent Press",
+      "url": "https://intent.press/en/news/recovery/2026/in-odesa-a-young-company-has-begun-emergency-repair-work-on-a-damaged-historic-site",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Outlet's editorial standards and track record not independently verified in this research pass; single-outlet report. Per methodology, it cannot alone support a status-determining claim and is used only as flagged context.",
+      "published_date": "2026-09-30",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Regeneration Problems of the Odesa Historical Environment in the Conditions of Post-War Reconstruction",
+      "publisher": "International Journal of Conservation Science (Kulikov and Krotowski)",
+      "url": "https://ijcs.ro/public/IJCS-25-02_25_Kulikov.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_17",
+      "title": "HERITAGE. Digital. Odesa Opera House",
+      "publisher": "Skeiron",
+      "url": "https://www.skeiron.com.ua/en/projects/ddd60aab-8395-4b7e-ba8d-5011b1f5f4d6",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Project owner's own description (a private digital-heritage team funded by the Ukrainian Cultural Foundation); used only for the existence of 3D documentation, corroborated at a general level by UNESCO's own 3D scanning report (src_03).",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_18",
+      "title": "The Lioness of Odesa: Ukrainian Heritage in Digital Form",
+      "publisher": "CARARE",
+      "url": "https://carare.eu/en/news/the-lions-of-odesa-enters-the-europeana-collection/",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2026-05-20",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Quick Guide to Ukrainian Architecture: Opera Theaters",
+      "publisher": "Google Arts & Culture (CFC Big Ideas with Ukraine's Ministry of Culture and Information Policy)",
+      "url": "https://artsandculture.google.com/story/4wUx5rJNNJplwQ",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Google presents virtual 3D tour of Ukrainian opera theatres",
+      "publisher": "Ukrinform",
+      "url": "https://ukrinform.net/rubric-society/2339937-google-presents-virtual-3d-tour-of-ukrainian-opera-theatres.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2017-11-08",
+      "accessed_date": "2026-10-04"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported confidence; the High-versus-Critical call is flagged as close (see decision_trigger). Not yet reviewed or approved. KNOWN GAPS: (1) the 2026 State Party State of Conservation report (whc.unesco.org/en/soc/4977) and the 2025 one (soc/4881) returned HTTP 403 and were not read; the 2026 Committee decision (48 COM 7A.32) was read via the decisions page, but its session month was not captured. (2) The 2024 SoC summary figures (roughly 100 sites in property and buffer zone; 52 reported, 47 verified) are as summarized from the UNESCO page and not reconciled with the 2026 figure of over 60 sites within the property. (3) The 9 August 2026 heritage damage rests on a single UNESCO statement; the corroborating Kyiv Independent report does not mention heritage. (4) A 1 October 2026 Ukrinform report of a strike on a business centre in Odesa did not say whether it was inside the property and is not included. (5) Natural-disaster and environmental/climate threat categories were not researched in depth; none was encountered in the sources read, but this is not a documented 'checked and clear' finding. (6) The UNESCO 2024 SoC and 2025 monitoring mission reports, ALIPH's Odesa-specific stabilization details, and the status of the Skeiron Opera House virtual tour on the theatre's website were not verified. (7) The Solomos house repair report (src_15) is single-outlet context only. (8) DPI virtual-tour and 3D evidence is building-level rather than property-wide; the 'extensive' tier is rubric-mechanical and should be reviewed. (9) Source count (21) exceeds the usual target because several primary UNESCO documents each support distinct events. Images field intentionally omitted (handled separately). Verifier fixes applied 2026-10-04 (wording, event order, source scope, DPI attribution; src_08 ALIPH removed as uncited).",
+      "changed_by": "claude"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "slug": "venice-and-its-lagoon",
+  "name": "Venice and its Lagoon",
+  "alternate_names": [
+    "Venice",
+    "Venezia"
+  ],
+  "country": "Italy",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 45.4343,
+    "lng": 12.3389
+  },
+  "coordinate_note": "Converted from the centre-point coordinates given on UNESCO's property page (N45 26 3.5, E12 20 20.2). The inscribed property is a large area comprising the city and its lagoon, not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "394",
+  "inscription_year": 1987,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Venice was founded in the 5th century across a group of lagoon islands (UNESCO cites 118) and had become a major maritime power by the 10th century. UNESCO describes the whole city as an extraordinary architectural masterpiece, home to works by painters such as Giorgione, Titian, Tintoretto and Veronese. It is inscribed under all six cultural criteria (i)-(vi).",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bacino_di_San_Marco_in_Venice_001.jpg",
+      "caption": "Panorama of the Bacino di San Marco, the waterfront at the heart of Venice, photographed in July 2011. Shows the city as it was at that date, not current conditions.",
+      "credit": "Moonik",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bacino_di_San_Marco_in_Venice_001.jpg",
+      "taken_date": "2011-07-25",
+      "taken_date_display": "25 July 2011",
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Grande_from_the_Accademia_bridge.jpg",
+      "caption": "The Grand Canal seen from the Accademia Bridge, photographed in July 2010. Shows the city as it was at that date, not current conditions.",
+      "credit": "Wolfgang Moroder",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Canal_Grande_from_the_Accademia_bridge.jpg",
+      "taken_date": "2010-07-31",
+      "taken_date_display": "31 July 2010",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Relative sea-level rise (a combination of climate-driven sea-level rise and land subsidence) is a chronic pressure on the lagoon city. A peer-reviewed 2021 review (Zanchettin et al.) found relative sea level at Venice rising by roughly 2.5 mm/year over about 150 years, with subsidence accounting for about half, and projected a further rise by 2100 of roughly 32-62 cm under lower-emission scenarios and 58-110 cm under high-emission scenarios. The MOSE mobile flood barrier is the main defence. UNESCO's 2025 working document records that it had been raised more than 90 times, and in a short stretch in early 2026 the head of the city's Tide Centre reported 15 high tides in nine days, of which 10 triggered barrier closures, and about 41-42 hours above 1 metre, describing the average sea level as roughly 40 cm higher than in the early 2000s. The 2025 World Heritage Committee decision (47 COM 7B.113) acknowledges Italy's significant investment in operating MOSE and asks that its operation be explicitly aligned with protecting the property's Outstanding Universal Value and that climate-change databases and predictive models be developed. Press coverage of the Tide Centre director also notes concerns that frequent closures disrupt port traffic and that MOSE may be inadequate by 2100 under some projections. This is a chronic, monitored threat being actively managed; it is not, on the evidence reviewed, an acute unresolved damage event.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-term trend (sea-level rise and subsidence documented over roughly 150 years in the 2021 review); no single start date applies.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_11"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Venice is exposed to exceptional storm-surge flooding (acqua alta). On 12 November 2019 the tide reached 187 cm, reported by Reuters as the second highest ever recorded after the 1966 peak of 194 cm; St Mark's Square was under more than a metre of water and St Mark's Basilica was flooded. That event is recorded in events[] as history. Since the MOSE barrier entered service, closures have been used to keep water below 1 metre during surge events (see environmental_climate), and the sources reviewed do not document unrepaired flood damage from 2025-2026 events. This category reflects continuing exposure managed by the barrier, not a currently documented unrepaired disaster.",
+      "first_identified_date": "2019-11-12",
+      "date_note": "Date is that of the November 2019 exceptional high tide; flooding exposure itself is long-standing.",
+      "source_ids": [
+        "src_08",
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's World Heritage Committee has repeatedly raised cumulative pressures on the property other than flooding. In 2025 it expressed great concern about insufficient progress in reducing daily visitor numbers and limiting short-term rentals of private homes, and a UNESCO state-of-conservation working document reported significant shortcomings in the planning system's ability to safeguard the property's value (a heritage impact assessment of 12 projects), with permits sometimes issued before environmental reviews began. The July 2026 decision (48 COM 7B.40) says the effectiveness of the visitor access fee in reducing visitor numbers is not fully demonstrated, asks for a carrying capacity study and a comprehensive sustainable tourism management plan, requires strategic environmental assessments before any new Port Master Plan or opening or reopening of lagoon waterways, and asks Italy to report progress by 1 February 2027. The Committee warns in both 2025 and 2026 that, without effective, binding management, cumulative impacts of development, mass tourism and climate change could warrant inscription on the List of World Heritage in Danger; it has not inscribed the property. Positive measures are also documented: UNESCO welcomed continued enforcement of the ban on large ships in the San Marco Basin and Giudecca Canal, introduced in 2021. In 2026 the Committee also did not approve Italy's proposed minor boundary modification and recommended reverting to the 2019 buffer zone proposal.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year management concerns raised by UNESCO over successive State of Conservation cycles; no single start date established from the sources reviewed. Earliest dated Committee action in this dossier is 2023.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_09"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no severe verified current damage, no active combat, no loss of monitoring access, and protection has not collapsed (state and national management and UNESCO monitoring continue). High Concern: considered and not mechanically triggered. (1) The property is not on the List of World Heritage in Danger; the Committee considered the question in 2023 and did not inscribe it, and in 2025 and 2026 again stopped short while warning. (2) No specific damaging event in roughly the last five years was found, corroborated by two independent sources, as still unrepaired; the early-2026 tide sequence is documented for its frequency and MOSE closures but the sources reviewed do not document unrepaired damage from it. (3) No armed conflict. (4) The 'severe unresolved threat with a stated near-term timeframe from a named authority' trigger is the closest call: the Committee's danger-listing language is conditional ('could' meet the criteria absent effective measures), and the only dated item is a 1 February 2027 reporting deadline for the State Party, which is a reporting requirement rather than a stated timeframe for harm. (5) No significant historical damage with substantially incomplete site-wide repair was identified. Moderate Concern triggers matched: at least one credible documented threat that is chronic and monitored rather than acute (sea-level rise/flooding managed by MOSE; mass tourism and development pressure monitored through UNESCO's State of Conservation process), and typical conservation challenges described in official reports. This is a close call between Moderate and High, and a reviewer may weigh the Committee's repeated, escalating danger-listing warnings differently.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of real, long-running and, by several indicators, intensifying pressures: relative sea level has risen for about a century and a half, the MOSE barrier is now being raised more often (including an unusually active January-February 2026), UNESCO's Committee expressed great concern in 2025 and again in July 2026 about tourism, short-term rentals, planning safeguards and port/waterway proposals, and it has warned twice that danger listing could follow without binding, enforceable measures. Against that, the evidence reviewed also shows an actively functioning protective system (MOSE operation, large-ship ban enforced since 2021, a Management Plan covering 2024-2030, a 2024 advisory mission and ongoing State Party reporting to a 1 February 2027 deadline), a Committee that has repeatedly chosen not to inscribe the property in danger, and no documentation reviewed of unrepaired acute damage. These are chronic, monitored threats rather than an acute emergency, which is what Moderate Concern describes. Confidence is Supported rather than Confirmed: the underlying facts about the threats are corroborated by UNESCO decisions and independent reporting, but the 2026 State of Conservation report could not be retrieved in this pass, the trajectory (whether the Committee will escalate in 2027) is genuinely open, and the Moderate/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-04",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_10",
+        "src_11"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null,
+      "approved_date": null,
+      "approval_note": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "All five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). Coverage is uneven across such a large property: the 3D documentation found covers the island of San Giorgio Maggiore (reported as nearly complete as of September 2020; final completion not verified here), the virtual tour found covers the Doge's Palace, and the archive digitisation (Venice Time Machine) is a long-running programme described as underway rather than finished. No whole-property 3D model was found in this pass. A reviewer may wish to consider whether this uneven coverage should temper the tier.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (roughly 66 images, including the Doge's Palace, Grand Canal, St Mark's Square, San Giorgio and aerial views of the lagoon city).",
+        "url": "https://whc.unesco.org/en/list/394/gallery/",
+        "source_id": "src_05"
+      },
+      {
+        "category": "archival_records",
+        "description": "The Venice Time Machine, a programme launched by EPFL and Ca' Foscari University in partnership with Venice's State Archives, describes digitising, transcribing and indexing large volumes of the city's administrative records covering over a thousand years, with an aim of open-access research and education use.",
+        "url": "https://www.epfl.ch/labs/dhlab/index-html/research/page-116948-en-html/",
+        "source_id": "src_14"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "A project hosted by the Fondazione Giorgio Cini with Factum Foundation, EPFL, Iconem and others used LiDAR and photogrammetry to record the buildings of San Giorgio Maggiore island in detail (reported as nearly complete in September 2020, with drone roof capture then pending).",
+        "url": "https://www.theartnewspaper.com/2020/09/11/new-laser-scanning-project-will-allow-venice-to-live-on-forever-as-a-digital-avatar",
+        "source_id": "src_12"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "The Fondazione Musei Civici di Venezia's own page describes a Google Arts & Culture presentation of the Doge's Palace with Street View virtual tours and high-resolution artwork images.",
+        "url": "https://palazzoducale.visitmuve.it/en/multimedia-itineraries/virtual-tour/",
+        "source_id": "src_13"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed scholarship on the lagoon city's environment, such as the 2021 review of historic and projected sea-level rise at Venice in Natural Hazards and Earth System Sciences; the Venice Time Machine is also a university-led research programme.",
+        "url": "https://nhess.copernicus.org/articles/21/2643/2021/",
+        "source_id": "src_11"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2019-11-12",
+      "title": "Exceptional high tide of 187 cm floods Venice",
+      "description": "Reuters reported that the tide peaked at 187 cm, the second highest on record after 1966, submerging St Mark's Square under more than a metre of water and flooding St Mark's Basilica. The mayor said he would seek a state of emergency.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2021-07-13",
+      "title": "Italian cabinet approves ban on large cruise ships in Venice's lagoon waterways",
+      "description": "Reuters reported that the cabinet approved a decree, effective 1 August 2021, barring large ships (over 25,000 tonnes) from the Giudecca Canal, following UNESCO pressure. An alternative docking facility outside the lagoon was still to be developed. UNESCO's 2025 decision later welcomed continued enforcement of the ban in the San Marco Basin and Giudecca Canal.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_09",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2023-09",
+      "title": "World Heritage Committee decides not to inscribe Venice on the Danger List",
+      "description": "At its 45th session in Riyadh the Committee decided not to place Venice and its Lagoon on the List of World Heritage in Danger and invited an on-site assessment. The Italian government welcomed the outcome and cited MOSE and its new entry-fee regime. Date shown is the month of the Committee decision as reported by an Italian outlet; the primary UNESCO decision text for 2023 was not retrieved in this pass.",
+      "event_type": "political",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2024-10",
+      "title": "Joint World Heritage Centre / ICOMOS / ICCROM advisory mission to Venice",
+      "description": "A joint advisory mission visited the property in October 2024. Its findings, as summarised in UNESCO's working document, recommended strengthening the 2024-2030 Management Plan and developing the draft Skyline Policy, and noted shortcomings in how the planning system safeguards the property.",
+      "event_type": "other",
+      "source_ids": [
+        "src_01",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7B.113 on Venice",
+      "description": "The Committee expressed great concern at insufficient progress in reducing daily visitors and limiting short-term rentals, welcomed continued enforcement of the large-ship ban, acknowledged Italy's significant investment in operating MOSE, and warned that without urgent implementation of its recommendations Venice could meet the criteria for danger listing. It asked for updated reporting by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2026-01/2026-02",
+      "title": "Unusually frequent high tides and MOSE closures",
+      "description": "ANSA reported 15 high tides in nine days (a record for the period), 10 of them above 110 cm and triggering MOSE, with about 41-42 hours above one metre versus about 4 hours in the same period of 2025. Il Post reported 18 closures since 28 January and noted concerns about higher baseline sea levels, port disruption and flooded ground-floor premises. The sources reviewed do not document lasting structural damage from this sequence.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "World Heritage Committee decision 48 COM 7B.40 on Venice",
+      "description": "At its 48th session in Busan the Committee again warned that cumulative threats could warrant danger listing absent binding, enforceable management; said the access fee's effectiveness in reducing visitors is not fully demonstrated; asked for a carrying capacity study and sustainable tourism management plan; required strategic environmental assessments before port or waterway changes; and asked Italy to report by 1 February 2027. Venice is not on the List of World Heritage in Danger (see UNESCO property page). Month shown reflects the session's scheduled dates in July 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "Committee does not approve minor boundary modification",
+      "description": "In decision 48 COM 8B.45 the Committee did not approve Italy's proposed minor boundary modification and recommended reverting to the 2019 buffer zone proposal, clarifying one excluded water body, reconsidering the exclusion of the southern coastal strip, and signing a Programme Agreement for buffer zone governance.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Venice and its Lagoon",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/394/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 47 COM 7B.113: Venice and its Lagoon (Italy)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8837/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7B.40: Venice and its Lagoon (Italy)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9123/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 48 COM 8B.45: Venice and its Lagoon (Italy), minor boundary modification",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9199",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_04",
+      "title": "State of conservation of properties inscribed on the World Heritage List: Corrigendum, Venice and its Lagoon section (WHC/25/47.COM/7B.Add.2.Corr)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/221397",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Identified as corrigendum WHC/25/47.COM/7B.Add.2.Corr dated 2 July 2025, a state-of-conservation report document (not an advisory working document); it discusses the October 2024 mission and a draft decision.",
+      "published_date": "2025-07-02",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Venice and its Lagoon: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/394/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Venice sees 15 high tides in nine days, a record for the period",
+      "publisher": "ANSA",
+      "url": "https://www.ansa.it/english/news/2026/02/06/venice-sees-15-high-tides-in-nine-days-a-record-for-the-period_d5f6f0dd-d577-45b8-932f-4f510cc7a0f6.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-02-06",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Il MOSE di Venezia è molto attivo",
+      "publisher": "Il Post",
+      "url": "https://www.ilpost.it/2026/02/11/mose-venezia-molto-attivo/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-02-11",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Venice devastated by second-highest tide in history (Reuters report)",
+      "publisher": "Daily Maverick (republishing Reuters)",
+      "url": "https://www.dailymaverick.co.za/article/2019-11-13-venice-devastated-by-second-highest-tide-in-history/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2019-11-13",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Italy bans cruise liners from Venice after years of hesitation (Reuters report)",
+      "publisher": "Cyprus Mail (republishing Reuters)",
+      "url": "https://cyprus-mail.com/2021/07/13/italy-bans-cruise-liners-from-venice-after-years-of-hesitation",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2021-07-13",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Venezia non e in pericolo. L'Unesco non l'ha inserita nella Lista dei siti a rischio",
+      "publisher": "Finestre sull'Arte",
+      "url": "https://www.finestresullarte.info/attualita/venezia-non-in-pericolo-unesco-non-la-inserisce-nella-lista-siti-a-rischio",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Used only for the fact and approximate date of the 2023 Committee decision; the primary UNESCO decision text for 2023 was not retrieved, and the exact publication date was not independently confirmed.",
+      "published_date": "2023-09",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Sea-level rise in Venice: historic and future trends (review article)",
+      "publisher": "Natural Hazards and Earth System Sciences (Copernicus), Zanchettin et al.",
+      "url": "https://nhess.copernicus.org/articles/21/2643/2021/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_12",
+      "title": "New laser scanning project will allow Venice to live on forever as a digital avatar",
+      "publisher": "The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2020/09/11/new-laser-scanning-project-will-allow-venice-to-live-on-forever-as-a-digital-avatar",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2020-09-11",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Virtual tour (Palazzo Ducale)",
+      "publisher": "Fondazione Musei Civici di Venezia",
+      "url": "https://palazzoducale.visitmuve.it/en/multimedia-itineraries/virtual-tour/",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "Operator's own description of its Google Arts & Culture presentation; evidences existence of the tour, not its full scope.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Massive Digitisation and Long Term Data Preservation (Venice Time Machine)",
+      "publisher": "EPFL Digital Humanities Laboratory",
+      "url": "https://www.epfl.ch/labs/dhlab/index-html/research/page-116948-en-html/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; close call vs High Concern flagged in decision_trigger. Known gaps (not included because not verified): (1) UNESCO 2026 State of Conservation report (whc.unesco.org/en/soc/5020) returned HTTP 403, so the Italian 2026 report and the Secretariat's 2026 assessment were not read; only the Committee decisions were. (2) The 2023 Committee decision text and the reported 2023 advisory-body draft recommendation to inscribe were not retrieved from UNESCO; the 2023 event rests on one Italian outlet. (3) The October 2024 advisory mission report itself was listed on UNESCO's documents page but not read. (4) Venice-specific access-fee figures (2024-2026) were found only in outlets of uncertain reliability or with inconsistent figures and were omitted. (5) Exact UNESCO session dates for the 2025 decision were not confirmed (only the year). (6) MOSE first emergency use (October 2020) was only partially corroborated and omitted. (7) Cumulative MOSE closure counts for 2025-2026 beyond the figures cited were not verified from an official source; the Tide Centre's own data pages were not retrieved. (8) Wikimedia and Wikipedia were not used; metadata rests on UNESCO. (9) Short-term rental, residential population decline and lagoon erosion details come only from UNESCO summaries, not primary data. Images omitted by design. Verifier fixes applied 2026-10-04 (attribution of 2025 vs 2026 decisions, src_04 identification, removal of unsupported wording).",
+      "changed_by": "claude"
+    }
+  ]
+}

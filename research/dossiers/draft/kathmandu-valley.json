@@ -1,0 +1,457 @@
+{
+  "slug": "kathmandu-valley",
+  "name": "Kathmandu Valley",
+  "alternate_names": [
+    "Kathmandu Valley World Heritage Property (seven monument zones)"
+  ],
+  "country": "Nepal",
+  "region": "South Asia (Kathmandu Valley, Nepal)",
+  "coordinates": {
+    "lat": 27.7016,
+    "lng": 85.3568
+  },
+  "coordinate_note": "The UNESCO property is a serial inscription of seven separate monument zones spread across the valley (Hanuman Dhoka/Kathmandu, Patan and Bhaktapur Durbar Squares, Swayambhu, Bauddhanath, Pashupati and Changunarayan). This point is an unweighted average of the seven component coordinates UNESCO publishes and is a practical proxy for a multi-site property; it does not mark any single monument.",
+  "unesco_id": "121",
+  "inscription_year": 1979,
+  "unesco_listing_name": "Kathmandu Valley",
+  "is_serial_component": false,
+  "serial_component_note": "The UNESCO inscription (id 121) is itself a serial property made up of seven monument zones. This profile represents the valley property as a whole rather than a single component, so is_serial_component is false; individual zones (for example the three Durbar Squares) could receive their own profiles later. UNESCO also lists a 2006 minor boundary modification.",
+  "site_type": "cultural",
+  "significance_summary": "The Kathmandu Valley property groups seven monument zones that together show the range of historic and artistic achievement for which the valley is known: three royal Durbar Square complexes (Kathmandu/Hanuman Dhoka, Patan and Bhaktapur), two Buddhist stupas (Swayambhu and Bauddhanath) and two Hindu temple complexes (Pashupati and Changunarayan). UNESCO describes an artistic tradition of the Newar people, with tiered temples, stupas and palaces built of fired brick, timber, bronze and brass, flourishing especially between about 1500 and 1800 CE and drawing on both Hindu and Buddhist traditions.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Swayambhunath_temple_-_an_ancient_religious_architecture_of_Nepal.jpg",
+      "caption": "Swayambhunath, one of the seven monument zones of the property, photographed in September 2019, after the 2015 earthquake. Reflects the date shown, not current conditions.",
+      "credit": "Nirmal Dulal",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Swayambhunath_temple_-_an_ancient_religious_architecture_of_Nepal.jpg",
+      "taken_date": "2019-09-29",
+      "taken_date_display": "29 September 2019",
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Panoramic_view_of_Patan_Durbar_Square.jpg",
+      "caption": "Panorama of Patan Durbar Square, another of the seven monument zones, photographed in September 2018, after the 2015 earthquake. Reflects the date shown, not current conditions.",
+      "credit": "Nrik kiran",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Patan_Durbar_Square.jpg",
+      "taken_date": "2018-09-15",
+      "taken_date_display": "15 September 2018",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00",
+    "src_07"
+  ],
+  "threat_categories": [
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The April 2015 Gorkha earthquake caused major, documented damage across the valley's monument zones; UN News reported post-disaster expert work at quake-damaged heritage sites, with the Hanuman Dhoka, Patan and Bhaktapur Durbar Squares among the most severely affected. A 2017 academic survey of 195 monuments in the valley recorded 38 completely collapsed and 157 partially damaged. Recovery since then is substantial but not finished. Nepal's own April 2025 report to UNESCO counts 173 affected monuments, of which 136 were complete, 16 ongoing and 21 not yet started (Bauddhanath and Swayambhu fully complete; Hanuman Dhoka, Bhaktapur and Pashupati with some work ongoing; Patan 18 of 20 restored). A December 2025 UNESCO article reports 170 structures restored and quotes a Nepali ministry official, Dr Suresh Suras Shrestha, as saying about 11% of structures and monuments remain outstanding; that is an official's estimate, not a UNESCO finding. Nepal's own report implies about 21% outstanding (136 of 173 complete, about 79%). These figures use different counting bases and dates and are not strictly comparable, so this dossier gives the honest range of roughly 11-21% outstanding rather than one exact number. According to the State Party report, 18 of the 21 not-yet-started monuments are at Pashupati, which is tied to the Master Plan review requested by the Committee. A May 2025 Nepali state-daily report quoting the Department of Archaeology's Director General cites falling budgets, skilled-labour and timber shortages as obstacles to finishing the remainder. The valley also remains seismically exposed in general: Nepal's report names earthquakes, monsoon floods and fires as the major disaster risks in its draft risk-management strategy. Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence.",
+      "first_identified_date": "2015-04",
+      "date_note": "Date is the month of the Gorkha earthquake (April 2015); the underlying seismic hazard is long-standing and undated.",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_08",
+        "src_09",
+        "src_13"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Successive World Heritage Committee decisions (2023, 2024 and 2026) acknowledge Nepal's recovery progress but also record management and conservation concerns: the 2023 and 2024 decisions together raise concerns including reconstruction emphasising individual monuments at the expense of traditional urban housing and settlements, effects on authenticity, and the need for Heritage Impact Assessments for infrastructure projects (the 2024 decision specifically names a Patan Durbar Square sewer project and a Pashupati Master Plan). The 2026 decision (48 COM 7B.18) takes measured note of progress, but still asks Nepal to have the Pashupati Master Plan reviewed before implementation, revise its Heritage Impact Assessment procedures, finish the Integrated Management Framework and have draft sector strategies approved, with an updated report due 1 December 2027. Independent journalism from January 2022 reported unauthorised concrete construction and height-limit violations in or near monument zones (including Swayambhu and Basantapur), quoting a former Department of Archaeology official and a Department official who acknowledged the risk of Danger List inscription. That 2022 report is dated and single-source for the specific encroachment examples, so it is treated as context for a chronic pressure, not as proof of the current extent. These are chronic, monitored management pressures rather than an acute event.",
+      "first_identified_date": null,
+      "date_note": "Chronic management and urban-development pressures with no single identifiable start date in the sources reviewed; the earliest concern dates reviewed are the 2022 press report and the 2023 Committee decision, but the underlying pressures predate both. UNESCO's own property summary notes modernization pressures.",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_12"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the tree top-down. Critical Concern: no (no severe verified current damage, combat zone, loss of access, or collapse of protection found). High Concern triggers checked in turn: (1) official Danger List inscription - NOT met: UNESCO's property page records inscription on the Danger List only for 2003-2007, and the current Danger List page does not include Kathmandu Valley; the property was not re-inscribed after 2015 on the evidence reviewed (this corrects an assumption that it had been); (2) specific damaging event in roughly the last five years, corroborated by two independent sources and unrepaired - NOT met (the September 2025 unrest damaged Singha Durbar, which is not part of the property, and sources reviewed report no damage to the monument zones); (3) region under active armed conflict - NOT met; (4) severe unresolved threat with a stated near-term timeframe from a named authority - NOT met; (5) significant historical damage whose site-wide repair remains substantially incomplete - the close call. The 2015 damage was large, but repair is now mostly complete (Nepal's report (dated 1 December 2025, data as of April 2025): 136 of 173 complete, about 79%; a Nepali ministry official quoted by UNESCO in December 2025: about 11% outstanding), two zones are fully restored, and the Committee's 2026 decision uses measured language of acknowledged progress. The remaining work is real (about 37 monuments ongoing or not yet started per the April 2025 report) and not purely routine, but it is a minority of the damaged fabric, so the 'substantially incomplete' trigger is judged not met. Moderate Concern triggers matched: documented chronic conservation/management challenges in official UNESCO decisions, and historical damage substantially repaired with follow-on work remaining. This is a close High/Moderate call and is flagged for human review.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2015 earthquake (recorded permanently in events[]) did major damage, but the present picture is one of mostly completed recovery under UNESCO monitoring: Nepal reports most damaged monuments restored, a Nepali ministry official quoted in UNESCO's December 2025 article puts the outstanding share at about 11% (Nepal's own counts imply about 21%), and the World Heritage Committee in 2026 acknowledged progress without placing the property on, or recommending it for, the Danger List. What keeps this at Moderate rather than Safe are the chronic, officially documented pressures: authenticity and housing-fabric concerns, uncertain urban-development control, Heritage Impact Assessment procedures still being aligned with UNESCO guidance, a Pashupati Master Plan that the Committee has asked to be reviewed before implementation, falling reconstruction budgets reported by the Department of Archaeology, and continuing seismic exposure. Reconstruction figures conflict in detail (136 of 173 complete in Nepal's report with data as of April 2025, versus 170 restored and about 11% remaining as quoted from a ministry official in UNESCO's December 2025 article). A May 2025 press report gives 134 complete, 16 under construction and 24 not started, but it covers the three Durbar Squares only, so the 24 versus 21 difference is a difference of scope, not a direct conflict. The UNESCO and State Party documents were preferred over the press figure, and the disagreement did not change the status. Confidence is Supported rather than Confirmed because the most recent progress figures come mainly from Nepal's own report and UNESCO summaries rather than an independent 2026 field assessment, and counting bases differ. Political unrest in Kathmandu in September 2025 is noted as context only: no damage to the monument zones was found in the sources reviewed.",
+      "effective_date": "2026-10-04",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_13"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence (photographic, archival records, virtual tour, academic/scholarly), which meets the rubric's extensive threshold on count. 3D documentation is marked not established: the 2017 peer-reviewed paper describes laser scanning and photogrammetry of valley monuments, but no publicly accessible 3D models were found, so it is counted only as academic literature. Coverage is also uneven: the Patan virtual tour covers one component zone, and the Heidelberg NHDP archive focuses on the Kathmandu Valley generally rather than only the seven inscribed zones. A reviewer may wish to consider whether Moderate is a fairer tier.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's public image gallery for the property, with roughly 30 or more photographs across several pages covering components such as the Durbar Squares.",
+        "url": "https://whc.unesco.org/en/list/121/gallery/",
+        "source_id": "src_16"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property, including State of Conservation reports (2023-2025), Committee decisions and the 2019 reactive monitoring mission report.",
+        "url": "https://whc.unesco.org/en/list/121/documents/",
+        "source_id": "src_00"
+      },
+      {
+        "category": "archival_records",
+        "description": "The Nepal Heritage Documentation Project (Heidelberg University Library and partners, 2020 to January 2026) publishes open-access digital documentation of endangered monuments, inscriptions and objects focused on the Kathmandu Valley through the DANAM archive.",
+        "url": "https://www.ub.uni-heidelberg.de/Englisch/wir/projekt_nhdp.html",
+        "source_id": "src_17"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "A free interactive 3D virtual tour of Patan Durbar Square on CyArk's Tapestry platform (version published 2023, developed with the Children's Museum of Indianapolis and local experts).",
+        "url": "https://tapestry.cyark.org/content/patan",
+        "source_id": "src_18"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed ISPRS Annals paper on digital recording and structural investigation of historic structures in the valley after the 2015 earthquake.",
+        "url": "https://isprs-annals.copernicus.org/articles/IV-2-W2/243/2017/",
+        "source_id": "src_09"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003/2007",
+      "title": "Property on UNESCO's List of World Heritage in Danger",
+      "description": "UNESCO's property page records that Kathmandu Valley was on the Danger List from 2003 until it was removed in 2007. The sources reviewed do not describe the reasons in detail. UNESCO's current Danger List page does not include the property, and it was not re-inscribed after the 2015 earthquake on the evidence reviewed.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2015-04",
+      "title": "Gorkha earthquake damages monuments across the valley",
+      "description": "The April 2015 earthquake destroyed or damaged many monuments in the property. UN News reported that the Hanuman Dhoka, Patan and Bhaktapur Durbar Squares were among the most severely affected. A 2017 survey of 195 monuments recorded 38 completely collapsed and 157 partially damaged.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_08",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2019-10-16/2019-10-21",
+      "title": "Joint UNESCO/ICOMOS/ICCROM reactive monitoring mission",
+      "description": "A joint World Heritage Centre, ICOMOS and ICCROM reactive monitoring mission visited the property on 16-21 October 2019. The mission's recommendations are referenced by the Committee in its 2023 and 2026 decisions; the mission report's own findings were not read in this research pass.",
+      "event_type": "other",
+      "source_ids": [
+        "src_15",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2022-01-03",
+      "title": "Press report on unauthorised construction in World Heritage areas",
+      "description": "Online Khabar reported that post-earthquake reconstruction combined with weak enforcement was allowing unauthorised concrete construction and height-limit violations in or near monument zones, citing a former Department of Archaeology official and a heritage-management expert, and quoting a Department official who acknowledged a likelihood of Danger List inscription. Single outlet; treated as context for a chronic pressure.",
+      "event_type": "other",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2023/2024",
+      "title": "World Heritage Committee records authenticity and management concerns",
+      "description": "Committee decisions 45 COM 7B.45 (2023) and 46 COM 7B.36 (2024) welcomed Nepal's recovery efforts and the new International Scientific Committee, while together raising concerns including authenticity, reconstruction focused on monuments rather than traditional housing and settlements, Heritage Impact Assessment procedures, a Patan Durbar Square sewer project and the Pashupati Master Plan. Neither decision mentions Danger List inscription.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2025-05-25",
+      "title": "Press report on slowing heritage reconstruction budgets",
+      "description": "The Rising Nepal reported that of 920 damaged heritage sites nationally, 815 had been reconstructed. For the three Durbar Squares it gave 134 complete, 16 under construction and 24 not yet started, and quoted the Department of Archaeology's Director General saying heritage reconstruction budgets have been falling year by year, citing shortages of skilled workers and specialised timber. The three-square scope explains the difference from the official report's valley-wide 21 not-yet-started.",
+      "event_type": "other",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2025-09-08/2025-09-09",
+      "title": "Political unrest damages Singha Durbar and other historic buildings in Kathmandu",
+      "description": "During deadly protests the historic Singha Durbar palace complex was set on fire, and other Rana-era and ceremonial heritage (including the chariot wheels for the Rato Machhindranath festival and the Sheetal Niwas residence) was reported damaged. Heritage commentators warned the Durbar Squares were at risk, and one report describes protesters positioning themselves to protect Bhaktapur. Neither source reports damage to the property's monument zones. Singha Durbar is not part of the World Heritage property.",
+      "event_type": "political",
+      "source_ids": [
+        "src_10",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2025-12-01",
+      "title": "Nepal's State of Conservation report gives recovery status",
+      "description": "Nepal's State of Conservation report (dated 1 December 2025) states that, with data as of April 2025, 136 of 173 affected monuments were complete, 16 ongoing and 21 not yet started (18 of the 21 at Pashupati, per the report), with Bauddhanath and Swayambhu fully complete. Self-reported by the State Party.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025-12-05",
+      "title": "International Scientific Committee for the Kathmandu Valley meets",
+      "description": "UNESCO and Nepal's Department of Archaeology convened the International Scientific Committee for the property, which has met several times since March 2023. UNESCO's article on the meeting reports that 170 heritage structures damaged in 2015 have been restored and quotes a Nepali ministry official saying about 11% of structures and monuments remain outstanding.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee adopts decision 48 COM 7B.18",
+      "description": "At its 48th session the Committee acknowledged progress in conservation work in the Protected Monument Zones and implementation of 2019 mission recommendations, and requested that Nepal have the Pashupati Master Plan reviewed before implementation, revise its Heritage Impact Assessment procedures, complete the Integrated Management Framework and have draft sector strategies approved. An updated report is due 1 December 2027. No Danger List action is recorded in the decision.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_01"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Kathmandu Valley",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/121/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7B.18 - Kathmandu Valley (Nepal)",
+      "publisher": "UNESCO World Heritage Committee",
+      "url": "https://whc.unesco.org/en/decisions/9075",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 46 COM 7B.36 - Kathmandu Valley (Nepal) (C 121bis)",
+      "publisher": "UNESCO World Heritage Committee",
+      "url": "https://whc.unesco.org/en/decisions/8562",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 45 COM 7B.45 - Kathmandu Valley (Nepal) (C 121bis)",
+      "publisher": "UNESCO World Heritage Committee",
+      "url": "https://whc.unesco.org/en/decisions/8320",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_04",
+      "title": "State of conservation report by the State Party (Kathmandu Valley), dated 1 December 2025",
+      "publisher": "Government of Nepal, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/223752",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Self-reported by the State Party and read through an automated summary of the page; figures (136 of 173 monuments complete, data as of April 2025) should be checked against the full PDF before approval.",
+      "published_date": "2025-12-01",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Supporting the Preservation and Management Strategies for Kathmandu Valley UNESCO World Heritage Site",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/supporting-preservation-and-management-strategies-kathmandu-valley-unesco-world-heritage-site",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025-12-15",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_06",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Kathmandu Valley - maps and component coordinates",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/121/maps/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Nepal: experts begin post-disaster work at quake-damaged UNESCO heritage sites",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/story/2015/10/511992",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Digital Recording and Non-Destructive Techniques for the Understanding of Structural Performance for Rehabilitating Historic Structures at the Kathmandu Valley After Gorkha Earthquake 2015",
+      "publisher": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+      "url": "https://isprs-annals.copernicus.org/articles/IV-2-W2/243/2017/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Nepal's political turmoil puts heritage at risk",
+      "publisher": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/art-culture/2025/09/12/nepal-s-political-turmoil-puts-heritage-at-risk",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-09-12",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Historic Singha Durbar Palace Destroyed as Nepal Protests Turn Deadly",
+      "publisher": "Hyperallergic",
+      "url": "https://hyperallergic.com/1040874/historic-singha-durbar-palace-destroyed-as-nepal-protests-turn-deadly/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-09-10",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Kathmandu World Heritage Sites at Risk",
+      "publisher": "Online Khabar English",
+      "url": "https://english.onlinekhabar.com/risk-world-heritage-kathmandu.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single-outlet report from January 2022 relying on named and unnamed sources; used as context for a chronic pressure only and not as sole support for a status-determining claim. Read through an automated page summary.",
+      "published_date": "2022-01-03",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Quake-damaged heritage reconstruction on, albeit slowly",
+      "publisher": "The Rising Nepal",
+      "url": "https://risingnepaldaily.com/news/62458",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The Rising Nepal is a state-owned daily. Its 134/16/24 figures cover the three Durbar Squares only (not the whole valley), so differences from the State Party report's 136/16/21 reflect scope as well as dating. Used only to corroborate direction and obstacles, not exact valley counts.",
+      "published_date": "2025-05-25",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Report of the joint World Heritage Centre/ICOMOS/ICCROM Reactive Monitoring mission to the Kathmandu Valley (Nepal), 16-21 October 2019",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS / ICCROM",
+      "url": "https://whc.unesco.org/en/documents/187827",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Only the document's catalogue page (title and dates) was read; the report text itself was not reviewed.",
+      "published_date": "2019",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Kathmandu Valley - image gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/121/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Nepal Heritage Documentation Project (NHDP)",
+      "publisher": "Heidelberg University Library",
+      "url": "https://www.ub.uni-heidelberg.de/Englisch/wir/projekt_nhdp.html",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Patan Durbar Square (Tapestry virtual tour)",
+      "publisher": "CyArk Tapestry",
+      "url": "https://tapestry.cyark.org/content/patan",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-04"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Initial draft by Claude. Proposed status Moderate Concern / Supported confidence (close High/Moderate call on the 'historical damage substantially incomplete' trigger; flagged for human review). Correction to brief: UNESCO's property page and current Danger List page show the property was on the Danger List only 2003-2007 and no re-inscription after 2015 was found. Known gaps and unverified items: (1) UNESCO and news pages were read through automated page summaries, not full PDFs; the 2025 State Party report figures and the 2019 mission report text should be checked against the full documents. (2) Reconstruction figures conflict (136/173 complete in the April 2025 State Party report; 170 restored and ~11% remaining in UNESCO's December 2025 article; 16 ongoing/24 not started in a May 2025 press report); no 2026 valley-specific progress count was found, and the exact denominator behind UNESCO's 11% was not stated. (3) The exact month/date of the 48th session decision and the 2023 and 2024 decision dates were not confirmed beyond year. (4) No independent 2026 field assessment of valley monuments was found. (5) The reasons for the 2003 Danger List inscription were not captured. (6) Environmental/climate threats (monsoon flooding, landslide risk at Swayambhu, air pollution) were not independently researched, only mentioned generically in the State Party report, so no environmental_climate category is asserted. (7) No significant recent fire in the monument zones was verified (a January 2017 Taleju Temple fire in Bhaktapur was found but judged minor and omitted). (8) Public availability of 3D models from post-earthquake scanning (e.g. a UNC-led Swayambhu LiDAR project) was not confirmed and is not counted. (9) Google Street View coverage of Nepal (August 2025) was found but not used as DPI evidence. (10) UN News 2015 article's exact publication date was not confirmed. Verifier fixes applied 2026-10-04 (11% figure attributed to a ministry official, report dating, src_13 scope, 3D documentation marked not established). Not added: a Kathmandu Post item on a fire near Bhaktapur, whose details were not re-verified.",
+      "changed_by": "claude"
+    }
+  ]
+}
