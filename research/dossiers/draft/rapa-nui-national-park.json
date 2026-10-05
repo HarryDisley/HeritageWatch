@@ -1,0 +1,574 @@
+{
+  "slug": "rapa-nui-national-park",
+  "name": "Rapa Nui National Park",
+  "alternate_names": [
+    "Easter Island",
+    "Isla de Pascua",
+    "Parque Nacional Rapa Nui"
+  ],
+  "country": "Chile",
+  "region": "Oceania / Pacific (Chilean territory, Easter Island)",
+  "coordinates": {
+    "lat": -27.0744,
+    "lng": -109.3657
+  },
+  "coordinate_note": "Converted from UNESCO's property-page coordinates (S27 4 27.851, W109 21 56.459). The property covers about 6,666 hectares (roughly 40% of Easter Island), so this is a single-point reference.",
+  "unesco_id": "715",
+  "inscription_year": 1995,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Rapa Nui National Park as preserving the legacy of a society of Polynesian origin that settled Easter Island around A.D. 300 and developed a powerful, imaginative and original tradition of monumental art and architecture. Between the 10th and 16th centuries its people built approximately 900 moai statues and over 300 ceremonial platforms (ahu), which blend with the natural surroundings to form what UNESCO's brief synthesis calls an unparalleled cultural landscape. The park covers about 6,666 hectares, around 40% of the island, and was inscribed in 1995 under criteria (i), (iii) and (v).",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ahu_Tongariki_cropped.jpg",
+      "caption": "Ahu Tongariki, a restored platform of standing moai, photographed in March 2006. Shows the site as it was on that date, not its current condition.",
+      "credit": "Rivi",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki_cropped.jpg",
+      "taken_date": "2006-03-29",
+      "taken_date_display": "29 March 2006",
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Rano_Raraku_quarry.jpg",
+      "caption": "The Rano Raraku quarry, where the moai were carved, photographed in March 2006, before the October 2022 fire in this area. Not a record of its current condition.",
+      "credit": "Rivi",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rano_Raraku_quarry.jpg",
+      "taken_date": "2006-03-29",
+      "taken_date_display": "29 March 2006",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Material decay of the soft volcanic tuff is the most persistent condition problem. UNESCO's 2023 diagnosis (completed June 2023, published July 2023) evaluated 358 archaeological elements and found that erosion from climate and water was the most recurrent and most harmful factor, alongside biological growth (lichens, vegetation), fire and human activity. Reporting on that diagnosis (La Tercera, August 2023) says the overall condition was rated 'regular-malo' (fair to poor), and that UNESCO recommended prioritising 22 moai for short-term intervention (biodeterioration control, consolidation, hydrophobic treatment). UNESCO's property page also lists weathering of tuff, invasive vegetation, illegal cattle grazing and visitor management as management concerns; the underlying state-of-conservation text on that page may be dated (the report it links is from 1998). Visitor management and governance are part of the picture: the park has been administered by the Ma'u Henua indigenous community under a concession announced by Chile's Interior Ministry on 23 November 2017; the community has since sought outside funding for restoration (park director Nancy Rivera, quoted September 2023, said the community needed national, international and its own resources, and that restoration needed National Monuments Council approval before fundraising), and Mongabay reported audit findings and internal disputes in the early years of that administration (an audit period of October 2016 to June 2018, reported in 2019-2020; not verified as current). Tourist stays were limited to 30 days and residency tightened by a Chilean law in effect from 1 August 2018, with the mayor citing environmental strain; the island was closed to tourists for about 28 months during the pandemic (to August 2022). In 2025 the Ma'u Henua president described the community's model as combining protection with self-determination. Not found in this pass: current visitor-number figures or a formal carrying-capacity study for the park.",
+      "first_identified_date": null,
+      "date_note": "Documented as a chronic, long-running condition issue; no single start date identifiable from the sources reviewed.",
+      "source_ids": [
+        "src_00",
+        "src_03",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_23"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "On 4 October 2022 a fire swept through the Rano Raraku quarry and crater area of the park. UNESCO's sources give differing area figures (more than 100 hectares on its Emergency Heritage Fund page; approximately 240 hectares on its October 2022 mission page); NPR's report of about 250 acres (roughly 100 hectares) is consistent with the lower figure, so the 240 hectare figure is uncorroborated here and early moai-damage figures (177 moai reported as damaged in initial reports). UNESCO's later diagnosis found 22 moai with serious alterations among 358 archaeological elements evaluated. La Tercera's account of the diagnosis reports that fire damage was superficial (surface colour change and soot, with no observed fissures, cracks, fractures or displacements) and rated medium, with climate, moisture and biological factors a greater ongoing risk; El Desconcierto (September 2023) quotes archaeologist Daniela Meza that soot and heat damage weaken the tuff and accelerate erosion. NPR reported the mayor saying that all fires on Rapa Nui are caused by human beings; the official cause of this fire was not verified in this pass, so it is classed here under fire hazard (natural_disaster) as the closest of the four categories, not as a statement of cause. UNESCO funded a fire-risk management plan and training. A further hazard is storm and heavy-rain related erosion: UNESCO's diagnosis names water erosion as the most harmful agent, and CyArk's 2017 fieldwork notes that several ahu face erosion, especially following severe weather events. No documented storm-surge or tsunami damage to ahu in the last five years was found in this pass.",
+      "first_identified_date": "2022-10-04",
+      "source_ids": [
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_18"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "A University of Hawai'i at Manoa study (lead author Noah Paoa, Journal of Cultural Heritage, reported in August 2025) used a digital model of the Tongariki area on the east coast and projected that seasonal waves could reach Ahu Tongariki by 2080 under sea-level-rise scenarios, with 51 cultural assets in the study area identified as threatened by coastal flooding (the figure applies to the study area, not the whole park). This is a modelled, long-range projection from a single academic study, not a documented current loss. CyArk has documented ahu at Rapa Nui since 2017 partly because of coastal erosion concerns. Infobae (July 2025) reports, without a primary source, that more than 90% of erected moai are near the coast; this is treated as indicative only.",
+      "first_identified_date": null,
+      "date_note": "Long-term, gradual trend; the 2025 study is the earliest dated source in this dossier and no single start date applies.",
+      "source_ids": [
+        "src_16",
+        "src_18",
+        "src_20",
+        "src_22"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: not met. No active combat; no evidence of loss of monitoring access (University of Barcelona fieldwork in February 2025 and the 2025 Rapa Nui Heritage Summit show active, ongoing monitoring and conservation work); protection has not collapsed. High Concern: trigger 2 is matched on the current evidence. Specifically, a damaging event within roughly the last five years (the 4 October 2022 Rano Raraku fire) is reported by multiple independent authoritative or reputable sources (UNESCO pages, NPR, La Tercera), and the damage has been assessed (UNESCO diagnosis, 2023) but not shown to be fully repaired: UNESCO recommended prioritising 22 moai for short-term treatment, the community said in September 2023 that restoration funding and approvals were still pending, and the most recent evidence found (Infobae, July 2025; University of Barcelona, February 2025) shows treatment of five moai reportedly begun and scientific assessment still underway. Other High triggers not met: the property is not on the List of World Heritage in Danger (checked on UNESCO's Danger List page); there is no armed conflict; the sea-level projection (waves reaching Ahu Tongariki by 2080) is one academic study, not a near-term timeframe stated by a named authority. CLOSE CALL with Moderate Concern: UNESCO's diagnosis describes the fire damage as largely superficial with no fractures, and identifies climate and water erosion as the larger, chronic agent, which fits the Moderate trigger 'credible documented threat that is chronic or monitored rather than acute'. If evidence shows the 22 priority moai have since been substantially treated and only routine conservation remains, the site would move to Moderate Concern. This call rests on repair being incomplete as of the latest evidence found (mid-2025); no 2026 progress report was located.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Present conditions: Rapa Nui National Park is a well-documented, actively managed property with an engaged indigenous administration (Ma'u Henua, concession announced November 2017), international support (UNESCO Emergency Heritage Fund, USD 97,000), and active scientific work (a University of Barcelona team assessing fire damage with georadar and ultrasound in February 2025; CyArk and Binghamton University 3D documentation). It is not on the Danger List and no armed-conflict or access-collapse evidence exists. Against that, the October 2022 Rano Raraku fire is within the five-year window, UNESCO's 2023 diagnosis (as reported by La Tercera, which gives a fair-to-poor rating) recommended short-term treatment of 22 moai, and the most recent evidence found shows repair only beginning (reportedly five moai) with funding and approval constraints described by park officials. Chronic pressures also continue: erosion of soft tuff from water and climate (UNESCO's diagnosis names it the most harmful factor), and a 2025 modelling study projecting wave inundation of Ahu Tongariki by 2080 (a projection, not a current loss). Visitor and governance questions (a 30-day tourist stay limit since 2018, a 2020-2022 closure, financial disputes reported in 2019-2020 that were not verified as current) are context and do not by themselves drive the status. Confidence is Supported rather than Confirmed: the fire and the diagnosis are corroborated by UNESCO and independent reporting, but the deciding fact, how far repair has progressed, was last evidenced in mid-2025 from a single derivative source, several figures conflict across UNESCO pages and press (fire area, number of moai affected), and the Moderate/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-04",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_16",
+        "src_21",
+        "src_22",
+        "src_23"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": false,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual category (virtual tour) and technical/scholarly ones). Coverage is uneven. Photographic is marked false conservatively: UNESCO's public gallery for the property appears to hold only a small set of images (19 images, credited to two photographers), and no larger institutional or archival image collection was found in this pass; this does not change the tier. The strongest evidence is 3D: CyArk's laser-scan and photogrammetry work (2007-2008 laser scanning, and December 2017 laser scanning and drone photogrammetry covering selected ahu, Ana Kai Tangata and Rano Raraku) and a 2025 Binghamton University photogrammetric model of the Rano Raraku quarry, which is viewable online. The virtual tour on CyArk's page was not walked through, so its scope is unverified. No whole-park 3D model was found; the model covers the quarry, a small fraction of the park's archaeological sites. Archival evidence rests on UNESCO's document index and the inscription record; the 1995 ICOMOS evaluation and 2023 periodic report were listed but not opened. A reviewer may wish to consider whether this uneven, site-selective coverage should temper the tier.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists a 1995 ICOMOS advisory body evaluation, the 1995 inscription decision (19 COM VIII.C.1), a 1998 state-of-conservation report, a 2013 retrospective Statement of Outstanding Universal Value decision and a 2023 Periodic Reporting Cycle 3 entry. The inscription decision and the 1998 summary were opened; the other listed documents were not.",
+        "url": "https://whc.unesco.org/en/list/715/documents",
+        "source_id": "src_07"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "CyArk's page (dated 2009) describes 2007-2008 laser scanning and imaging of Easter Island moai, ahu and the Rano Raraku quarry, says CyArk is the internet host for much of that data, and links to the Rapa Nui project in its archive. The archive itself was not opened.",
+        "url": "https://cyark.org/about/monolithic-moai-of-easter-island-captured-in-3d",
+        "source_id": "src_19"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "CyArk's account of December 2017 fieldwork, working with local managers and Chile's National Monuments Commission, combining 3D laser scanning with terrestrial and drone photogrammetry at ahu, the Rano Raraku quarry and Ana Kai Tangata.",
+        "url": "https://www.cyark.org/about/documenting-the-archaeology-of-rapa-nui",
+        "source_id": "src_18"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Binghamton University researchers (Carl Lipo and colleagues) built a high-resolution photogrammetric 3D model of the Rano Raraku quarry (nearly 1,000 moai) described in a November 2025 PLOS One paper; the release says it is viewable online in an ArcGIS 3D viewer. The viewer link was not opened in this pass.",
+        "url": "https://www.newswise.com/articles/first-of-its-kind-3d-model-lets-you-explore-easter-island-statues-up-close",
+        "source_id": "src_17"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "CyArk's Rapa Nui project page offers a 3D virtual tour, explorable 3D models, video and lesson plans. Scope and capture dates are not stated on the page.",
+        "url": "https://cyark.org/projects/rapa-nui/overview",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed scholarship on the site's documentation and threats, as reported by university releases: a 2025 Journal of Cultural Heritage study of sea-level rise and wave inundation at Tongariki (University of Hawai'i at Manoa) and a November 2025 PLOS One paper on moai production based on the quarry model (Binghamton University). The papers themselves were not opened.",
+        "url": "https://www.hawaii.edu/news/2025/08/12/rapa-nui-sea-level-rise/",
+        "source_id": "src_16"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "University of Barcelona-led research team (with University of Vigo and University of Copenhagen) conducting a scientific assessment of fire damage to moai, with georadar and ultrasound, from February 2025; results not found.",
+        "url": "https://web.ub.edu/en/web/actualitat/w/recerca-moais",
+        "source_id": "src_21"
+      },
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a public photo gallery (roughly 19 images) of moai, landscapes and archaeological features. Judged too small to count as a substantial body of professional or archival imagery for this rubric.",
+        "url": "https://whc.unesco.org/en/list/715/gallery/",
+        "source_id": "src_06"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1995",
+      "title": "Rapa Nui National Park inscribed on the World Heritage List",
+      "description": "At its 19th session the World Heritage Committee inscribed the park under criteria (i), (iii) and (v) (decision 19 COM VIII.C.1), describing it as containing one of the most remarkable cultural phenomena in the world.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_01",
+        "src_00"
+      ]
+    },
+    {
+      "date": "1998",
+      "title": "State of conservation reported to the Committee (22 COM VII.43)",
+      "description": "UNESCO's record of the 1998 report notes a Management Plan adopted in February 1998 and issues including a proposed harbour construction within the property (reported as abandoned by Chilean authorities) and stone extraction (said to be strictly controlled by the Council of National Monuments). The Committee asked Chile to keep it informed of future planning, infrastructure work and excavations.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_24"
+      ]
+    },
+    {
+      "date": "2017-11-23",
+      "title": "Chile announces transfer of park administration to the Ma'u Henua community",
+      "description": "Chile's Interior Ministry reported that President Bachelet handed administration of the park to the Ma'u Henua indigenous community under a 50-year renewable concession, described as covering sacred sites, moai and major tourist areas. A 2025 case study on Panorama Solutions describes the same governance model (self-reported).",
+      "event_type": "political",
+      "source_ids": [
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2018-08-01",
+      "title": "Chilean law limits tourist stays and tightens residency on Easter Island",
+      "description": "AFP reported that new rules in effect from 1 August 2018 cut tourist stays from 90 to 30 days and tightened residency requirements, citing population growth to 7,750 residents by 2017, waste and cultural pressures. AFP described new residents as needing to be related to Rapa Nui people or hold certain work roles; the law's text was not opened.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2022-08-04",
+      "title": "Tourism resumes after about 28 months of closure",
+      "description": "AFP reported that the first commercial flight carrying tourists landed in Hanga Roa after about 28 months of pandemic closure, with only two flights a week at first and most large hotels still closed.",
+      "event_type": "other",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2022-10-04",
+      "title": "Fire damages the Rano Raraku quarry and moai",
+      "description": "A fire spread across the Rano Raraku crater and quarry area of the park. UNESCO pages give differing area figures (more than 100 hectares; approximately 240 hectares); NPR reported about 250 acres (roughly 100 hectares). NPR reported the park was closed to visitors and quoted the mayor saying all fires on Rapa Nui are caused by human beings. The cause of this fire was not verified here.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2023-07-13",
+      "title": "UNESCO publishes diagnosis of fire damage",
+      "description": "UNESCO reported that its assessment, completed in June 2023, evaluated 358 archaeological elements and found 22 moai with serious alterations requiring short-term intervention, with erosion from climate and water the most recurrent and harmful factor. La Tercera's account says 222 moai were included in the survey, that fire damage was superficial with no observed fractures, and that overall condition was rated fair to poor.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_03",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2025-02",
+      "title": "University of Barcelona-led team begins scientific assessment of fire damage",
+      "description": "A research team from the University of Barcelona with the Universities of Vigo and Copenhagen and the Ma'u Henua conservation team carried out fieldwork using georadar and ultrasound to examine the interior of fire-affected moai. The university said results were expected by the end of 2025; none were found.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_21"
+      ]
+    },
+    {
+      "date": "2025-08-12",
+      "title": "Study projects waves reaching Ahu Tongariki by 2080",
+      "description": "The University of Hawai'i at Manoa reported a study in the Journal of Cultural Heritage that, using a digital model and sea-level-rise scenarios, projects seasonal waves could reach Ahu Tongariki by 2080, with 51 cultural assets in the study area threatened by coastal flooding.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "title": "Online 3D model of the Rano Raraku quarry published",
+      "description": "Binghamton University researchers published a PLOS One paper alongside a photogrammetric 3D model of the Rano Raraku quarry (nearly 1,000 moai) that the release says is publicly viewable online.",
+      "event_type": "documentation",
+      "source_ids": [
+        "src_17"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Rapa Nui National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/715/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 19 COM VIII.C.1: Inscription of Rapa Nui National Park (Chile)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/3080",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "1995",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_02",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_03",
+      "title": "UNESCO completes diagnosis of the state of conservation of Rapa Nui heritage resources after the 2022 fires",
+      "publisher": "UNESCO World Heritage Centre (news item 2587)",
+      "url": "https://whc.unesco.org/en/news/2587",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Date and details as shown on the news page; the underlying diagnostic report itself was not read.",
+      "published_date": "2023-07-13",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Emergency Heritage Fund (HEF) in Rapa Nui National Park (Chile)",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/emergency-heritage-fund-hef-rapa-nui-national-park-chile",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page last-updated date as shown (28 May 2025); describes a one-year project funded with USD 97,000. Its fire-area figure (more than 100 hectares) differs from the approximately 240 hectares on src_05.",
+      "published_date": "2025-05-28",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_05",
+      "title": "UNESCO visited Rapa Nui to support mitigation measures after fire at World Heritage site",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/unesco-visited-rapa-nui-support-mitigation-measures-after-fire-world-heritage-site",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Describes an October 2022 exploratory mission. Its figures (approximately 240 hectares; 177 moai damaged, described as initial reports) are early estimates and differ from later UNESCO figures.",
+      "published_date": "2022-10",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Rapa Nui National Park: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/715/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Rapa Nui National Park: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/715/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Used only as an index of what UNESCO lists (1995 ICOMOS evaluation, 1995 and 1998 decisions, 1998 state of conservation report, 2013 retrospective Statement of OUV decision, a 2023 Periodic Reporting Cycle 3 entry). The listed documents themselves, other than the 1995 decision and the 1998 summary, were not opened.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_08",
+      "title": "The iconic Easter Island statues have been damaged in a fire, authorities say",
+      "publisher": "NPR (via Jefferson Public Radio)",
+      "url": "https://www.ijpr.org/npr-news/2022-10-07/the-iconic-easter-island-statues-have-been-damaged-in-a-fire-authorities-say",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports about 250 acres (roughly 100 hectares) burned, consistent with UNESCO's 'more than 100 hectares' figure rather than the ~240 hectare figure.",
+      "published_date": "2022-10-07",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Tras incendio de 2022: Unesco senala que moais en Rapa Nui presentan un estado de conservacion 'regular-malo' y recomienda tratar 22 piezas en el corto plazo",
+      "publisher": "La Tercera (Chile)",
+      "url": "https://www.latercera.com/nacional/noticia/tras-incendio-de-2022-unesco-senala-que-moais-en-rapa-nui-presentan-un-estado-de-conservacion-regular-malo-y-recomienda-tratar-22-piezas-en-el-corto-plazo/VF6IJU4VYZHKVHOVMLRWWZQ55A/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Spanish-language report of the UNESCO diagnosis (secondhand). Used with src_03 (UNESCO) rather than alone.",
+      "published_date": "2023-08-04",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Tras un ano del feroz incendio, los moais de Isla de Pascua claman ser restaurados",
+      "publisher": "El Desconcierto (Chile)",
+      "url": "https://eldesconcierto.cl/2023/09/26/tras-un-ano-del-feroz-incendio-los-moais-de-isla-de-pascua-claman-ser-restaurados",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Spanish-language report. Its statement that 222 moai were damaged is looser than UNESCO's diagnosis (La Tercera reports 222 moai included in the survey of 358 elements, of which 22 were recommended for urgent short-term treatment), so that figure is not used. Used for restoration-funding statements by named park officials.",
+      "published_date": "2023-09-26",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Presidenta Bachelet entrega administracion del Parque Nacional Rapa Nui a la comunidad de Isla de Pascua",
+      "publisher": "Ministerio del Interior y Seguridad Publica (Chile)",
+      "url": "https://www.interior.gob.cl/noticias/2017/11/23/presidenta-bachelet-entrega-administracion-del-parque-nacional-rapa-nui-a-la-comunidad-de-isla-de-pascua/",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2017-11-23",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Recovering the administration of ancestral land: establishment of the Indigenous Community Ma'u Henua",
+      "publisher": "Panorama Solutions",
+      "url": "https://panorama.solutions/en/solution/recovering-administration-ancestral-land-establishment-indigenous-community-mau-henua",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Community-submitted case study on a solutions platform; outcome figures (jobs, ranger numbers) are self-reported and were not independently verified. Used only for context on the governance model, not for status.",
+      "published_date": "2025-09-25",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Fiscal meltdown of Easter Island park's management drives rift among islanders",
+      "publisher": "Mongabay",
+      "url": "https://news.mongabay.com/2020/02/fiscal-meltdown-of-easter-island-parks-management-drives-rift-among-islanders/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports on audit findings and internal disputes in the park's indigenous administration (audit period October 2016 to June 2018; first published 2019). It states the handover occurred in 2018, which conflicts with the Chilean Interior Ministry's 23 November 2017 date (src_11); the Interior Ministry date is used. The article is about 6-7 years old and current governance conditions were not verified; do not use as sole support for any status-determining claim.",
+      "published_date": "2020-02",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Chile to restrict tourists and non-locals on Easter Island (AFP)",
+      "publisher": "The Jakarta Post (republishing AFP)",
+      "url": "https://www.thejakartapost.com/travel/2018/07/30/chile-to-restrict-tourists-and-non-locals-on-easter-island",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2018-07-30",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Tourists return, but Easter Islanders draw lessons from Covid isolation (AFP)",
+      "publisher": "Buenos Aires Times (republishing AFP)",
+      "url": "https://batimes.com.ar/news/latin-america/tourists-return-but-easter-islanders-draw-lessons-from-covid-isolation.phtml",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2022-08-11",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Rapa Nui's iconic moai statues threatened by sea level rise",
+      "publisher": "University of Hawai'i at Manoa (news release)",
+      "url": "https://www.hawaii.edu/news/2025/08/12/rapa-nui-sea-level-rise/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "University news release about a peer-reviewed Journal of Cultural Heritage study (lead author Noah Paoa); the journal paper itself was not opened.",
+      "published_date": "2025-08-12",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_17",
+      "title": "First-of-its-kind 3D model lets you explore Easter Island statues up close",
+      "publisher": "Newswise (Binghamton University news release)",
+      "url": "https://www.newswise.com/articles/first-of-its-kind-3d-model-lets-you-explore-easter-island-statues-up-close",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "University press release about a PLOS One paper (Lipo et al.); the paper itself was not opened. Other outlets give differing photograph counts for the model (about 11,000 to 22,000), so no photograph count is stated in this dossier.",
+      "published_date": "2025-11-26",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Documenting the Archaeology of Rapa Nui",
+      "publisher": "CyArk",
+      "url": "https://www.cyark.org/about/documenting-the-archaeology-of-rapa-nui",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "CyArk's own account of its December 2017 fieldwork.",
+      "published_date": "2017-12",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Monolithic Moai of Easter Island Captured in 3D",
+      "publisher": "CyArk",
+      "url": "https://cyark.org/about/monolithic-moai-of-easter-island-captured-in-3d",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "CyArk's own description of 2007-2008 scanning (page dated 2009); it states CyArk is the internet host for much of the data. The data archive itself was not opened.",
+      "published_date": "2009-07-30",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Rapa Nui project overview (3D virtual tour, 3D models, video, lesson plans)",
+      "publisher": "CyArk",
+      "url": "https://cyark.org/projects/rapa-nui/overview",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Page offers a 3D virtual tour, models and video, but does not state capture dates or exact scope per site; the tour itself was not walked through in this pass.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_21",
+      "title": "UB researchers travel to Easter Island to study the conservation state of the Moai statues after the fire of 2022",
+      "publisher": "Universitat de Barcelona",
+      "url": "https://web.ub.edu/en/web/actualitat/w/recerca-moais",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "University news item describing February 2025 fieldwork; it says results were expected by the end of 2025. No results were found. Exact publication date not shown in extracted text.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Los moais de Rapa Nui, en peligro por el cambio climatico y la erosion",
+      "publisher": "Infobae",
+      "url": "https://www.infobae.com/america/medio-ambiente/2025/07/28/los-moais-de-rapa-nui-en-peligro-por-el-cambio-climatico-y-la-erosion/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Derivative feature; its claim that about 80 moai were damaged by the fire does not match UNESCO's diagnosis and is not used. The claims that Ma'u Henua had begun restoring five fire-damaged moai and that 90% of erected moai are near the coast are single-source here and are stated as reported only.",
+      "published_date": "2025-07-28",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Isla de Pascua cumple 30 anos como Patrimonio Mundial de la UNESCO",
+      "publisher": "El Desconcierto (Chile)",
+      "url": "https://eldesconcierto.cl/2025/11/25/isla-de-pascua-cumple-30-anos-como-patrimonio-mundial-de-la-unesco-gracias-a-su-belleza",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-11-25",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_24",
+      "title": "Rapa Nui National Park: state of conservation, 1998 (22 COM VII.43)",
+      "publisher": "UNESCO World Heritage Centre (state of conservation 2249)",
+      "url": "https://whc.unesco.org/en/soc/2249",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "1998",
+      "accessed_date": "2026-10-04"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Moderate Concern flagged in decision_trigger (hinges on whether fire damage to the 22 priority moai has since been substantially repaired). Danger List status checked directly on UNESCO's Danger List page: Rapa Nui National Park is not listed. Known gaps (not included because not verified): (1) No UNESCO state-of-conservation report or World Heritage Committee decision on the property after 1998 was found; UNESCO's documents page lists a 2023 Periodic Reporting entry that was not opened. (2) The UNESCO diagnostic report itself was not read; findings rest on UNESCO's news item and La Tercera's account. (3) Figures conflict and were handled by attribution: fire area (more than 100 ha vs about 240 ha, both UNESCO pages), moai affected (177 initial reports; 222 moai among 358 elements evaluated; 22 serious; press figures of about 80 and over 400 not used), 3D model photo count (about 11,000 to 22,000, not stated). (4) No 2026 evidence on repair progress was found; the latest is mid-2025. (5) Official cause of the 2022 fire not verified; fire categorised as natural_disaster only as the nearest of four categories. (6) The 2025 Paoa sea-level paper and the 2025 PLOS One paper were not opened; both rest on university releases. (7) Coastal erosion/sea-level: no measured current erosion rates or documented storm damage to ahu in the last five years were found; the threat rests on a modelled 2080 projection and CyArk's 2017 observation. (8) Governance: the text of the 2017 concession decree and Chilean Law 21.070 (2018) could not be opened; Mongabay's reporting on audit findings and disputes (2019-2020) is dated and single-sourced, so omitted from events[]. Current visitor numbers, entrance fee rules and carrying-capacity work were not verified (a 2025 ticket-price article was read but omitted as a travel-site source). (9) Pandemic closure start date (about March 2020) is stated only through AFP's '28 months' figure. (10) The UNESCO property page gives inscription as 1995 (decision 19 COM VIII.C.1); Wikipedia, which was read but not cited, gives 1996, so 1995 was used. (11) Wikipedia not used as a source; metadata rests on UNESCO. (12) The El Desconcierto and La Tercera articles are in Spanish and were read via summary; quotes are paraphrased. Images omitted by design. VERIFIER PASS (2026-10-04): checked sources against live pages. Fixes: 3D evidence split so the December 2017 work cites src_18 (src_19 is a 2009 page about 2007-2008 scanning and does not mention 2017 or Ma'u Henua); 'immediate' corrected to 'short-term' intervention; fire-area conflict annotated (NPR's ~250 acres is about 100 ha, consistent with UNESCO's >100 ha; 240 ha uncorroborated); soot/heat-weathering point re-attributed to El Desconcierto (added src_10 to natural_disaster); Mongabay audit period corrected (Oct 2016-Jun 2018); 'Committee called unparalleled landscape' re-attributed to UNESCO brief synthesis; 'growing visitor pressure' softened to UNESCO's 'visitor management'; '2017 census', 'a few weekly flights', 'inundate', '90%' wording aligned to sources; 1998 event type set to assessment; UNESCO gallery count confirmed at 19 images by two photographers. Photographic DPI left false (conservative; tier unchanged). 22-of-222 figure rests on La Tercera/El Desconcierto, not on UNESCO's news page (which gives 358 elements and 22 moai only). Inscription year 1995 confirmed on UNESCO property and decision pages.",
+      "changed_by": "claude"
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "slug": "chan-chan-archaeological-zone",
+  "name": "Chan Chan Archaeological Zone",
+  "alternate_names": [
+    "Chan Chan",
+    "Ciudad de Chan Chan",
+    "Chimu capital of Chan Chan"
+  ],
+  "country": "Peru",
+  "region": "Americas (La Libertad region, near Trujillo)",
+  "coordinates": {
+    "lat": -8.1078,
+    "lng": -79.0747
+  },
+  "coordinate_note": "Converted from the coordinates on UNESCO's property page (S8 6 28.21, W79 4 29.053). The inscribed property is a large area of 1,414.57 hectares; this marker is a practical single-point reference.",
+  "unesco_id": "366",
+  "inscription_year": 1986,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Chan Chan was the capital of the Chimu Kingdom, which UNESCO says flourished in the 15th century before the Inca conquest, and UNESCO describes it as the largest earthen architecture city in pre-Columbian America, with nine rectangular palace complexes within high earthen walls. It is inscribed under criteria (i) and (iii) and covers 1,414.57 hectares. Archaeology magazine (2023) places its construction around A.D. 1000 and the Inca conquest of the Chimu around 1450, and reports 2022 excavations suggesting the city was more diverse than previously believed.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Main_Square_of_Palace_at_Chan_Chan.JPG",
+      "caption": "The main square of a palace complex at Chan Chan, photographed in September 2006. Shows the adobe site as it was on that date, not its current condition.",
+      "credit": "Kevstan",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Main_Square_of_Palace_at_Chan_Chan.JPG",
+      "taken_date": "2006-09-12",
+      "taken_date_display": "12 September 2006",
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Vast_Abobe_Ruins_at_Chan_Chan.JPG",
+      "caption": "Adobe ruins at Chan Chan, photographed in September 2006. Not a record of current condition.",
+      "credit": "Kevstan",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vast_Abobe_Ruins_at_Chan_Chan.JPG",
+      "taken_date": "2006-09-12",
+      "taken_date_display": "12 September 2006",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00",
+    "src_29"
+  ],
+  "threat_categories": [
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Rain from El Niño events is the threat UNESCO names most directly for the fragile earthen structures. UNESCO's 2018 state-of-conservation page lists the 'fragile state of conservation of earthen structures and decorated surfaces due to extreme climatic conditions (El Niño phenomenon)' among the threats for which the property was placed on the Danger List. The 2014 joint UNESCO/ICOMOS reactive monitoring mission said strong rains connected to El Niño Southern Oscillation were still one of the most serious threats to the site's physical integrity, and recommended exploring more permanent ways to protect the areas not yet roofed. UNESCO's 2024 state-of-conservation page reports that rain in March 2023 (described there as 'hurricane Yaku', with rainfall 'exceeding 20mm') affected wall surfaces and damaged protective covers, followed by repair works at the Nik An, Chol An, Arco Iris and La Esmeralda complexes. The 2017 'Coastal El Niño' is recorded in events[]: a UNESCO mission representative, quoted by Andina, said damage had been minimal despite the scale of the disaster, after preventive works. As of September 2026, Peru's Culture Minister said a very strong El Niño is being warned about, and El Peruano reported Chan Chan among the sites at highest risk; reporting of ENFEN's official communique (15 June 2026) says the El Niño Costero alert is active, with strong (48%) or moderate (46%) magnitude expected for summer 2026-27, and a regional outlet (El Buho, 15 September 2026) reports an ENFEN statement of 14 September 2026 that the event has a greater probability of reaching 'extraordinaria' magnitude between September 2026 and January 2027. These are forecasts and preparedness announcements, not documented damage; no 2026 rain damage at Chan Chan was found in the sources reviewed.",
+      "first_identified_date": null,
+      "date_note": "Chronic, recurrent threat tied to El Niño cycles; UNESCO cites it as a reason for the 1986 danger listing, but no single start date applies.",
+      "source_ids": [
+        "src_11",
+        "src_13",
+        "src_09",
+        "src_15",
+        "src_20",
+        "src_21",
+        "src_22",
+        "src_23"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "UNESCO's state-of-conservation pages and its climate-resilience case study (covering 1986 to 2021) document that rising water tables and elevated groundwater, together with intense precipitation, damage the base of earthen structures (humidity, salt contamination, vegetation growth). The 2023 and 2024 UNESCO pages cite rising water table levels as an ongoing challenge, with the Pan-American Centre for the Conservation of Earthen Heritage monitoring meteorological conditions and water levels. The 2014 mission found the drainage system was successfully controlling groundwater levels, and the case study records ongoing drain maintenance. This is a chronic, actively managed threat. Whether climate change is altering El Niño frequency or intensity was not assessed in the authoritative sources read and is not claimed here.",
+      "first_identified_date": null,
+      "date_note": "Documented as a long-standing/chronic concern; no single identifiable start date found in sources reviewed.",
+      "source_ids": [
+        "src_10",
+        "src_09",
+        "src_14",
+        "src_13"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The reasons for Danger List status are chiefly structural and management-related. (1) Vulnerability and deterioration of earthen architecture and decorated surfaces: UNESCO's 2008 and 2023 state-of-conservation pages describe 'continuous deterioration of earthen architecture structures and decorated surfaces'. (2) Illegal occupation and encroachment: successive Committee decisions (2021, 2023, 2024) record that two essential corrective measures, delimitation and regulation of the buffer zone and implementation of the amended Law 28261 on illegal occupation, had remained pending for several years; the 2025 Committee noted with concern delays in incorporating buffer-zone regulations into the Metropolitan Urban Development Plan, urged Peru to conclude the Law 28261 amendment with utmost priority and regretted 'severe delays'; the 2026 decision notes progress (regularisation actions in the buffer zone, a published and consulted draft regulation of Law 28261, identification of registered land tenure overlapping the property) while encouraging Peru to finalise these processes. Gestion reported on 20 February 2025, citing the director of the La Libertad culture directorate, that about 600 square metres of the intangible archaeological area in the Pampas de Alejandro sector were destroyed by intruders for farming and plot subdivision, and that the directorate lacks the budget for adequate guarding (single outlet, reported as stated by the official). El Buho reported demolition orders in January 2024 against construction by a housing association in the intangible zone (single-source, flagged). (3) Road infrastructure: the Committee has said (2021, repeated 2024) that widening the existing Trujillo ring road through the property and buffer zone 'endangers the property's integrity and Outstanding Universal Value'; construction of the El Sol Highway through the property is reported as halted (2024), and the 2026 decision asks for a Cultural Heritage Impact Assessment of the Second Carriageway (Autopista del Sol) project. (4) Vandalism: in May 2025 obscene graffiti was spray-painted on walls (three wall sections in the Gran Chimu sector's northern annex per RPP); the Ministry said investigations to bring criminal charges had begun. Looting of archaeological material was searched for but no authoritative source documenting looting at Chan Chan was found, so it is not claimed. Positive factors are also documented: a Master Plan 2021-2031 being implemented, emergency conservation works at five complexes noted by the Committee in 2026, and an inter-institutional group preparing an inter-institutional working group developing a Disaster Risk Prevention and Reduction Plan foreseen for completion in 2026.",
+      "first_identified_date": "1986",
+      "date_note": "Year-level only: UNESCO records the property as on the Danger List from its 1986 inscription; the underlying structural concerns are long-standing and no exact day was read from a source.",
+      "source_ids": [
+        "src_00",
+        "src_12",
+        "src_10",
+        "src_06",
+        "src_07",
+        "src_04",
+        "src_05",
+        "src_02",
+        "src_16",
+        "src_17",
+        "src_18",
+        "src_19"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met. No severe, verified damage to a significant part of the site that is materially affecting its survival, integrity or accessibility is documented as of the most recent review (the best-documented recent destruction, about 600 square metres of the intangible zone reportedly destroyed according to a February 2025 Gestion article, is small against a 1,414.57 ha property and is a land-use incursion, not loss of a monument); there is no armed conflict; the site is open and under active UNESCO and national monitoring; protection has not collapsed. High Concern trigger matched: official inscription on the List of World Heritage in Danger for substantive reasons. UNESCO's property page lists the property as on the Danger List from 1986 to the present, the Danger List page lists it, and the 2026 Committee decisions (48 COM 7A.35 and 48 COM 8C.2) retain it. It was inscribed in 1986 and has never been removed. The reasons are substantive (vulnerable earthen architecture and El Niño rain, illegal occupation, unresolved buffer zone, road infrastructure), not administrative. Close call: the neighbouring status is Critical Concern. A coastal El Niño alert is active in Peru, Peru's Culture Minister said in September 2026 that a very strong El Niño is being warned about, and an ENFEN statement of 14 September 2026, as reported by El Buho on 15 September, gives a greater probability of 'extraordinaria' magnitude between September 2026 and January 2027. HeritageWatch statuses describe present documented condition, not forecasts, so this is recorded as evidence of elevated near-term exposure, not as damage, and does not by itself meet a Critical trigger. If significant rain damage occurs this season, the status should be re-reviewed promptly. Moderate Concern is not the neighbour: a long-running Danger List inscription is an explicit High trigger.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Chan Chan, UNESCO says, is the largest earthen architecture city in pre-Columbian America, and earth is exceptionally exposed to rain and rising groundwater. The present picture is a site that UNESCO has kept on the Danger List continuously since 1986 and whose corrective measures, set out in 2012 (decision 36 COM 7A.34), are still not fully complete: in 2021, 2023 and 2024 the Committee recorded that delimitation and regulation of the buffer zone and implementation of the amended Law 28261 on illegal occupation had remained pending for several years, in 2025 it regretted 'severe delays', and in 2026 it noted progress (buffer-zone regularisation actions, a draft regulation of Law 28261 under consultation, land tenure overlaps being identified) while encouraging Peru to finalise these processes and asking for information on the Cultural Heritage Impact Assessment of the Second Carriageway road project. Encroachment is ongoing in practice: Gestion reportedly quotes the regional culture director on about 600 square metres of the intangible zone destroyed in early 2025 and a shortage of guards. Against that, the evidence shows real, funded management: a Master Plan 2021-2031 in implementation, emergency conservation at Nik An, Huaca Toledo, La Esmeralda, Arco Iris and Takaynamo noted by the Committee in 2026, an inter-institutional working group preparing a Disaster Risk Prevention and Reduction Plan, and a UNESCO mission in 2017 that reported minimal damage from the Coastal El Niño after earlier preventive works. UNESCO has not described the 2023 rain damage as lasting loss, and no severe current damage was found. Peru has also publicly prepared for the 2026-27 season (the Ministry announced S/ 4 million for preventive measures and identified 536 critical heritage points, with Chan Chan among the highest-risk sites), against an official ENFEN coastal El Niño alert. These are forecasts and preparations rather than documented damage. Confidence is Supported rather than Confirmed because the Danger List status and the Committee's findings are firmly documented by UNESCO, but several UNESCO state-of-conservation reports and the ENFEN original communiques could not be read directly, the 2025 encroachment figure rests on one newspaper quoting one official, and the El Niño outcome for this rainy season is genuinely open. Confidence does not alter the status.",
+      "effective_date": "2026-10-04",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_16",
+        "src_20",
+        "src_21",
+        "src_22",
+        "src_23"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-04",
+      "approval_note": "Approved as proposed: High Concern (close call vs Critical noted), Supported confidence, Extensive Digital Preservation Index tier accepted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "All five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). Coverage is uneven for a property of 1,414.57 ha: the 3D model actually opened (Google Arts & Culture / CyArk) covers the Audiencia in the Tschudi Palace (Nik An), and CyArk's page describes LiDAR, terrestrial and drone photogrammetry from August 2019 of the Tschudi and Rivero palace complexes, but its other models and tour sit on linked platforms that were not all opened; the 2020 Google exhibition was described by Andina as including a 360-degree tour, which was not independently opened here. The UNESCO gallery is modest (at least two pages of 12 images). The tier would still be extensive on the other four categories (photographic, archival, 3D, scholarly) even without the virtual tour, which was not opened here. A reviewer may wish to consider whether this unevenness, with 3D and tour coverage concentrated on a few complexes, should temper the tier toward moderate.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (at least two pages of 12 images, credited to UNESCO, Peru's Ministry of Culture and CRATerre), showing palaces, perimeter walls and the main square. Modest in size.",
+        "url": "https://whc.unesco.org/en/list/366/gallery/",
+        "source_id": "src_27"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO maintains a public documents page for the property with decisions from 1986 to 2026, state-of-conservation reports from 1993 to 2026, the 1986 ICOMOS evaluation, the 2014 mission report and archaeological zone maps (2013, 1985); the 2014 mission report was opened.",
+        "url": "https://whc.unesco.org/document/135229",
+        "source_id": "src_13"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Google Arts & Culture hosts an interactive 3D model of the Audiencia in the Tschudi Palace, and CyArk's project page describes LiDAR, terrestrial photogrammetry and drone photogrammetry captured in August 2019 at the Tschudi and Rivero palace complexes with the Ministry of Culture's La Libertad directorate and PECACH, with links to explore models in 3D.",
+        "url": "https://artsandculture.google.com/story/how-the-history-of-chan-chan-is-being-preserved-cyark/XQUBXcykVPm0Kw?hl=en",
+        "source_id": "src_25"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "CyArk's Chan Chan project page (August 2019 documentation) with links labelled 3D models, a tour and an exhibit; the models themselves are on linked platforms.",
+        "url": "https://cyark.org/projects/chan-chan",
+        "source_id": "src_24"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Andina reported on 29 January 2020 that Google Arts & Culture's 'Heritage on the Edge' exhibition includes 3D models and a 360-degree virtual tour of Chan Chan, made with CyArk, ICOMOS, the Ministry of Culture and PECACH; CyArk's project page (opened) also lists a 3D virtual tour option. The tour itself was not independently opened.",
+        "url": "https://andina.pe/ingles/noticia-google-exhibe-modelos-3d-y-recorrido-virtual-de-ciudadela-chan-chan-783117.aspx",
+        "source_id": "src_26"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed and scholarly work exists, including the 2016 Arqueologica 2 conference paper on a multimedia museum exhibition using photogrammetry, orthophotos, AR and 3D models for Chan Chan, and the 2024 Dumbarton Oaks volume 'The Northern Dynasties: Kingship and Statecraft in Chimor', which examines the remains at Chan Chan.",
+        "url": "https://iris.cnr.it/handle/20.500.14243/317448",
+        "source_id": "src_28"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Dumbarton Oaks (Harvard) 2024 volume on Chimor, edited by Moseley and Cordy-Collins, examining the art, architecture and archaeology of Chan Chan and related sites; not confirmed to be open access.",
+        "url": "https://books.doaks.org/node/171",
+        "source_id": "src_30"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1986",
+      "title": "Inscribed on the World Heritage List and placed on the Danger List",
+      "description": "UNESCO records the property as inscribed in 1986 under criteria (i) and (iii) and as on the List of World Heritage in Danger from 1986. UNESCO's 2018 state-of-conservation page lists the fragile state of earthen structures and decorated surfaces under extreme climatic conditions (El Niño) among the threats for which it was listed. UNESCO's list has shown it as continuously on the Danger List since.",
+      "event_type": "political",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2000-01",
+      "title": "Management plan approved",
+      "description": "The Getty Conservation Institute's Project Terra page states that a management plan for Chan Chan was completed in 1999 and approved by government officials in January 2000, developed by the Instituto Nacional de Cultura-La Libertad with UNESCO and Terra support.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_31"
+      ]
+    },
+    {
+      "date": "2012",
+      "title": "Committee adopts desired state of conservation and corrective measures (36 COM 7A.34)",
+      "description": "The Committee set four conditions for removal from the Danger List (an operational and sustainable management system with secured funding, an updated Management Plan integrated with municipal planning, continued conservation of earthen architecture, and legislative measures against illegal occupation) and a one-, two- and three-year timetable of corrective measures, and retained the property on the Danger List. Later decisions (2021-2026) refer back to these measures.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2014-12",
+      "title": "Joint UNESCO World Heritage Centre / ICOMOS reactive monitoring mission (2-5 December 2014)",
+      "description": "The mission report said strong rains connected to El Niño Southern Oscillation were still one of the most serious threats to the site's physical integrity, noted that illegal occupation of agricultural lands and urban encroachment from Trujillo continued, found that the drainage system was controlling groundwater levels, and recommended maintaining the Danger List status pending full implementation of corrective measures.",
+      "event_type": "other",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2017",
+      "title": "Coastal El Niño: UNESCO mission reports minimal damage",
+      "description": "Andina reported on 19 May 2017 that a UNESCO mission representative, Enrique Lopez-Hurtado, said that despite the scale of the disaster the damage at Chan Chan had been minimal, crediting prevention works. Andina cited works completed in 2014-2016 including 1,550 square metres of geoblock pavers and protective cover over 4,075 square metres. Figures are as reported by Andina; the mission report itself was not read.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2019-08",
+      "title": "CyArk documents Chan Chan with LiDAR and photogrammetry",
+      "description": "CyArk's project page says documentation in August 2019 used LiDAR laser scanning, terrestrial photogrammetry and aerial drone photogrammetry, in collaboration with the Ministry of Culture through the La Libertad directorate and PECACH.",
+      "event_type": "other",
+      "source_ids": [
+        "src_24"
+      ]
+    },
+    {
+      "date": "2020-01-29",
+      "title": "Google Arts & Culture publishes Chan Chan 3D models and virtual tour",
+      "description": "Andina reported that Google Arts & Culture's 'Heritage on the Edge' exhibition, made with CyArk, ICOMOS and Peruvian partners including PECACH, presents 3D models and a 360-degree tour of Chan Chan alongside five other sites.",
+      "event_type": "other",
+      "source_ids": [
+        "src_26"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Committee: widening the Trujillo ring road endangers the property (44 COM 7A.37)",
+      "description": "The Committee strongly urged Peru to improve the existing road or identify a new trajectory outside the property and buffer zone, urged a Heritage Impact Assessment, noted with regret that two essential corrective measures (buffer-zone delimitation and regulation, and implementation of amended Law 28261 on illegal occupation) had remained pending for several years, and retained the property on the Danger List. The Master Plan for Conservation and Management 2021-2031 is referred to in later decisions.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2023-03",
+      "title": "March 2023 rain damages wall surfaces and protective covers",
+      "description": "UNESCO's 2024 state-of-conservation page reports works responding to damage caused by 'hurricane Yaku' in March 2023, with rainfall exceeding 20mm affecting wall surfaces and damaging protective covers, and conservation works in the Nik An, Chol An, Arco Iris and La Esmeralda complexes.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2023-10",
+      "title": "El Niño protection works at Nik An reported 40% complete",
+      "description": "Andina reported on 19 October 2023, quoting David Calderon de los Rios of the La Libertad culture directorate, that protection works funded with 11 million soles from the National Copesco Plan were 40% complete, including sacrificial material to protect original walls and floors from humidity and roofing of sections of the Nik An compound, with 80% targeted by late November. Figures and timeline are as stated by the directorate.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_32"
+      ]
+    },
+    {
+      "date": "2024-01",
+      "title": "Demolition orders reported against construction in the intangible zone",
+      "description": "El Buho reported that the Ministry of Culture's La Libertad directorate issued resolutions (8 and 17 January 2024) ordering demolition of buildings, parks and other structures built by a housing association on about 7 hectares of the intangible zone, with a fine and a 15-business-day deadline. Single-source; whether demolition was carried out was not verified.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.9: Danger List retained, two measures still pending",
+      "description": "The Committee noted that construction of the El Sol Highway through the property was halted, expressed regret that buffer-zone delimitation and implementation of amended Law 28261 remained pending for years, and decided to retain the property on the Danger List, requesting an updated report by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2025-02-20",
+      "title": "Gestion reports about 600 square metres of intangible zone destroyed",
+      "description": "Gestion reported, citing David Calderon de los Rios, director of the La Libertad culture directorate, that about 600 square metres of intangible archaeological area in the Pampas de Alejandro sector were destroyed by invaders for farming and plot subdivision, that a police report was filed, that eviction operations were announced after six years of legal proceedings, and that adequate guarding would need at least 40 guards the directorate cannot afford.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2025-05",
+      "title": "Graffiti sprayed on walls",
+      "description": "RPP reported that obscene drawings were spray-painted (RPP says on a Monday, i.e. 12 May; AFP, 13 May, says over the weekend) on three wall sections in the Gran Chimu sector's northern annex, and AFP reported the vandal was unidentified and not yet apprehended; the Ministry of Culture condemned the act and said investigations toward criminal charges had begun and that technical staff were sent to clean and restore the walls.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_18",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.29: Danger List retained",
+      "description": "The Committee expressed concern at delays in incorporating buffer-zone regulations into the Metropolitan Urban Development Plan, urged Peru to conclude the amendment of Law 28261 with utmost priority, regretted 'severe delays', highly appreciated the Ministry of Transport and Communications' decision to contract preparation in 2025 of a Heritage Impact Assessment for the El Sol Highway section crossing the property, and retained the property on the Danger List, requesting a report by 1 February 2026. Session date within 2025 not confirmed.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.35: Danger List retained",
+      "description": "The Committee commended implementation of the Master Plan 2021-2031 and emergency conservation at Nik An, Huaca Toledo, La Esmeralda, Arco Iris and Takaynamo, noted an inter-institutional working group developing a Disaster Risk Prevention and Reduction Plan (foreseen for completion in 2026), noted actions to regularise the status of pre-Hispanic properties in the buffer zone and encouraged Peru to finalise the process, noted the published and consulted draft regulation of Law 28261 and identification of land tenure overlaps, asked for information on the Cultural Heritage Impact Assessment of the Second Carriageway (Autopista del Sol) project including a potential alternative alignment, requested a report by 1 February 2027, and kept the property on the Danger List (also listed among retained properties in 48 COM 8C.2). The month of the 48th session was not confirmed in the sources read here.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026-06",
+      "title": "ENFEN maintains El Niño Costero alert",
+      "description": "An IICA summary of ENFEN Official Communique No. 11-2026 (15 June 2026) says the El Niño Costero alert was maintained, with an event that began in March 2026 expected to continue at strong (48%) or moderate (46%) intensity into summer 2027, and urges risk-reduction measures before the September 2026-April 2027 rainy season. Forecast, not damage.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_22"
+      ]
+    },
+    {
+      "date": "2026-08/2026-09",
+      "title": "Peru's Culture Minister announces El Niño preparations including at Chan Chan",
+      "description": "El Peruano reported on 31 August 2026 that the Ministry allocated S/ 4 million for preventive measures, had identified 536 critical heritage points, and counted Chan Chan among the highest-risk archaeological sites, and on 3 September 2026 that Minister Alberto Beingolea inspected Chan Chan, saying a very strong El Niño is being warned about. El Buho (15 September 2026) reported an ENFEN statement of 14 September giving the greatest probability to 'extraordinary' magnitude between September 2026 and January 2027 (for December 2026-March 2027 it reports 48% extraordinary and 45% strong). Statements are the Ministry's and ENFEN's as reported; they are forecasts and preparedness, not documented damage.",
+      "event_type": "other",
+      "source_ids": [
+        "src_21",
+        "src_20",
+        "src_23"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Chan Chan Archaeological Zone",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/366/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.35: Chan Chan Archaeological Zone (Peru)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9024",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 48 COM 8C.2: Update of the List of World Heritage in Danger (Retained Properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9208",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 47 COM 7A.29: Chan Chan Archaeological Zone (Peru)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8696",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 46 COM 7A.9: Chan Chan Archaeological Zone (Peru) (C 366)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8478",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 45 COM 7A.20: Chan Chan Archaeological Zone (Peru) (C 366)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8137",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 44 COM 7A.37: Chan Chan Archaeological Zone (Peru) (C 366)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7699",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 36 COM 7A.34: Chan Chan Archaeological Zone (Peru)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4647",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2012",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Chan Chan Archaeological Zone: state of conservation report page (2024)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4532",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Chan Chan Archaeological Zone: state of conservation report page (2023)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4283",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Chan Chan Archaeological Zone: state of conservation report page (2018)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3776",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Chan Chan Archaeological Zone: state of conservation report page (2008)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/796",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2008",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Report on the Joint UNESCO-WHC / ICOMOS Reactive Monitoring Mission to Chan Chan Archaeological Zone (Peru) (C 366), 2-5 December 2014",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/135229",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2014",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Chan Chan Archaeological Zone (Peru): climate resilience case study",
+      "publisher": "UNESCO World Heritage Centre (Canopy)",
+      "url": "https://whc.unesco.org/en/canopy/chanchan",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Publication date not shown on the page read; the case study covers 1986 to 2021.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_15",
+      "title": "UNESCO highlights Peru prevention works at Chan Chan",
+      "publisher": "Andina (Peruvian state news agency)",
+      "url": "https://andina.pe/ingles/noticia-unesco-highlights-peru-prevention-works-at-chan-chan-667570.aspx",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2017-05-19",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Chan Chan: destruyen 600 metros de area intangible arqueologica, confirma Cultura",
+      "publisher": "Gestion",
+      "url": "https://gestion.pe/peru/chan-chan-destruyen-600-metros-de-area-intangible-arqueologica-confirma-cultura-noticia/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-02-20",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Trujillo: demoleran parques y edificios construidos en zona prohibida de Chan Chan",
+      "publisher": "El Buho",
+      "url": "https://elbuho.pe/2024/02/trujillo-demoleran-parques-y-edificios-construidos-en-zona-prohibida-de-chan-chan/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single regional outlet; the demolition resolutions (8 and 17 January 2024) were not independently confirmed from a Ministry of Culture document or a second outlet, and whether the demolition was carried out was not verified. Used only for the fact and content of the orders as reported.",
+      "published_date": "2024-02",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Ministerio de Cultura expresa 'enérgico rechazo' por acto vandálico en muro de Chan Chan en Trujillo",
+      "publisher": "RPP",
+      "url": "https://rpp.pe/peru/la-libertad/ministerio-de-cultura-expresa-energico-rechazo-por-acto-vandalico-en-muro-de-chan-chan-en-trujillo-noticia-1634166",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-05",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Peruvian historical site vandalized with obscene graffiti in viral video (AFP)",
+      "publisher": "CP24 (AFP)",
+      "url": "https://www.cp24.com/news/world/2025/05/13/peruvian-historical-site-vandalized-with-obscene-graffiti-in-viral-video",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-05-13",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Ministro de Cultura supervisa Chan Chan y sitios arqueologicos de La Libertad ante riesgo por El Niño",
+      "publisher": "El Peruano",
+      "url": "https://elperuano.pe/noticia/304011-ministro-de-cultura-supervisa-chan-chan-y-sitios-arqueologicos-de-la-libertad-ante-riesgo-por-el-nino",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Official gazette of the Peruvian state; reports the Minister of Culture's own statements, so it is government-sourced rather than independent.",
+      "published_date": "2026-09-03",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Ministerio de Cultura destina S/ 4 millones para prevenir danos al patrimonio ante El Niño",
+      "publisher": "El Peruano",
+      "url": "https://elperuano.pe/noticia/303734-ministerio-de-cultura-destina-s-4-millones-para-prevenir-danos-al-patrimonio-ante-el-nino",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Official gazette of the Peruvian state; reports the Ministry of Culture's own announcement, so it is government-sourced rather than independent.",
+      "published_date": "2026-08-31",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_22",
+      "title": "ENFEN Official Communique No. 11-2026 (summary resource page)",
+      "publisher": "IICA (Inter-American Institute for Cooperation on Agriculture) OPSAA",
+      "url": "https://opsaa.iica.int/en/resource-2766-enfen-official-communique-no-11-2026",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Secondary summary of ENFEN's official communique by an intergovernmental agency; the ENFEN/SENAMHI original (gob.pe returned an error) was not read directly.",
+      "published_date": "2026-06-15",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_23",
+      "title": "El Niño Costero tendria una magnitud extraordinaria lo que queda de setiembre y se extenderia a mayo de 2027",
+      "publisher": "El Buho",
+      "url": "https://elbuho.pe/?p=435725",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Regional outlet summarising an ENFEN statement (dated 14 September per the article); the ENFEN original was not read directly. Used only to report what ENFEN is said to have stated, and corroborated for the existence of the El Niño Costero alert by src_22.",
+      "published_date": "2026-09-15",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_24",
+      "title": "Chan Chan (project page)",
+      "publisher": "CyArk",
+      "url": "https://cyark.org/projects/chan-chan",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Project page lists 3D models, a tour and an exhibit as linked offerings; the 3D content itself sits on linked platforms and was not all opened.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_25",
+      "title": "How the History of Chan Chan is Being Preserved (story with 3D model)",
+      "publisher": "Google Arts & Culture",
+      "url": "https://artsandculture.google.com/story/how-the-history-of-chan-chan-is-being-preserved-cyark/XQUBXcykVPm0Kw?hl=en",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Google-hosted presentation of CyArk material; evidences an interactive 3D model of the Audiencia in Tschudi Palace (Nik An), not the whole city.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_26",
+      "title": "Google exhibe modelos 3D y recorrido virtual de la ciudadela de Chan Chan",
+      "publisher": "Andina (Peruvian state news agency)",
+      "url": "https://andina.pe/ingles/noticia-google-exhibe-modelos-3d-y-recorrido-virtual-de-ciudadela-chan-chan-783117.aspx",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2020-01-29",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_27",
+      "title": "Chan Chan Archaeological Zone: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/366/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_28",
+      "title": "'Esquina multimedia'. Museum exhibition for the visualization of Chan Chan archaeological site (Pierdicca et al., Arqueologica 2)",
+      "publisher": "CNR institutional repository / Universitat Politecnica de Valencia proceedings",
+      "url": "https://iris.cnr.it/handle/20.500.14243/317448",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_29",
+      "title": "Peru's Great Urban Experiment",
+      "publisher": "Archaeology magazine (Archaeological Institute of America)",
+      "url": "https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2023-05",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_30",
+      "title": "The Northern Dynasties: Kingship and Statecraft in Chimor (Moseley and Cordy-Collins, eds.)",
+      "publisher": "Dumbarton Oaks",
+      "url": "https://books.doaks.org/node/171",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2024-03",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_31",
+      "title": "Planning and Implementation of Terra",
+      "publisher": "Getty Conservation Institute",
+      "url": "https://www.getty.edu/projects/terra/planning-and-implementation-of-terra",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_32",
+      "title": "El Niño: obras de proteccion en Chan Chan frente a lluvias registran un avance del 40 %",
+      "publisher": "Andina (Peruvian state news agency)",
+      "url": "https://andina.pe/agencia/noticia-el-nino-obras-proteccion-chan-chan-frente-a-lluvias-registran-un-avance-del-40--959651.aspx",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports statements by the regional Culture Directorate head, so it is government-sourced rather than independent.",
+      "published_date": "2023-10-19",
+      "accessed_date": "2026-10-04"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger (El Niño forecast for the 2026-27 rainy season is a forecast, not documented damage). Danger List check done directly: UNESCO's property page shows the Danger List from 1986 to present, the Danger List page lists the property, and 48 COM 7A.35 and 48 COM 8C.2 (2026) retain it; it has never been removed. Known gaps: (1) The UNESCO state-of-conservation reports themselves (e.g. soc/4720 for 2025) returned 403 or were not read; for 2023, 2024, 2018, 2008 only UNESCO's SOC page summaries were read via the page fetch tool, and the 2008 and 2018 pages were used only for statements of recurring threats. (2) The 1986 ICOMOS evaluation and the original 1986 inscription and danger-listing decisions were not read; the 1986 date rests on UNESCO's property page. (3) The 2025 and 2026 Committee session dates were not confirmed (year only). (4) Looting: searched, no authoritative source documenting looting at Chan Chan was found; the user brief asked for it, but it is not claimed. A graffiti vandalism incident (May 2025) is included instead. (5) ENFEN original communiques were not read (gob.pe returned an error); the June 2026 content rests on an IICA summary and the September 2026 forecast on a single regional outlet. (6) The 2017 Coastal El Niño damage assessment rests on Andina quoting a UNESCO mission representative; the mission report was not read. A Vice article on El Niño and a La Republica article on invasions were not used (undated, and La Republica contains an apparent date error on the inscription year). (7) The 2024 demolition orders rest on one outlet and are flagged; whether demolition occurred is unverified. (8) The 2020 Google 360 tour and CyArk's other 3D models were described by sources but not all opened. (9) Wikipedia was not used. (10) Event ordering uses year-level dates for UNESCO decisions; within-year order of 2025 and 2026 decisions relative to dated news events is approximate. Images omitted by design. | Verifier pass 2026-10-04: re-fetched UNESCO property page, Danger List page, 48 COM 7A.35 and 8C.2, 47/46/45/44/36 COM decisions, SOC pages, 2014 mission report and the news/DPI sources. Danger List since 1986 and 2026 retention confirmed. Fixes: 2014 mission wording ('one of the most serious threats', not 'the most serious natural hazard'); 2021-2026 'pending' claim limited to 2021-2025 and 2026 now described as progress with processes still to be finalised; 2025 and 2026 decision paraphrases corrected (working group noted not welcomed; HIA contracting 'highly appreciated'; 2021 HIA 'urged' not 'required'); El Buho ENFEN statement dated 14 September (published 15); El Peruano S/ 4M wording; graffiti date discrepancy (RPP Monday vs AFP weekend) and 'original walls' removed; Andina 2017 'over' and 2023 'audience zone' removed; unsupported 'risk management plan' and 'about 23 images' and canopy '2022' removed; 600 m2 and 2024 demolition items kept hedged as single-outlet. Virtual tour (Andina and CyArk page) not opened by verifier; extensive tier holds on four other categories.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-04",
+      "change": "Reviewed and approved by Harry Disley. Approved as proposed: High Concern (close call vs Critical noted), Supported confidence, Extensive Digital Preservation Index tier accepted. All ten editorial checklist items completed. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}

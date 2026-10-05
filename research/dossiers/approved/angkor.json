@@ -1,0 +1,636 @@
+{
+  "slug": "angkor",
+  "name": "Angkor",
+  "alternate_names": [
+    "Angkor Archaeological Park",
+    "Angkor Wat and Angkor Thom (principal monuments)"
+  ],
+  "country": "Cambodia",
+  "region": "Asia",
+  "coordinates": {
+    "lat": 13.4125,
+    "lng": 103.8667
+  },
+  "coordinate_note": "This point is a proxy. It is the location of Angkor Wat temple as given on Wikipedia (13.41250 N, 103.86667 E). The UNESCO-inscribed property is far larger: UNESCO's property page gives an area of 40,100 hectares (roughly 400 square kilometres) of monuments, archaeological zones and forests in Siem Reap Province, so no single point represents it. UNESCO's own centre-point coordinates were not retrieved in this pass; please spot-check the pin.",
+  "unesco_id": "668",
+  "inscription_year": 1992,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Angkor as containing the magnificent remains of the different capitals of the Khmer Empire from the 9th to the 15th century, including Angkor Wat and the Bayon temple at Angkor Thom with its sculptural decoration. The property is inscribed under cultural criteria (i), (ii), (iii) and (iv) and covers about 400 square kilometres in Siem Reap Province. It is managed by Cambodia's APSARA National Authority, with international assistance coordinated through ICC-Angkor. It was inscribed in 1992 and, was on the List of World Heritage in Danger from 1992 until its removal in 2004, the case on which HeritageWatch's methodology models its current-status principle.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/20171126_Angkor_Wat_4712_DxO.jpg",
+      "caption": "Angkor Wat, photographed in November 2017. Shows the temple as it was on that date, not its current condition.",
+      "credit": "Jakub Hałun",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:20171126_Angkor_Wat_4712_DxO.jpg",
+      "taken_date": "2017-11-26",
+      "taken_date_display": "26 November 2017",
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Angkor_Thom_Bayon_%289725232365%29.jpg",
+      "caption": "The Bayon temple at Angkor Thom, photographed in September 2012. Not a record of current condition.",
+      "credit": "Gary Todd",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Angkor_Thom_Bayon_(9725232365).jpg",
+      "taken_date": "2012-09-28",
+      "taken_date_display": "28 September 2012",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00",
+    "src_24"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Three linked pressures are documented by UNESCO. (1) Tourism: in 2023 (45 COM 7B.152) the Committee welcomed an updated Tourism Development Plan but required further revision and asked Cambodia to carry out a carrying capacity assessment 'as a matter of priority', as provided for in the 2012 Tourism Management Plan; in 2025 (47 COM 7B.63) it welcomed the State Party's clarifications on the relationship between tourism and management documents and its initiatives to manage the property's carrying capacity, and asked for an updated Tourism Management Plan to be submitted for review before finalisation. Angkor Enterprise (the state-owned ticketing operator), as reported in April 2025, said the park received about 400,000 foreign tourists in January-March 2025, up 15 percent, and that the park drew 1.02 million international tourists in 2024. (2) Settlement and urban pressure: the Joint World Heritage Centre/ICOMOS/ICCROM reactive monitoring mission report (mission 9-13 December 2024) describes pressure from more than 100,000 inhabitants distributed over 112 historic settlements, reports a 70% increase in legal residents between 2004 and 2022, and counts 33,648 plots with buildings in 2022 (11,772 existing in 2004 and 21,876 built after 2004, a total that includes both legal residents' expansion and illegal settlements). It concludes that, given the 70% increase in legal settlers over 20 years, the remaining illegal settlements over inscribed areas require ongoing attention. (The phrase 'uncontrolled urban expansion in the property and its buffer zones' appears in the report only as a quotation of an earlier Committee decision, 32 COM 7B.65 of 2008, so it is not a finding of the 2024 mission.) In 2024 (46 COM 7B.31) the Committee also expressed concern about third-party reports of possible forced population displacements and requested the mission; in 2025 it asked Cambodia to continue incentives for voluntary relocation under a documented, traceable procedure that adheres to international human rights standards, to undertake a socio-economic study of the living populations and regular assessments of the living conditions of resettled people, and to reinforce measures to prevent new settlements and unlawful transfers of land occupation titles. In 2021 (44 COM 7B.139) it commended Cambodia for abandoning a tourist complex project outside the buffer zone. (3) Stone and structural condition: published studies document ongoing weathering of the sandstone, for example salt damage at Angkor Wat linked mainly to bat guano (Siedel et al., 2008) and moisture-driven hollowing of gallery pillars that is deepest on eastern-facing outer surfaces (Waragai and Hiki, 2019); the 2025 decision also encourages the State Party's efforts to manage increasing macaque populations to prevent damage to archaeological structures. Overall, the 2024-25 mission concluded that the property's overall state of conservation is 'satisfactory', and the 2025 Committee decision notes that its Outstanding Universal Value is sustained despite multiple pressures. These are chronic, managed pressures, not an acute damage event.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-running management concerns raised across successive UNESCO decisions; no single start date applies. The 2003-2004 decisions already asked for tourism development to be controlled and a Master Plan covering conservation, development control and tourism management.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_14",
+        "src_19",
+        "src_20",
+        "src_21",
+        "src_27"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Water management is the main documented environmental concern. Angkor's temples stand on sandy ground, and several sources link their stability to groundwater and to the rehabilitation of the ancient hydraulic system. In 2022 Southeast Asia Globe quoted Phoeurn Sokhim of APSARA's water management department as saying 'The temple could collapse if you do not have enough groundwater', and reported hotels, the temples and farming communities competing for limited groundwater, with farming communities reported to be the ones lacking adequate access. A 2011 Dialogue Earth article quoted Philippe Delanghe, head of UNESCO's cultural unit in Cambodia, as saying that excessive groundwater pumping 'might cause stability problems', and quoted the director general of the Siem Reap water supply authority as saying there was 'no sign of impact on the temples'; that article is more than a decade old and its pumping figures should not be read as current. A 2014 peer-reviewed radar study (Chen, Jiang and Ishwaran, using 46 TerraSAR images from February 2011 to December 2013) found ground subsidence of between -50 and +12 mm/year at the site during its observation period and concluded that continuous monitoring is necessary; it also mapped seasonal flooding. UNESCO's 2025 decision and the December 2024 mission praise 'on-going efforts in the rehabilitation of the ancient hydraulic systems', which support agriculture, flood prevention and soil stability. No source reviewed documents recent climate- or flood-driven damage to the monuments, and no source reviewed gives a stated near-term timeframe for harm from groundwater or flooding. This entry therefore records a documented, monitored, chronic exposure rather than an acute threat.",
+      "first_identified_date": null,
+      "date_note": "Chronic concern. The earliest dated item reviewed here is the 2011 Dialogue Earth article; no single start date is claimed.",
+      "source_ids": [
+        "src_07",
+        "src_08",
+        "src_22",
+        "src_23",
+        "src_25"
+      ]
+    },
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "Cambodia and Thailand fought along their shared border in July 2025 (a ceasefire was reported as holding on 30 July 2025 after five days of heavy fighting) and again for about three weeks in December 2025; the defence ministers' ceasefire took effect at noon on 27 December 2025. Reported death and displacement figures differ between outlets (The Nightly: at least 101 killed and over half a million displaced; Oman Observer: at least 47 deaths and over one million displaced), so they are not relied on here. Angkor is in Siem Reap, described by AFP in December 2025 as 'just a two-hour drive from the Thai border', and that AFP article does not mention any damage to Angkor. The documented effect on Angkor is on tourism: Angkor Enterprise said ticket sales were down at least 17 percent year on year from June to November 2025, and reported 867,195 foreign visitors for January-November 2025 (down 3.47 percent), with November down 18 percent. Separately, a UNESCO-led study of Preah Vihear temple (a different World Heritage property on the border), reportedly found 562 damaged areas from strikes in July and December 2025; this is regional context only and does not describe Angkor. On 15 December 2025 Cambodian officials said Thai F-16s dropped two bombs near camps for displaced people in Srei Snam district of Siem Reap province, which they described as the first time Thailand had targeted that province in the renewed fighting (Al Jazeera, reporting the Cambodian government's statement; Thai response not reviewed); Al Jazeera placed the area roughly 50 miles from Angkor Wat and did not report any strike on Angkor. No source reviewed reports fighting at or adjacent to Angkor, and the UNESCO 2025 decision on Angkor does not mention the border conflict. Status of the border after 27 December 2025 was not verified in this pass.",
+      "first_identified_date": "2025-07",
+      "date_note": "Date is the month of the first 2025 border fighting that affected regional tourism and heritage elsewhere in Cambodia; the underlying border dispute is older and no date is claimed for it. Angkor itself has no documented direct impact.",
+      "source_ids": [
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_16",
+        "src_28"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met. There is no reported severe current damage at Angkor, no fighting at or adjacent to the site (AFP, December 2025, reports a two-hour drive to the border and does not mention damage to the temples), no loss of monitoring access (a reactive monitoring mission visited 9-13 December 2024 and the Committee continues to receive reports) and protection has not collapsed. High Concern: considered and not mechanically met. (1) Angkor is not on the List of World Heritage in Danger; UNESCO's danger list page names no Cambodian property, and the Committee removed Angkor from the list in 2004 (28 COM 15A.23) citing a remarkable improvement of the physical state of conservation. (2) No specific damaging event within roughly five years, corroborated by two independent sources, was found at Angkor. (3) The 'region under active armed conflict' trigger is the closest call and is the neighbouring status: Cambodia and Thailand fought in July and December 2025 and a ceasefire was signed on 27 December 2025, so there is serious regional conflict and reporting of damage to a different Cambodian World Heritage site (Preah Vihear, reportedly). Cambodian officials also said Thai aircraft struck near displaced-person camps in Siem Reap province on 15 December 2025 (Al Jazeera, roughly 50 miles from Angkor Wat), which is the strongest evidence for regional risk to Angkor. The sources reviewed nonetheless do not report any strike on or damage at Angkor beyond a fall in visitors, and the post-ceasefire situation in 2026 was not verified. If Angkor's own exposure to the conflict were documented, or fighting resumed nearer Siem Reap, High Concern could apply. (4) No severe unresolved environmental or structural threat with a named near-term timeframe was found: groundwater and flooding concerns are documented but chronic and monitored. (5) No significant historical damage with substantially incomplete repair is documented. Moderate Concern triggers matched: documented chronic threats noted in official conservation reports (tourism pressure, settlement and urban expansion, groundwater and water management, sandstone weathering) that are monitored rather than acute, plus historical damage substantially repaired and stabilised. Safe is not available because documented threats exist in several categories.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Angkor was inscribed on the Danger List in 1992 and removed in 2004; that history sits in events[] and does not drive the current classification, which is the case the methodology was designed around. The present picture, per UNESCO's 2025 decision, is that the property's Outstanding Universal Value is sustained despite multiple pressures, and the December 2024 mission concluded that overall conservation is 'satisfactory'. Those pressures are real: the Committee has asked for a tourism carrying capacity assessment since 2023, the mission documents rapid growth in settlement (a 70% rise in legal residents 2004-2022, and remaining illegal settlements over inscribed areas that the mission says require ongoing attention), and several sources link temple stability to groundwater and to the rehabilitation of the ancient hydraulic system, although the evidence reviewed on groundwater is partly dated (2011, 2014, 2022) and records no observed damage. A functioning management system is in place: APSARA National Authority manages the site under ICC-Angkor coordination (co-chaired by France and Japan, with UNESCO providing the secretariat), and Cambodia owes the Committee an updated state of conservation report by 1 December 2026. The Cambodia-Thailand conflict has affected tourism, and a UNESCO-led study of Preah Vihear is reported to have found damage at that other Cambodian property, but is not documented as affecting Angkor's physical condition. Confidence is Supported rather than Confirmed because the core facts are corroborated by UNESCO decisions and the mission report, but the 2025 state of conservation report was not read, the groundwater evidence is dated, and the 2026 status of the border situation was not verified. Confidence does not alter the status.",
+      "effective_date": "2026-10-04",
+      "source_ids": [
+        "src_00",
+        "src_03",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_17",
+        "src_26",
+        "src_28"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-04",
+      "approval_note": "Approved as proposed: Moderate Concern (close call vs High noted), Supported confidence, Extensive Digital Preservation Index tier accepted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). Coverage is uneven across a very large property. The 3D dataset confirmed as publicly accessible covers only the Angkor Wat western causeway (scanned in 2004; access by request form). Other 3D scanning research on Angkor monuments (for example the University of Tokyo's Bayon digital archival work) appears in the literature, but this pass did not confirm that any such models are publicly viewable, so they are not counted as evidence. The photographic evidence is a UNESCO gallery that mostly shows the Bayon and Ta Prohm, plus the EFEO photo library, which states that Cambodia and Vietnam are 'particularly well represented' (reproduction requires permission) but whose Angkor-specific holdings were not counted. The virtual tour category is marked false: a 2013-2014 Google Street View project for Angkor Wat was reported in the press, but its current availability was not confirmed here. A reviewer may wish to consider whether the uneven, building-level coverage should temper the tier.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a public photo gallery for the property (about 63 images, in the portion reviewed mostly the Bayon and Ta Prohm, credited to Francesco Bandarin).",
+        "url": "https://whc.unesco.org/en/list/668/gallery/",
+        "source_id": "src_15"
+      },
+      {
+        "category": "photographic",
+        "description": "The EFEO (Ecole francaise d'Extreme-Orient) photo library states that its digitisation project began in 2002 and continues, that it holds over 180,000 pictures, and that Cambodia and Vietnam are particularly well represented.",
+        "url": "https://collection.efeo.fr/",
+        "source_id": "src_18"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's property page lists state of conservation reports for selected years from 1993 to 2025 and Committee decisions for the property, and the December 2024 reactive monitoring mission report is published as a UNESCO document (src_08).",
+        "url": "https://whc.unesco.org/en/list/668/",
+        "source_id": "src_00"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Open Heritage 3D hosts the Angkor Wat Western Causeway dataset (terrestrial LiDAR scanned March 2004 by UC Berkeley and Sophia University, published 2020, CC BY-NC-SA, DOI 10.26301/vngf-1h12), with a 3D viewer and video preview online and downloads available by request form.",
+        "url": "https://openheritage3d.org/project.php?id=vngf-1h12",
+        "source_id": "src_04"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed and conference scholarship on Angkor's condition and documentation, for example the 2014 radar monitoring study (flooding and subsidence), the 2019 Waragai and Hiki study of sandstone weathering, and the 2008 Siedel et al. salt study.",
+        "url": "https://link.springer.com/article/10.1186/s40645-019-0254-5",
+        "source_id": "src_21"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1992",
+      "title": "Angkor inscribed on the World Heritage List and, simultaneously, on the List in Danger",
+      "description": "At its 1992 session (16 COM X.A) the Committee inscribed Angkor under criteria (i)-(iv) and also placed it on the List of World Heritage in Danger to address urgent conservation problems, while waiving some usual requirements because of Cambodia's UN administration following the Paris Accords. It required protective legislation, a staffed national protection agency, permanent boundaries, buffer zones, and monitoring and coordination of international conservation efforts.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "1993-10-13",
+      "title": "International Coordinating Committee (ICC-Angkor) created",
+      "description": "UNESCO's property page records the creation of the International Coordinating Committee for the Safeguarding and Sustainable Development of Angkor on 13 October 1993. It is described as the international mechanism for coordinating assistance from different countries and organisations, co-chaired by France and Japan with UNESCO providing the secretariat.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00",
+        "src_26"
+      ]
+    },
+    {
+      "date": "1994-05-28",
+      "title": "Royal Decree on Siem Reap/Angkor zoning",
+      "description": "UNESCO's property page lists a Royal Decree on Siem Reap/Angkor Zoning dated 28 May 1994, followed by a Law on Heritage Protection on 25 January 1996.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "1995-02-19",
+      "title": "APSARA National Authority established",
+      "description": "UNESCO's property page records the establishment of the APSARA National Authority on 19 February 1995 as the body managing the site.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2003",
+      "title": "Committee retains Angkor on the Danger List pending a 2004 report",
+      "description": "In decision 27 COM 7A.22 the Committee commended Cambodia and APSARA, asked that the management plan be reviewed to ensure tourism development is adequately controlled, asked for stronger cooperation to prevent looting and theft, retained Angkor on the Danger List and asked for a conservation report by 1 February 2004 for the Committee's 28th session.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2004",
+      "title": "Angkor removed from the List of World Heritage in Danger",
+      "description": "In decision 28 COM 15A.23 the Committee removed Angkor from the Danger List, citing the 'remarkable improvement of the physical state of conservation' and effective management by APSARA, on conditions including regular progress reports and development of a comprehensive Master Plan covering conservation, development control and tourism management. UNESCO's decision page gives only the year; InforMEA lists 28 June 2004 against this decision, which may be the session's opening date rather than the decision day, so no day is claimed. Decision 28 COM 15C.3 (src_17) also records the removal.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_03",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "World Heritage Committee decision 44 COM 7B.139",
+      "description": "The Committee noted with satisfaction the national authorities' conservation and management activities for archaeological and hydraulic structures and the natural environment, commended Cambodia for not pursuing a reported tourist complex project immediately outside the buffer zone, noted that Cambodia had rejected an extension of Siem Reap International Airport in favour of a new international airport far from the property, and requested Heritage Impact Assessments in line with the 2011 ICOMOS Guidelines and an updated report by 1 December 2022.",
+      "event_type": "political",
+      "source_ids": [
+        "src_27"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7B.152",
+      "description": "The Committee commended Cambodia for steady progress in conservation, research, environmental conservation and management activities, welcomed the updated Tourism Development Plan while requiring further revision, and asked Cambodia to carry out a carrying capacity assessment as a matter of priority. It also took note of enforcement of zoning regulations and relocation of families who had settled illegally, asking that the living conditions and rights of local communities be taken into account, and requested a report by 1 December 2024.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7B.31",
+      "description": "The Committee expressed concern about third-party reports of possible forced population displacements, acknowledged Cambodia's explanation of the relocation programme, and requested a joint World Heritage Centre/ICOMOS/ICCROM reactive monitoring mission. It asked for an updated report by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2024-12-09/2024-12-13",
+      "title": "Joint World Heritage Centre/ICOMOS/ICCROM reactive monitoring mission to Angkor",
+      "description": "The mission visited from 9 to 13 December 2024. Its report concluded that the overall state of conservation of the property is considered satisfactory, and noted a 70% increase in legal residents between 2004 and 2022 and remaining illegal settlements over inscribed areas needing ongoing attention, alongside rehabilitation of the ancient hydraulic system.",
+      "event_type": "other",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7B.63",
+      "description": "The Committee noted that the property's Outstanding Universal Value is sustained despite multiple pressures, noted on-going rehabilitation of the ancient hydraulic systems and the systematic rehabilitation of previously occupied locations, asked Cambodia to continue incentives for voluntary relocation under a documented procedure and reinforce measures to prevent new settlements, asked for an updated Tourism Management Plan for review, encouraged macaque management, and requested an updated report by 1 December 2026 for the 49th session. The decision does not mention the Danger List or the border conflict.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "Cambodia-Thailand border fighting and first ceasefire",
+      "description": "A report dated 30 July 2025 said a ceasefire had taken effect the previous Tuesday night after five days of heavy fighting, with more than 200,000 people displaced, and that Thailand alleged violations which Cambodia denied. The sources reviewed do not describe any impact on Angkor.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2025-12",
+      "title": "Renewed border fighting; ceasefire of 27 December 2025; Angkor tourism affected",
+      "description": "Thailand and Cambodia agreed a ceasefire that took effect at noon on 27 December 2025 after roughly three weeks of fighting (casualty and displacement figures differ between outlets). AFP reported on 24 December that Angkor, a two-hour drive from the border, had seen ticket sales fall by at least 17 percent year on year from June to November according to Angkor Enterprise, and did not mention any damage to the temples. Separately, Al Jazeera reported on 15 December 2025 that Cambodian officials said Thai jets had bombed near displaced-person camps in Siem Reap province, roughly 50 miles from Angkor Wat (a Cambodian government claim; no strike on Angkor was reported). Angkor Enterprise figures reported in December 2025 gave 867,195 foreign visitors for January-November 2025, down 3.47 percent.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_13",
+        "src_28"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Angkor",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/668/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 16 COM X.A: Inscription: Angkor (Cambodia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/3438/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "1992",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 27 COM 7A.22: Angkor (Cambodia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/575/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2003",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 28 COM 15A.23: Angkor (2004)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/164",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2004",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Angkor Wat Western Causeway (Open Heritage 3D project)",
+      "publisher": "Open Heritage 3D (dataset by UC Berkeley and Sophia University)",
+      "url": "https://openheritage3d.org/project.php?id=vngf-1h12",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2020",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Angkor (Cambodia): Decision 15A.23 (28th session)",
+      "publisher": "InforMEA",
+      "url": "https://www.informea.org/en/decision/angkor-cambodia",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "InforMEA is a UN-supported portal that republishes treaty decisions; it lists 28 June 2004 for this decision, but that may be the session's opening date, so the day is not relied on.",
+      "published_date": "2004-06-28",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 45 COM 7B.152: Angkor (Cambodia) (C 668)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8164/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 47 COM 7B.63: Angkor (Cambodia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8787/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Report of the Joint World Heritage Centre/ICOMOS/ICCROM Reactive Monitoring Mission to Angkor (Kingdom of Cambodia), 9-13 December 2024",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/224262",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via a retrieval summary of a roughly 120-page PDF; figures quoted in the dossier were each re-checked in a second pass, but the full report was not read end to end. The publication date was not shown on the pages read.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Thailand and Cambodia ink truce to halt border conflict",
+      "publisher": "The Nightly",
+      "url": "https://thenightly.com.au/world/asia-pacific/thailand-and-cambodia-ink-truce-to-halt-border-conflict-c-21132003",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-12-27",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Thai border clashes hit tourism at Cambodia's Angkor (AFP report)",
+      "publisher": "The Daily Star (Bangladesh), republishing AFP",
+      "url": "https://www.thedailystar.net/news/asia/news/thai-border-clashes-hit-tourism-cambodias-angkor-4065156",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-12-24",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_11",
+      "title": "International tourists to Cambodia's Angkor down 3.47 pct in first 11 months of 2025",
+      "publisher": "Vietstock (citing Angkor Enterprise)",
+      "url": "https://en.vietstock.vn/2025/12/int8217l-tourists-to-cambodia8217s-angkor-down-347-pct-in-first-11-months-of-2025-52000-625458.htm",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Aggregator that relays figures from Angkor Enterprise, the state-owned ticket operator; figures are the operator's, not independently audited.",
+      "published_date": "2025-12-02",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Thailand and Cambodia: precarious ceasefire largely holds",
+      "publisher": "blue News (bluewin.ch)",
+      "url": "https://www.bluewin.ch/en/news/international/thailand-and-cambodia-precarious-ceasefire-largely-holds-li.2805796",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Dated 30 July 2025 on the page; relays a Channel News Asia reporter's observation. Used only for the existence, timing and outline of the July 2025 ceasefire.",
+      "published_date": "2025-07-30",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Thailand and Cambodia agree to an immediate ceasefire",
+      "publisher": "Oman Observer",
+      "url": "https://www.omanobserver.om/article/1181713/world/asia/thailand-and-cambodia-agree-to-an-immediate-ceasefire",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Casualty and displacement figures differ from The Nightly's report of the same ceasefire; used only to corroborate the ceasefire date and terms and to show the discrepancy.",
+      "published_date": "2025-12-27",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Decision 46 COM 7B.31: Angkor (Cambodia) (C 668)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8557/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Angkor: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/668/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_16",
+      "title": "UNESCO study finds Cambodia temple severely damaged by 2025 border war",
+      "publisher": "USA Art News (citing ARTnews)",
+      "url": "https://usaartnews.com/news/unesco-study-finds-cambodia-temple-severely-damaged-by-2025-border-war/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Secondary aggregator citing ARTnews about a UNESCO-led study of Preah Vihear temple; the UNESCO report itself was not read. Used only as regional context about a different property, not as support for any claim about Angkor, and never as sole support for the status.",
+      "published_date": "2026-09-10",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Decision 28 COM 15C.3 and UNESCO Danger List page (current List in Danger)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page was read through a retrieval summary that reported 58 properties and no Cambodian entries; the Danger List itself is the evidence cited. Decision 28 COM 15C.3 (https://whc.unesco.org/en/decisions/1245) separately records the 2004 removal.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Photo Library (EFEO)",
+      "publisher": "Ecole francaise d'Extreme-Orient",
+      "url": "https://collection.efeo.fr/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Page states the collection holds over 180,000 pictures and that Cambodia is particularly well represented; it does not state how many show Angkor, and the count of Angkor items was not verified.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Angkor receives 400,000 foreign tourists in Q1 2025",
+      "publisher": "Vietstock (citing Angkor Enterprise)",
+      "url": "https://en.vietstock.vn/2025/04/angkor-receives-400000-foreign-tourists-in-q1-2025-114-606731.htm",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Aggregator relaying Angkor Enterprise figures (the state-owned ticket operator), not independently audited.",
+      "published_date": "2025-04",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Salt Load and Deterioration of Sandstone at the Temple of Angkor Wat, Cambodia (Siedel, von Plehwe-Leisen, Leisen)",
+      "publisher": "11th International Congress on Deterioration and Conservation of Stone, Torun (hosted by Hornemann Institute)",
+      "url": "https://www.hornemann-institut.de/doi/2008siedel2.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2008",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Influence of microclimate on the directional dependence of sandstone pillar weathering in Angkor Wat temple, Cambodia (Waragai and Hiki)",
+      "publisher": "Progress in Earth and Planetary Science (Springer)",
+      "url": "https://link.springer.com/article/10.1186/s40645-019-0254-5",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Groundwater scarcity drives Siem Reap hotels, temples and farmers to compete",
+      "publisher": "Southeast Asia Globe (via SUMERNET media grants), Jack Brook and Choulay Mech",
+      "url": "https://www.sumernet.org/story/groundwater-scarcity-drives-siem-reap-hotels-temples-and-farmers-to-compete",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Read on the SUMERNET site, which republishes a media-grant story; the quote about temple collapse is an APSARA official's view as reported, not a UNESCO finding.",
+      "published_date": "2022-02-23",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Shifting sands (Angkor groundwater and temple stability)",
+      "publisher": "Dialogue Earth",
+      "url": "https://dialogue.earth/en/pollution/4033-shifting-sands/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Published January 2011, so figures and conditions are more than a decade old; used only for context and for the then-reported absence of observed impact, not for current conditions.",
+      "published_date": "2011-01-05",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_24",
+      "title": "Angkor Wat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference used only for the proxy point coordinates (Angkor Wat temple); not used for any claim.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_25",
+      "title": "Angkor site monitoring and evaluation by radar remote sensing (Chen, Jiang, Ishwaran)",
+      "publisher": "SPIE Proceedings 9260 (record on UNESCO Open Science repository)",
+      "url": "https://open-science.unesco.org/records/vvm5p-m6083",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Read via the repository's abstract record, not the full paper; observation period February 2011 to December 2013, so it describes past conditions.",
+      "published_date": "2014",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_26",
+      "title": "ICC-Angkor description (APSARA Authority website)",
+      "publisher": "APSARA National Authority",
+      "url": "https://apsaraauthority.gov.kh/?p=4380",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Page has no explicit title or publication date; the most recent date it mentions is November 2017. Used only for the description of ICC-Angkor's role (co-chaired by France and Japan, UNESCO secretariat, meets twice yearly); the current co-chair arrangement was not independently re-verified.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_27",
+      "title": "Decision 44 COM 7B.139: Angkor (Cambodia) (C 668)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7854/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_28",
+      "title": "Cambodia warns displaced people, tourist hotspots at risk from Thai bombs",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/12/15/cambodia-warns-displaced-people-tourist-hotspots-at-risk-from-thai-bombs",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports statements by Cambodia's defence and information ministries; the claim is the Cambodian government's, and the Thai response was not reviewed. Added by the verifier.",
+      "published_date": "2025-12-15",
+      "accessed_date": "2026-10-04"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; DPI tier extensive. Close call vs High Concern flagged in decision_trigger (regional Cambodia-Thailand conflict trigger; Angkor itself has no documented damage or fighting). Known gaps (not included because not verified): (1) UNESCO's 2025 state of conservation report and the Secretariat's own assessment were not read; only Committee decisions and the December 2024 mission report (via retrieval summary) were. (2) The post-27 December 2025 situation on the Cambodia-Thailand border in 2026 was not verified; searches returned only 2025 ceasefire coverage. (3) Casualty and displacement figures for the December 2025 fighting conflict across outlets (at least 101 killed vs at least 47; over half a million vs over one million displaced) and were deliberately not relied on. (4) The Preah Vihear damage figure rests on a secondary aggregator citing ARTnews; the UNESCO-led report was not read; it is regional context only. (5) Groundwater evidence is dated (2011 article, 2014 radar study) apart from a 2022 interview; no recent monitoring data on groundwater levels or temple subsidence was found, so no present-tense claim of observed groundwater damage is made. (6) No source on present climate or flood damage to the monuments was found; natural_disaster is therefore not listed as a threat category. (7) UNESCO's own centre-point coordinates were not retrieved (the pin is Angkor Wat from Wikipedia, flagged as a proxy for a roughly 400 sq km property). (8) A 2013-2014 Google Street View project for Angkor Wat was reported by NPR but its current availability was not confirmed, so virtual_tour is false; Digital Bayon (University of Tokyo) and Ta Keo (2015 paper) 3D work was not confirmed publicly viewable and is not counted. (9) Exact days and sessions for the 2023, 2024 and 2025 Committee decisions were not confirmed, only years; the 2004 day comes from InforMEA. (10) The InforMEA-sourced day and the APSARA ICC-Angkor description (page dated around 2017) are flagged in reliability notes. (11) One retrieval summary of the mission report initially mislabelled it as part of decision 46 COM 7B.31; the title page, mission dates and quoted figures were re-checked in a second pass, and the report is cited as the mission report, not as a decision. (12) Mission report figures for relocated families were inconsistent between summaries and were omitted. Images omitted by design. VERIFIER FIXES (2026-10-04): (a) removed misattribution of 'uncontrolled urban expansion in the property and its buffer zones' to the 2024 mission (it is the report quoting 32 COM 7B.65, 2008) and replaced with the mission's own wording; corrected plot figures (11,772 in 2004, 21,876 after); (b) AFP article does not mention damage to Angkor, reworded from 'reports no damage'; (c) Dialogue Earth 'no sign of impact' quote reattributed to the Siem Reap water authority, 'stability problems' to UNESCO's Philippe Delanghe, SEA Globe speaker named; (d) 2004 removal day (28 June) dropped since it may be the session opening date; (e) removed unsourced Ta Keo 2015 paper and Digital Bayon claims from DPI evidence; corrected EFEO quote and UNESCO SOC report list ('selected years', not 1993-2025); (f) corrected decision wording for 44/45/47 COM and 2003 report purpose; (g) softened 'one case in the methodology' claim; (h) added Al Jazeera (src_28): Cambodian officials said Thai jets bombed near displaced-person camps in Siem Reap province on 15 Dec 2025 (~50 miles from Angkor Wat), relevant to the High-Concern regional-conflict trigger. Still unverified: 2026 border status; UNESCO centre-point coordinates; 2025 state of conservation report.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-04",
+      "change": "Reviewed and approved by Harry Disley. Approved as proposed: Moderate Concern (close call vs High noted), Supported confidence, Extensive Digital Preservation Index tier accepted. All ten editorial checklist items completed. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}

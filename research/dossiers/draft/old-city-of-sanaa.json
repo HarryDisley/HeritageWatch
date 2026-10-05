@@ -1,0 +1,578 @@
+{
+  "slug": "old-city-of-sanaa",
+  "name": "Old City of Sana'a",
+  "alternate_names": [
+    "Old Sana'a",
+    "Old City of Sanaa",
+    "Sana'a"
+  ],
+  "country": "Yemen",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 15.3556,
+    "lng": 44.2081
+  },
+  "coordinate_note": "Converted from the centre-point coordinates given on UNESCO's property page (N15 21 20, E44 12 29). The inscribed property is an urban area, not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "385",
+  "inscription_year": 1986,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO says Sana'a has been inhabited for more than 2,500 years and became a major centre of Islamic learning and culture in the 7th and 8th centuries. UNESCO cites 103 mosques, 14 hammams and over 6,000 houses, all built before the 11th century. The city is known for its multi-storey tower houses of rammed earth, with decorated facades of fired brick and white gypsum patterns. It was inscribed in 1986 under cultural criteria (iv), (v) and (vi).",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tower_House_in_the_Old_City_of_Sana%27a_%282286819294%29.jpg",
+      "caption": "A traditional tower house in the Old City of Sana'a, photographed in February 2008. Shows the site as it was on that date, before the Yemen conflict, not its current condition.",
+      "credit": "Dan from Brussels",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tower_House_in_the_Old_City_of_Sana'a_(2286819294).jpg",
+      "taken_date": "2008-02-23",
+      "taken_date_display": "23 February 2008",
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bab-ul-Yemen%2C_Sana%27a_%282286002741%29.jpg",
+      "caption": "Bab al-Yemen, the gate to the Old City of Sana'a, photographed in February 2008, before the Yemen conflict. Not a record of current condition.",
+      "credit": "Dan from Brussels",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bab-ul-Yemen,_Sana'a_(2286002741).jpg",
+      "taken_date": "2008-02-23",
+      "taken_date_display": "23 February 2008",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "Yemen's armed conflict is named by the World Heritage Committee as one of the factors leaving the property's Outstanding Universal Value vulnerable (decisions 46 COM 7A.35 in 2024, 47 COM 7A.56 in 2025 and 48 COM 7A.21 in 2026 each cite damage from conflict and security challenges), and in each it urges all parties to the conflict to refrain from action that would cause damage and refers to the 1954 Hague Convention. The best-documented direct damage is the 12 June 2015 attack on the Al-Qasimi neighbourhood, which UNESCO's Director-General described as reducing tower-houses and gardens 'to rubble'; Al Jazeera reported that the Arab coalition denied responsibility and suggested a rebel ammunition cache may have exploded, while VOA reported Saudi-led coalition airstrikes. A 2019 Committee decision recorded that the Al-Qassimi, Alfolihi, Madrassa, Al-Bakiria and Bahr Rajraj neighbourhoods 'remain affected', and a heritage official told a journalist in 2020 that bombing had weakened foundations. More recent incidents in Sana'a are much less clear for this site: a blast reported in April 2025 'near' the Old City is attributed by Houthi health officials to a US strike and by the US military to a Houthi air-defence missile, and the reports read do not describe damage to heritage buildings; AP reported in September 2025 that the Houthi culture ministry said Israeli strikes damaged Yemen's National Museum and 'other historical sites' in the capital, without naming the Old City. The sources reviewed do not document fighting at the Old City itself in 2026.",
+      "first_identified_date": "2015-06-12",
+      "date_note": "Date of the attack on the Al-Qasimi neighbourhood reported by Al Jazeera and VOA. The property was inscribed on the Danger List in 2015; the broader conflict began before this and no earlier dated damage to the site was established from the sources reviewed.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_07",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_15",
+        "src_16",
+        "src_17",
+        "src_23"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Heavy rainfall and flash flooding repeatedly damage the earthen and brick tower houses. UNESCO's 2021 state-of-conservation page reports that torrential rains in August 2020 left three uninhabited houses collapsed, 50 houses severely hit and 111 houses with roof damage. In August 2022, Al Jazeera and The New Arab reported that at least 10 historic buildings collapsed after heavy rain, with about 80 others heavily damaged (The New Arab attributes the figures to the Houthi authorities). The 2024 state-of-conservation page records that heavy rains caused the partial collapse of some historic buildings, including the Al-Yadumi House in the Al-Abhar neighbourhood. The Committee names 'effects of extreme weather conditions' (2024, 2025) and 'effects of extreme rainfall' (2026) among the reasons the property remains vulnerable. The sources reviewed do not give a consolidated count of rain-related collapses across all years, and no 2025-2026 collapse figures were found.",
+      "first_identified_date": null,
+      "date_note": "Recurring seasonal rain damage; the earliest dated event in this dossier is August 2020, but UNESCO's 2021 page also mentions two collapses during 2019 without stating cause, so no single start date is claimed.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_12",
+        "src_13",
+        "src_14"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "ALIPH describes the partial collapse of two tower houses (Ghumdhan and Al-Yadumi) as following conflict and torrential flooding 'linked to climate change', and funded urgent stabilisation of both in 2023. The 2024 state-of-conservation page lists a 2023 contribution from Japan for a project titled 'Building Climate-resilient Communities in Historic Cities in Yemen' and lists problems with the network for evacuating rainwater as a factor affecting the property. The Committee texts read name extreme weather or extreme rainfall but, in the wording retrieved, do not state a climate-change attribution; that attribution here rests on ALIPH.",
+      "first_identified_date": null,
+      "date_note": "Documented as a developing, chronic concern; no single identifiable start date found in the sources reviewed.",
+      "source_ids": [
+        "src_02",
+        "src_05",
+        "src_14"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee cites the 'deteriorating condition of historic buildings' and, in 2025, 'continuing limited resources'. The 2024 state-of-conservation page states that approximately 80% of the damaged buildings are yet to be repaired (in the World Heritage Centre analysis section, referring to the Old City generally and set against the first phase of the UNESCO/EU project, 2018-2022), that '100 buildings are now being targeted' by the UNESCO/European Union project 'Youth Employment through Culture and Heritage in Yemen', and gives no total count of damaged buildings. The Committee has repeatedly asked that ICOMOS Technical Review recommendations be fully implemented for the Souk Al-Halaqa and adjacent souks rehabilitation project (2024, 2025, 2026), noted in 2025 that the Al-Nahrain Mosque project was completed without implementing them, and asked for a high-priority review of the property's protection system. In 2019 the Committee noted building violations 'being addressed through demolition orders and education' and asked to be sent details of new projects before they start. UNESCO's property page lists development pressure (new hotels, telecommunications towers, loss of traditional green spaces) as a continuing concern. An April 2022 investigation by ARIJ documented 27 violations by merchants, residents and influential people, 15 of which involved altering or distorting the features of historic buildings or landmarks; this rests largely on interviews and could not be corroborated from an official source and could not be corroborated from an official source, so it is context only. No official report of demolition of heritage buildings by authorities, as opposed to enforcement against unauthorised construction, was found. Conservation work is continuing: the State Party's January 2026 report (by Yemen's Ministry of Culture and Tourism/GOPHCY) thanks ALIPH as 'the only entity that has continued to support conservation projects' in 2024/2025 (a State Party statement, not a UNESCO finding), and the 2026 Committee decision acknowledges 'continuing efforts to undertake emergency conservation work, and secure funding'.",
+      "first_identified_date": null,
+      "date_note": "Documented as a long-standing/chronic concern across successive state-of-conservation cycles; no single identifiable start date found in sources reviewed.",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_18"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. High triggers matched: (1) Official inscription on the List of World Heritage in Danger for substantive reasons. UNESCO's Danger List page shows the Old City of Sana'a listed since 2015, and the 2026 Committee (48 COM 7A.21) decided to retain it, citing damage from conflict, security challenges, deteriorating historic buildings and the effects of extreme rainfall. (2) Significant historical damage whose repair remains substantially incomplete: the 2024 state-of-conservation page says approximately 80% of damaged buildings are yet to be repaired, and the Committee still cites deteriorating buildings and extreme rainfall in 2026. Critical Concern considered and not mechanically met: (a) no documented fighting at or immediately adjacent to the site in the sources reviewed. The April 2025 blast is reported only as 'near' the Old City, its cause is disputed between the US military and Houthi officials, no heritage damage is documented in the reports read, and the September 2025 strikes reported by AP were not tied to the Old City; (b) the site is not wholly unverifiable: a joint World Heritage Centre/ICOMOS Reactive Monitoring mission has been called for repeatedly and the 2026 decision says it is needed 'as soon as the security situation allows', but conditions are still reported through State Party reports, UNESCO's state-of-conservation pages, and ALIPH and UNESCO/EU projects with local partners; (c) protection has not been shown to have collapsed, since a national heritage authority (GOPHCY) and funded repair projects are active, although the Committee has asked for a review of the protection system. THIS IS A CLOSE CALL WITH CRITICAL CONCERN. Points that could argue for Critical: the lack of any international monitoring mission to date as recorded in the Committee's repeated requests, repeated rain-driven collapses, damaged neighbourhoods described in 2019 as having buildings in danger of collapse, and the unverified April 2025 blast near the site. A reviewer who treats the 'severe threat materially affecting survival, integrity or accessibility' trigger as met on the present evidence would reach Critical.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2015 attack on Al-Qasimi and the later floods are recorded in the timeline. The present picture, per the Committee's 2026 decision, is a property that remains on the Danger List and is still vulnerable to conflict damage, security challenges, deteriorating buildings and extreme rainfall, with approximately 80% of damaged buildings still unrepaired as of the 2024 state-of-conservation report. Against that, repair is real if small relative to need: UNESCO/EU funded rehabilitation is targeting 100 buildings, ALIPH funded urgent work on two tower houses in 2023, and the Committee acknowledges continuing emergency conservation work. Access for international monitors is the main uncertainty: the Committee has been unable to arrange a joint Reactive Monitoring mission because of security conditions (noted in 2019 and 2021 and again in 2026), so much of the present-condition picture comes from the State Party's own reports and project implementers rather than independent monitors. The Old City is in territory administered by the Houthi authorities (the 2022 reports cite a Houthi-administration culture minister), and no UNESCO document read says this has stopped monitoring altogether. Confidence is Supported rather than Confirmed because the Danger List listing and the threat categories are corroborated by primary UNESCO decisions, but the 2024 repair figure is two years old, the full 2026 state-of-conservation report and the January 2026 State Party report were read only as page extracts, and the Critical/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-04",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_15"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly findable evidence, which meets the moderate tier. Photographic coverage found is a UNESCO gallery of 33 images with credits to UNESCO and Editions Gelbart photographers, so it is institutional rather than a recent, systematic survey. The scholarly evidence found is building-level (a 2004-2005 survey of the Great Mosque of Sana'a presented at the 2005 CIPA symposium), not a whole-city study. 3D documentation is marked false: the CIPA paper describes laser scanning and photogrammetry of mosques, and a CEFAS/Iconem project funded by ALIPH is described as digitising Sana'a, Zabid and Shibam in 3D (started January 2022, listed as complete), but no publicly viewable 3D model of the Old City was found. No virtual tour was found. Given the war and the rate of damage, a reviewer may wish to consider whether the evidence for a recent, public, whole-city record is thinner than 'moderate' suggests.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a public photo gallery for the property (33 images over 3 pages: street scenes, traditional buildings and tower houses), credited to UNESCO and Editions Gelbart photographers.",
+        "url": "https://whc.unesco.org/en/list/385/gallery/",
+        "source_id": "src_19"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists Committee decisions, state-of-conservation reports (listed as 1990-2026, with gaps), a 1998 monitoring mission report, a 2009 mission report and periodic reporting from 2000 and 2021.",
+        "url": "https://whc.unesco.org/en/list/385/documents/",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Heno and Egels, 'Architectural Patrimony Management in Yemen' (XXI International CIPA Symposium, 2005): a survey of five Yemeni mosques including the Great Mosque of Sana'a using total stations, stereoscopic photogrammetry and terrestrial laser scanning. Building-level, not whole-city.",
+        "url": "https://www.isprs.org/proceedings/XXXVI/5-C53/papers/FP073.pdf",
+        "source_id": "src_21"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "NOT COUNTED toward the tier: a CEFAS/Iconem project funded by ALIPH is described as digitising Sana'a, Zabid and Shibam in 3D (started January 2022, listed as complete), but no publicly viewable 3D model of the Old City was found.",
+        "url": "https://cultureincrisis.org/projects/documenting-yemeni-built-heritage-at-risk",
+        "source_id": "src_22"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1986",
+      "title": "Old City of Sana'a inscribed on the World Heritage List",
+      "description": "UNESCO's property page records the inscription year as 1986, under criteria (iv), (v) and (vi).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2015-06-12",
+      "title": "Attack destroys houses in the Al-Qasimi neighbourhood",
+      "description": "Al Jazeera and VOA reported an attack on the Old City on Friday 12 June 2015 that destroyed homes; Al Jazeera reported five dead and VOA at least six. VOA reported it as a Saudi-led coalition airstrike; Al Jazeera reported that the coalition denied responsibility and suggested a rebel ammunition cache may have exploded. UNESCO's Director-General Irina Bokova said she was shocked by images of tower-houses and gardens 'reduced to rubble'. The cause of the explosion was disputed in the reports read.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_09",
+        "src_10",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2015",
+      "title": "Property placed on the List of World Heritage in Danger",
+      "description": "UNESCO's Danger List page shows the Old City of Sana'a listed in 2015, and its property page gives 2015 as the year added. The exact month and decision number were not retrieved in this pass.",
+      "event_type": "political",
+      "source_ids": [
+        "src_00",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2019",
+      "title": "Committee decision 43 COM 7A.39 records affected neighbourhoods and that a monitoring mission cannot be arranged",
+      "description": "The Committee noted that the Al-Qassimi, Alfolihi, Madrassa, Al-Bakiria and Bahr Rajraj neighbourhoods 'remain affected', that building violations were being addressed through demolition orders and education, and that owing to the prevailing security conditions it remained challenging for the World Heritage Centre and the Advisory Bodies to provide support, with the Reactive Monitoring mission not arranged. The property was retained on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2020-08",
+      "title": "Torrential rains collapse and damage houses",
+      "description": "UNESCO's 2021 state-of-conservation page reports that August 2020 torrential rains left three uninhabited houses collapsed, 50 houses severely hit and 111 houses with roof damage; UNESCO also reports emergency funds for flood interventions. A Kuwait Times report of 13 August 2020 quoted a heritage official saying earlier bombings had made the foundations fragile.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_06",
+        "src_23"
+      ]
+    },
+    {
+      "date": "2022-08-11",
+      "title": "At least 10 historic buildings collapse after heavy rain",
+      "description": "Al Jazeera and The New Arab reported on 11 August 2022 that at least 10 historic buildings in the Old City collapsed after heavy rain and about 80 others were heavily damaged; The New Arab attributes the figures to the Houthi authorities. The reports quote Abdullah al-Kabsi, culture minister in the Houthi administration, saying they were working with international organisations and seeking help. No deaths were reported in the Al Jazeera piece.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_12",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "ALIPH funds urgent safeguarding of Ghumdhan and Al-Yadumi tower houses",
+      "description": "ALIPH's project page describes documentation, urgent stabilisation and restoration of two traditional tower houses that partially collapsed following conflict and torrential flooding. It lists funding of US$74,000 and Dar Sahep for Engineering as implementing partner, working with Yemen's heritage authorities GOPHCY and GOAM.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.35 and 2024 state-of-conservation report",
+      "description": "The Committee retained the property on the Danger List, repeated that a joint World Heritage Centre/ICOMOS Reactive Monitoring mission is needed, and asked that ICOMOS recommendations be implemented for the Al-Nahrain Mosque and Souk Al-Halaqa projects. The 2024 state-of-conservation page (World Heritage Centre analysis section) states that approximately 80% of damaged buildings are yet to be repaired and that 100 buildings are being targeted by the UNESCO/EU rehabilitation project.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2025-04",
+      "title": "Deadly blast reported near the Old City, cause disputed",
+      "description": "Reuters, as republished by Arab News Pakistan and another outlet, reported a blast in a Sana'a neighbourhood near the Old City in April 2025 in which Houthi health officials said about a dozen people died. The Houthi side attributed it to a US strike; the US military said the closest US strike was more than 5 km away and that a Houthi air-defence missile was responsible, citing fragments with Arabic writing. The reports read do not say whether historic buildings were damaged, and the copies give inconsistent dates (Sunday 20 April versus 25 April), so only the month is stated here.",
+      "event_type": "other",
+      "source_ids": [
+        "src_15",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7A.56",
+      "description": "The Committee retained the property on the Danger List, said its Outstanding Universal Value is vulnerable because of deteriorating buildings, extreme weather, conflict damage, security challenges and limited resources, noted the Al-Nahrain Mosque project was completed without implementing ICOMOS Technical Review recommendations, reiterated the need for a Reactive Monitoring mission and asked for an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "title": "State Party report to the Committee",
+      "description": "A State Party report on the state of conservation (Yemen's Ministry of Culture and Tourism/GOPHCY), dated January 2026 on UNESCO's document page, thanks ALIPH as 'the only entity that has continued to support conservation projects' during 2024/2025 and confirms suspension of the Halaqa Market project, according to the page extract read. The report as read does not give figures for collapses, flood events, demolitions or airstrikes.",
+      "event_type": "other",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.21",
+      "description": "At its 48th session the Committee retained the property on the Danger List, expressed concern at vulnerability from conflict damage, security challenges, deteriorating historic buildings and extreme rainfall, acknowledged continuing emergency conservation work, reiterated that ICOMOS recommendations on the Halaqa Market project be implemented, asked for a high-priority review of the protection system, said boundary modifications will not be considered at this time, acknowledged the need for a Reactive Monitoring mission 'as soon as the security situation allows', and asked for an updated report by 1 February 2027.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Old City of Sana'a",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/385/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.21: Old City of Sana'a (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9012",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.56: Old City of Sana'a (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8723",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.35: Old City of Sana'a (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8504",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Old City of Sana'a: state of conservation (2024)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4558",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "State-of-conservation page; the page did not clearly show an author or exact report date in the extract read. It is presented here as the report examined in 2024.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Old City of Sana'a: state of conservation (2021)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4040",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Old City of Sana'a: state of conservation page including Decision 43 COM 7A.39",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3873",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_08",
+      "title": "State Party Report on the State of Conservation, Old City of Sana'a (Yemen), referencing Decision 47 COM 7A.56",
+      "publisher": "UNESCO World Heritage Centre (State Party document)",
+      "url": "https://whc.unesco.org/document/224572",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "A report written by the State Party, not a UNESCO finding; statements in it (such as that ALIPH was the only entity continuing to support projects) are the State Party's own.",
+      "published_date": "2026-01",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Yemen: UNESCO deplores destruction of Sana'a heritage site bearing 'soul of Yemeni people'",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/node/501472",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Page extract did not show a publication date; it is dated to June 2015 from content and from other reports of the 12 June 2015 attack.",
+      "published_date": "2015-06",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_10",
+      "title": "World heritage sites attacked in Yemen's Sanaa",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2015/6/12/world-heritage-sites-attacked-in-yemens-sanaa",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2015-06-12",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_11",
+      "title": "6 Killed, UN Heritage Site Damaged in Yemen (VOA)",
+      "publisher": "Voice of America, via GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2015/06/mil-150612-voa01.htm",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "VOA report republished on GlobalSecurity.org.",
+      "published_date": "2015-06-12",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Photos: Buildings collapse in Sanaa's Old City after heavy rains",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2022/8/11/photos-buildings-collapse-in-sanaas-old-city-after-heavy-rains",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2022-08-11",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_13",
+      "title": "10 historic buildings collapse in Yemen's capital Sanaa due to heavy rains",
+      "publisher": "The New Arab",
+      "url": "https://newarab.com/news/10-historic-buildings-collapse-sanaa-due-heavy-rains",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2022-08-11",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Urgent safeguarding of Ghumdhan and Al-Yadumi Houses in Old Sana'a",
+      "publisher": "ALIPH Foundation",
+      "url": "https://www.aliph-foundation.org/en/projects/urgent-safeguarding-of-ghumdhan-and-al-yadumi-houses-in-old-sanaa",
+      "source_type": "ngo",
+      "tier": 1,
+      "reliability_note": "ALIPH is a heritage protection foundation; the project page is its own funder description, and the climate-change attribution is ALIPH's wording.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_15",
+      "title": "US says blast near UNESCO world heritage site caused by Houthi missile (Reuters)",
+      "publisher": "Arab News Pakistan, republishing Reuters",
+      "url": "https://www.arabnews.pk/middle-east/us-says-blast-near-unesco-world-heritage-site-caused-by-houthi-missile-2598472",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Republished Reuters copy; it does not name the neighbourhood or state heritage damage. Cause of the blast is contested between the US military and Houthi officials.",
+      "published_date": "2025-04",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_16",
+      "title": "US says blast near Yemen UNESCO world heritage site caused by Houthi missile (Reuters)",
+      "publisher": "DZRH, republishing Reuters",
+      "url": "https://www.dzrh.com.ph/post/us-says-blast-near-yemen-unesco-world-heritage-site-caused-by-houthi-missile",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Republished Reuters copy by a secondary outlet, used only to corroborate src_15; its date lines are inconsistent with src_15.",
+      "published_date": "2025-04",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Yemen's national museum damaged during deadly Israeli airstrikes, Houthi ministry of culture says (AP)",
+      "publisher": "The National Herald, republishing Associated Press",
+      "url": "https://www.thenationalherald.com/yemens-national-museum-damaged-during-deadly-israeli-airstrikes-houthi-ministry-of-culture-says/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The damage claim is the Houthi culture ministry's; AP imagery showed damage to the museum facade. The Old City of Sana'a is not named, so this is context only.",
+      "published_date": "2025-09-11",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Urban Development Destroys the Ancient City of Sana'a",
+      "publisher": "ARIJ (Arab Reporters for Investigative Journalism)",
+      "url": "https://arij.net/investigations/sanaa-buildings-en/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Investigative report of April 2022 relying largely on civil-society and official interviews; some allegations lack corroborating documentation and the wartime context limits verification. Context only, not sole support for any claim.",
+      "published_date": "2022-04-12",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Old City of Sana'a: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/385/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Old City of Sana'a: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/385/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Architectural Patrimony Management in Yemen (Heno and Egels)",
+      "publisher": "XXI International CIPA Symposium, ISPRS proceedings",
+      "url": "https://www.isprs.org/proceedings/XXXVI/5-C53/papers/FP073.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Conference paper covering five mosques, only one of them (the Great Mosque) in Sana'a.",
+      "published_date": "2005",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Documenting Yemeni Built Heritage at Risk",
+      "publisher": "Culture in Crisis",
+      "url": "https://cultureincrisis.org/projects/documenting-yemeni-built-heritage-at-risk",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Project description only; it does not link public 3D models, so it evidences that 3D digitisation was planned or done, not that models are publicly viewable.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Yemen's heritage battered first by bombs then floods",
+      "publisher": "Kuwait Times",
+      "url": "https://kuwaittimes.com/yemens-heritage-battered-first-by-bombs-then-floods/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Byline shown as 'safeer'; wire origin not confirmed. Used only to corroborate a heritage official's quoted view on bomb-weakened foundations alongside UNESCO's own reporting.",
+      "published_date": "2020-08-13",
+      "accessed_date": "2026-10-04"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. DPI recommendation: moderate (3 of 5). Known gaps (not included because not verified): (1) Web pages were read through page extracts, so exact wording of the 2024 state-of-conservation page, the January 2026 State Party report (whc.unesco.org/document/224572) and the 2021 page should be spot-checked against the originals; the 80% repair figure is from the 2024 page and may be out of date. (2) The 2026 State of Conservation report itself and the Secretariat's 2026 assessment were not read; only Committee decisions and the State Party report extract. (3) The 2015 Danger List inscription decision number and month were not retrieved; the 2015 UN News page did not show a date. (4) The casualty figures for 12 June 2015 differ by source (five per Al Jazeera, at least six per VOA) and responsibility for the explosion is disputed; both are reported as such. (5) April 2025 blast near the Old City: exact neighbourhood, date (copies disagree: Sunday 20 April vs 25 April) and any heritage damage were not established; the cause is disputed between the US military and Houthi officials; no UNESCO statement on it was found. (6) The September 2025 Israeli strikes: only the National Museum was named in the AP report; no damage to the Old City was found. (7) Demolition: no official report of heritage demolition was found; the 2019 decision refers to demolition orders against building violations, and the ARIJ 2022 allegations are single-outlet context. (8) Rain damage: only 2020 and 2022 figures and the 2024 Al-Yadumi collapse were found; no 2023-2026 collapse counts. The Gulf News (Aug 2020) figure of 111 structures was not used because UNESCO's own 2021 page gives a different breakdown. (9) A claimed UNESCO plan to rehabilitate 10,000 homes appeared only in a single secondary Yemeni outlet and was omitted. (10) Whether any UNESCO/ICOMOS mission has visited since 2015 was not confirmed beyond the Committee's repeated statements that a Reactive Monitoring mission is still needed and could not be arranged for security reasons (2019, 2021, 2026). (11) No UNOSAT or other satellite damage assessment of the Old City was found or searched for specifically. (12) No public 3D model or virtual tour was found; a photo essay on Alive-in (2023) was reviewed but is not a virtual tour and was not cited. (13) Wikipedia and Wikidata were not used; metadata rests on UNESCO. Images omitted by design. VERIFIER PASS (2026-10-04): 8 edits. Confirmed against fetched sources: the 80% repair figure (WHC analysis section of the 2024 SOC page), the January 2026 State Party report (author Ministry of Culture and Tourism/GOPHCY; ALIPH quote and Halaqa suspension verbatim), the 2015 Danger List listing (danger-list and property pages), decisions 46/47/48 COM, 43 COM 7A.39, 2021 SOC figures, 2015 and 2022 press figures. Corrected: documents-page SOC range (1990-2026 with gaps, not 2014-2026); 2022 collapse reports say about 80 'heavily damaged' (both outlets); ARIJ characterisation softened to its stated 27 violations (15 altering/distorting historic features) rather than demolitions; added authorship/context for the State Party report and the 80% figure. Not verified: Danger List decision number/month (UNESCO pages give only 2015); April 2025 blast date; Houthi-attribution of 2022 figures beyond The New Arab.",
+      "changed_by": "claude"
+    }
+  ]
+}

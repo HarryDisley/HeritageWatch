@@ -1,0 +1,656 @@
+{
+  "slug": "bagan",
+  "name": "Bagan",
+  "alternate_names": [
+    "Pagan"
+  ],
+  "country": "Myanmar",
+  "region": "Asia",
+  "coordinates": {
+    "lat": 21.1725,
+    "lng": 94.86
+  },
+  "coordinate_note": "Approximate point for Bagan from Wikipedia (21.1725 N, 94.86 E). UNESCO's property page gives no coordinates in the text retrieved. The inscribed property is a serial property of 8 components covering 5,005.49 ha (buffer zone 18,146.83 ha), so this is a practical single-point reference only.",
+  "unesco_id": "1588",
+  "inscription_year": 2019,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Bagan is a sacred landscape on a bend of the Ayeyarwady River in Myanmar's central dry zone, which UNESCO describes as featuring an exceptional array of Buddhist art and architecture and as demonstrating centuries of the Theravada Buddhist tradition of merit making. It preserves evidence of the Bagan period (11th-13th centuries), when it was a regional capital. The inscribed serial property has 8 components and 3,595 recorded monuments (stupas, temples, monasteries and others), together with archaeological remains, inscriptions, murals and sculpture. It was inscribed in 2019 under criteria (iii), (iv) and (vi).",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ananda_Temple_Bagan_4.jpg",
+      "caption": "Ananda Temple in Bagan, photographed in September 2012, before the 2016 and 2025 earthquakes. Shows the temple as it was on that date, not its current condition.",
+      "credit": "Philip Nalangan",
+      "license": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ananda_Temple_Bagan_4.jpg",
+      "taken_date": "2012-09-09",
+      "taken_date_display": "9 September 2012",
+      "display_order": 0
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bagan%2C_Myanmar%2C_Dhammayangyi_%28Dhammayan%29_Temple.jpg",
+      "caption": "Dhammayangyi Temple in Bagan, photographed in November 2008, before the 2016 and 2025 earthquakes. Not a record of current condition.",
+      "credit": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bagan,_Myanmar,_Dhammayangyi_(Dhammayan)_Temple.jpg",
+      "taken_date": "2008-11-20",
+      "taken_date_display": "20 November 2008",
+      "display_order": 1
+    }
+  ],
+  "metadata_sources": [
+    "src_00",
+    "src_29"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The World Heritage Committee's 2025 decision (47 COM 7B.82) expressed concern over the impact of military actions on the property and its vicinity and urged all parties to refrain from causing further heritage damage and to fulfil international-law obligations. The July 2026 decision (48 COM 7B.17) again urged all parties associated with military activities to refrain from action that would cause further damage to Myanmar's heritage, and requested continued monitoring of the security situation in the region. The sources reviewed do not document a specific damaging incident inside the property. Regional context: an AFP report published in July 2024 described sporadic clashes between the military and People's Defence Forces across the Ayeyarwady River from Bagan while the city itself was relatively calm; Myanmar Witness recorded 312 airstrikes on religious buildings nationally between January 2024 and December 2025, 53 of them in Mandalay Region (the region containing Bagan), without naming Bagan in the text reviewed. A September 2026 travel feature advises checking site and transport conditions because of armed conflict, but is a weak source. Whether UNESCO or its Advisory Bodies have been able to visit the property since the 2025 earthquake was not established in this pass (decision 47 COM 7B.82 requested UNESCO to facilitate a damage assessment 'as soon as the conditions allow', and the retrieved SOC 2025 page names no completed post-earthquake expert mission).",
+      "first_identified_date": "2025-07",
+      "date_note": "Earliest Committee statement on military actions in this dossier is decision 47 COM 7B.82 (2025). The 2023 decision and SOC 2023 text, as retrieved, contain no military or security content. Wider national conflict predates this; no Bagan-specific start date is established.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_05",
+        "src_24",
+        "src_25",
+        "src_28"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Bagan lies in a seismically active region. The magnitude 6.8 earthquake of 24 August 2016 damaged several hundred monuments (see events). The 28 March 2025 magnitude 7.7 earthquake struck the Sagaing region; UNOSAT's preliminary satellite analysis found 'no visible damage' at the Bagan World Heritage Site (not field-validated), UNESCO's 2025 SOC page quotes a report of only minor damage and small cracks in the internal walls of some pagodas and stupas, and a UNESCO spokesperson said it was very difficult at that stage to verify the precise impact. The SOC 2025 page also records a concern that cracks in mortar can let moisture in during the monsoon (it describes no significant structural damage at that stage), and decision 47 COM 7B.82 requested UNESCO to facilitate a damage assessment as soon as conditions allow, with a view to preventing secondary damage in the coming monsoon; it refers to the earthquake's impact and 'previous extreme weather damage'. Separately, the 2023 decision (45 COM 7B.44) noted with concern that Cyclone Mocha (May 2023) may have affected the property and its Outstanding Universal Value. In 2026 the Committee requested continued monitoring of monument condition after the 2025 earthquake so that early remedial action can be taken. Decision 47 COM 7B.82 also noted with concern the possible negative impacts of approaches used to rehabilitate ancient water channels to prevent flooding. Post-earthquake assessment tools exist (a Post-Earthquake Damage Assessment Form for Bagan, 2025, listed by the Getty). No documented significant, unrepaired 2025 damage at Bagan was found.",
+      "first_identified_date": "2016-08-24",
+      "date_note": "Date is that of the August 2016 earthquake; seismic exposure itself is long-standing.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_05",
+        "src_08",
+        "src_09",
+        "src_19",
+        "src_26",
+        "src_10"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's 2019 inscription decision (43 COM 8B.20) states that authenticity has been impaired by inappropriate interventions in the 1970s and 1990s and by earthquake damage, while major temples and stupas retain a high degree of authenticity in form and design; it requested a set of actions including heritage impact assessments, hotel zoning and a moratorium on new viewing structures pending a tourism strategy. A peer-reviewed article (Kraak, 2018) reports that approximately 1,299 monuments were completely reconstructed between 1995 and 2008 using concrete and steel that did not follow international conservation standards, while noting many Buddhists valued the work as merit-making. A Japanese national research institute's 2016 survey found earthquake damage concentrated on recently reconstructed sections and the junctions between old and new repairs. In March 2018 a pagoda renovated in 1996 and after the 2016 earthquake partly collapsed, per the Ministry of Religious Affairs and Culture. Continuing management issues in UNESCO's reports: the 2023 SOC reported road works and tree planting for which the heritage impact assessment was submitted after project completion, with ground-disturbance concerns; decision 47 COM 7B.82 (2025) encouraged suspension of construction and commissioning of heritage impact assessments for hotel projects not yet started or at an early stage, requested that heavy-machinery excavation in ancient water channels be halted pending a rehabilitation plan and impact assessment, and emphasised authenticity and prior submission of repair projects; decision 48 COM 7B.17 (2026) welcomed progress on the Hotel Strategy including phasing-out of hotels within the property, and requested a comprehensive archaeological assessment of road upgrading projects, a Cultural Landscape Management Plan and a water-channel rehabilitation plan by 1 December 2028. Radio Free Asia (2023) separately reported (citing named conservationists and unnamed sources) hotel construction in the heritage zone and an office built about 30 metres from a pagoda. Tourism pressure has fallen sharply since 2021 (AFP, 2024), so overcrowding is not the present concern. The Getty Conservation Institute has worked with the Department of Archaeology since 2018 on repair methodology including seismic mitigation, conservation of decorated elements and documentation.",
+      "first_identified_date": null,
+      "source_ids": [
+        "src_03",
+        "src_04",
+        "src_01",
+        "src_02",
+        "src_06",
+        "src_10",
+        "src_16",
+        "src_18",
+        "src_19",
+        "src_24",
+        "src_27"
+      ],
+      "date_note": "Documented as long-standing, chronic concerns (interventions from the 1970s, 1990s and 1995-2008 reconstruction); no single identifiable start date. Earliest dated Committee action reviewed is the 2019 inscription decision (43 COM 8B.20)."
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down against the condition as of 2026-10-04. Critical: considered and not met on the evidence found. (1) No severe verified current damage: UNOSAT's preliminary satellite review found no visible damage at Bagan after the March 2025 earthquake (not field-validated), and the 2016 earthquake damage is historical, with repairs reported as substantially advanced or complete. (2) Active combat at or immediately adjacent to the site: the Committee expressed concern in 2025 over the impact of military actions on the property and its vicinity, and an AFP report in July 2024 described clashes across the river from Bagan, but no fighting at the property in 2025-2026 was documented in the sources reviewed. (3) Inaccessible to monitoring for 6+ months: this is the least certain point. decision 47 COM 7B.82 asked UNESCO to facilitate a damage assessment 'as soon as the conditions allow', the retrieved SOC 2025 page names no completed post-earthquake expert mission, and whether UNESCO or the Advisory Bodies have visited since could not be established; however, conservation work and monitoring by national authorities and partners continue and the 2026 Committee commended them. (4) Protection has not collapsed: management plans, impact-assessment requirements and State Party reporting continue. High Concern was considered and not selected, but this is a close call. The 'region under active armed conflict with credible regional reporting on risk to cultural property' trigger is the nearest: Myanmar is in civil conflict and the World Heritage Committee expressed concern in 2025 about military actions affecting the property and its vicinity and in 2026 urged parties to refrain from damaging heritage. Moderate was chosen because those statements are general to Myanmar's heritage and the site's surroundings, and no documented incident at the property in 2025-2026 was found in the sources reviewed; the 2024 AFP report places clashes across the river, not at the site. Other High triggers are not met: not on the Danger List (checked on UNESCO's list page 2026-10-04); the March 2025 earthquake does not show documented damage that is unassessed or unrepaired (UNOSAT and UNESCO's state-of-conservation page indicate none or minor); and the 2016 damage is not both significant and substantially incomplete on the evidence available. Moderate triggers matched: general regional instability without specific credible reporting of exposure of this site, and chronic, monitored conservation and management issues documented in official reports. Harry Disley reviewed this as a close call and set the status to Moderate Concern rather than the draft's proposed High Concern. A reviewer who weights the Committee's property-specific wording could argue for High, and one who weights the unverified post-earthquake condition and limited independent access could argue for a higher status still.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Present conditions: Bagan is a World Heritage property in a country in civil conflict, and the World Heritage Committee has twice (2025 and 2026) expressed concern about military activity affecting Myanmar's heritage and, in 2025, the property and its vicinity, asking for continued monitoring of the security situation. The 28 March 2025 earthquake appears, on the sources found, to have caused little visible damage at Bagan, but a comprehensive field assessment had still to be reported and the Committee asked in 2026 for continued monitoring so that early remedial action can be taken, so present condition rests largely on reports from national authorities and a preliminary satellite review. The 2016 earthquake, which damaged several hundred monuments, and the 1995-2008 reconstructions that weakened authenticity are recorded in events[] and in the conservation threat; repairs were reported as largely complete by 2020 (single secondhand source) and the Getty and the Committee describe ongoing conservation work, so that history does not by itself drive the current status. Chronic management issues (hotels, road works, heavy-machinery excavation of water channels) are being worked through the UNESCO reporting process, with a reporting deadline of 1 December 2028. Supporting Moderate rather than High: no documented fighting at the property, no Danger List inscription, and a functioning management framework. Confidence is Supported rather than Confirmed: the Committee's concerns are directly documented, but independent on-the-ground verification of current monument condition and of how military activity affects the site is limited, the 2026 State of Conservation report could not be read, and the SOC pages appear to rest largely on State Party reporting. Confidence does not change the status.",
+      "effective_date": "2026-10-04",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_24",
+        "src_25",
+        "src_19"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-04",
+      "approval_note": "Approved with change: status set to Moderate Concern at Harry's direction (proposed High Concern; close call). Supported confidence and Extensive Digital Preservation Index tier accepted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence (virtual tour is not counted: a guided tour was not confirmed, only 3D models on a story page), which meets the extensive tier by the rubric (at least four of five including a visual and a technical/scholarly category). Coverage is uneven and largely monument-level: Bagan has 3,595 recorded monuments, while the 3D and virtual-tour evidence found concerns a small number of monuments (Ananda Ok Kyaung and Eim Ya Kyaung, pre- and post-earthquake, per the Google Arts & Culture story page, which was opened and states the data are available via Open Heritage 3D; Google's 2018 announcement describes the wider CyArk partnership), and the Mezzino et al. paper documents four temples in 3D without stating whether the data are public. The Open Heritage 3D dataset pages themselves were not opened, and the Arts & Culture page is a story with 3D models rather than a confirmed guided tour of the wall paintings. The tier rests on four categories. UNESCO's gallery shows images credited to the Department of Archaeology and National Museum. Wider archival holdings (e.g. the Department's inventory) were not found online.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's gallery for the property (12 images per page, with further pages) shows temples and landscape views credited to the Department of Archaeology and National Museum.",
+        "url": "https://whc.unesco.org/en/list/1588/gallery/",
+        "source_id": "src_22"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 2019 nomination text, annexes, maps and management plan, the 2019 ICOMOS evaluation, Committee decisions 2019-2026 and State of Conservation reports.",
+        "url": "https://whc.unesco.org/en/list/1588/documents/",
+        "source_id": "src_23"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Google Arts & Culture's Bagan story ('Valley of 10,000 Temples') features photorealistic 3D models of Ananda Ok Kyaung and Eim Ya Kyaung (pre- and post-earthquake) from CyArk field work using LiDAR and photogrammetry, and says the data are available through Open Heritage 3D for education and research. Google's 2018 announcement likewise describes 3D reconstruction of Bagan's key monuments with CyArk. Separately, a 2017 paper documents four Bagan temples in 3D (public availability not stated).",
+        "url": "https://artsandculture.google.com/story/uAXRm4FCvgIVJg",
+        "source_id": "src_30"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed and institutional scholarship: Kraak (2018) on the Bagan reconstruction campaign, Mezzino et al. (2017) on integrated documentation of Bagan temples, a 2016 post-earthquake survey by the Tokyo National Research Institute for Cultural Properties, and the Getty Conservation Institute's ongoing project and a 2025 Post-Earthquake Damage Assessment Form.",
+        "url": "https://isprs-annals.copernicus.org/articles/IV-2-W2/143/2017/",
+        "source_id": "src_20"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Google's April 2018 announcement of a CyArk partnership describes 3D reconstruction work at Bagan including Ananda Ok Kyaung and data access for researchers.",
+        "url": "https://www.blog.google/outreach-initiatives/arts-culture/preserving-endangered-wonders-world-generations-come/",
+        "source_id": "src_21"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1995/2008",
+      "title": "Large-scale reconstruction campaign of Bagan monuments",
+      "description": "Kraak (2018) reports that between 1995 and 2008 approximately 1,299 monuments were completely reconstructed using concrete and steel that did not follow international conservation standards, while many Buddhists regarded the work as meritorious. A UNESCO official later said incompatible materials such as concrete had replaced lime mortar and that some 2016 earthquake damage resulted from earlier restoration work. The figure is the author's and the date range as summarised in the retrieved abstract.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_18",
+        "src_15"
+      ]
+    },
+    {
+      "date": "2016-08-24",
+      "title": "Magnitude 6.8 earthquake damages Bagan monuments",
+      "description": "A magnitude 6.8 earthquake centred about 15 miles west of Chauk damaged monuments across the Bagan plain, including Sulamani, Ananda, Htilominlo, Shwesandaw and Lawkananda. Counts differ by source and date: Myanmar's Ministry of Religious Affairs and Culture was reported by the Irrawaddy as saying 449 of 3,252 temples were affected; the Department of Archaeology counted 389 damaged as of the end of October 2016 (via the Japanese survey); the Getty describes over 400 structures. Counts use different baselines (3,252 temples vs UNESCO's 2019 figure of 3,595 recorded monuments). The Irrawaddy reported on 25 August 2016 that the Bagan archaeology department said it had asked the army to halt clearing until experts gave the go-ahead; UNESCO officials had asked that affected temples remain untouched until damage was documented.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_11",
+        "src_10",
+        "src_14",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2016-10/2016-11",
+      "title": "Japanese expert survey of earthquake damage",
+      "description": "A team of eight specialists from the Tokyo National Research Institute for Cultural Properties, commissioned by Japan's Agency for Cultural Affairs, surveyed damage from 26 October to 10 November 2016. It found damage concentrated on recently reconstructed sections and boundaries between old and new repairs, with pre-existing age deformations aggravated by the shaking, and noted prompt emergency protective measures by local authorities.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2017-04",
+      "title": "Repairs of least-damaged monuments reported complete",
+      "description": "The Irrawaddy reported that by April 2017, 224 of the least-damaged structures had been fully repaired, with a target of completing all repairs by 2020. Funding cited: 5.7 billion kyats in local donations and 1.1 million US dollars in international donations. An official said repairs followed local and international expert recommendations and were not being rushed.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2018-03",
+      "title": "Renovated pagoda No. 1066 partly collapses",
+      "description": "DVB reported, citing Myanmar's Ministry of Religious Affairs and Culture, that about 70 percent of Pagoda No. 1066 collapsed, attributed by the ministry to excess weight on its walls. The pagoda had been renovated in 1996 and again after the 2016 earthquake, which had cracked its walls.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2018-08",
+      "title": "Major earthquake repairs reported about halfway",
+      "description": "A Department of Archaeology deputy director told the Irrawaddy that more than 200 pagodas with minor damage had been restored within two years, that work on major-damage sites such as Sulamani and Thatbyinnyu was about halfway, and that completion was expected by 2020. The official described emergency restoration as complete and continuing restoration as 90% done, with strengthening work 50% complete.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2019",
+      "title": "Bagan inscribed on the World Heritage List",
+      "description": "At the 43rd session (Baku) the Committee inscribed Bagan under criteria (iii), (iv) and (vi) in decision 43 COM 8B.20. The decision acknowledged that authenticity had been impaired by inappropriate interventions in the 1970s and 1990s and by earthquake damage, and requested a set of actions to be completed by 1 December 2021.",
+      "event_type": "designation",
+      "source_ids": [
+        "src_04",
+        "src_00",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2020-07",
+      "title": "Repairs of 2016 earthquake damage reported nearly complete",
+      "description": "An aggregator summarising a Myanmar Times report stated that, as of July 2020, repairs on the earthquake-damaged structures were nearly complete under the supervision of the Department of Archaeology and Culture. This is a single, secondhand report and was not corroborated by a UNESCO document in this pass.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_17"
+      ]
+    },
+    {
+      "date": "2023-05",
+      "title": "Cyclone Mocha affects the property",
+      "description": "The Committee's 2023 decision (45 COM 7B.44) and the 2023 State of Conservation report record that tropical cyclone Mocha affected the property in May 2023 (the decision says it 'may have affected' the property and its Outstanding Universal Value; the SOC says the assessment was still ongoing). The sources reviewed do not state the extent of damage.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_03",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2025-03-28",
+      "title": "Magnitude 7.7 earthquake in central Myanmar",
+      "description": "A magnitude 7.7 earthquake struck the Sagaing region on 28 March 2025. UNOSAT's preliminary satellite analysis recorded no visible damage at the Bagan World Heritage Site, UNESCO's 2025 SOC page quotes a report of only minor damage and small cracks in internal walls of some pagodas and stupas, and UNESCO's spokesperson said soon after that the precise impact on Bagan was difficult to verify. Hyperallergic also cited local testimony on a Burmese-language news site that at least six pagodas were damaged (unverified).",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_08",
+        "src_05",
+        "src_26"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "World Heritage Committee decision 47 COM 7B.82 on Bagan",
+      "description": "The Committee expressed condolences for the March 2025 earthquake and called for international support and asked UNESCO to facilitate a damage assessment as soon as conditions allow, recalled that authenticity must guide repairs, expressed concern over the impact of military actions on the property and its vicinity, welcomed progress on the draft Hotel Strategy and encouraged suspension of construction and commissioning of impact assessments for hotel projects not yet started or at an early stage, and requested a halt to heavy-machinery excavation in ancient water channels. It asked for an updated report by 1 February 2026. It did not inscribe Bagan on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "World Heritage Committee decision 48 COM 7B.17 on Bagan",
+      "description": "At its 48th session in Busan the Committee commended continued implementation of management and conservation measures, requested continued monitoring of monument condition after the March 2025 earthquake and of the security situation in the region, urged all parties associated with military activities to refrain from action that would damage Myanmar's heritage, welcomed progress on the Hotel Strategy including phasing-out of hotels within the property, and requested an updated conservation report by 1 December 2028. Month reflects the session's July 2026 timing as given in UNESCO decision records; the 2026 State of Conservation report itself could not be retrieved.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_07"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Bagan",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1588/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 47 COM 7B.82: Bagan (Myanmar)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8806",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7B.17: Bagan (Myanmar)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9074",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 45 COM 7B.44: Bagan (Myanmar)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8319",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 43 COM 8B.20: Bagan (Myanmar) inscription",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7380",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_05",
+      "title": "State of Conservation (SOC 2025): Bagan (Myanmar)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4865",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Retrieved in its French-language version. The retrieved text mixes State Party report content, an October 2024 expert mission reference and Committee concerns; who authored each passage within the page was not independently separated, so it is used here only for the quoted wording on earthquake damage and for the planned damage-assessment mission, with the Committee's own concerns taken from the decision (src_01). Verified: the page reports 'minor damage and small cracks in internal walls' in some pagodas/stupas with 'no significant structural damage' initially, and a moisture/monsoon concern; the damage-assessment request is a Committee request to UNESCO, not a scheduled mission.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_06",
+      "title": "State of Conservation (SOC 2023): Bagan (Myanmar)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4357",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_07",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_08",
+      "title": "(Updated) Earthquake Damage to Heritage and Cultural Sites (UNOSAT preliminary satellite analysis, March 2025 earthquake)",
+      "publisher": "UNOSAT (United Nations Satellite Centre), hosted by MIMU",
+      "url": "https://themimu.info/node/144317",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Preliminary analysis from satellite imagery, stated by its authors as not yet validated in the field; the retrieved text did not show a publication date. It supports only 'no visible damage from imagery', not that no damage occurred.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Joint Mission Conducted in Myanmar Following the March 2025 Earthquake",
+      "publisher": "ICOMOS",
+      "url": "https://www.icomos.org/news/myanmar-earthquake-heritage-joint-mission-2025/",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Survey on Quake Damage in the Ruins of Bagan, Myanmar",
+      "publisher": "Tokyo National Research Institute for Cultural Properties",
+      "url": "https://www.tobunken.go.jp/materials/?p=243403",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2016-2017",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Damaged Bagan Temples Under Detailed Assessment",
+      "publisher": "The Irrawaddy",
+      "url": "https://www.irrawaddy.com/news/damaged-bagan-temples-detailed-assessment.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Exact publication date not shown in retrieved text; content refers to early September 2016 and a November 2016 target.",
+      "published_date": "2016",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Myanmar to Repair Earthquake-Hit Bagan by 2020",
+      "publisher": "The Irrawaddy",
+      "url": "https://www.irrawaddy.com/factiva/myanmar-repair-earthquake-hit-bagan-2020.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Exact publication date not shown in retrieved text; content refers to progress 'by April 2017'.",
+      "published_date": "2017",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Bagan Earthquake Repairs Will Take Longer Than Expected",
+      "publisher": "The Irrawaddy",
+      "url": "https://www.irrawaddy.com/news/burma/bagan-earthquake-repairs-will-take-longer-expected.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Exact publication date not shown in retrieved text; content gives progress 'as of August 2018'.",
+      "published_date": "2018",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Bagan After the Quake: Concerns Over Manhandling of Debris",
+      "publisher": "The Irrawaddy",
+      "url": "https://www.irrawaddy.com/?p=50980",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2016-08-25",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Interview: 'It is a chance for the government to show their dedication' (UNESCO's Duong Bich Hanh)",
+      "publisher": "DVB (Democratic Voice of Burma)",
+      "url": "https://english.dvb.no/interview-chance-government-show-dedication/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2016-09-09",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Renovated Bagan pagoda collapses",
+      "publisher": "DVB (Democratic Voice of Burma)",
+      "url": "https://english.dvb.no/renovated-bagan-pagoda-collapses/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Date taken from the retrieved page text; cites Myanmar's Ministry of Religious Affairs and Culture for the cause.",
+      "published_date": "2018-03-04",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Repairs almost finished on quake-damaged Bagan pagodas",
+      "publisher": "Southeast Asian Archaeology (aggregator, citing the Myanmar Times)",
+      "url": "https://southeastasianarchaeology.com/2020/07/17/repairs-almost-finished-on-quake-damaged-bagan-pagodas",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Aggregator summarising a Myanmar Times report; the original article was not opened, and 'nearly complete' is not independently corroborated. Do not use as sole support for a repair-completion claim.",
+      "published_date": "2020-07-17",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Heritage destruction and cultural rights: insights from Bagan in Myanmar (Kraak)",
+      "publisher": "International Journal of Heritage Studies 24(9)",
+      "url": "https://www.academia.edu/35758372/Heritage_destruction_and_cultural_rights_insights_from_Bagan_in_Myanmar",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Read via an Academia.edu listing, not the publisher site; figures are the author's as summarised there.",
+      "published_date": "2018",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Bagan Conservation Project",
+      "publisher": "Getty Conservation Institute",
+      "url": "https://www.getty.edu/conservation/our_projects/field_projects/bagan/",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Built Heritage Documentation and Management: An Integrated Conservation Approach in Bagan (Mezzino et al.)",
+      "publisher": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+      "url": "https://isprs-annals.copernicus.org/articles/IV-2-W2/143/2017/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Preserving endangered wonders of the world, for generations to come",
+      "publisher": "Google (Arts & Culture / CyArk Open Heritage announcement)",
+      "url": "https://www.blog.google/outreach-initiatives/arts-culture/preserving-endangered-wonders-world-generations-come/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Platform operator's own 2018 announcement; confirmed to mention CyArk 3D reconstruction, Ananda Ok Kyaung and researcher data access. Current availability is corroborated by the Arts & Culture story page (src_30).",
+      "published_date": "2018-04-16",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Bagan: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1588/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Bagan: documents (nomination, ICOMOS evaluation, decisions, reports)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1588/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_24",
+      "title": "Myanmar temple city pines for tourists as conflict rages (AFP report)",
+      "publisher": "Myanmar Now",
+      "url": "https://myanmar-now.org/en/news/myanmar-temple-city-pines-for-tourists-as-conflict-rages/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Appears to carry an AFP field report (the text refers to AFP's reporting visit); the article is about tourism collapse and describes the city itself as relatively calm. Dated 2024; not evidence of conditions in 2026.",
+      "published_date": "2024-07-12",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_25",
+      "title": "Myanmar's protected religious sites devastated by airstrikes",
+      "publisher": "Myanmar Witness (Centre for Information Resilience)",
+      "url": "https://www.info-res.org/myanmar-witness/articles/myanmars-protected-religious-sites-devastated-by-airstrikes/",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Covers airstrikes on religious buildings nationally (312 incidents, January 2024-December 2025). The retrieved text did not name Bagan; used only as regional context for Mandalay Region, not as evidence of any incident at Bagan.",
+      "published_date": "2026-04-02",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_26",
+      "title": "Deadly Myanmar Earthquake Devastates Cultural Sites",
+      "publisher": "Hyperallergic",
+      "url": "https://hyperallergic.com/1000458/deadly-myanmar-earthquake-devastates-cultural-sites/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Exact date not shown in retrieved text (published shortly after the 28 March 2025 earthquake). Its Bagan figure ('at least six pagodas') is a local account from a Burmese-language outlet it cites, not verified here; the UNESCO spokesperson's quote is the more reliable element.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_27",
+      "title": "Construction in ancient city of Bagan goes unchecked under junta",
+      "publisher": "Radio Free Asia",
+      "url": "https://www.rfa.org/english/news/myanmar/myanmar-bagan-construction-09272023082120.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Relies on named conservationists and unnamed sources; UNESCO did not respond to the outlet. Used as corroboration of concerns also raised in UNESCO's own reports, not as sole support.",
+      "published_date": "2023-09-27",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_28",
+      "title": "Myanmar's golden horizons: heritage, hospitality and the long road back to tourism",
+      "publisher": "SEASIA.co",
+      "url": "https://seasia.co/2026/09/22/myanmars-golden-horizons-heritage-hospitality-and-the-long-road-back-to-tourism",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Travel/tourism feature of unclear editorial standards; gives general advice to check site and transport conditions and no Bagan-specific visitor figures. Used only as background on access, never as sole support.",
+      "published_date": "2026-09-22",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_29",
+      "title": "Bagan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bagan",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference, used only for approximate coordinates and alternate names.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    },
+    {
+      "source_id": "src_30",
+      "title": "Bagan, Myanmar (Valley of 10,000 Temples)",
+      "publisher": "Google Arts & Culture (with CyArk)",
+      "url": "https://artsandculture.google.com/story/uAXRm4FCvgIVJg",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Platform operator's own story page; opened and read. Dataset pages (Open Heritage 3D) not opened.",
+      "published_date": "",
+      "accessed_date": "2026-10-04"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-04",
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Moderate Concern (and Critical considered on access/monitoring grounds) flagged in decision_trigger. Known gaps: (1) UNESCO's 2026 State of Conservation report (State Party report and Secretariat assessment) returned HTTP 403 and was not read, and curl access to whc.unesco.org was blocked; only Committee decisions 43 COM 8B.20, 45 COM 7B.44, 47 COM 7B.82 and 48 COM 7B.17 (via WebFetch summaries, not raw text) and the SOC 2023 and 2025 pages were read. (2) Whether UNESCO or the Advisory Bodies have visited Bagan since the March 2025 earthquake was not established; the ICOMOS July 2025 joint mission described a Myanmar-wide effort and did not mention Bagan findings in the retrieved text. (3) Post-earthquake damage at Bagan rests on a preliminary UNOSAT satellite review and a quoted line from UNESCO's 2025 SOC page; no field-validated assessment was found. (4) No documented conflict incident inside the property was found; regional conflict evidence is national or district-level and dated (AFP 2024; Myanmar Witness did not name Bagan). A Pakokku offensive article (Irrawaddy, Nov 2025) was read and discarded because it did not mention Bagan. (5) 2016 damage counts conflict (449 per Ministry via Irrawaddy; 389 per Department as of end October 2016 via the Japanese survey; over 400 per Getty) and use different baselines; shown as a range. (6) The 2020 'repairs nearly complete' claim rests on one secondhand aggregator and is flagged; whether 2016 repairs are fully finished today is not verified. (7) Cyclone Mocha damage extent at Bagan not found. (8) No sustained climate/environmental threat evidence was gathered beyond flooding of ancient water channels and extreme weather mentioned by the Committee, so no separate environmental_climate entry was created. (9) Virtual-tour and 3D evidence rests on Google's 2018 announcement; the Arts & Culture pages were not opened. (10) State of Conservation reporting is submitted by Myanmar's State Party, which is the current governing authority; this is noted as a limit on independent verification and is not a finding of unreliability. (11) Wikipedia used only for approximate coordinates and alternate names. (12) Images omitted by design. | VERIFIER 2026-10-04: Re-read decisions 47 COM 7B.82, 48 COM 7B.17, 45 COM 7B.44, 43 COM 8B.20, SOC 2023/2025, Danger List (Bagan absent), UNOSAT, and press sources. Fixes: (a) removed 'comprehensive assessment'/'planned mission' wording (decision 47 para 4 asks UNESCO to facilitate damage assessment 'as soon as the conditions allow'); (b) hotel wording corrected to 'encourages ... suspension of construction and HIAs for hotel projects not yet started or early stage' (not 'urged'); (c) Cyclone Mocha no longer attributed to decision 47 (its extreme-weather reference is generic); (d) 2016 debris claim corrected: archaeology department asked the army to halt, UNESCO asked that temples be left untouched until documented; (e) 2026 'use of impact assessments' removed, road assessment described per decision text; (f) 'UN-body reporting' changed to World Heritage Committee; (g) DPI 3D/virtual tour now backed by the opened Google Arts & Culture story (new src_30); virtual-tour wording softened. Unverified: Japanese survey 'prompt emergency measures' clause, 'July 2026' month of the 48th session, ICOMOS mission did not cover Bagan (only Mandalay area), 2020 repair claim. Virtual-tour category set to false (3D models confirmed, guided tour not) at final review. Status changed from proposed High Concern to Moderate Concern at Harry's direction (close call).",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-04",
+      "change": "Reviewed and approved by Harry Disley. Approved with change: status set to Moderate Concern at Harry's direction (proposed High Concern; close call). Supported confidence and Extensive Digital Preservation Index tier accepted. All ten editorial checklist items completed. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}
