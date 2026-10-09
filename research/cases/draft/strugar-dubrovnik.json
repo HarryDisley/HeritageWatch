@@ -1,0 +1,311 @@
+{
+  "schema_version": "case-v1",
+  "slug": "strugar-dubrovnik",
+  "title": "Prosecutor v. Pavle Strugar (the shelling of the Old Town of Dubrovnik, 6 December 1991)",
+  "case_type": "TRIBUNAL",
+  "body": "International Criminal Tribunal for the former Yugoslavia (ICTY); Trial Chamber II and Appeals Chamber",
+  "case_reference": "IT-01-42 (IT-01-42-T trial; IT-01-42-A appeal)",
+  "summary": "Pavle Strugar, a Yugoslav People's Army general, was tried at the ICTY over the 1991 attack on the Dubrovnik region, including the shelling of the Old Town on 6 December 1991. In its Trial Judgement of 31 January 2005, Trial Chamber II convicted him under Article 7(3) (superior responsibility) of attacks on civilians (Count 3) and destruction or wilful damage to institutions dedicated to religion, charity and education (Count 6), and sentenced him to eight years. When summarising its judgment the Chamber stated that the Old Town \"in its entirety was entered onto the World Heritage List in 1979\" and that \"every building of the Old Town, including its walls, are properly characterised as cultural property.\" On appeal, the Appeals Chamber's Judgement of 17 July 2008 dismissed all of Strugar's grounds (Judges Meron and Kwon dissenting on one), allowed the Prosecution's first and second grounds, entered two further convictions (Counts 4 and 5) and replaced the sentence with seven and a half years. The appeal materials read do not discuss the World Heritage listing.",
+  "legal_basis": "The charges were brought under Article 3 of the ICTY Statute (violations of the laws or customs of war). As reproduced in the ICTY's consolidated Statute, Article 3(d) lists \"seizure of, destruction or wilful damage done to institutions dedicated to religion, charity and education, the arts and sciences, historic monuments and works of art and science\"; Article 3(b) lists \"wanton destruction of cities, towns or villages, or devastation not justified by military necessity.\" Strugar was charged under Article 7(1) (individual responsibility) and Article 7(3), under which a superior is not relieved of responsibility for a subordinate's acts if he \"knew or had reason to know\" the subordinate was about to commit them or had done so and failed to take necessary and reasonable measures to prevent or punish. Paragraph 30 of the March 2003 amended indictment alleged that some buildings and city-wall towers bore protective symbols under the 1954 Hague Convention. The text of that Convention was not read for this entry. Trial Judgement counts are numbered 1 to 6; Count 6 is the cultural property count (the 31 March 2003 indictment numbered the corresponding count differently).",
+  "outcome": "TRIAL (Trial Judgement, IT-01-42-T, 31 January 2005, as pronounced): guilty under Article 7(3) of Count 3 (attacks on civilians) and Count 6 (destruction or wilful damage done to institutions dedicated to religion, charity and education); \"a single sentence of eight years imprisonment\"; the ICTY press release summary states that the Chamber was satisfied the elements of Counts 1, 2, 4 and 5 had been established under Article 7(3) but did not record a finding of guilty on them, and did not find him guilty under Article 7(1) on any count. The Chamber stated that the Old Town was entered on the World Heritage List in 1979, that every building including its walls is properly characterised as cultural property, that of 116 specified buildings and structures 52 were damaged and six destroyed on 6 December 1991, and that \"the destruction or damage of property in the Old Town on 6 December 1991 was not justified by military necessity.\" APPEAL (Appeals Judgement, IT-01-42-A, 17 July 2008, as pronounced): all grounds of appeal submitted by Strugar dismissed, Judges Meron and Kwon dissenting on the third ground (failure to take measures for the events of 6 December 1991); the Prosecution's first ground allowed (the Trial Chamber erred in law on the mens rea test under Article 7(3); the Appeals Chamber said it in effect extended Strugar's responsibility to prevent the shelling from 7.00 a.m. to midnight on 6 December 1991, with no impact on sentence); the Prosecution's second ground allowed and convictions entered under Count 4 (devastation not justified by military necessity) and Count 5 (unlawful attacks on civilian objects) pursuant to Article 7(3), the Appeals Chamber agreeing with the Prosecution that these convictions are based on the same criminal conduct and add nothing to the gravity of the crimes; the Prosecution's third ground dismissed; sentence replaced by seven and a half years, with his deteriorating health treated as mitigating. On Count 6, the Appeals Chamber summary states that the mens rea for destruction or wilful damage to cultural property is established where the damage targeted cultural property intentionally (\"either deliberately or recklessly\"), and that Strugar failed to show the Trial Chamber's findings that the perpetrators acted knowingly were unreasonable. The written Appeal Judgement and the full written Trial Judgement sections on the law of Count 6 were not read; no holding on the World Heritage listing by the Appeals Chamber could be confirmed from the materials read.",
+  "interpretation": null,
+  "start_date": "2001-02-27",
+  "start_date_display": "2001-02-27 (initial indictment confirmed)",
+  "end_date": "2008-07-17",
+  "end_date_display": "2008-07-17 (Appeals Judgement)",
+  "timeline": [
+    {
+      "date": null,
+      "date_display": "1979",
+      "title": "Old Town entered on the World Heritage List",
+      "description": "The Trial Chamber stated, when summarising its judgment, that the Old Town of Dubrovnik \"in its entirety was entered onto the World Heritage List in 1979\". UNESCO's site page gives 1979 as the date of inscription, and decision 3 COM XII.46 lists no. 95, Old City of Dubrovnik (Yugoslavia), among the properties entered on the List.",
+      "source_ids": [
+        "src_04",
+        "src_08",
+        "src_11"
+      ]
+    },
+    {
+      "date": "1991-12-06",
+      "date_display": "6 December 1991",
+      "title": "Shelling of the Old Town",
+      "description": "The Trial Chamber found that the Old Town was shelled by JNA forces on 6 December 1991, in the context of an attack on Srd (Srđ) that the infantry units of the 3rd Battalion of the 472nd Motorised Brigade carried out; the Appeals Chamber's summary of the Trial Judgement states that this battalion shelled the Old Town. The ICTY press release summary says the shelling of Dubrovnik, including the Old Town, continued for over 10 and a half hours. Of 116 specified buildings and structures, the Trial Chamber found 52 were damaged, six of them destroyed.",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_07"
+      ]
+    },
+    {
+      "date": null,
+      "date_display": "1991 (month not given in source read)",
+      "title": "Old City of Dubrovnik placed on the List of World Heritage in Danger",
+      "description": "UNESCO's site page gives 1991-1998 as the years on the List of World Heritage in Danger. Decision 15 COM XV.F, noting \"the state of exceptional emergency caused by the armed conflict\", decided to inscribe the Old City of Dubrovnik on the List of World Heritage in Danger; decision 15 COM VII records the Committee's \"deep concern about the armed conflict\". The month and the order relative to 6 December 1991 are not established by the pages read.",
+      "source_ids": [
+        "src_08",
+        "src_09",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2001-02-27",
+      "date_display": "27 February 2001",
+      "title": "Initial indictment confirmed",
+      "description": "The ICTY case information sheet gives 27 February 2001 as the date the initial indictment was confirmed; it was made public on 2 October 2001.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2003-03-31",
+      "date_display": "31 March 2003",
+      "title": "First amended indictment",
+      "description": "The amended indictment of 31 March 2003 (three accused, 15 counts) charged Strugar under Articles 7(1) and 7(3); its destruction-of-institutions count against Strugar cited Article 3(d). Paragraph 30 states the Old Town \"was a UNESCO World Cultural Heritage Site in its entirety.\"",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2003-12-10",
+      "date_display": "10 December 2003",
+      "title": "Third amended (final) indictment",
+      "description": "The final indictment charged Strugar alone with six counts under Article 3 of the Statute, including destruction or wilful damage to institutions dedicated to religion, charity and education, the arts and sciences, historic monuments and works of art and science.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2003-12-16",
+      "date_display": "16 December 2003",
+      "title": "Trial begins",
+      "description": "The trial before Trial Chamber II commenced on 16 December 2003; closing arguments were heard on 8 and 9 September 2004.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2005-01-31",
+      "date_display": "31 January 2005",
+      "title": "Trial Judgement",
+      "description": "Trial Chamber II found Strugar guilty under Article 7(3) of Counts 3 (attacks on civilians) and 6 (destruction or wilful damage to institutions dedicated to religion, charity and education) and sentenced him to a single sentence of eight years' imprisonment.",
+      "source_ids": [
+        "src_04",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2008-07-17",
+      "date_display": "17 July 2008",
+      "title": "Appeals Judgement",
+      "description": "The Appeals Chamber dismissed all of Strugar's grounds of appeal (Judges Meron and Kwon dissenting on the third ground), allowed the Prosecution's first and second grounds, entered convictions on Counts 4 and 5, and replaced the eight-year sentence with seven and a half years.",
+      "source_ids": [
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2009-02-20",
+      "date_display": "20 February 2009",
+      "title": "Early release takes effect",
+      "description": "The ICTY case information sheet records, under the heading for the sentence served, \"16 January 2009, granted early release, effective 20 February 2009\"; it does not say on which date the release was granted.",
+      "source_ids": [
+        "src_00"
+      ]
+    }
+  ],
+  "section_sources": {
+    "SUMMARY": [
+      "src_00",
+      "src_03",
+      "src_04",
+      "src_05",
+      "src_06",
+      "src_07",
+      "src_08"
+    ],
+    "LEGAL_BASIS": [
+      "src_01",
+      "src_02",
+      "src_00"
+    ],
+    "OUTCOME": [
+      "src_04",
+      "src_05",
+      "src_06",
+      "src_07",
+      "src_00"
+    ],
+    "INTERPRETATION": []
+  },
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Case Information Sheet: \"Dubrovnik\" (IT-01-42) Pavle Strugar",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (hosted by the IRMCT)",
+      "url": "https://icty.org/x/cases/strugar/cis/en/cis_strugar_en.pdf",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Tribunal's own case summary, marked 'Not an official document'; not a judgment. Used for procedural dates and the final indictment's charges. The sheet does not itself number the counts; numbering is taken from the judgment pronouncements.",
+      "published_date": "",
+      "published_date_display": "undated",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Strugar et al. - Amended Indictment (IT-01-42), 31 March 2003",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia",
+      "url": "https://www.icty.org/x/cases/strugar/ind/en/str-ai030331e.htm",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "First amended indictment, with three accused and 15 counts numbered differently from the final (third amended) indictment, which charged Strugar alone. The third amended indictment of 10 December 2003 was not opened.",
+      "published_date": "2003-03-31",
+      "published_date_display": "31 March 2003",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Statute of the International Criminal Tribunal for the former Yugoslavia (ICTY consolidated text, file statute_sept09_en.pdf)",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia",
+      "url": "https://www.icty.org/x/file/Legal%20Library/Statute/statute_sept09_en.pdf",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "The Tribunal's own consolidated Statute. Articles 3(b), 3(d) and 7(3) were checked against this text on 2026-10-08.",
+      "published_date": "",
+      "published_date_display": "consolidated through 2009",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Prosecutor v. Pavle Strugar, Judgement, IT-01-42-T, Trial Chamber II, 31 January 2005 (IRMCT-hosted PDF)",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia / IRMCT",
+      "url": "https://ucr.irmct.org/LegalRef/CMSDocStore/Public/English/Judgement/NotIndexable/IT-01-42/JUD133R2000184306.pdf",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Identification of the document only; the written Trial Judgement was not read in full by the verifier and no claim in this entry rests on it.",
+      "published_date": "2005-01-31",
+      "published_date_display": "31 January 2005",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Transcript of 31 January 2005 (pronouncement of the Trial Judgement summary and sentence), IT-01-42-T, pp. 8810-8830",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia",
+      "url": "https://www.icty.org/x/cases/strugar/trans/en/050131IT.htm",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "The summary read out in court by the Trial Chamber; it is not the written judgment. Quotations about the World Heritage List and cultural property come from this oral summary.",
+      "published_date": "2005-01-31",
+      "published_date_display": "31 January 2005",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Press release: \"Pavle Strugar sentenced to eight years' imprisonment\" (31 January 2005)",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy page maintained by the IRMCT)",
+      "url": "https://www.icty.org/sid/8655",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Marked on the page \"Not an official document\"; a media summary of the Trial Judgement.",
+      "published_date": "2005-01-31",
+      "published_date_display": "31 January 2005",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Appeals Judgement Summary, Prosecutor v. Pavle Strugar, IT-01-42-A, 17 July 2008",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia",
+      "url": "https://www.icty.org/x/cases/strugar/acjug/en/080717_Strugar_summary_en.pdf",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Marked \"Exclusively for the use of the media. Not an official document.\" The full Appeal Judgement was not read; the summary does not mention the World Heritage List or UNESCO.",
+      "published_date": "2008-07-17",
+      "published_date_display": "17 July 2008",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Transcript of 17 July 2008 (pronouncement of the Appeals Judgement), IT-01-42-A, pp. 226-244",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia",
+      "url": "https://icty.org/x/cases/strugar/trans/en/080717IT.htm",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "The summary and disposition read out in court by the Appeals Chamber; not the written judgment. The excerpt does not mention UNESCO or World Heritage status.",
+      "published_date": "2008-07-17",
+      "published_date_display": "17 July 2008",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Old City of Dubrovnik: documents and decisions (World Heritage List entry 95)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/95/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "UNESCO site page (list/95) gives 'Date of Inscription: 1979' and years on the List of World Heritage in Danger 1991-1998; the documents index lists the decisions cited (3COM XII.46, 15COM VII, 15COM XVF, 22COM VIII.2, 18COM XI). Also used for the 1979 date.",
+      "published_date": "",
+      "published_date_display": "index page",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Decision 15 COM XV.F: Inscription on the List of World Heritage in Danger: Old City of Dubrovnik (Yugoslavia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/3546",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Decision text quoted: 'Noting the state of exceptional emergency caused by the armed conflict...' Month of the session is not stated in the text read. The State of Conservation page (soc/1660) could not be re-opened on 2026-10-08 (bot check) and is no longer cited.",
+      "published_date": "1991",
+      "published_date_display": "1991 (15th session of the World Heritage Committee)",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Decision 15 COM VII: Inscription on the List of World Heritage in Danger: Dubrovnik (Yugoslavia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/3482",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Committee text expressing 'deep concern about the armed conflict' and deciding to inscribe Dubrovnik on the Danger List; also records that some delegates said the decision should not be interpreted as an accusation.",
+      "published_date": "1991",
+      "published_date_display": "1991",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Decision 3 COM XII.46: Consideration of Nominations to the World Heritage List",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/2203",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "3rd session of the Committee (1979); lists 95 Old City of Dubrovnik / Yugoslavia among properties entered on the List.",
+      "published_date": "1979",
+      "published_date_display": "1979",
+      "accessed_date": "2026-10-08"
+    }
+  ],
+  "site_slugs": [],
+  "country_links": [
+    {
+      "country_slug": "croatia",
+      "role": "territory where the shelling of Dubrovnik occurred"
+    }
+  ],
+  "review_status": "draft",
+  "approved_by": null,
+  "approved_date": null,
+  "approval_note": null,
+  "last_verified_date": "2026-10-08",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "change": "Initial draft. Known gaps: (1) the full written Trial Judgement text on the law of Count 6 and its Disposition could not be retrieved (only c.110,000 characters of the IRMCT PDF were available), so trial holdings rest on the Chamber's oral summary of 31 Jan 2005 (transcript) and the ICTY press release; (2) the written Appeal Judgement was not read (refworld copy and ICTY PDF were not retrievable), so appeal holdings rest on the media summary and the pronouncement transcript, neither of which mentions the World Heritage listing; (3) the third amended indictment (10 Dec 2003) was not opened, the 31 Mar 2003 amended indictment was used; (4) the 1954 Hague Convention and 1972 World Heritage Convention texts were not read; (5) the ICTY Statute text comes from a University of Oslo reproduction, not the UN site; (6) direct curl access to icty.org, irmct.org and whc.unesco.org was blocked by the proxy; pages were read via a fetch tool that summarises content, so quotations should be re-verified against the original PDFs before approval; (7) the 1991 danger-list decision month and the 1979 inscription decision text were not read. Interpretation left null: no attributable analysis was opened.",
+      "changed_by": "claude-draft"
+    },
+    {
+      "date": "2026-10-08",
+      "change": "Verifier pass against original texts (ICTY site pages and PDFs read in full via browser pane). Quotes re-checked verbatim and confirmed: 'in its entirety was entered onto the World Heritage List in 1979', 'every building of the Old Town, including its walls, are properly characterised as cultural property', 'not justified by military necessity', 'a single sentence of eight years', 'either deliberately or recklessly', Article 3(b)/3(d)/7(3) text, indictment para 30. Numbers confirmed: 116/52/six, 10.5 hours, eight years, seven and a half years, 15 counts/three accused, trial dates. Fixes: (1) appeal outcome omitted that the Prosecution's FIRST ground was allowed (mens rea test under Art 7(3); responsibility extended from 7.00 to midnight) - added to summary, outcome and timeline; (2) dissent now specified as on Strugar's third ground; (3) the shelling is no longer stated as the Trial Chamber's finding that the 3rd Battalion shelled the Old Town - the Trial Chamber's own pronouncement says JNA forces; the battalion wording is attributed to the Appeals Chamber's summary; (4) 'early release granted on 16 January 2009' corrected - the sheet says 'Sentence served 16 January 2009, granted early release, effective 20 February 2009'; (5) 'described as adding nothing to gravity' now attributed to the Appeals Chamber agreeing with the Prosecution; (6) press-release statement on Counts 1,2,4,5 made precise (elements established, no guilty finding recorded); (7) ICTY Statute source swapped from University of Oslo reproduction to the ICTY's own consolidated PDF (tier 1); (8) UNESCO: replaced the unreachable SOC page (soc/1660, bot check) with decision pages 15 COM XV.F, 15 COM VII and 3 COM XII.46, and cited the site page for the 1979 date. Not verified: written Trial and Appeal Judgements (not read; entry rests on pronouncements and summaries); 1954 Hague Convention text; month of the 1991 Danger List decision; wording 'Prosecution's third ground dismissed' etc. rests on the pronouncement. No evaluative wording found in factual sections.",
+      "changed_by": "claude-verifier"
+    }
+  ]
+}

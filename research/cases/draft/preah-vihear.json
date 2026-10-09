@@ -1,0 +1,205 @@
+{
+  "schema_version": "case-v1",
+  "slug": "preah-vihear",
+  "title": "Temple of Preah Vihear (Cambodia v. Thailand): 1962 judgment, 2011 provisional measures order and 2013 interpretation judgment",
+  "case_type": "INTERNATIONAL_COURT",
+  "body": "International Court of Justice",
+  "case_reference": "ICJ General List No. 45 (Temple of Preah Vihear); No. 151 (Request for Interpretation of the Judgment of 15 June 1962)",
+  "summary": "PARTIAL DRAFT: built from the ICJ's case overview pages and UNESCO pages only; the judgments' PDFs could not be read. The ICJ overview states that in 1959 Cambodia complained that Thailand had occupied territory around the ruins of the Temple of Preah Vihear and asked the Court to declare that sovereignty over the Temple belonged to Cambodia. In its merits Judgment of 15 June 1962 the Court concluded that the Temple was situated on Cambodian territory and that Thailand had to withdraw any military or police force stationed there. In 2008 the World Heritage Committee inscribed the Temple on the World Heritage List at Cambodia's request (Decision 32 COM 8B.102). On 28 April 2011, following armed incidents near the Temple after the inscription (as the ICJ overview describes), Cambodia asked the Court to interpret the 1962 Judgment. The Court indicated provisional measures on 18 July 2011 and gave its interpretation Judgment on 11 November 2013. Each of these decisions is separate; see the outcome section.",
+  "legal_basis": "From the ICJ overviews: the 1962 merits Judgment turned on a Franco-Siamese Treaty of 1904, which according to the Court provided that the frontier in the area was to follow the watershed line, and on a map based on the work of a Mixed Delimitation Commission that showed the Temple on the Cambodian side; Thailand argued the map had no binding character, and the Court found Thailand had accepted it. The 2011 order is described as an exercise of the Court's power under Article 41 of the Statute of the Court (the article's own text was not read). The 2013 judgment interpreted the operative part of the 1962 Judgment. The statutory provision governing requests for interpretation was not stated on the pages read and is not given here. The World Heritage inscription was a separate decision of the World Heritage Committee under the World Heritage Convention (Decision 32 COM 8B.102); it did not decide sovereignty or the frontier.",
+  "outcome": "Four separate decisions, as described by the ICJ overviews (vote counts and exact operative wording could not be read and are omitted). (1) Judgment of 26 May 1961: Thailand's preliminary objections to jurisdiction were rejected. (2) Judgment of 15 June 1962 (merits): the Court found that Thailand had accepted the map, concluded that the Temple was situated on Cambodian territory, and held that Thailand was under an obligation to withdraw any military or police force stationed there and to restore to Cambodia any objects removed from the ruins since 1954. (3) Order of 18 July 2011: the Court indicated provisional measures requiring, among other things, both Parties to withdraw their military personnel from a 'provisional demilitarized zone' surrounding the Temple, as defined in the Order. (4) Judgment of 11 November 2013: the Court concluded there was a dispute as to the meaning and scope of the 1962 Judgment; it found that the second operative paragraph required Thailand to withdraw from the whole territory of the promontory of Preah Vihear, that 'vicinity on Cambodian territory' extended at least to the area where a police detachment had been stationed at the time of the original proceedings (and identified the limits of that area), and that the first paragraph's finding of Cambodian sovereignty over the Temple refers, like the second and third paragraphs, to the promontory. Separately, UNESCO's World Heritage Committee in 2008 inscribed the Temple under criterion (i) only (Decision 32 COM 8B.102), noting the inscribed property comprises only the Temple and not the wider promontory.",
+  "interpretation": null,
+  "start_date": "1959-10-06",
+  "start_date_display": "1959-10-06",
+  "end_date": "2013-11-11",
+  "end_date_display": "2013-11-11",
+  "timeline": [
+    {
+      "date": "1959-10-06",
+      "date_display": "6 October 1959",
+      "title": "Cambodia files its application",
+      "description": "The ICJ case page records the application instituting proceedings as dated 6 October 1959. Per the ICJ overview, Cambodia complained that Thailand had occupied a piece of its territory surrounding the ruins of the Temple of Preah Vihear and asked the Court to declare Cambodian sovereignty and to require Thailand to withdraw the armed detachment stationed there since 1954.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "1961-05-26",
+      "date_display": "26 May 1961",
+      "title": "Judgment on preliminary objections",
+      "description": "The ICJ overview states that Thailand filed preliminary objections to the Court's jurisdiction, which were rejected in a Judgment given on 26 May 1961.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "1962-06-15",
+      "date_display": "15 June 1962",
+      "title": "Judgment on the merits (1962 Judgment)",
+      "description": "Per the ICJ overview, the Court noted that a Franco-Siamese Treaty of 1904 provided that the frontier in the area was to follow the watershed line, and that a map based on the work of a Mixed Delimitation Commission showed the Temple on the Cambodian side. It found that Thailand had accepted the map, concluded that the Temple was situated on Cambodian territory, and held that Thailand was under an obligation to withdraw any military or police force stationed there and to restore to Cambodia any objects removed from the ruins since 1954. The vote count was not read (judgment PDF could not be opened).",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": null,
+      "date_display": "2007",
+      "title": "World Heritage Committee agrees in principle (Decision 31 COM 8B.24)",
+      "description": "Decision 32 COM 8B.102 recalls that Decision 31 COM 8B.24 recognized that the Sacred Site of the Temple of Preah Vihear is of great international significance and has Outstanding Universal Value on the basis of criteria (i), (iii) and (iv), and agreed in principle that it should be inscribed. The 31 COM 8B.24 text itself was not opened; this is as recalled in the 2008 decision.",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": null,
+      "date_display": "2008",
+      "title": "Temple inscribed on the World Heritage List (Decision 32 COM 8B.102)",
+      "description": "At its 32nd session the Committee inscribed the Temple of Preah Vihear, Cambodia, under criterion (i) only. The decision notes that the property comprises only the Temple and not the wider promontory with its cliffs and caves, and encourages Cambodia to collaborate with Thailand. The decision text read does not give a day-month date.",
+      "source_ids": [
+        "src_03",
+        "src_02"
+      ]
+    },
+    {
+      "date": null,
+      "date_display": "February 2011",
+      "title": "UNESCO Special Envoy sent to Thailand and Cambodia",
+      "description": "Decision 35 COM 7B.62 thanks the UNESCO Director-General for dispatching her Special Envoy, Mr. Koichiro Matsuura, to Thailand and Cambodia in February 2011 to resume dialogue between the two parties.",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2011-04-28",
+      "date_display": "28 April 2011",
+      "title": "Cambodia requests interpretation of the 1962 Judgment and provisional measures",
+      "description": "Per the ICJ overview of case 151, Cambodia filed an Application requesting interpretation of the 1962 Judgment and, the same day, a Request for the indication of provisional measures, citing urgency and the risk of irreparable damage. The overview states that after the 2008 inscription several armed incidents took place between the Parties in the frontier area close to the Temple.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2011-07-18",
+      "date_display": "18 July 2011",
+      "title": "Order on provisional measures",
+      "description": "The ICJ overview states the Court ruled that it could exercise its power under Article 41 of the Statute and indicated provisional measures requiring, among other things, both Parties to withdraw their military personnel from a 'provisional demilitarized zone' surrounding the Temple, as defined in the Order. Vote count and the zone's exact definition were not read.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2013-11-11",
+      "date_display": "11 November 2013",
+      "title": "Judgment on the request for interpretation (2013 Judgment)",
+      "description": "Per the ICJ overview, the Court concluded there was a dispute as to the meaning and scope of the 1962 Judgment. It held that the second operative paragraph of the 1962 Judgment required Thailand to withdraw from the whole territory of the promontory of Preah Vihear, that 'vicinity on Cambodian territory' extended at least to the area where a police detachment had been stationed at the time of the original proceedings, and that the territorial scope of the three operative paragraphs is the same, referring to the promontory. The vote count was not read.",
+      "source_ids": [
+        "src_01"
+      ]
+    }
+  ],
+  "section_sources": {
+    "SUMMARY": [
+      "src_00",
+      "src_01",
+      "src_03"
+    ],
+    "LEGAL_BASIS": [
+      "src_00",
+      "src_01",
+      "src_03"
+    ],
+    "OUTCOME": [
+      "src_00",
+      "src_01",
+      "src_03",
+      "src_02"
+    ],
+    "INTERPRETATION": []
+  },
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Temple of Preah Vihear (Cambodia v. Thailand), case 45 (overview and document list)",
+      "publisher": "International Court of Justice",
+      "url": "https://www.icj-cij.org/case/45",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Read as an HTML landing page. The case overview on it is written by the Court's Registry and states it is provided for information only and does not involve the responsibility of the Court. The judgment PDFs linked from it could not be opened (bot-verification check), so the operative wording and vote counts were not read.",
+      "published_date": null,
+      "published_date_display": "not stated on page",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Request for Interpretation of the Judgment of 15 June 1962 in the Case concerning the Temple of Preah Vihear (Cambodia v. Thailand) (Cambodia v. Thailand), case 151 (overview and document list)",
+      "publisher": "International Court of Justice",
+      "url": "https://www.icj-cij.org/case/151",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Read as an HTML landing page. The case overview on it is written by the Court's Registry and states it is provided for information only and does not involve the responsibility of the Court. The judgment PDFs linked from it could not be opened (bot-verification check), so the operative wording and vote counts were not read.",
+      "published_date": null,
+      "published_date_display": "not stated on page",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Temple of Preah Vihear (List entry 1224)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1224",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read in full as an HTML page. Gives date of inscription (2008), criterion (i), property and buffer-zone areas, and the Statement of Outstanding Universal Value.",
+      "published_date": null,
+      "published_date_display": "not stated on page",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 32 COM 8B.102: Examination of Nominations - Sacred Site of the Temple of Preah Vihear (Cambodia)",
+      "publisher": "UNESCO World Heritage Committee",
+      "url": "https://whc.unesco.org/en/decisions/1548",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read in full. The page shows the decision text and the 32nd session (2008) but no day-month date, so the exact inscription date is not given here.",
+      "published_date": "2008",
+      "published_date_display": "2008",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 35 COM 7B.62: Temple of Preah Vihear (Cambodia) (C 1224rev)",
+      "publisher": "UNESCO World Heritage Committee",
+      "url": "https://whc.unesco.org/en/decisions/4470",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read in full. Shows the 35th session (2011) and no day-month date.",
+      "published_date": "2011",
+      "published_date_display": "2011",
+      "accessed_date": "2026-10-08"
+    }
+  ],
+  "site_slugs": [],
+  "country_links": [
+    {
+      "country_slug": "cambodia",
+      "role": "applicant in the 1959 case and in the 2011 request for interpretation; State Party that nominated the Temple, inscribed in 2008"
+    },
+    {
+      "country_slug": "thailand",
+      "role": "respondent in both cases; invited by the World Heritage Committee in 2008 to collaborate with Cambodia on safeguarding the Temple"
+    }
+  ],
+  "review_status": "draft",
+  "approved_by": null,
+  "approved_date": null,
+  "approval_note": null,
+  "last_verified_date": "2026-10-08",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "change": "Initial PARTIAL draft built from ICJ landing pages for cases 45 and 151 (Registry overviews, read as HTML) and UNESCO World Heritage Centre pages (list entry 1224, Decisions 32 COM 8B.102 and 35 COM 7B.62). KNOWN GAPS: all ICJ PDFs (judgments of 26 May 1961, 15 June 1962, 11 November 2013; order of 18 July 2011; summaries; press releases) were blocked by a bot-verification check and not read, so vote counts, exact operative paragraphs, the definition of the provisional demilitarized zone, and the statutory basis of the interpretation request are not included. Decision 31 COM 8B.24 not opened (known only as recalled in 32 COM 8B.102). Exact day-month date of the 2008 inscription not shown on pages read. UN Security Council context not researched. Interpretation left null.",
+      "changed_by": "claude-draft"
+    }
+  ]
+}

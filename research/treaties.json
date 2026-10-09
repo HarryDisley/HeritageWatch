@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "hague-1954",
+    "name": "Convention for the Protection of Cultural Property in the Event of Armed Conflict (Hague Convention, 1954)",
+    "adoptedYear": 1954,
+    "depositary": "UNESCO",
+    "description": "Adopted at The Hague on 14 May 1954. UNESCO's treaty page records entry into force on 7 August 1956 and UNESCO as depositary. Source: UNESCO Legal Affairs, https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=416 (read 2026-10-08)."
+  },
+  {
+    "slug": "hague-1954-first-protocol",
+    "name": "Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict (First Protocol, 1954)",
+    "adoptedYear": 1954,
+    "depositary": "UNESCO",
+    "description": "Adopted at The Hague on 14 May 1954 alongside the Convention. Its own UNESCO page records entry into force on 7 August 1956. Source: UNESCO Legal Affairs, https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=416 (read 2026-10-08)."
+  },
+  {
+    "slug": "hague-1999-second-protocol",
+    "name": "Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict (1999)",
+    "adoptedYear": 1999,
+    "depositary": "UNESCO",
+    "description": "Adopted at The Hague on 26 March 1999. UNESCO's page records entry into force on 9 March 2004 (Article 43.1). Source: UNESCO Legal Affairs, https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=416 (read 2026-10-08)."
+  },
+  {
+    "slug": "world-heritage-1972",
+    "name": "Convention Concerning the Protection of the World Cultural and Natural Heritage (World Heritage Convention, 1972)",
+    "adoptedYear": 1972,
+    "depositary": null,
+    "description": "The UNESCO States Parties page records that the Convention entered into force on 17 December 1975 and, for each State, three months after the deposit of its instrument (except in cases of succession). Source: UNESCO World Heritage Centre, https://whc.unesco.org/en/statesparties/ (read 2026-10-08)."
+  },
+  {
+    "slug": "rome-statute",
+    "name": "Rome Statute of the International Criminal Court (1998)",
+    "adoptedYear": 1998,
+    "depositary": null,
+    "description": "Adopted at Rome on 17 July 1998. The UN Treaty Collection records entry into force on 1 July 2002 (Article 126). Source: United Nations Treaty Collection, https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVIII-10&chapter=18&clang=_en (read 2026-10-08)."
+  }
+]

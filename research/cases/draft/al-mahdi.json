@@ -1,0 +1,184 @@
+{
+  "schema_version": "case-v1",
+  "slug": "al-mahdi",
+  "title": "The Prosecutor v. Ahmad Al Faqi Al Mahdi (attacks on historic and religious buildings in Timbuktu, Mali) - PARTIAL DRAFT",
+  "case_type": "INTERNATIONAL_CRIMINAL",
+  "body": "International Criminal Court",
+  "case_reference": "ICC-01/12-01/15 (as cited in Wikipedia's reference list for the Reparations Order; not verified on an ICC page)",
+  "summary": "PARTIAL: the ICC's own case pages and judgments could not be read (icc-cpi.int returned a bot-protection block page), so this entry rests on the Rome Statute text and on a Tier 4 Wikipedia article. As reported by Wikipedia, the ICC opened an investigation into the situation in Mali on 16 January 2013 after a referral by Mali, issued an arrest warrant for Ahmad Al Faqi Al Mahdi on 18 September 2015 alleging that between about 30 June and 10 July 2012 in Timbuktu he committed the war crime of intentionally directing attacks against historical monuments and buildings dedicated to religion, and he was surrendered to the Court on 26 September 2015. Wikipedia reports that he pleaded guilty at the start of his trial on 22 August 2016 to the destruction of nine mausoleums and a mosque, and that he was sentenced on 27 September 2016. Separately, UNESCO's World Heritage Committee, in Decision 40 COM 7A.6 (2016), congratulated Mali on rebuilding the 14 Saint mausoleums destroyed during the 2012 occupation of Timbuktu; that decision does not mention the ICC case.",
+  "legal_basis": "The Rome Statute of the International Criminal Court (1998), as reproduced on the ICRC IHL Databases, lists among the war crimes in Article 8(2)(e)(iv), for armed conflicts not of an international character: 'Intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes, historic monuments, hospitals and places where the sick and wounded are collected, provided they are not military objectives'. Article 8(2)(b)(ix) contains the same wording for international armed conflicts. Wikipedia describes the charge in Al Mahdi in language that matches this provision, but the article number the Court itself applied was NOT read in an ICC document, so it is not asserted here.",
+  "outcome": "PARTIAL, secondary source only. As reported by Wikipedia (citing ICC pages that could not be opened): Al Mahdi was sentenced on 27 September 2016 to nine years in prison after pleading guilty; a Reparations Order dated 17 August 2017 (cited as ICC-01/12-01/15) ordered individual, collective and symbolic reparations for the community of Timbuktu, and his liability was reportedly set at 2.7 million euros; on 25 November 2021 his sentence was reduced to seven years and he was released on 18 September 2022. Wikipedia describes the 2021 reduction both as 'commuted' and as 'reduced on appeal'; the procedure by which it happened was not verified and no appeal step is asserted here. The content of the judgment, the amounts of reparations beyond the single reported figure, and any implementation steps were not verified.",
+  "interpretation": null,
+  "start_date": "2013-01-16",
+  "start_date_display": "2013-01-16 (investigation opened, as reported by Wikipedia)",
+  "end_date": "2022-09-18",
+  "end_date_display": "2022-09-18 (release, as reported by Wikipedia; implementation of reparations not verified)",
+  "timeline": [
+    {
+      "date": "2012-06-30",
+      "date_display": "about 30 June to 10 July 2012",
+      "title": "Alleged attacks on buildings in Timbuktu",
+      "description": "As reported by Wikipedia, the arrest warrant alleges that between about 30 June and 10 July 2012 Al Mahdi committed the war crime of intentionally directing attacks against historical monuments and buildings dedicated to religion in Timbuktu; ten buildings are listed (nine mausoleums and the Sidi Yahya mosque).",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2013-01-16",
+      "date_display": "2013-01-16",
+      "title": "ICC opens investigation in Mali",
+      "description": "As reported by Wikipedia, the ICC opened a formal investigation after a referral of the situation by Mali, into alleged crimes since January 2012 in the context of an armed conflict in northern Mali.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2015-09-18",
+      "date_display": "2015-09-18",
+      "title": "Arrest warrant issued",
+      "description": "As reported by Wikipedia, the ICC issued an arrest warrant for Al Mahdi on this date.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2015-09-26",
+      "date_display": "2015-09-26",
+      "title": "Surrender to the Court",
+      "description": "As reported by Wikipedia, Niger surrendered Al Mahdi to the ICC and he was transferred to the Court's detention centre in The Hague.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2016-08-22",
+      "date_display": "2016-08-22",
+      "title": "Trial opens; guilty plea",
+      "description": "As reported by Wikipedia, the trial began on 22 August 2016 and Al Mahdi pleaded guilty to destroying nine mausoleums and a mosque.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2016-09-27",
+      "date_display": "2016-09-27",
+      "title": "Judgment and sentence",
+      "description": "As reported by Wikipedia, Al Mahdi was sentenced to nine years in prison. The judgment text itself was not read.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2017-08-17",
+      "date_display": "2017-08-17",
+      "title": "Reparations Order",
+      "description": "As reported by Wikipedia, the ICC ordered individual, collective and symbolic reparations for the community of Timbuktu and set his liability at 2.7 million euros. The order itself was not read.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2021-11-25",
+      "date_display": "2021-11-25",
+      "title": "Sentence reduced to seven years",
+      "description": "As reported by Wikipedia, his sentence was reduced to seven years (Wikipedia uses both 'commuted' and 'reduced on appeal'; the procedure was not verified).",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2022-09-18",
+      "date_display": "2022-09-18",
+      "title": "Release",
+      "description": "As reported by Wikipedia, Al Mahdi was released on this date.",
+      "source_ids": [
+        "src_01"
+      ]
+    }
+  ],
+  "section_sources": {
+    "SUMMARY": [
+      "src_01",
+      "src_02",
+      "src_03"
+    ],
+    "LEGAL_BASIS": [
+      "src_00",
+      "src_01"
+    ],
+    "OUTCOME": [
+      "src_01"
+    ],
+    "INTERPRETATION": []
+  },
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Statute of the International Criminal Court, 1998 - Article 8 (War crimes)",
+      "publisher": "ICRC IHL Databases (reproducing the Rome Statute)",
+      "url": "https://ihl-databases.icrc.org/en/ihl-treaties/icc-statute-1998/article-8",
+      "source_type": "treaty_text",
+      "tier": 2,
+      "reliability_note": "ICRC's reproduction of the treaty text; Article 8(2)(b)(ix) and 8(2)(e)(iv) wording read here. Not the UN treaty depositary copy.",
+      "published_date": null,
+      "published_date_display": "undated",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Ahmad al-Faqi al-Mahdi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ahmad_al-Faqi_al-Mahdi",
+      "source_type": "wikipedia",
+      "tier": 4,
+      "reliability_note": "Tier 4, for orientation only. It cites ICC pages (case page, Case Information Sheet, Reparations Order ICC01/12-01/15 at icc-cpi.int/CourtRecords/CR2017_05117.PDF) that could not be opened here. Sole support for every case date, the sentence and the reparations figure in this draft; all must be checked against ICC documents before approval. Its infobox and text are internally inconsistent on 'commuted' vs 'reduced on appeal'.",
+      "published_date": null,
+      "published_date_display": "undated (accessed 2026-10-08)",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Timbuktu",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/119/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Site profile: inscribed 1988 under criteria (ii), (iv), (v); three great mosques (Djingareyber, Sankore, Sidi Yahia) and sixteen mausoleums; on the List in Danger since 2012. Does not discuss the ICC case.",
+      "published_date": null,
+      "published_date_display": "undated",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 40 COM 7A.6: Timbuktu (Mali) (C 119rev)",
+      "publisher": "UNESCO World Heritage Committee",
+      "url": "https://whc.unesco.org/en/decisions/6622",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "40th session, Istanbul, 2016. Congratulates Mali on reconstruction of the 14 Saint mausoleums destroyed during the 2012 occupation and retains Timbuktu on the List in Danger. Does not mention the ICC or Al Mahdi; the number 14 is UNESCO's and must not be blended with the ICC's nine mausoleums and a mosque.",
+      "published_date": "2016-01-01",
+      "published_date_display": "2016 (session date not shown on page)",
+      "accessed_date": "2026-10-08"
+    }
+  ],
+  "site_slugs": [],
+  "country_links": [
+    {
+      "country_slug": "mali",
+      "role": "territory where the events occurred"
+    }
+  ],
+  "review_status": "draft",
+  "approved_by": null,
+  "approved_date": null,
+  "approval_note": null,
+  "last_verified_date": "2026-10-08",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "change": "PARTIAL initial draft. No ICC primary document could be read: icc-cpi.int (case page https://www.icc-cpi.int/mali/al-mahdi) returned a Gcore bot-protection block and was not bypassed. Also unreadable: news.un.org (client challenge), casebook.icrc.org (Azure WAF), legal-tools.org (search app did not render), docs.un.org S/RES/2347(2017) (embedded PDF, no text extracted; not needed). The UNESCO site has no search result for the case. KNOWN GAPS: confirmation of charges (no date or content found); the 2016 judgment and sentence text; the Reparations Order text and amounts; any appeal (Trial Chamber reparations order appeal outcome), implementation steps and Trust Fund for Victims role; the 2021 sentence-reduction procedure; the article of the Statute the Court applied; the case reference (ICC-01/12-01/15 comes only from Wikipedia's citation). Every case fact comes from Wikipedia (Tier 4) and must be verified against icc-cpi.int documents before approval. No first/landmark claims included.",
+      "changed_by": "claude-draft"
+    }
+  ]
+}

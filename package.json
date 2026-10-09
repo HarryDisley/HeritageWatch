@@ -9,7 +9,8 @@
     "lint": "eslint",
     "db:generate": "prisma generate",
     "db:migrate": "prisma migrate dev",
-    "import:dossiers": "tsx scripts/import-dossiers.ts"
+    "import:dossiers": "tsx scripts/import-dossiers.ts",
+    "import:countries-cases": "tsx scripts/import-countries-cases.ts"
   },
   "dependencies": {
     "@prisma/client": "6.19.3",
