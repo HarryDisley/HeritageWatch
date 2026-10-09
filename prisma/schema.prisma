@@ -97,29 +97,29 @@ enum ReviewStatus {
 // ---------- Core models ----------
 
 model Site {
-  id     String @id @default(cuid())
-  slug   String @unique
+  id   String @id @default(cuid())
+  slug String @unique
 
-  name            String
-  alternateNames  String[]
-  country         String
-  region          String
-  latitude        Float
-  longitude       Float
-  coordinateNote  String? @db.Text // e.g. "this point is a practical proxy, not the whole property"
+  name           String
+  alternateNames String[]
+  country        String
+  region         String
+  latitude       Float
+  longitude      Float
+  coordinateNote String?  @db.Text // e.g. "this point is a practical proxy, not the whole property"
 
-  unescoId           String?
-  inscriptionYear    Int?
-  unescoListingName  String? // for serial/composite UNESCO listings
-  isSerialComponent  Boolean @default(false)
+  unescoId            String?
+  inscriptionYear     Int?
+  unescoListingName   String? // for serial/composite UNESCO listings
+  isSerialComponent   Boolean @default(false)
   serialComponentNote String? @db.Text
 
   siteType            SiteType
   significanceSummary String   @db.Text
 
   // Digital Preservation Index summary (evidence rows live in DigitalPreservationEvidence below)
-  dpiTier        DpiTier?
-  dpiCoverageNote String? @db.Text // explains any category marked not-covered, e.g. virtual tour unverifiable
+  dpiTier         DpiTier?
+  dpiCoverageNote String?  @db.Text // explains any category marked not-covered, e.g. virtual tour unverifiable
 
   reviewStatus     ReviewStatus @default(APPROVED)
   approvedBy       String?
@@ -141,12 +141,14 @@ model Site {
   dpiEvidence      DigitalPreservationEvidence[]
   metadataSources  SiteMetadataSource[]
   images           SiteImage[]
+  countries        SiteCountry[]
+  cases            CaseSite[]
 }
 
 model ThreatCategory {
-  id     String             @id @default(cuid())
+  id     String @id @default(cuid())
   siteId String
-  site   Site               @relation(fields: [siteId], references: [id], onDelete: Cascade)
+  site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
 
   category        ThreatCategoryType
   evidenceSummary String             @db.Text
@@ -169,16 +171,16 @@ model StatusEntry {
   siteId String
   site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
 
-  status         SiteStatus
-  confidence     ConfidenceLevel
-  decisionTrigger String         @db.Text // which methodology rule this status satisfies
-  rationale      String          @db.Text
+  status          SiteStatus
+  confidence      ConfidenceLevel
+  decisionTrigger String          @db.Text // which methodology rule this status satisfies
+  rationale       String          @db.Text
 
   effectiveDate DateTime
   recordedBy    String // e.g. "claude-draft"
   approvedBy    String?
   approvedDate  DateTime?
-  approvalNote  String? @db.Text
+  approvalNote  String?   @db.Text
 
   createdAt DateTime @default(now())
 
@@ -193,12 +195,12 @@ model Event {
   site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
 
   // Parsed only when the dossier's date is an unambiguous single day.
-  date DateTime?
+  date        DateTime?
   // Always holds the raw dossier value, e.g. "2018-12", "2024-11/2024-12", "not established".
   dateDisplay String
 
   title       String
-  description String  @db.Text
+  description String @db.Text
   eventType   String // free-form: "political", "protection_measure", etc.
 
   sources EventSource[]
@@ -215,9 +217,9 @@ model Source {
   // kept so the import script can map source_ids from the JSON.
   sourceKey String
 
-  title     String
-  publisher String
-  url       String
+  title      String
+  publisher  String
+  url        String
   sourceType String // "unesco", "government", "journalism", "academic", "other", ...
   tier       SourceTier
 
@@ -227,7 +229,7 @@ model Source {
 
   publishedDate        DateTime?
   publishedDateDisplay String? // raw value for dates that don't parse (often "")
-  accessedDate          DateTime?
+  accessedDate         DateTime?
 
   threatCategoryLinks ThreatCategorySource[]
   statusEntryLinks    StatusEntrySource[]
@@ -266,7 +268,7 @@ model SiteImage {
   site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
 
   url     String // the image file itself (a direct Wikimedia Commons /
-                  // UNESCO file URL, not a copy stored by this app)
+  // UNESCO file URL, not a copy stored by this app)
   caption String @db.Text
 
   // Attribution, kept as plain strings rather than linked to the Source
@@ -329,4 +331,242 @@ model SiteMetadataSource {
   source   Source @relation(fields: [sourceId], references: [id], onDelete: Cascade)
 
   @@id([siteId, sourceId])
+}
+
+// =====================================================================
+// Standing expansion: countries, treaty commitments and the casebook.
+// ADDITIVE ONLY - nothing above this line was changed except the two
+// relation lines on Site (countries, cases), which add no database column.
+// Approved by Harry Disley 2026-10-08; see claude/standing-schema-proposal.md.
+//
+// Design notes:
+// - Treaty is a table (not an enum) so adding an instrument later is data,
+//   not a migration.
+// - A missing TreatyMembership row means "not yet researched". "Not a
+//   party" is stored explicitly as status NOT_PARTY, never inferred.
+// - Countries and cases get NO status/score/ranking. They hold documented
+//   facts only.
+// - Case facts (summary, legal basis, outcome) are kept separate from the
+//   attributed `interpretation` field.
+// - Sources are scoped to one parent (CountrySource, CaseSource), mirroring
+//   Source, so the existing site pipeline is untouched.
+// =====================================================================
+
+enum MembershipStatus {
+  PARTY
+  SIGNED_NOT_RATIFIED
+  NOT_PARTY
+}
+
+enum CaseType {
+  INTERNATIONAL_CRIMINAL
+  INTERNATIONAL_COURT
+  TRIBUNAL
+  SECURITY_COUNCIL_OR_UN_ACTION
+  RESTITUTION_OR_DISPUTE
+  OTHER
+}
+
+enum CaseSection {
+  SUMMARY
+  LEGAL_BASIS
+  OUTCOME
+  INTERPRETATION
+}
+
+model Treaty {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  name        String
+  adoptedYear Int?
+  depositary  String?
+  description String  @db.Text
+
+  memberships TreatyMembership[]
+}
+
+model Country {
+  id      String @id @default(cuid())
+  slug    String @unique
+  name    String
+  isoCode String @unique // ISO 3166-1 alpha-3
+  region  String
+  summary String @db.Text
+
+  reviewStatus     ReviewStatus @default(DRAFT)
+  approvedBy       String?
+  approvedDate     DateTime?
+  lastVerifiedDate DateTime?
+  changelog        Json?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  memberships TreatyMembership[]
+  sources     CountrySource[]
+  sites       SiteCountry[]
+  cases       CaseCountry[]
+}
+
+model TreatyMembership {
+  id        String  @id @default(cuid())
+  countryId String
+  country   Country @relation(fields: [countryId], references: [id], onDelete: Cascade)
+  treatyId  String
+  treaty    Treaty  @relation(fields: [treatyId], references: [id], onDelete: Cascade)
+
+  status      MembershipStatus
+  actionType  String? // ratification, accession, acceptance, succession...
+  date        DateTime?
+  dateDisplay String? // raw value when the date does not parse
+  note        String?          @db.Text
+
+  sourceId String?
+  source   CountrySource? @relation(fields: [sourceId], references: [id])
+
+  @@unique([countryId, treatyId])
+  @@index([countryId])
+}
+
+model CountrySource {
+  id        String  @id @default(cuid())
+  countryId String
+  country   Country @relation(fields: [countryId], references: [id], onDelete: Cascade)
+
+  sourceKey  String
+  title      String
+  publisher  String
+  url        String
+  sourceType String
+  tier       SourceTier
+
+  reliabilityNote      String?   @db.Text
+  publishedDate        DateTime?
+  publishedDateDisplay String?
+  accessedDate         DateTime?
+
+  memberships TreatyMembership[]
+
+  @@unique([countryId, sourceKey])
+  @@index([countryId])
+}
+
+model SiteCountry {
+  siteId    String
+  site      Site    @relation(fields: [siteId], references: [id], onDelete: Cascade)
+  countryId String
+  country   Country @relation(fields: [countryId], references: [id], onDelete: Cascade)
+
+  @@id([siteId, countryId])
+}
+
+model Case {
+  id            String   @id @default(cuid())
+  slug          String   @unique
+  title         String
+  caseType      CaseType
+  body          String // the court or organ, e.g. a named court or UN body
+  caseReference String?
+
+  summary        String  @db.Text
+  legalBasis     String  @db.Text
+  outcome        String  @db.Text
+  interpretation String? @db.Text // attributed analysis, kept separate from facts
+
+  startDate        DateTime?
+  startDateDisplay String?
+  endDate          DateTime?
+  endDateDisplay   String?
+
+  reviewStatus     ReviewStatus @default(DRAFT)
+  approvedBy       String?
+  approvedDate     DateTime?
+  lastVerifiedDate DateTime?
+  changelog        Json?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  events         CaseEvent[]
+  sources        CaseSource[]
+  sectionSources CaseSectionSource[]
+  sites          CaseSite[]
+  countries      CaseCountry[]
+}
+
+model CaseEvent {
+  id     String @id @default(cuid())
+  caseId String
+  case   Case   @relation(fields: [caseId], references: [id], onDelete: Cascade)
+
+  date        DateTime?
+  dateDisplay String
+  title       String
+  description String    @db.Text
+
+  sources CaseEventSource[]
+
+  @@index([caseId])
+}
+
+model CaseSource {
+  id     String @id @default(cuid())
+  caseId String
+  case   Case   @relation(fields: [caseId], references: [id], onDelete: Cascade)
+
+  sourceKey  String
+  title      String
+  publisher  String
+  url        String
+  sourceType String
+  tier       SourceTier
+
+  reliabilityNote      String?   @db.Text
+  publishedDate        DateTime?
+  publishedDateDisplay String?
+  accessedDate         DateTime?
+
+  eventLinks   CaseEventSource[]
+  sectionLinks CaseSectionSource[]
+
+  @@unique([caseId, sourceKey])
+  @@index([caseId])
+}
+
+model CaseEventSource {
+  caseEventId String
+  caseEvent   CaseEvent  @relation(fields: [caseEventId], references: [id], onDelete: Cascade)
+  sourceId    String
+  source      CaseSource @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  @@id([caseEventId, sourceId])
+}
+
+model CaseSectionSource {
+  caseId   String
+  case     Case        @relation(fields: [caseId], references: [id], onDelete: Cascade)
+  section  CaseSection
+  sourceId String
+  source   CaseSource  @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  @@id([caseId, section, sourceId])
+}
+
+model CaseSite {
+  caseId String
+  case   Case   @relation(fields: [caseId], references: [id], onDelete: Cascade)
+  siteId String
+  site   Site   @relation(fields: [siteId], references: [id], onDelete: Cascade)
+
+  @@id([caseId, siteId])
+}
+
+model CaseCountry {
+  caseId    String
+  case      Case    @relation(fields: [caseId], references: [id], onDelete: Cascade)
+  countryId String
+  country   Country @relation(fields: [countryId], references: [id], onDelete: Cascade)
+  role      String? // e.g. territory where it happened, state of the accused
+
+  @@id([caseId, countryId])
 }
