@@ -1,0 +1,190 @@
+{
+  "schema_version": "case-v1",
+  "slug": "unsc-resolution-2347",
+  "title": "United Nations Security Council Resolution 2347 (2017) on the protection of cultural heritage in armed conflict",
+  "case_type": "SECURITY_COUNCIL_OR_UN_ACTION",
+  "body": "United Nations Security Council",
+  "case_reference": "S/RES/2347 (2017)",
+  "summary": "On 24 March 2017, at its 7907th meeting, the UN Security Council adopted resolution 2347 (2017) on the unlawful destruction of cultural heritage and the looting and smuggling of cultural property in the context of armed conflict, notably by terrorist groups. The UN's press release records the adoption as unanimous. The resolution condemns such destruction and looting, affirms that directing unlawful attacks against sites dedicated to religion, education, art, science or charitable purposes, or against historic monuments, may constitute a war crime under certain circumstances, and asks or urges States to adopt measures against trafficking, such as export and import regulations, inventories, specialised units and cooperation in investigations and returns. It also encourages States to protect their own cultural property, including through a network of 'safe havens' in their own territories, and affirms that UN peacekeeping operations, when specifically mandated, may assist authorities in protecting cultural heritage.",
+  "legal_basis": "The resolution's text recalls earlier Security Council resolutions, among them 1267 (1999), 1373 (2001), 2199 (2015), 2253 (2015) and 2322 (2016), and Presidential Statement S/PRST/2012/26. It recalls the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict and its 1954 and 1999 Protocols, the 1970 Convention on illicit import, export and transfer of ownership of cultural property, the 1972 World Heritage Convention, the 2003 Convention for the Safeguarding of the Intangible Cultural Heritage and the 2005 Convention on the Protection and Promotion of the Diversity of Cultural Expressions, and the UN Convention against Transnational Organized Crime. Its operative provisions use different strengths of wording: paragraph 1 'deplores and condemns' and paragraph 3 'also condemns'; paragraph 4 'affirms' the war-crime statement; paragraph 8 'requests' Member States to take appropriate steps against illicit trade, including prohibiting cross-border trade in items lacking documented provenance where there is reasonable suspicion they come from armed conflict, 'in particular items illegally removed from Iraq since 6 August 1990 and from Syria since 15 March 2011'; paragraph 9 'urges' effective national measures, including considering designating such trafficking a serious crime under article 2(b) of the Convention against Transnational Organized Crime; paragraph 17 'calls upon' States to consider the listed measures (a to j); paragraph 19 'affirms' that mandated peacekeeping operations may encompass assisting authorities, on request, in protecting cultural heritage; and paragraph 22 requests a Secretary-General report. The text as read does not cite Chapter VII of the UN Charter and does not set out a sanctions regime of its own; paragraph 2 recalls that trade involving ISIL, Al-Nusra Front and Al-Qaida-associated groups could constitute financial support for entities designated by the 1267/1989/2253 Sanctions Committee and may lead to further listings.",
+  "outcome": "Resolution 2347 (2017) was adopted at the Security Council's 7907th meeting on 24 March 2017, unanimously according to UN press release SC/12764. Its main operative decisions, in the resolution's own words: paragraph 1 deplores and condemns the unlawful destruction of cultural heritage and the looting and smuggling of cultural property in the context of armed conflicts, notably by terrorist groups; paragraph 4 affirms that directing unlawful attacks against sites and buildings dedicated to religion, education, art, science or charitable purposes, or historic monuments 'may constitute, under certain circumstances and pursuant to international law a war crime' and that perpetrators 'must be brought to justice'; paragraph 5 stresses that Member States have the primary responsibility for protecting their cultural heritage and that protection efforts should respect the sovereignty of all States; paragraph 7 encourages ratification of the 1954 Convention and its Protocols; paragraph 16 encourages preventive measures including 'safe havens' within a State's own territory; paragraph 19 affirms that peacekeeping missions, when specifically mandated, may assist in protecting cultural heritage; paragraph 22 requests a Secretary-General report on implementation before the end of 2017; paragraph 23 decides to remain actively seized of the matter.",
+  "interpretation": "Characterisations of the resolution come from speakers at the 24 March 2017 meeting, as summarised in UN press release SC/12764, and are their views, not findings of the Council. France's Minister for Culture and Communication, Audrey Azoulay, commended the resolution for focusing on heritage sites generally, noting that previously adopted texts had focused on specific countries and cases such as Iraq and Syria, and described it as a 'holistic text'. Italy's Under-Secretary of State, Vincenzo Amendola, welcomed what he called a 'historic resolution'. Japan's representative, Hiroshi Minami, described the adoption as a significant step forward. Ethiopia's representative, Tekeda Alemu, said the resolution added value and complemented existing international legal documents. UNESCO Director-General Irina Bokova told the Council that deliberate destruction of heritage is a war crime and tactic of war and that defending heritage is a security imperative; that is her statement, whereas paragraph 4 of the resolution says such attacks 'may constitute' a war crime under certain circumstances.",
+  "start_date": "2017-03-24",
+  "start_date_display": "2017-03-24",
+  "end_date": null,
+  "end_date_display": "not applicable (resolution remains the Council's decision; no end date established in the sources read)",
+  "timeline": [
+    {
+      "date": null,
+      "date_display": "2013",
+      "title": "Mali peacekeeping mandate links trafficking in cultural objects to terrorism financing",
+      "description": "Under-Secretary-General Jeffrey Feltman told the Council in March 2017 that, in creating the mandate of the UN mission in Mali (MINUSMA) in 2013, the Council had established the link between illicit trafficking in cultural objects and the financing of terrorism. This is the UN's summary of his statement; the 2013 resolution text was not read for this entry.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2015-02-12",
+      "date_display": "12 February 2015",
+      "title": "Resolution 2199 (2015) adopted unanimously",
+      "description": "At its 7379th meeting the Council unanimously adopted resolution 2199 (2015) under Chapter VII. According to the UN's press summary, it condemned the destruction of cultural heritage in Iraq and Syria, particularly by ISIL and the Al-Nusrah Front, and decided that all Member States should take steps to prevent trade in items of cultural, scientific and religious importance illegally removed from either country during periods of conflict.",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2015-07-31",
+      "date_display": "31 July - 1 August 2015",
+      "title": "Milan ministerial conference on culture and dialogue",
+      "description": "Resolution 2347 takes note, in its preamble, of the Declaration issued by Ministers of Culture at the International Conference 'Culture as an Instrument of Dialogue among Peoples', held in Milan on 31 July-1 August 2015.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2015-09-08",
+      "date_display": "8 September 2015",
+      "title": "Paris conference on victims of ethnic and religious violence",
+      "description": "Resolution 2347 notes, in its preamble, the International Conference on the victims of ethnic and religious violence in the Middle East, held in Paris on 8 September 2015.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": null,
+      "date_display": "2016",
+      "title": "Resolution 2322 (2016) urges cooperation against trafficking of cultural property",
+      "description": "Feltman told the Council that resolution 2322 (2016) urged States to enhance cooperation to prevent and combat the trafficking of cultural property and related offences benefiting terrorist groups. Resolution 2347 lists 2322 (2016) among the resolutions it recalls.",
+      "source_ids": [
+        "src_01",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2016-12-03",
+      "date_display": "3 December 2016",
+      "title": "Abu Dhabi conference and announcement of an international fund",
+      "description": "Resolution 2347 refers to the Conference on Safeguarding Endangered Cultural Heritage held in Abu Dhabi on 3 December 2016 and its declaration, and, in paragraph 15, to the international fund for the protection of endangered cultural heritage in armed conflict as announced there.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2017-03-24",
+      "date_display": "24 March 2017",
+      "title": "Resolution 2347 (2017) adopted at the 7907th meeting",
+      "description": "The Security Council adopted resolution 2347 (2017) at its 7907th meeting. The UN press release SC/12764 records the adoption as unanimous by the 15-member Council. The meeting began at 10:05 a.m. and ended at 12:00 p.m.",
+      "source_ids": [
+        "src_00",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2017-03-24",
+      "date_display": "24 March 2017",
+      "title": "Briefings and statements after adoption",
+      "description": "After adoption the Council heard briefings from the UNESCO Director-General (Irina Bokova), the UN Under-Secretary-General for Political Affairs (Jeffrey Feltman), the UNODC Executive Director (Yury Fedotov) and the head of Italy's Carabinieri Command for the Protection of Cultural Heritage (Fabrizio Parrulli); France's Minister for Culture and Communication and Italy's Under-Secretary of State for Foreign Affairs and International Cooperation also spoke, as did representatives of 13 Member States (Bolivia, Kazakhstan, Ukraine, Sweden, Uruguay, Egypt, the Russian Federation, China, the United States, Ethiopia, Japan, Senegal and the United Kingdom, the last speaking in its national capacity as Council President for March).",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": null,
+      "date_display": "Requested before the end of 2017",
+      "title": "Secretary-General's implementation report requested",
+      "description": "In paragraph 22 the Council requested the Secretary-General, with the support of UNODC, UNESCO and the Analytical Support and Sanctions Monitoring Team, to submit a report on implementation of the resolution before the end of the year. Whether and when that report was issued was not checked for this entry.",
+      "source_ids": [
+        "src_00"
+      ]
+    }
+  ],
+  "section_sources": {
+    "SUMMARY": [
+      "src_00",
+      "src_01"
+    ],
+    "LEGAL_BASIS": [
+      "src_00",
+      "src_01"
+    ],
+    "OUTCOME": [
+      "src_00",
+      "src_01"
+    ],
+    "INTERPRETATION": [
+      "src_01"
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Resolution 2347 (2017), S/RES/2347 (2017): adopted by the Security Council at its 7907th meeting, on 24 March 2017",
+      "publisher": "United Nations Security Council",
+      "url": "https://docs.un.org/en/S/RES/2347(2017)",
+      "source_type": "un_document",
+      "tier": 1,
+      "reliability_note": "Official resolution text (PDF at documents.un.org, 7 pages, Distr.: General, 24 March 2017). The header records adoption at the 7907th meeting on 24 March 2017; the document itself does not state the vote. Text was extracted from the PDF programmatically and checked against the full text reproduced in src_01.",
+      "published_date": "2017-03-24",
+      "published_date_display": "24 March 2017",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Security Council Condemns Destruction, Smuggling of Cultural Heritage by Terrorist Groups, Unanimously Adopting Resolution 2347 (2017) (press release SC/12764, 7907th meeting)",
+      "publisher": "United Nations Meetings Coverage and Press Releases",
+      "url": "https://press.un.org/en/2017/sc12764.doc.htm",
+      "source_type": "un_document",
+      "tier": 1,
+      "reliability_note": "UN's own meeting coverage; it states the resolution was unanimously adopted, summarises the briefings and statements, and reproduces the resolution text. It is marked 'For information media. Not an official record.' so statements by speakers are the Secretariat's summary, not verbatim records.",
+      "published_date": "2017-03-24",
+      "published_date_display": "24 March 2017",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Unanimously Adopting Resolution 2199 (2015), Security Council Condemns Trade with Al-Qaida Associated Groups, Threatens Further Targeted Sanctions (press release SC/11775, 7379th meeting)",
+      "publisher": "United Nations Meetings Coverage and Press Releases",
+      "url": "https://press.un.org/en/2015/sc11775.doc.htm",
+      "source_type": "un_document",
+      "tier": 1,
+      "reliability_note": "UN meeting coverage of the adoption of resolution 2199 (2015); used only for context. Only the summary and the preamble were read in detail; the operative paragraph on cultural property was read as the press release's summary, not as the resolution's numbered text. Not an official record.",
+      "published_date": "2015-02-12",
+      "published_date_display": "12 February 2015",
+      "accessed_date": "2026-10-08"
+    }
+  ],
+  "site_slugs": [],
+  "country_links": [
+    {
+      "country_slug": "iraq",
+      "role": "named in paragraph 8 (items illegally removed from Iraq since 6 August 1990)"
+    },
+    {
+      "country_slug": "syria",
+      "role": "named in paragraph 8 (items illegally removed from Syria since 15 March 2011)"
+    }
+  ],
+  "review_status": "approved",
+  "approved_by": "Harry Disley",
+  "approved_date": "2026-10-08",
+  "approval_note": "Approved by Harry Disley in chat on 2026-10-08 after reviewing the batch summary; independent verifier checked against official sources.",
+  "last_verified_date": "2026-10-08",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "change": "Initial draft. Read: official resolution PDF S/RES/2347 (2017) via documents.un.org (access granted once on request after docs.un.org redirected there; text extracted programmatically from the PDF), UN press releases SC/12764 and SC/11775. Known gaps: the official text does not state the vote, so 'unanimous' rests on SC/12764; the 2013 MINUSMA and 2016 resolution 2322 items rest on a speaker's summary in SC/12764, not on those resolutions' own texts; resolution 2199 was read only via press summary; the Secretary-General's implementation report was not looked up; the meeting record S/PV.7907 was not opened (meeting number taken from the resolution header). The preamble's reference to an ICC conviction is deliberately not expanded here because the resolution does not name the case.",
+      "changed_by": "claude-draft"
+    },
+    {
+      "date": "2026-10-08",
+      "change": "Independent verification against press release SC/12764 (full resolution text reproduced there) and SC/11775. Confirmed: adoption 24 March 2017 at 7907th meeting; 'unanimously' per SC/12764 title and text (and Ethiopia's welcome of 'unanimous adoption'); paragraph numbers and verbs (1, 2, 3, 4, 5, 7, 8, 9, 15, 16, 17, 19, 22, 23); para 4 'may constitute, under certain circumstances and pursuant to international law a war crime' quote; no Chapter VII or sanctions-regime language in the 2347 text; delegate attributions (Azoulay, Amendola, Minami, Alemu, Bokova) match the press summary; 2199 entry (7379th meeting, unanimous, Chapter VII) matches SC/11775. Fixes (3): full title of the 2005 UNESCO Convention as in the resolution; paragraph 1/3 verbs given exactly ('deplores and condemns' / 'also condemns'); briefing-timeline entry corrected (Italy's speaker was an Under-Secretary of State, not a minister; the 13 other delegations listed, UK among them). Not verified: the PDF at documents.un.org could not be read in the browser pane, so the claims that the PDF header omits the vote and runs to 7 pages rest on the original draft; the meeting number is independently confirmed by SC/12764. S/PV.7907 not opened.",
+      "changed_by": "claude-verifier"
+    },
+    {
+      "date": "2026-10-08",
+      "change": "Approved by Harry Disley; copied to approved/ for import.",
+      "changed_by": "Harry Disley (via claude)"
+    }
+  ]
+}

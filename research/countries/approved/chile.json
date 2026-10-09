@@ -1,0 +1,143 @@
+{
+  "schema_version": "country-v1",
+  "slug": "chile",
+  "name": "Chile",
+  "iso_code": "CHL",
+  "region": "Americas",
+  "summary": "Chile is listed on the official registers as \"Chile\". This dossier records its status under five heritage-protection and international criminal law instruments, as shown on the UNESCO and United Nations Treaty Collection registers on 8 October 2026.",
+  "treaty_memberships": [
+    {
+      "treaty_slug": "hague-1954",
+      "status": "party",
+      "action_type": "accession",
+      "date": "2008-09-10",
+      "date_display": "10 September 2008",
+      "note": null,
+      "source_id": "src_02"
+    },
+    {
+      "treaty_slug": "hague-1954-first-protocol",
+      "status": "party",
+      "action_type": "accession",
+      "date": "2008-09-10",
+      "date_display": "10 September 2008",
+      "note": null,
+      "source_id": "src_03"
+    },
+    {
+      "treaty_slug": "hague-1999-second-protocol",
+      "status": "party",
+      "action_type": "accession",
+      "date": "2008-09-10",
+      "date_display": "10 September 2008",
+      "note": null,
+      "source_id": "src_04"
+    },
+    {
+      "treaty_slug": "world-heritage-1972",
+      "status": "party",
+      "action_type": "ratification",
+      "date": "1980-02-20",
+      "date_display": "20/02/1980 (R)",
+      "note": null,
+      "source_id": "src_01"
+    },
+    {
+      "treaty_slug": "rome-statute",
+      "status": "party",
+      "action_type": "ratification",
+      "date": "2009-06-29",
+      "date_display": "29 Jun 2009",
+      "note": "Signed 11 Sep 1998.",
+      "source_id": "src_00"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Rome Statute of the International Criminal Court - status of ratification (Chapter XVIII.10)",
+      "publisher": "United Nations Treaty Collection",
+      "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVIII-10&chapter=18&clang=_en",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "published_date_display": "Page states: status as at 08-10-2026",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_01",
+      "title": "States Parties - UNESCO World Heritage Convention",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/statesparties/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page states its own as-of date as 22-Oct-2024 (196 States Parties); entries were read on 2026-10-08 and later changes, if any, may not be shown.",
+      "published_date": "",
+      "published_date_display": "Page states: as of 22-Oct-2024",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention (States Parties and signatories tables)",
+      "publisher": "UNESCO Legal Affairs",
+      "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=416",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "published_date_display": "",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict (First Protocol, 1954) (States Parties and signatories tables)",
+      "publisher": "UNESCO Legal Affairs",
+      "url": "https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=416",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "published_date_display": "",
+      "accessed_date": "2026-10-08"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict (States Parties and signatories tables)",
+      "publisher": "UNESCO Legal Affairs",
+      "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=416",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "published_date_display": "",
+      "accessed_date": "2026-10-08"
+    }
+  ],
+  "site_slugs": [
+    "rapa-nui-national-park"
+  ],
+  "review_status": "approved",
+  "approved_by": "Harry Disley",
+  "approved_date": "2026-10-08",
+  "approval_note": "Approved by Harry Disley in chat on 2026-10-08 after reviewing the batch summary; independent verifier checked against official sources.",
+  "last_verified_date": "2026-10-08",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "change": "Initial draft rebuilt from the official registers, read in the built-in browser on 2026-10-08: UN Treaty Collection (Rome Statute, status as at 08-10-2026), UNESCO World Heritage States Parties page (page states as-of 22-Oct-2024), and UNESCO Legal Affairs pages for the 1954 Convention, First Protocol and Second Protocol. Dates are as shown on those pages; entry-into-force dates were not read. The earlier agent-written draft was empty because the registries were blocked in the cloud workspace. Not assessed: whether older dates were deposited under a predecessor state or earlier name (the registers list the current country name). Page-footnote texts on the UN Treaty Collection page were read only partly. region and summary are editorial labels, not taken from a source.",
+      "changed_by": "claude-draft"
+    },
+    {
+      "date": "2026-10-08",
+      "change": "Verified all five treaty rows / not_party claims against the re-opened registers (UNESCO Legal Affairs 1954 Convention, First Protocol, Second Protocol; WHC States Parties list, page as-of 22-Oct-2024; UNTC Rome Statute status as at 08-10-2026): status, instrument type, dates and signatory notes match. No changes needed.",
+      "changed_by": "claude-verifier"
+    },
+    {
+      "date": "2026-10-08",
+      "change": "Approved by Harry Disley; copied to approved/ for import.",
+      "changed_by": "Harry Disley (via claude)"
+    }
+  ]
+}
