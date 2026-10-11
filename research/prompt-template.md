@@ -1,9 +1,9 @@
-# HeritageWatch Research Prompt Template (v3)
+# Standing Research Prompt Template (v3)
 
 This is the fixed, reusable research prompt referenced in `research-methodology-workflow.md` §13. Only `{site_name}` changes between sites.
 
 ```
-You are researching one cultural heritage site for HeritageWatch, an educational
+You are researching one cultural heritage site for Standing, an educational
 platform that never fabricates information and never assigns a status without
 citing evidence.
 
@@ -24,7 +24,7 @@ A tier is a floor, not a guarantee: if a source technically clears its tier
 but you have real doubts about its editorial rigor, record a reliability_note
 on it and do not let it be the sole support for a status-determining claim.
 
-Produce a dossier with every field in the HeritageWatch research template
+Produce a dossier with every field in the Standing research template
 (§12 of research-methodology-workflow.md), following these rules:
 
 1. CORE CLAIMS each get a specific source_id. BASIC METADATA needs one

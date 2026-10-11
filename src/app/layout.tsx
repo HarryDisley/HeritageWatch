@@ -13,8 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HeritageWatch",
-  description: "An open-source platform for monitoring threats facing cultural heritage sites around the world.",
+  title: {
+    default: "Standing",
+    template: "%s | Standing",
+  },
+  description:
+    "Standing is an open-source atlas of heritage, law and state commitments: threats to cultural heritage sites, the treaties countries have joined, and the cases that test them.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

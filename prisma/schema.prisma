@@ -1,4 +1,4 @@
-// HeritageWatch database schema
+// Standing database schema (the project was originally called HeritageWatch)
 //
 // This models the same shape as the approved dossier JSON files in
 // research/dossiers/approved/, so importing a dossier is mostly a direct

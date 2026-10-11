@@ -289,7 +289,7 @@ export default async function SiteProfilePage({
             Status History
           </h2>
           <p className="mt-1 text-xs text-neutral-500">
-            HeritageWatch keeps every past status on record rather than
+            Standing keeps every past status on record rather than
             overwriting it — this is the full history for this site.
           </p>
           <ul className="mt-3 space-y-2">

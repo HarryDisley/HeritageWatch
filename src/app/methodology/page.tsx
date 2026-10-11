@@ -27,7 +27,7 @@ export default function MethodologyPage() {
     <main className="mx-auto max-w-3xl px-6 py-12">
       <h1 className="text-3xl font-bold text-neutral-900">Methodology</h1>
       <p className="mt-4 text-lg leading-relaxed text-neutral-700">
-        Every status on HeritageWatch is based on documented evidence from
+        Every status on Standing is based on documented evidence from
         named sources, and every classification is reviewed and personally
         approved by a person before it&apos;s published — never generated or
         published automatically. This page explains exactly how that works.
@@ -185,7 +185,7 @@ export default function MethodologyPage() {
           Digital Preservation Index
         </h2>
         <p className="mt-2 leading-relaxed text-neutral-700">
-          Separately from threat status, HeritageWatch tracks how
+          Separately from threat status, Standing tracks how
           extensively each site has been documented and made publicly
           accessible online — across five categories: professional
           photography, archival/official records, 3D digital documentation
@@ -234,6 +234,51 @@ export default function MethodologyPage() {
             It can be incomplete. Evidence that couldn&apos;t be adequately
             sourced is left out rather than approximated, so a profile may
             not mention every known event.
+          </li>
+        </ul>
+      </section>
+
+      <section className="mt-10 border-t border-neutral-200 pt-6">
+        <h2 className="text-xl font-semibold text-neutral-900">
+          Countries and the casebook
+        </h2>
+        <p className="mt-2 leading-relaxed text-neutral-700">
+          Countries and cases follow the same evidence rules as sites, but they
+          have <strong>no statuses, colors, scores or rankings</strong>. They
+          record documented facts only.
+        </p>
+        <ul className="mt-3 list-disc space-y-2 pl-5 text-sm text-neutral-700">
+          <li>
+            <strong>Country treaty records</strong> come from the official
+            registers: the UN Treaty Collection (Rome Statute) and UNESCO
+            (World Heritage Convention, 1954 Hague Convention and its two
+            Protocols). Each entry shows the status, the date as the register
+            prints it, and a link to the exact page, which was read on the date
+            shown.
+          </li>
+          <li>
+            <strong>&ldquo;Not listed&rdquo;</strong> means the country does not
+            appear among the signatories or parties on that register on the
+            date we checked. An instrument that has not been researched yet is
+            left out; it is never assumed to be absent.
+          </li>
+          <li>
+            <strong>Treaty records are not a judgment.</strong> They do not show
+            how well a state keeps its commitments, and the country list is
+            alphabetical on purpose.
+          </li>
+          <li>
+            <strong>Casebook entries</strong> are written from primary records
+            (court judgments, tribunal documents, UN texts) wherever they can be
+            read. The summary, legal basis, outcome and timeline state only what
+            the record says. Analysis is kept in a separate, clearly labeled
+            <em> Interpretation</em> box and is always attributed to the person
+            or body that made it.
+          </li>
+          <li>
+            If the primary record could not be read, the entry is not published
+            until it can be. Reference sources such as Wikipedia are never the
+            only support for a claim.
           </li>
         </ul>
       </section>

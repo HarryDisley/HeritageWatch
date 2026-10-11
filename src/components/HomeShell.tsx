@@ -109,13 +109,18 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
       <aside
         role="dialog"
         aria-modal="true"
-        aria-label="HeritageWatch menu"
+        aria-label="Standing menu"
         className={`fixed left-0 top-0 z-[1200] h-full w-80 max-w-[85vw] overflow-y-auto bg-white shadow-2xl transition-transform duration-300 ${
           open ? "translate-x-0" : "-translate-x-full"
         }`}
       >
         <div className="flex items-center justify-between border-b border-neutral-200 p-4">
-          <h1 className="text-xl font-bold text-neutral-900">HeritageWatch</h1>
+          <div>
+            <h1 className="text-xl font-bold text-neutral-900">Standing</h1>
+            <p className="text-xs text-neutral-500">
+              Heritage, law and state commitments
+            </p>
+          </div>
           <button
             type="button"
             onClick={() => setOpen(false)}
@@ -178,6 +183,9 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
             </Link>
             <Link href="/methodology" className="text-blue-700 hover:underline">
               Methodology
+            </Link>
+            <Link href="/about" className="text-blue-700 hover:underline">
+              About
             </Link>
             <a
               href="https://github.com/HarryDisley/HeritageWatch"

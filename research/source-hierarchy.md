@@ -1,4 +1,4 @@
-# HeritageWatch Source Hierarchy
+# Standing Source Hierarchy
 
 Full definitions live in `research-methodology-workflow.md` §6 (project docs). Quick reference:
 
