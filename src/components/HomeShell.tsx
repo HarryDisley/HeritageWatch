@@ -5,11 +5,12 @@
 // methodology page) lives in a "drawer" - a panel that's hidden off-screen
 // by default and slides in over the map when opened. This is the same
 // pattern most mobile apps use for their main menu.
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import SiteMap from "./SiteMapLoader";
 import type { MapSite } from "./SiteMap";
 import { STATUS_META } from "@/lib/display";
+import SiteFilters, { EMPTY_FILTERS, type Filters } from "./SiteFilters";
 import type { SiteStatus } from "@prisma/client";
 
 const STATUS_ORDER: SiteStatus[] = [
@@ -21,6 +22,25 @@ const STATUS_ORDER: SiteStatus[] = [
 
 export default function HomeShell({ sites }: { sites: MapSite[] }) {
   const [open, setOpen] = useState(false);
+  const [filters, setFilters] = useState<Filters>(EMPTY_FILTERS);
+
+  // The sites that match every active filter. useMemo means this is only
+  // recalculated when `sites` or `filters` change, not on every render
+  // (for example when the drawer opens or closes).
+  //
+  // Rule: within one group (e.g. two statuses) a site matches if it fits
+  // ANY of them; across groups (status AND threat AND region AND search)
+  // it must fit ALL of them. An empty group means "no restriction".
+  const visibleSites = useMemo(() => {
+    const q = filters.query.trim().toLowerCase();
+    return sites.filter((site) => {
+      if (q && !`${site.name} ${site.country}`.toLowerCase().includes(q)) return false;
+      if (filters.statuses.length > 0 && (!site.status || !filters.statuses.includes(site.status))) return false;
+      if (filters.threats.length > 0 && !filters.threats.some((t) => site.threats.includes(t))) return false;
+      if (filters.region && site.regionGroup !== filters.region) return false;
+      return true;
+    });
+  }, [sites, filters]);
 
   // Adds a class to <body> only while this component is mounted (i.e.
   // only on the homepage), and removes it on unmount. See the
@@ -55,7 +75,7 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
 
   return (
     <div className="fixed inset-0 overflow-hidden">
-      <SiteMap sites={sites} />
+      <SiteMap sites={visibleSites} />
 
       <button
         type="button"
@@ -142,7 +162,20 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
             ))}
           </div>
 
+          <SiteFilters
+            filters={filters}
+            onChange={setFilters}
+            shown={visibleSites.length}
+            total={sites.length}
+          />
+
           <nav className="mt-4 flex flex-col gap-2 border-y border-neutral-200 py-4 text-sm">
+            <Link href="/countries" className="text-blue-700 hover:underline">
+              Countries
+            </Link>
+            <Link href="/casebook" className="text-blue-700 hover:underline">
+              Casebook
+            </Link>
             <Link href="/methodology" className="text-blue-700 hover:underline">
               Methodology
             </Link>
@@ -155,10 +188,10 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
           </nav>
 
           <h2 className="mt-4 text-xs font-semibold uppercase tracking-wide text-neutral-500">
-            Sites ({sites.length})
+            Sites ({visibleSites.length})
           </h2>
           <ul className="mt-2 divide-y divide-neutral-100">
-            {sites.map((site) => (
+            {visibleSites.map((site) => (
               <li key={site.slug} className="py-2">
                 <Link
                   href={`/sites/${site.slug}`}
@@ -181,6 +214,11 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
             {sites.length === 0 && (
               <li className="py-2 text-sm text-neutral-500">
                 No sites in the database yet.
+              </li>
+            )}
+            {sites.length > 0 && visibleSites.length === 0 && (
+              <li className="py-2 text-sm text-neutral-500">
+                No sites match these filters.
               </li>
             )}
           </ul>

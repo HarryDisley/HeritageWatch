@@ -18,7 +18,8 @@ import type { Feature, FeatureCollection, Geometry } from "geojson";
 import Link from "next/link";
 import "leaflet/dist/leaflet.css";
 import { STATUS_META } from "@/lib/display";
-import type { SiteStatus } from "@prisma/client";
+import type { SiteStatus, ThreatCategoryType } from "@prisma/client";
+import type { RegionGroup } from "@/lib/regions";
 
 export type MapSite = {
   slug: string;
@@ -27,6 +28,9 @@ export type MapSite = {
   latitude: number;
   longitude: number;
   status: SiteStatus | null;
+  // Used by the homepage filters, not by the map itself.
+  regionGroup: RegionGroup;
+  threats: ThreatCategoryType[];
 };
 
 type CountryProperties = { name: string; iso_a2: string };

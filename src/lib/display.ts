@@ -110,3 +110,74 @@ export function formatDate(date: Date | null): string {
     timeZone: "UTC",
   });
 }
+
+// ---------- Countries, treaties and casebook ----------
+// Countries and cases deliberately have NO status colors, scores or rankings.
+// They show documented facts only. Membership cells use a symbol AND a word
+// (never color alone) so they stay readable for colour-blind users.
+
+import type { MembershipStatus, SourceTier, CaseType } from "@prisma/client";
+
+// Fixed column order for the five instruments (alphabetical order of
+// countries, never an order based on how many treaties a country has joined).
+export const TREATY_ORDER = [
+  "hague-1954",
+  "hague-1954-first-protocol",
+  "hague-1999-second-protocol",
+  "world-heritage-1972",
+  "rome-statute",
+] as const;
+
+export const TREATY_SHORT_LABELS: Record<string, string> = {
+  "hague-1954": "1954 Hague Convention",
+  "hague-1954-first-protocol": "1954 First Protocol",
+  "hague-1999-second-protocol": "1999 Second Protocol",
+  "world-heritage-1972": "1972 World Heritage Convention",
+  "rome-statute": "Rome Statute (ICC)",
+};
+
+export const MEMBERSHIP_META: Record<
+  MembershipStatus,
+  { label: string; symbol: string; className: string }
+> = {
+  PARTY: {
+    label: "Party",
+    symbol: "✓",
+    className: "text-neutral-900 font-medium",
+  },
+  SIGNED_NOT_RATIFIED: {
+    label: "Signed only",
+    symbol: "◐",
+    className: "text-neutral-700",
+  },
+  NOT_PARTY: {
+    label: "Not listed",
+    symbol: "—",
+    className: "text-neutral-500",
+  },
+};
+
+export const SOURCE_TIER_LABELS: Record<SourceTier, string> = {
+  TIER_1: "Tier 1: official or primary record",
+  TIER_2: "Tier 2: institutional or academic",
+  TIER_3: "Tier 3: reputable journalism",
+  TIER_4: "Tier 4: reference only",
+};
+
+export const CASE_TYPE_LABELS: Record<CaseType, string> = {
+  INTERNATIONAL_CRIMINAL: "International criminal case",
+  INTERNATIONAL_COURT: "International court case",
+  TRIBUNAL: "Tribunal case",
+  SECURITY_COUNCIL_OR_UN_ACTION: "UN Security Council or UN action",
+  RESTITUTION_OR_DISPUTE: "Restitution or dispute",
+  OTHER: "Other international decision",
+};
+
+// "1958" from a parsed date, otherwise whatever raw string the register used.
+export function membershipYear(
+  date: Date | null,
+  dateDisplay: string | null
+): string | null {
+  if (date) return String(date.getUTCFullYear());
+  return dateDisplay && dateDisplay !== "not listed" ? dateDisplay : null;
+}

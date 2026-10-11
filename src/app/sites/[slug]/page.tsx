@@ -38,6 +38,8 @@ export default async function SiteProfilePage({
       sources: true,
       metadataSources: { include: { source: true } },
       images: { orderBy: { displayOrder: "asc" } },
+      countries: { include: { country: true } },
+      cases: { include: { case: true } },
     },
   });
 
@@ -306,6 +308,43 @@ export default async function SiteProfilePage({
                 </span>
               </li>
             ))}
+          </ul>
+        </section>
+      )}
+
+      {(site.countries.length > 0 ||
+        site.cases.some((sc) => sc.case.reviewStatus === "APPROVED")) && (
+        <section className="mt-8">
+          <h2 className="text-lg font-semibold text-neutral-900">
+            Law and commitments
+          </h2>
+          <ul className="mt-2 space-y-2 text-sm">
+            {site.countries
+              .filter((sc) => sc.country.reviewStatus === "APPROVED")
+              .map(({ country }) => (
+                <li key={country.id}>
+                  Treaty record for{" "}
+                  <Link
+                    href={`/countries/${country.slug}`}
+                    className="text-blue-700 hover:underline"
+                  >
+                    {country.name}
+                  </Link>
+                </li>
+              ))}
+            {site.cases
+              .filter((sc) => sc.case.reviewStatus === "APPROVED")
+              .map(({ case: c }) => (
+                <li key={c.id}>
+                  Related case:{" "}
+                  <Link
+                    href={`/casebook/${c.slug}`}
+                    className="text-blue-700 hover:underline"
+                  >
+                    {c.title}
+                  </Link>
+                </li>
+              ))}
           </ul>
         </section>
       )}
