@@ -1,0 +1,143 @@
+{
+  "schema_version": "country-v1",
+  "slug": "france",
+  "name": "France",
+  "iso_code": "FRA",
+  "region": "Europe",
+  "summary": "France is placed in the UN geoscheme region Europe. This record shows its status under five heritage-protection and international criminal law instruments, as listed on the UNESCO and United Nations Treaty Collection registers on 11 October 2026.",
+  "treaty_memberships": [
+    {
+      "treaty_slug": "hague-1954",
+      "status": "party",
+      "action_type": "ratification",
+      "date": "1957-06-06",
+      "date_display": "6 June 1957",
+      "note": "Also listed as a signatory on 14 May 1954.",
+      "source_id": "src_02"
+    },
+    {
+      "treaty_slug": "hague-1954-first-protocol",
+      "status": "party",
+      "action_type": "ratification",
+      "date": "1957-06-06",
+      "date_display": "6 June 1957",
+      "note": "Also listed as a signatory on 14 May 1954.",
+      "source_id": "src_03"
+    },
+    {
+      "treaty_slug": "hague-1999-second-protocol",
+      "status": "party",
+      "action_type": "accession",
+      "date": "2017-03-19",
+      "date_display": "19 March 2017",
+      "note": null,
+      "source_id": "src_04"
+    },
+    {
+      "treaty_slug": "world-heritage-1972",
+      "status": "party",
+      "action_type": "acceptance",
+      "date": "1975-06-27",
+      "date_display": "27/06/1975 (Ac)",
+      "note": null,
+      "source_id": "src_01"
+    },
+    {
+      "treaty_slug": "rome-statute",
+      "status": "party",
+      "action_type": "ratification",
+      "date": "2000-06-09",
+      "date_display": "9 Jun 2000",
+      "note": "Signed 18 Jul 1998.",
+      "source_id": "src_00"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Rome Statute of the International Criminal Court - status of ratification (Chapter XVIII.10)",
+      "publisher": "United Nations Treaty Collection",
+      "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVIII-10&chapter=18&clang=_en",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Official depositary record. Table read in the built-in browser on 2026-10-11; bracketed entries and footnotes were read as shown.",
+      "published_date": "",
+      "published_date_display": "Page states: status as at 11-10-2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "States Parties - UNESCO World Heritage Convention",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/statesparties/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page states its own as-of date as 22-Oct-2024 (196 States Parties); entries were read on 2026-10-11 and later changes, if any, may not be shown.",
+      "published_date": "",
+      "published_date_display": "Page states: as of 22-Oct-2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention (States Parties and signatories tables)",
+      "publisher": "UNESCO Legal Affairs",
+      "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=416",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page shows no as-of date; tables were read on 2026-10-11 (138 States Parties).",
+      "published_date": "",
+      "published_date_display": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict (First Protocol, 1954) (States Parties and signatories tables)",
+      "publisher": "UNESCO Legal Affairs",
+      "url": "https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=416",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page shows no as-of date; tables were read on 2026-10-11 (115 States Parties).",
+      "published_date": "",
+      "published_date_display": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict (States Parties and signatories tables)",
+      "publisher": "UNESCO Legal Affairs",
+      "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=416",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page shows no as-of date; tables were read on 2026-10-11 (94 States Parties).",
+      "published_date": "",
+      "published_date_display": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Standard country or area codes for statistical use (M49) - overview",
+      "publisher": "United Nations Statistics Division",
+      "url": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Used only for the region label (UN geoscheme region) and the ISO alpha-3 code. Placement in a region implies no political or other affiliation.",
+      "published_date": "",
+      "published_date_display": "",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "site_slugs": [],
+  "review_status": "draft",
+  "approved_by": null,
+  "approved_date": null,
+  "approval_note": null,
+  "last_verified_date": "2026-10-11",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "changed_by": "claude-draft",
+      "change": "Generated from the full text of the five official registers, read in the built-in browser on 2026-10-11 and saved with checksum verification (UNESCO 1954 Convention 138 parties; First Protocol 115; Second Protocol 94; World Heritage 196, page as-of 22-Oct-2024; UNTC Rome Statute status as at 11-10-2026). Dates are deposit/signature dates as shown; entry-into-force dates were not read. Succession, name-change and territory footnotes are summarised only where listed; predecessor-state instruments are not traced beyond what the register says. Region and ISO code come from the UN M49 overview; the summary is an editorial label."
+    }
+  ]
+}

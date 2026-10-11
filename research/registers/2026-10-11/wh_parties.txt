@@ -1,0 +1,197 @@
+|State Party|Date|Type of instrument
+|Afghanistan|20/03/1979|R
+|Albania|10/07/1989|R
+|Algeria|24/06/1974|R
+|Andorra|03/01/1997|Ac
+|Angola|07/11/1991|R
+|Antigua and Barbuda|01/11/1983|Ac
+|Argentina|23/08/1978|Ac
+|Armenia|05/09/1993|S
+|Australia|22/08/1974|R
+|Austria|18/12/1992|R
+|Azerbaijan|16/12/1993|R
+|Bahamas|15/05/2014|R
+|Bahrain|28/05/1991|R
+|Bangladesh|03/08/1983|Ac
+|Barbados|09/04/2002|Ac
+|Belarus|12/10/1988|R
+|Belgium|24/07/1996|R
+|Belize|06/11/1990|R
+|Benin|14/06/1982|R
+|Bhutan|22/10/2001|R
+|Bolivia (Plurinational State of)|04/10/1976|R
+|Bosnia and Herzegovina|12/07/1993|S
+|Botswana|23/11/1998|Ac
+|Brazil|01/09/1977|Ac
+|Brunei Darussalam|12/08/2011|R
+|Bulgaria|07/03/1974|Ac
+|Burkina Faso|02/04/1987|R
+|Burundi|19/05/1982|R
+|Cabo Verde 2|28/04/1988|Ac
+|Cambodia|28/11/1991|Ac
+|Cameroon|07/12/1982|R
+|Canada|23/07/1976|Ac
+|Central African Republic|22/12/1980|R
+|Chad|23/06/1999|R
+|Chile|20/02/1980|R
+|China|12/12/1985|R
+|Colombia|24/05/1983|Ac
+|Comoros|27/09/2000|R
+|Congo|10/12/1987|R
+|Cook Islands|16/01/2009|R
+|Costa Rica|23/08/1977|R
+|Côte d'Ivoire|09/01/1981|R
+|Croatia|06/07/1992|S
+|Cuba|24/03/1981|R
+|Cyprus|14/08/1975|Ac
+|Czechia 3|26/03/1993|S
+|Democratic People's Republic of Korea|21/07/1998|Ac
+|Democratic Republic of the Congo|23/09/1974|R
+|Denmark|25/07/1979|R
+|Djibouti|30/08/2007|R
+|Dominica|04/04/1995|R
+|Dominican Republic|12/02/1985|R
+|Ecuador|16/06/1975|Ac
+|Egypt|07/02/1974|R
+|El Salvador|08/10/1991|Ac
+|Equatorial Guinea|10/03/2010|R
+|Eritrea|24/10/2001|Ac
+|Estonia|27/10/1995|R
+|Eswatini 4|30/11/2005|R
+|Ethiopia|06/07/1977|R
+|Fiji|21/11/1990|R
+|Finland|04/03/1987|R
+|France|27/06/1975|Ac
+|Gabon|30/12/1986|R
+|Gambia|01/07/1987|R
+|Georgia|04/11/1992|S
+|Germany 5|23/08/1976|R
+|Ghana|04/07/1975|R
+|Greece|17/07/1981|R
+|Grenada|13/08/1998|Ac
+|Guatemala|16/01/1979|R
+|Guinea|18/03/1979|R
+|Guinea-Bissau|28/01/2006|R
+|Guyana|20/06/1977|Ac
+|Haiti|18/01/1980|R
+|Holy See|07/10/1982|A
+|Honduras|08/06/1979|R
+|Hungary|15/07/1985|Ac
+|Iceland|19/12/1995|R
+|India|14/11/1977|R
+|Indonesia|06/07/1989|Ac
+|Iran (Islamic Republic of)|26/02/1975|Ac
+|Iraq|05/03/1974|Ac
+|Ireland|16/09/1991|R
+|Israel|06/10/1999|Ac
+|Italy|23/06/1978|R
+|Jamaica|14/06/1983|Ac
+|Japan|30/06/1992|Ac
+|Jordan|05/05/1975|R
+|Kazakhstan|29/04/1994|Ac
+|Kenya|05/06/1991|Ac
+|Kiribati|12/05/2000|Ac
+|Kuwait|06/06/2002|R
+|Kyrgyzstan|03/07/1995|Ac
+|Lao People's Democratic Republic|20/03/1987|R
+|Latvia|10/01/1995|Ac
+|Lebanon|03/02/1983|R
+|Lesotho|25/11/2003|Ac
+|Liberia|28/03/2002|Ac
+|Libya 6|13/10/1978|R
+|Lithuania|31/03/1992|Ac
+|Luxembourg|28/09/1983|R
+|Madagascar|19/07/1983|R
+|Malawi|05/01/1982|R
+|Malaysia|07/12/1988|R
+|Maldives|22/05/1986|Ac
+|Mali|05/04/1977|Ac
+|Malta|14/11/1978|Ac
+|Marshall Islands|24/04/2002|Ac
+|Mauritania|02/03/1981|R
+|Mauritius|19/09/1995|R
+|Mexico|23/02/1984|Ac
+|Micronesia (Federated States of)|22/07/2002|Ac
+|Monaco|07/11/1978|R
+|Mongolia|02/02/1990|Ac
+|Montenegro|03/06/2006|S
+|Morocco|28/10/1975|R
+|Mozambique|27/11/1982|R
+|Myanmar|29/04/1994|Ac
+|Namibia|06/04/2000|Ac
+|Naoero|22/07/2024|R
+|Nepal|20/06/1978|Ac
+|Netherlands (Kingdom of the) 7|26/08/1992|Ac
+|New Zealand|22/11/1984|R
+|Nicaragua|17/12/1979|Ac
+|Niger|23/12/1974|Ac
+|Nigeria|23/10/1974|R
+|Niue|23/01/2001|Ac
+|North Macedonia 8|30/04/1997|S
+|Norway|12/05/1977|R
+|Oman|06/10/1981|Ac
+|Pakistan|23/07/1976|R
+|Palau|11/06/2002|Ac
+|Panama|03/03/1978|R
+|Papua New Guinea|28/07/1997|Ac
+|Paraguay|27/04/1988|R
+|Peru|24/02/1982|R
+|Philippines|19/09/1985|R
+|Poland|29/06/1976|R
+|Portugal|30/09/1980|R
+|Qatar|12/09/1984|Ac
+|Republic of Korea|14/09/1988|Ac
+|Republic of Moldova|23/09/2002|R
+|Romania|16/05/1990|Ac
+|Russian Federation 9|12/10/1988|R
+|Rwanda|28/12/2000|Ac
+|Saint Kitts and Nevis|10/07/1986|Ac
+|Saint Lucia|14/10/1991|R
+|Saint Vincent and the Grenadines|03/02/2003|R
+|Samoa|28/08/2001|Ac
+|San Marino|18/10/1991|R
+|Sao Tome and Principe|25/07/2006|R
+|Saudi Arabia|07/08/1978|Ac
+|Senegal|13/02/1976|R
+|Serbia|11/09/2001|S
+|Seychelles|09/04/1980|Ac
+|Sierra Leone|07/01/2005|R
+|Singapore|19/06/2012|R
+|Slovakia|31/03/1993|S
+|Slovenia|05/11/1992|S
+|Solomon Islands|10/06/1992|A
+|Somalia|23/07/2020|R
+|South Africa|10/07/1997|R
+|South Sudan|09/03/2016|R
+|Spain|04/05/1982|Ac
+|Sri Lanka|06/06/1980|Ac
+|State of Palestine|08/12/2011|R
+|Sudan|06/06/1974|R
+|Suriname|23/10/1997|Ac
+|Sweden|22/01/1985|R
+|Switzerland|17/09/1975|R
+|Syrian Arab Republic|13/08/1975|Ac
+|Tajikistan|28/08/1992|S
+|Thailand|17/09/1987|Ac
+|Timor-Leste|31/10/2016|R
+|Togo|15/04/1998|Ac
+|Tonga|30/04/2004|Ac
+|Trinidad and Tobago|16/02/2005|R
+|Tunisia|10/03/1975|R
+|Türkiye 10|16/03/1983|R
+|Turkmenistan|30/09/1994|S
+|Tuvalu|18/05/2023|R
+|Uganda|20/11/1987|Ac
+|Ukraine|12/10/1988|R
+|United Arab Emirates|11/05/2001|A
+|United Kingdom of Great Britain and Northern Ireland|29/05/1984|R
+|United Republic of Tanzania|02/08/1977|R
+|United States of America|07/12/1973|R
+|Uruguay|09/03/1989|Ac
+|Uzbekistan|13/01/1993|S
+|Vanuatu|13/06/2002|R
+|Venezuela (Bolivarian Republic of)|30/10/1990|Ac
+|Viet Nam|19/10/1987|Ac
+|Yemen 11|07/10/1980|R
+|Zambia|04/06/1984|R
+|Zimbabwe|16/08/1982|R

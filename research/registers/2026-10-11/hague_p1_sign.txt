@@ -1,0 +1,40 @@
+Country|Note|Date
+Belgium||14 May 1954
+China|(See Note 1)|14 May 1954
+Cuba||14 May 1954
+El Salvador||14 May 1954
+France||14 May 1954
+Greece||14 May 1954
+India||14 May 1954
+Iraq||14 May 1954
+Italy||14 May 1954
+Luxembourg||14 May 1954
+Monaco||14 May 1954
+Nicaragua||14 May 1954
+Norway||14 May 1954
+Netherlands (Kingdom of the)||14 May 1954
+Philippines||14 May 1954
+Poland||14 May 1954
+San Marino||14 May 1954
+Spain||14 May 1954
+Syrian Arab Republic||14 May 1954
+Uruguay||14 May 1954
+Yugoslavia||14 May 1954
+Federal Republic of Germany||14 May 1954
+Iran||14 May 1954
+Libyan Arab Jamahiriya||14 May 1954
+Ukrainian Soviet Socialist Republic||14 May 1954
+Lebanon||25 May 1954
+Japan||6 September 1954
+Denmark||18 October 1954
+Czechoslovakia||18 October 1954
+Democratic Kampuchea||17 December 1954
+Jordan||22 December 1954
+Indonesia||24 December 1954
+Mexico||29 December 1954
+Ecuador||30 December 1954
+Egypt||30 December 1954
+Byelorussian Soviet Socialist Republic||30 December 1954
+Austria||31 December 1954
+Brazil||31 December 1954
+Burma||31 December 1954

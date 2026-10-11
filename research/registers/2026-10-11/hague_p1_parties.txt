@@ -1,0 +1,116 @@
+|Country|Group|Date of deposit|Type of instrument
+1|Afghanistan|Group IV|11 March 2018|Accession
+2|Albania|Group II|19 December 1960|Accession
+3|Argentina|Group III|9 May 2007|Accession
+4|Armenia|Group II|4 September 1993|Notification of succession
+5|Austria|Group I|24 March 1964|Ratification
+6|Azerbaijan|Group II|19 September 1993|Accession
+7|Bahrain|Group Vb|25 August 2008|Accession
+8|Bangladesh|Group IV|22 June 2006|Accession
+9|Barbados|Group III|1 October 2008|Accession
+10|Belarus|Group II|6 May 1957|Ratification
+11|Belgium|Group I|15 September 1960|Ratification
+12|Benin|Group Va|16 April 2012|Accession
+13|Bosnia and Herzegovina|Group II|11 July 1993|Notification of succession
+14|Botswana|Group Va|22 August 2017|Accession
+15|Brazil|Group III|11 September 1958|Ratification
+16|Bulgaria|Group II|8 October 1958|Accession
+17|Burkina Faso|Group Va|3 February 1987|Accession
+18|Cambodia|Group IV|3 April 1962|Accession
+19|Cameroon|Group Va|11 October 1961|Accession
+20|Canada|Group I|28 November 2005|Accession
+21|Chile|Group III|10 September 2008|Accession
+22|China|Group IV|4 January 2000|Accession
+23|Colombia|Group III|17 June 1998|Accession
+24|Costa Rica|Group III|2 June 1998|Accession
+25|Croatia|Group II|5 July 1992|Notification of succession
+26|Cuba|Group III|25 November 1957|Ratification
+27|Cyprus|Group I|8 September 1964|Accession
+28|Czechia|Group II|25 March 1993|Notification of succession
+29|Democratic Republic of the Congo|Group Va|17 April 1961|Accession
+30|Denmark|Group I|25 March 2003|Ratification
+31|Djibouti|Group Va|8 April 2018|Accession
+32|Dominican Republic|Group III|20 March 2002|Accession
+33|Ecuador|Group III|7 February 1961|Ratification
+34|Egypt|Group Vb|16 August 1955|Ratification
+35|El Salvador|Group III|26 March 2002|Accession
+36|Estonia|Group II|16 January 2005|Accession
+37|Ethiopia|Group Va|30 August 2015|Accession
+38|Finland|Group I|15 September 1994|Accession
+39|France|Group I|6 June 1957|Ratification
+40|Gabon|Group Va|3 December 1961|Accession
+41|Georgia|Group II|3 November 1992|Notification of succession
+42|Germany|Group I|10 August 1967|Ratification
+43|Ghana|Group Va|24 July 1960|Accession
+44|Greece|Group I|8 February 1981|Ratification
+45|Guatemala|Group III|18 May 1994|Accession
+46|Guinea|Group Va|10 December 1961|Accession
+47|Haiti|Group III|18 May 2025|Accession
+48|Holy See||23 February 1958|Accession
+49|Honduras|Group III|24 October 2002|Accession
+50|Hungary|Group II|15 August 1956|Accession
+51|Iceland|Group I|4 December 2022|Accession
+52|India|Group IV|15 June 1958|Ratification
+53|Indonesia|Group IV|25 July 1967|Ratification
+54|Iran (Islamic Republic of)|Group IV|21 June 1959|Ratification
+55|Iraq|Group Vb|20 December 1967|Ratification
+56|Israel|Group I|31 March 1958|Accession
+57|Italy|Group I|8 May 1958|Ratification
+58|Japan|Group IV|9 September 2007|Ratification
+59|Jordan|Group Vb|1 October 1957|Ratification
+60|Kazakhstan|Group IV|13 March 1997|Notification of succession
+61|Kuwait|Group Vb|16 February 1970|Accession
+62|Kyrgyzstan|Group IV|13 April 2025|Accession
+63|Latvia|Group II|18 December 2003|Accession
+64|Lebanon|Group Vb|31 May 1960|Ratification
+65|Libya|Group Vb|18 November 1957|Ratification
+66|Liechtenstein||27 April 1960|Accession
+67|Lithuania|Group II|26 July 1998|Accession
+68|Luxembourg|Group I|28 September 1961|Ratification
+69|Madagascar|Group Va|2 November 1961|Accession
+70|Malaysia|Group IV|11 December 1960|Accession
+71|Mali|Group Va|17 May 1961|Accession
+72|Malta|Group I|11 February 2025|Accession
+73|Mauritania|Group Vb|6 July 2023|Accession
+74|Mexico|Group III|6 May 1956|Ratification
+75|Monaco|Group I|9 December 1957|Ratification
+76|Montenegro|Group II|25 April 2007|Notification of succession
+77|Morocco|Group Vb|29 August 1968|Accession
+78|Myanmar|Group IV|9 February 1956|Ratification
+79|Netherlands (Kingdom of the)|Group I|13 October 1958|Ratification
+80|New Zealand|Group IV|16 October 2013|Accession
+81|Nicaragua|Group III|24 November 1959|Ratification
+82|Niger|Group Va|5 December 1976|Accession
+83|Nigeria|Group Va|4 June 1961|Accession
+84|North Macedonia|Group II|29 April 1997|Notification of succession
+85|Norway|Group I|18 September 1961|Ratification
+86|Pakistan|Group IV|26 March 1959|Accession
+87|Panama|Group III|7 March 2001|Accession
+88|Paraguay|Group III|8 November 2004|Accession
+89|Peru|Group III|20 July 1989|Accession
+90|Poland|Group II|5 August 1956|Ratification
+91|Portugal|Group I|17 February 2005|Accession
+92|Republic of Moldova|Group II|8 December 1999|Accession
+93|Romania|Group II|20 March 1958|Ratification
+94|Russian Federation|Group II|3 January 1957|Ratification
+95|San Marino|Group I|8 February 1956|Ratification
+96|Saudi Arabia|Group Vb|5 November 2007|Accession
+97|Senegal|Group Va|16 June 1987|Accession
+98|Serbia|Group II|10 September 2001|Notification of succession
+99|Slovakia|Group II|30 March 1993|Notification of succession
+100|Slovenia|Group II|4 November 1992|Notification of succession
+101|Spain|Group I|25 June 1992|Accession
+102|State of Palestine|Group Vb|21 March 2012|Accession
+103|Sweden|Group I|21 January 1985|Accession
+104|Switzerland|Group I|14 May 1962|Accession
+105|Syrian Arab Republic|Group Vb|5 March 1958|Ratification
+106|Tajikistan|Group II|27 August 1992|Notification of succession
+107|Thailand|Group IV|1 May 1958|Accession
+108|Togo|Group Va|23 January 2017|Accession
+109|Tunisia|Group Vb|27 January 1981|Accession
+110|Türkiye|Group I|14 December 1965|Accession
+111|Turkmenistan|Group IV|21 January 2018|Accession
+112|Ukraine|Group II|5 February 1957|Ratification
+113|United Kingdom of Great Britain and Northern Ireland|Group I|11 September 2017|Accession
+114|Uruguay|Group III|23 September 1999|Ratification
+115|Yemen|Group Vb|5 February 1970|Accession

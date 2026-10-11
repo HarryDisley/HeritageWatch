@@ -1,0 +1,39 @@
+Country|Note|Date
+Albania||26 March 1999
+Austria||26 March 1999
+Belarus||26 March 1999
+Belgium||26 March 1999
+Cambodia||26 March 1999
+Croatia||26 March 1999
+Côte d'Ivoire||26 March 1999
+Estonia||26 March 1999
+Finland||26 March 1999
+Germany||26 March 1999
+Ghana||26 March 1999
+Greece||26 March 1999
+Holy See||26 March 1999
+Hungary||26 March 1999
+Indonesia||26 March 1999
+Italy||26 March 1999
+Luxembourg||26 March 1999
+Madagascar||26 March 1999
+Netherlands (Kingdom of the)||26 March 1999
+Nigeria||26 March 1999
+Pakistan||26 March 1999
+Qatar||26 March 1999
+Spain||26 March 1999
+Sweden||26 March 1999
+Switzerland||26 March 1999
+Syrian Arab Republic||26 March 1999
+Yemen||26 March 1999
+Oman||30 June 1999
+Peru||13 July 1999
+Cyprus||19 August 1999
+Bulgaria||15 September 1999
+Egypt||9 October 1999
+Armenia||22 October 1999
+Romania||8 November 1999
+Morocco||21 December 1999
+Slovak Republic||22 December 1999
+Ecuador||29 December 1999
+Colombia||31 December 1999

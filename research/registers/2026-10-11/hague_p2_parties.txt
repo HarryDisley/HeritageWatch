@@ -1,0 +1,95 @@
+|Country|Group|Date of deposit|Type of instrument
+1|Afghanistan|Group IV|11 March 2018|Accession
+2|Argentina|Group III|6 January 2002|Accession
+3|Armenia|Group II|17 May 2006|Ratification
+4|Austria|Group I|28 February 2002|Ratification
+5|Azerbaijan|Group II|16 April 2001|Ratification
+6|Bahrain|Group Vb|25 August 2008|Accession
+7|Barbados|Group III|1 October 2008|Accession
+8|Belarus|Group II|12 December 2000|Ratification
+9|Belgium|Group I|12 October 2010|Ratification
+10|Benin|Group Va|16 April 2012|Accession
+11|Bosnia and Herzegovina|Group II|21 May 2009|Accession
+12|Botswana|Group Va|18 November 2021|Accession
+13|Brazil|Group III|22 September 2005|Accession
+14|Bulgaria|Group II|13 June 2000|Ratification
+15|Burkina Faso|Group Va|4 February 2018|Accession
+16|Cambodia|Group IV|16 September 2013|Ratification
+17|Canada|Group I|28 November 2005|Accession
+18|Chile|Group III|10 September 2008|Accession
+19|Colombia|Group III|23 November 2010|Accession
+20|Costa Rica|Group III|8 December 2003|Accession
+21|Croatia|Group II|7 February 2006|Ratification
+22|Cyprus|Group I|15 May 2001|Ratification
+23|Czechia|Group II|7 June 2007|Accession
+24|Democratic Republic of the Congo|Group Va|27 August 2024|Accession
+25|Denmark|Group I|4 September 2018|Accession
+26|Djibouti|Group Va|8 April 2018|Accession
+27|Dominican Republic|Group III|2 March 2009|Accession
+28|Ecuador|Group III|1 August 2004|Ratification
+29|Egypt|Group Vb|2 August 2005|Ratification
+30|El Salvador|Group III|26 March 2002|Accession
+31|Equatorial Guinea|Group Va|18 November 2003|Accession
+32|Estonia|Group II|16 January 2005|Approval
+33|Finland|Group I|26 August 2004|Acceptance
+34|France|Group I|19 March 2017|Accession
+35|Gabon|Group Va|28 August 2003|Accession
+36|Georgia|Group II|12 September 2010|Accession
+37|Germany|Group I|24 November 2009|Ratification
+38|Greece|Group I|19 April 2005|Ratification
+39|Guatemala|Group III|3 February 2005|Accession
+40|Haiti|Group III|18 May 2025|Accession
+41|Honduras|Group III|25 January 2003|Accession
+42|Hungary|Group II|25 October 2005|Ratification
+43|Iran (Islamic Republic of)|Group IV|23 May 2005|Accession
+44|Iraq|Group Vb|5 April 2022|Accession
+45|Ireland|Group I|16 May 2018|Accession
+46|Italy|Group I|9 July 2009|Ratification
+47|Japan|Group IV|9 September 2007|Accession
+48|Jordan|Group Vb|4 May 2009|Accession
+49|Kuwait|Group Vb|17 March 2026|Accession
+50|Lebanon|Group Vb|7 October 2020|Accession
+51|Libya|Group Vb|19 July 2001|Accession
+52|Liechtenstein||30 January 2017|Accession
+53|Lithuania|Group II|12 March 2002|Accession
+54|Luxembourg|Group I|29 June 2005|Ratification
+55|Madagascar|Group Va|2 July 2018|Ratification
+56|Mali|Group Va|14 November 2012|Accession
+57|Malta|Group I|11 February 2025|Accession
+58|Mauritania|Group Vb|6 July 2023|Accession
+59|Mexico|Group III|6 October 2003|Accession
+60|Montenegro|Group II|25 April 2007|Notification of succession
+61|Morocco|Group Vb|4 December 2013|Ratification
+62|Netherlands (Kingdom of the)|Group I|29 January 2007|Acceptance
+63|New Zealand|Group IV|22 October 2013|Accession
+64|Nicaragua|Group III|31 May 2001|Accession
+65|Niger|Group Va|15 June 2006|Accession
+66|Nigeria|Group Va|20 October 2005|Ratification
+67|North Macedonia|Group II|18 April 2002|Accession
+68|Norway|Group I|4 September 2016|Accession
+69|Oman|Group Vb|15 May 2011|Ratification
+70|Panama|Group III|7 March 2001|Accession
+71|Paraguay|Group III|8 November 2004|Accession
+72|Peru|Group III|23 May 2005|Ratification
+73|Poland|Group II|2 January 2012|Accession
+74|Portugal|Group I|8 April 2018|Accession
+75|Qatar|Group Vb|3 September 2000|Ratification
+76|Republic of Moldova|Group II|15 January 2026|Accession
+77|Romania|Group II|6 August 2006|Ratification
+78|San Marino|Group I|9 December 2024|Accession
+79|Saudi Arabia|Group Vb|5 November 2007|Accession
+80|Serbia|Group II|1 September 2002|Accession
+81|Slovakia|Group II|10 February 2004|Ratification
+82|Slovenia|Group II|12 April 2004|Accession
+83|South Africa|Group Va|10 February 2015|Accession
+84|Spain|Group I|5 July 2001|Ratification
+85|State of Palestine|Group Vb|21 March 2012|Accession
+86|Sweden|Group I|9 November 2017|Ratification
+87|Switzerland|Group I|8 July 2004|Ratification
+88|Tajikistan|Group II|20 February 2006|Accession
+89|Togo|Group Va|23 January 2017|Accession
+90|Turkmenistan|Group IV|21 January 2018|Accession
+91|Ukraine|Group II|29 June 2020|Accession
+92|United Kingdom of Great Britain and Northern Ireland|Group I|11 September 2017|Accession
+93|Uruguay|Group III|2 January 2007|Accession
+94|Yemen|Group Vb|31 May 2023|Ratification
