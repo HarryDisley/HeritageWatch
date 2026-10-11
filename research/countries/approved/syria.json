@@ -3,7 +3,7 @@
   "slug": "syria",
   "name": "Syria",
   "iso_code": "SYR",
-  "region": "Middle East",
+  "region": "Asia",
   "summary": "Syria is listed on the official registers as \"Syrian Arab Republic\". This dossier records its status under five heritage-protection and international criminal law instruments, as shown on the UNESCO and United Nations Treaty Collection registers on 8 October 2026.",
   "treaty_memberships": [
     {
@@ -138,6 +138,11 @@
       "date": "2026-10-08",
       "change": "Approved by Harry Disley; copied to approved/ for import.",
       "changed_by": "Harry Disley (via claude)"
+    },
+    {
+      "date": "2026-10-11",
+      "changed_by": "claude-draft",
+      "change": "Region label changed from \"Middle East\" to \"Asia\" to match the UN geoscheme region used for all countries (UN M49: Western Asia, within Asia). No treaty data changed. Approved by Harry Disley on 2026-10-11."
     }
   ]
 }
