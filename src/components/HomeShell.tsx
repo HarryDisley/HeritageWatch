@@ -96,21 +96,28 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
         </svg>
       </button>
 
-      {/* Always-visible shortcuts to the law sections, beside the menu button. */}
+      {/* Always-visible top bar beside the menu button: the project name,
+          then the three parts of the site. "Heritage sites" is the page we
+          are already on, so it opens the drawer with the site list. */}
       <nav
-        aria-label="Law and cases"
-        className="absolute left-20 top-4 z-[1000] flex gap-2"
+        aria-label="Main"
+        className="absolute left-20 top-4 z-[1000] flex items-center gap-3 rounded-lg border border-neutral-200 bg-white/95 px-3 py-3 text-sm shadow-lg backdrop-blur"
       >
-        <Link
-          href="/countries"
-          className="rounded-lg border border-neutral-200 bg-white/95 px-3 py-3 text-sm font-medium text-neutral-900 shadow-lg backdrop-blur hover:bg-white"
+        <span className="hidden font-bold text-neutral-900 sm:block">
+          Standing
+        </span>
+        <button
+          type="button"
+          onClick={() => setOpen(true)}
+          aria-current="page"
+          className="font-semibold text-neutral-900 underline underline-offset-4"
         >
+          Heritage sites
+        </button>
+        <Link href="/countries" className="text-blue-700 hover:underline">
           Countries
         </Link>
-        <Link
-          href="/casebook"
-          className="rounded-lg border border-neutral-200 bg-white/95 px-3 py-3 text-sm font-medium text-neutral-900 shadow-lg backdrop-blur hover:bg-white"
-        >
+        <Link href="/casebook" className="text-blue-700 hover:underline">
           Casebook
         </Link>
       </nav>
@@ -137,7 +144,7 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
           <div>
             <h1 className="text-xl font-bold text-neutral-900">Standing</h1>
             <p className="text-xs text-neutral-500">
-              Heritage, law and state commitments
+              Heritage sites, treaties and cases
             </p>
           </div>
           <button

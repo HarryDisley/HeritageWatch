@@ -8,7 +8,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const LINKS = [
-  { href: "/", label: "Map" },
+  { href: "/", label: "Heritage sites" },
   { href: "/countries", label: "Countries" },
   { href: "/casebook", label: "Casebook" },
   { href: "/methodology", label: "Methodology" },
@@ -22,8 +22,13 @@ export default function SiteHeader() {
   return (
     <header className="border-b border-neutral-200 bg-white">
       <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-x-6 gap-y-1 px-6 py-3">
-        <Link href="/" className="text-lg font-bold text-neutral-900">
-          Standing
+        <Link href="/" className="leading-tight">
+          <span className="block text-lg font-bold text-neutral-900">
+            Standing
+          </span>
+          <span className="block text-xs text-neutral-500">
+            Heritage sites, treaties and cases
+          </span>
         </Link>
         <nav aria-label="Main" className="flex flex-wrap gap-x-4 gap-y-1 text-sm">
           {LINKS.map(({ href, label }) => {
