@@ -25,7 +25,10 @@ const DPI_ORDER: DpiTier[] = ["EXTENSIVE", "MODERATE", "LIMITED", "MINIMAL"];
 export default function MethodologyPage() {
   return (
     <main className="mx-auto max-w-3xl px-6 py-12">
-      <h1 className="text-3xl font-bold text-neutral-900">Methodology</h1>
+      <Link href="/" className="text-sm text-blue-700 hover:underline">
+        &larr; Map
+      </Link>
+      <h1 className="mt-4 text-3xl font-bold text-neutral-900">Methodology</h1>
       <p className="mt-4 text-lg leading-relaxed text-neutral-700">
         Every status on Standing is based on documented evidence from
         named sources, and every classification is reviewed and personally
