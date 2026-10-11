@@ -96,6 +96,25 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
         </svg>
       </button>
 
+      {/* Always-visible shortcuts to the law sections, beside the menu button. */}
+      <nav
+        aria-label="Law and cases"
+        className="absolute left-20 top-4 z-[1000] flex gap-2"
+      >
+        <Link
+          href="/countries"
+          className="rounded-lg border border-neutral-200 bg-white/95 px-3 py-3 text-sm font-medium text-neutral-900 shadow-lg backdrop-blur hover:bg-white"
+        >
+          Countries
+        </Link>
+        <Link
+          href="/casebook"
+          className="rounded-lg border border-neutral-200 bg-white/95 px-3 py-3 text-sm font-medium text-neutral-900 shadow-lg backdrop-blur hover:bg-white"
+        >
+          Casebook
+        </Link>
+      </nav>
+
       {/* Backdrop: dims the map and closes the drawer on click, same as a
           modal dialog. */}
       {open && (
@@ -143,11 +162,32 @@ export default function HomeShell({ sites }: { sites: MapSite[] }) {
 
         <div className="p-4">
           <p className="text-sm leading-relaxed text-neutral-600">
-            An open-source, educational platform for understanding and
-            monitoring threats facing cultural heritage sites around the
-            world. Every status here is based on documented evidence from
-            named sources, never a prediction or a numerical risk score.
+            An open-source, educational platform for understanding threats to
+            cultural heritage sites around the world, and the laws, treaties
+            and cases meant to protect them. Every site status here is based
+            on documented evidence from named sources, never a prediction or
+            a numerical risk score.
           </p>
+
+          {/* Law and cases card: placed right under the intro so it is the
+              first thing after the description, not buried in the link list. */}
+          <div className="mt-4 rounded-lg border border-blue-200 bg-blue-50 p-3">
+            <h2 className="text-sm font-semibold text-neutral-900">
+              Law and cases
+            </h2>
+            <p className="mt-1 text-xs leading-relaxed text-neutral-700">
+              See which countries have joined the key heritage treaties, and
+              read cases where heritage and law meet.
+            </p>
+            <div className="mt-2 flex gap-3 text-sm font-medium">
+              <Link href="/countries" className="text-blue-700 hover:underline">
+                Countries &rarr;
+              </Link>
+              <Link href="/casebook" className="text-blue-700 hover:underline">
+                Casebook &rarr;
+              </Link>
+            </div>
+          </div>
 
           <div className="mt-4 grid grid-cols-2 gap-2">
             <div className="rounded-lg border border-neutral-200 bg-neutral-50 p-3">
