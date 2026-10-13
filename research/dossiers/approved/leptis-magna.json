@@ -1,0 +1,498 @@
+{
+  "slug": "leptis-magna",
+  "name": "Archaeological Site of Leptis Magna",
+  "alternate_names": [
+    "Leptis Magna",
+    "Lepcis Magna",
+    "Lebda",
+    "Labdah"
+  ],
+  "country": "Libya",
+  "region": "North Africa (Mediterranean coast)",
+  "coordinates": {
+    "lat": 32.6392,
+    "lng": 14.2906
+  },
+  "coordinate_note": "Taken from the coordinates given on the Wikipedia article (32 38 21 N, 14 17 26 E); UNESCO's own property page could not be retrieved in this pass, so these were not checked against UNESCO's listed centre-point. The inscribed property is large (the 2025 mission report cites 387,485 ha with an urban area of about 400 ha), so the marker is a practical single-point reference only. Needs Harry's map check.",
+  "unesco_id": "183",
+  "inscription_year": 1982,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Leptis Magna was a Punic settlement (founded, per Wikipedia, in the second half of the 7th century BC) that became one of the great cities of Roman North Africa. UNESCO's description notes that it was enlarged by Septimius Severus, who was born there and later became emperor, and counts it among the most beautiful Roman cities, with public monuments and a harbour. Wikipedia adds that after abandonment it was buried by sand and excavated in the 20th century (not checked against UNESCO). It was inscribed in 1982 under cultural criteria (i), (ii) and (iii).",
+  "metadata_sources": [
+    "src_00",
+    "src_01",
+    "src_10",
+    "src_17"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO's State of Conservation summaries state that the property has been on the List of World Heritage in Danger since 2016 because of the conflict situation prevailing in the country, and the 2026 decision (48 COM 7A.7) retained it on the List. Reporting from the 2011-2016 period (The National, December 2016) describes a local group guarding the site against looting and vandalism amid instability, and says the group found and defused a bomb of several kilograms in a cafe near the site in 2015; this is a single-outlet account. By contrast, the February 2025 joint World Heritage Centre/ICOMOS mission reported that direct threats from armed conflict were no longer apparent and that it was told illegal activities causing deliberate damage had ceased. Protection currently depends on the Department of Antiquities, the Tourism and Antiquities Police and local collaboration. No active combat at the site was found in the sources reviewed. This category reflects the reason for the Danger List inscription and a reduced but not formally closed threat, not documented current fighting.",
+      "first_identified_date": "2016",
+      "date_note": "Year of the Danger List inscription (UNESCO's State of Conservation summaries give 2016 as the start of Danger List status); conflict-related instability described in sources from 2011 onward.",
+      "source_ids": [
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_02",
+        "src_06",
+        "src_14"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "UNESCO's Committee decisions of 2023, 2024 and 2026 and the 2023 State of Conservation summary record continuing tidal flooding and sea encroachment on the circus area, with seawater reportedly reaching the seating area and race track at high tide (2023 summary). The 2025 mission found that high tidal waves and sea encroachment threaten the coastal monuments including the Circus, noted that the State Party's January 2025 report stated there had been no impact on the Circus, and recommended a detailed risk evaluation and mitigation measures. It also identified recurring flooding of Wadi Lebda (the State Party cleared a flood course 30 m wide and 2 km long before the 2024-2025 winter) and called for an overall hydraulic study. The 2026 decision asks for a tidal flooding and sand encroachment risk assessment. The sources reviewed do not quantify the rate of damage. Chronic, monitored threat with mitigation still being requested.",
+      "first_identified_date": null,
+      "date_note": "Chronic coastal and flood-related concerns recorded across successive Committee cycles; the earliest decision read for this dossier is 2023, and no single start date was established from the sources reviewed.",
+      "source_ids": [
+        "src_09",
+        "src_05",
+        "src_04",
+        "src_06",
+        "src_02"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee has repeatedly expressed concern about the Hunting Baths, which it described in 2023 as in an alarming state of conservation (risks cited in the 2023 summary: collapse from sand pressure and vegetation growth, and humidity damage to frescoes). The February 2025 mission also described the monument as in an alarming state, closed by the Department of Antiquities to protect interior wall paintings, with continuous sand accumulation impeding access and no conservation strategy yet established; the 2026 decision (48 COM 7A.7) again expressed alarm and asked for details of a proposed earthen embankment and a conservation strategy before implementation. The mission also found widespread vegetation growth, water stagnation, past interventions using cement-based mortars and reinforced concrete, urban encroachment (two roads cross the property, fencing only partial) and insufficient financial and human resources. It reported that no Management Plan, Conservation Action Plan or buffer zone had been finalised. Separately, a planned new coastal highway would connect to the existing Coastal Road inside the property; the mission could not assess it on site, and the 2025 and 2026 decisions ask for detailed information and a Heritage Impact Assessment, with the 2026 decision asking that no decisions on alignment or construction be made until boundaries are adopted and the proposal reviewed. Positive measures are also documented: the same mission found no major direct impact on the attributes that convey Outstanding Universal Value, vegetation and sand clearance in 2024 with the MaLiCH project, a joint Italian-Libyan wall restoration at Villa Silene reported in June 2024, and the 2024 adoption of a retrospective Statement of Outstanding Universal Value.",
+      "first_identified_date": null,
+      "date_note": "Chronic conservation and management concerns recorded across successive State of Conservation cycles; no single start date established from the sources reviewed. Earliest dated Committee action read for this dossier is 2021.",
+      "source_ids": [
+        "src_05",
+        "src_09",
+        "src_03",
+        "src_02",
+        "src_06",
+        "src_07",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_16"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met on the evidence reviewed. (1) No verified severe damage or demolition of a significant part of the site: the February 2025 joint mission found no major direct impacts on the attributes that convey Outstanding Universal Value, although the Hunting Baths are described by the Committee and the mission as in an alarming state (one monument, not a significant part of the property). (2) No active combat reported at or adjacent to the site; the mission reported that direct threats from armed conflict are no longer apparent. (3) The site is not inaccessible to monitoring: a joint World Heritage Centre/ICOMOS mission visited 23-28 February 2025 and the State Party reported to the Committee in 2025-2026. (4) Protection has not collapsed: the Department of Antiquities, Tourism and Antiquities Police and local collaboration continue, although under-resourced. High Concern trigger matched: official inscription on UNESCO's List of World Heritage in Danger for substantive (not administrative) reasons. The 2026 Committee decision 48 COM 7A.7 retained the property on the List and urged finalisation of the Desired State of Conservation for removal (DSOCR). The 2026 decision's continuing, unresolved items (Hunting Baths alarm, tidal flooding and sand encroachment risk assessment still requested, planned coastal highway lacking a Heritage Impact Assessment, no Management Plan or Conservation Action Plan) support this classification independently of the Danger List label. Close calls: (a) Moderate vs High: the original Danger List reason (conflict) is described by the 2025 mission as no longer an apparent direct threat, and the mission found the attributes retained their ability to convey OUV, so a reviewer could argue present conditions are closer to Moderate; the methodology's Danger List trigger and the open structural items are why this draft does not do so. (b) Critical vs High: the Hunting Baths condition is the nearest approach to a Critical trigger, but it is a single monument and no collapse or verified loss is documented in the sources reviewed.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of a large, largely intact Roman city that has been on the List of World Heritage in Danger since 2016 and was retained on it again in 2026. The Committee's 2026 decision welcomed Libyan conservation and maintenance efforts (including academic partnerships and a task force on boundaries) but also expressed continued alarm about the Hunting Baths, asked for tidal flooding and sand encroachment risk assessment, a Conservation Action Plan and a Management Plan, and asked for a Heritage Impact Assessment before any decision on a planned coastal highway. The February 2025 joint mission found that the site's attributes retained their ability to convey Outstanding Universal Value and that direct armed-conflict threats were no longer apparent, but also found insufficient resources, urban encroachment, no finalised Management Plan, Conservation Action Plan or buffer zone, and a deteriorating Hunting Baths without a conservation strategy. The evidence therefore shows reduced conflict risk but real, unresolved conservation and development pressures, under formal Danger List status. Confidence is Supported rather than Confirmed: the findings rest on multiple consistent UNESCO documents, but the UNESCO property page and the Secretariat's 2026 assessment could not be read, the 2026 decision and 2025 mission report were read through extracted summaries rather than as full documents, and no recent independent journalism on the site's security was found. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03",
+        "src_06",
+        "src_08",
+        "src_09",
+        "src_10"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-12",
+      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier moderate accepted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly findable evidence, which gives the moderate tier by the rubric. No publicly viewable 3D model or virtual tour of Leptis Magna was found: two academic papers (2013 and 2016) describe photogrammetry, lidar and a '3D virtual rendering' of the Flavian Temple, but only their abstracts were read and no viewable model was located, so 3D documentation is marked false. A student Unreal Engine walkthrough hosted on a local museum blog was found but is not treated as a virtual tour. The photographic evidence is a modest UNESCO gallery (about 25-36 images by two photographers; exact total not stated on the page), plus an Oxford photo-archive project described by the ALIPH Foundation as annotating and publishing photographs including Leptis Magna, not confirmed here as fully online. Archival records are strongest at the level of UNESCO's own file (1982 ICOMOS evaluation, mission and State Party reports). This is what is publicly findable in this pass; it does not measure private or unpublished archives (for example Italian-Libyan mission records). Verification pass: photographic (UNESCO gallery) and archival (UNESCO documents page) evidence confirmed; the academic_scholarly and ALIPH pages could not be fetched. The tier stays moderate even on the two confirmed categories.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (12 images per page over three pages, credited to UNESCO and photographers Giovanni Boccardi and Francesco Bandarin; exact total not stated).",
+        "url": "https://whc.unesco.org/en/list/183/gallery/",
+        "source_id": "src_17"
+      },
+      {
+        "category": "photographic",
+        "description": "The ALIPH Foundation describes a project to annotate and publish nearly 4,000 photographs of Roman and other Libyan sites, including Leptis Magna, in the University of Oxford's open-access Manar al-Athar archive; supporting evidence only, as the page does not confirm that all images are already online.",
+        "url": "https://www.aliph-foundation.org/en/projects/documenting-endangered-cultural-heritage-in-libya-using-the-manar-al-athar-online-photo-archive",
+        "source_id": "src_18"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 1982 ICOMOS evaluation, a 2018 map of the inscribed property, periodic reporting (2000 and 2021), mission reports (1988, 2007, 2025) and State Party State of Conservation reports (2018 to 2026).",
+        "url": "https://whc.unesco.org/en/list/183/documents",
+        "source_id": "src_00"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Scholarly work on the site includes a 2013 conference paper on low-cost documentation of Leptis Magna and Sabratha (photogrammetry, lidar, spherical panoramas; abstract read only) and a 2016 Libya Antiqua paper on the Temple of the Flavian Gens presenting what the authors call the first 3D virtual rendering of the complex (abstract read only).",
+        "url": "https://iris.univpm.it/handle/11566/109474",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Libya Antiqua 7 (2016) paper by Limoncelli, Dolciotti and Mighetto on the Flavian Temple at Leptis Magna, linked to the Italian-Libyan Archaeological Mission.",
+        "url": "https://iris.unipa.it/handle/10447/369148",
+        "source_id": "src_20"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1982",
+      "title": "Leptis Magna inscribed on the World Heritage List",
+      "description": "UNESCO's documents page lists the 1982 nomination decision (06 COM VIII.20) and ICOMOS evaluation; UNESCO's State of Conservation summary records inscription in 1982 as a cultural property under criteria (i), (ii) and (iii).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2015",
+      "title": "Bomb reportedly found and defused near the site",
+      "description": "The National reported (December 2016) that a local guard group found and defused a bomb of several kilograms in a cafe near the site in 2015 during post-2011 instability; the group's leader doubted ISIL was responsible. Single-outlet account; not independently re-checked in the verification pass (page could not be fetched).",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2016",
+      "title": "Leptis Magna inscribed on the List of World Heritage in Danger",
+      "description": "UNESCO's State of Conservation summaries record the property on the Danger List since 2016, citing the conflict situation prevailing in the country. The Committee's 2016 decisions listed on UNESCO's documents page include 40 COM 7B.106 (World Heritage properties in Libya) and 40 COM 8C.1; their text was not read in this pass.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Decision 44 COM 7A.12 retains the site on the Danger List",
+      "description": "The Committee retained the property on the List, commended Libya's efforts despite conflict and COVID-19 constraints, and welcomed the start of corrective measures and a draft Desired State of Conservation for removal, welcomed progress on the minor boundary modification and encouraged continued work on a management plan.",
+      "event_type": "political",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Decision 45 COM 7A.34: great concern about the Hunting Baths",
+      "description": "The Committee retained the property on the Danger List, noted with great concern the alarming state of conservation of the Hunting Baths, noted concern about tidal flooding and sea encroachment on the circus area, and asked Libya for an urgent conservation strategy, a Conservation Action Plan and Management Plan, a minor boundary modification and a draft retrospective Statement of Outstanding Universal Value. The 2023 State of Conservation summary records that the joint World Heritage Centre/ICOMOS mission had been invited but not yet carried out.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Decisions 46 COM 7A.21 and 46 COM 8E",
+      "description": "The Committee expressed concern that Libya had not submitted the requested state of conservation report, retained the property on the Danger List and encouraged a joint Reactive Monitoring mission as conditions allow. In decision 46 COM 8E it adopted a retrospective Statement of Outstanding Universal Value for the property. The month of the session was not confirmed from the decision pages.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_08",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2024-05",
+      "title": "King's College London MaliCH team clears vegetation at Leptis Magna",
+      "description": "King's College London reported that its Managing Libyan Cultural Heritage (MaliCH) team, working with Libya's Department of Antiquities, followed up on work begun in February 2024 and cleared vegetation at targeted areas (including the Punic market, theatre and Hadrianic Baths); fieldwork was in May 2024. The 2025 mission report adds that in 2024 the project helped clear sand and open a side door at the Hunting Baths. The KCL-specific details (February start, named areas) could not be re-checked in the verification pass; the 2025 mission report independently confirms two stages of invasive vegetation removal in 2024 under MaLiCH.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_13",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024-06",
+      "title": "Villa Silene wall restoration reported",
+      "description": "Fawasel Monitor reported on 23 June 2024 that a joint Italian-Libyan team from the Department of Antiquities and Roma Tre University completed restoration of critically deteriorated walls of Villa Silene. Single small-outlet report (not independently re-checked in the verification pass); funding not stated.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2025-02",
+      "title": "Joint World Heritage Centre / ICOMOS Reactive Monitoring mission",
+      "description": "A joint mission visited 23-28 February 2025. It reported no major direct impacts on the attributes conveying Outstanding Universal Value, direct armed-conflict threats no longer apparent, and an alarming state at the Hunting Baths with no conservation strategy; it recommended risk evaluation for tidal flooding, a hydraulic study of Wadi Lebda, a Heritage Impact Assessment for the planned coastal highway, management and conservation plans, and finalising the DSOCR.",
+      "event_type": "other",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7A.41 on Leptis Magna",
+      "description": "The Committee retained the property on the Danger List, expressed concern about the Hunting Baths' alarming state of conservation, asked for a conservation strategy with urgent measures and for detailed information and a Heritage Impact Assessment for the highway project, and asked for an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "World Heritage Committee decision 48 COM 7A.7 on Leptis Magna",
+      "description": "At its 48th session the Committee retained the property on the Danger List, welcomed conservation and maintenance efforts and a boundary task force, expressed continued alarm at the Hunting Baths, asked for a tidal flooding and sand encroachment risk assessment, Conservation Action Plan and Management Plan, asked that no highway decisions be made until boundaries are adopted and a Heritage Impact Assessment reviewed, urged finalising the DSOCR, and asked for an updated report by 1 February 2027. The 48th session was scheduled for 19-29 July 2026 in Busan (UNESCO sessions page); the decision page gives only the year, so the exact adoption day is not stated.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_07"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Archaeological Site of Leptis Magna: documents (decisions, mission reports, State Party reports, ICOMOS evaluation)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/183/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Documents index page for the property; the main property page (whc.unesco.org/en/list/183/) could not be retrieved in this pass.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Leptis Magna",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leptis_Magna",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference source used only for coordinates and alternate names; never sole support for any threat, status or DPI claim.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.7: Archaeological Site of Leptis Magna (Libya)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8999",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.41: Archaeological Site of Leptis Magna (Libya)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8708",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.21: Archaeological Site of Leptis Magna (Libya)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8490",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7A.34: Archaeological Site of Leptis Magna (Libya)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8185",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Report on the World Heritage Centre / ICOMOS Joint Reactive Monitoring Mission to Leptis Magna, 23-28 February 2025",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/224419",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Report gives no publication date; it covers a mission held 23-28 February 2025 (site visit 25 February). Year only recorded.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Archaeological Site of Leptis Magna: State of Conservation report submitted by the State of Libya (C 183), responding to 47th session decisions",
+      "publisher": "UNESCO World Heritage Centre (State Party report, Libya Department of Antiquities)",
+      "url": "https://whc.unesco.org/document/224351",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Cover page reads 'For the year 0202' (apparent typo); the text describes 2025 activities and responds to the 2025 (47th session) decisions. Publication year inferred from that content and the 1 February 2026 reporting deadline in 47 COM 7A.41, not stated on the document. Only a short extract of the report was read.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "State of Conservation: Archaeological Site of Leptis Magna (Libya), 2024 summary",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4544",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "State of Conservation: Archaeological Site of Leptis Magna (Libya), 2023 summary",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4295",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "State of Conservation: Archaeological Site of Leptis Magna (Libya), 2021 summary",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4012",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "The archaeological site of Leptis Magna: State of Conservation report submitted by the State of Libya (C 183), responding to 46th session decisions",
+      "publisher": "UNESCO World Heritage Centre (State Party report, Libya Department of Antiquities)",
+      "url": "https://whc.unesco.org/document/218837",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Report text covers the year 2024 and responds to the 46th session (2024) decisions; the document gives no submission date. The 2025 year is inferred (the 2025 mission report refers to a State Party report of January 2025). Only a summary of the extract was read.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Decision 46 COM 8E: Adoption of Retrospective Statements of Outstanding Universal Value",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8641",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Preserving Libya's cultural heritage (Managing Libyan Cultural Heritage, MaliCH project)",
+      "publisher": "King's College London",
+      "url": "https://www.kcl.ac.uk/news/preserving-libyas-cultural-heritage",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": " Verification pass: this URL could not be fetched (tool provenance block), so claims attributed to it are not independently confirmed.",
+      "published_date": "2024-08-14",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_14",
+      "title": "The unlikely saviours of Libya's Roman remains",
+      "publisher": "The National",
+      "url": "https://thenationalnews.com/world/the-unlikely-saviours-of-libyas-roman-remains-1.206554",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single-outlet account (reports AFP photo credit in the page); the guard group's claims are as told to the reporter. Used for context on 2011-2016 conditions, not as sole support for any current status claim. Verification pass: this URL could not be fetched (tool provenance block), so claims attributed to it are not independently confirmed.",
+      "published_date": "2016-12-22",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Italian-Libyan Team Completes Restoration of Villa Silene at Leptis Magna",
+      "publisher": "Fawasel Monitor",
+      "url": "https://fawaselmedia.com/italian-libyan-team-completes-restoration-of-villa-silene-at-leptis-magna/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Small outlet whose editorial standards could not be verified; funding not stated. Context only, not used for any status-determining claim. Verification pass: this URL could not be fetched (tool provenance block), so claims attributed to it are not independently confirmed.",
+      "published_date": "2024-06-23",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Archaeological Site of Leptis Magna: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/183/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Documenting Endangered Cultural Heritage in Libya Using the Manar al-Athar Online Photo Archive",
+      "publisher": "ALIPH Foundation",
+      "url": "https://www.aliph-foundation.org/en/projects/documenting-endangered-cultural-heritage-in-libya-using-the-manar-al-athar-online-photo-archive",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "Project description says the University of Oxford archive 'will annotate and publish' nearly 4,000 photographs of Roman and other Libyan sites including Leptis Magna; it does not confirm that every image is already online. The Manar al-Athar archive itself was not browsed for Leptis Magna images in this pass. Verification pass: this URL could not be fetched (tool provenance block), so claims attributed to it are not independently confirmed.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Tecnologie e documentazione low cost per l'archeologia: i siti di Leptis Magna e Sabratha (Clini and Quattrini, 2013)",
+      "publisher": "Universita Politecnica delle Marche (IRIS repository record)",
+      "url": "https://iris.univpm.it/handle/11566/109474",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Repository record of a conference paper; only the abstract was read. Verification pass: this URL could not be fetched (tool provenance block), so claims attributed to it are not independently confirmed.",
+      "published_date": "2013",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Architettura e Informatica. Il tempio della gens flavia a Leptis Magna (Limoncelli, Dolciotti, Mighetto, 2016, Libya Antiqua 7)",
+      "publisher": "Universita di Palermo (IRIS repository record)",
+      "url": "https://iris.unipa.it/handle/10447/369148",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Repository record; only the abstract was read. Verification pass: this URL could not be fetched (tool provenance block), so claims attributed to it are not independently confirmed.",
+      "published_date": "2016",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; DPI Moderate. Close calls flagged in decision_trigger: Moderate vs High (2025 mission says direct conflict threats no longer apparent, but property remains on the Danger List with unresolved Hunting Baths, flooding, highway and planning items) and Critical vs High (Hunting Baths, single monument, no verified collapse). Known gaps (not included because not verified): (1) UNESCO's main property page (whc.unesco.org/en/list/183/) could not be retrieved, so coordinates come from Wikipedia (Tier 4), inscription year and criteria from UNESCO documents and State of Conservation pages, and the description from the gallery page. (2) The built-in browser pane was unavailable, so UNESCO pages were read through the fetch tool's extracted summaries; decision 48 COM 7A.7, the February 2025 mission report and both State Party reports were read as summaries/extracts, not verbatim full text. (3) The Secretariat's 2026 State of Conservation assessment and the 2016 Danger List decision texts (40 COM 7B.106, 40 COM 8C.1) were not read. (4) The 2025/2026 State Party reports were read only as short extracts; the 2026 report's publication date is inferred. (5) No independent 2025-2026 journalism on the site's security or physical condition was found, and Libya's wider political situation was not assessed from sources. (6) The month of the 46th session (2024) decision was not confirmed, so it is dated by year and listed ahead of the dated 2024 months. (7) Early excavation history (1920s-1930s) rests only on Wikipedia and was omitted from events. (8) 3D and virtual-tour evidence: papers describing photogrammetry/lidar/3D rendering were seen only as abstracts, and no viewable model or tour was located; the Manar al-Athar archive was not browsed for Leptis Magna images. (9) A 2022 IPCC reference to Leptis Magna on Wikipedia was not verified and omitted. Images omitted by design. VERIFICATION PASS 2026-10-12 (independent): UNESCO decisions 48 COM 7A.7, 47 COM 7A.41, 46 COM 7A.21, 45 COM 7A.34, 46 COM 8E, documents page, 2023/2024/2021 SoC summaries, 2025 mission report, both State Party reports and the gallery were fetched and match, except fixes made: (1) removed ASOR sentence and source src_15 (the URL no longer shows any Leptis Magna content); (2) removed KCL storm/sea-level sentence and src_13 from the environmental category (unverifiable); (3) significance sentence on sand burial/excavation reattributed to Wikipedia; (4) 2021 decision wording corrected (management plan encouraged, not 'progress'); (5) 'two roads cross the property' per mission report; (6) 2023 event wording aligned to decision text; (7) src_06 publication date reduced to year (report states none); (8) 48th session dates added (19-29 July 2026). Not independently verified (fetch blocked): KCL, The National, Fawasel Monitor, ALIPH, both IRIS records; flagged in their reliability notes.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-12",
+      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier moderate accepted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}

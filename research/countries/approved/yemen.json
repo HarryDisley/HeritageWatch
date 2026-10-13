@@ -115,7 +115,9 @@
     }
   ],
   "site_slugs": [
-    "old-city-of-sanaa"
+    "old-city-of-sanaa",
+    "old-walled-city-of-shibam",
+    "historic-town-of-zabid"
   ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
@@ -143,6 +145,11 @@
       "date": "2026-10-11",
       "changed_by": "claude-draft",
       "change": "Region label changed from \"Middle East\" to \"Asia\" to match the UN geoscheme region used for all countries (UN M49: Western Asia, within Asia). No treaty data changed. Approved by Harry Disley on 2026-10-11."
+    },
+    {
+      "date": "2026-10-12",
+      "changed_by": "claude-draft",
+      "change": "Added site_slugs for newly approved site profiles: old-walled-city-of-shibam, historic-town-of-zabid. No treaty data changed."
     }
   ]
 }

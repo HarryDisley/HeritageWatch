@@ -1,0 +1,528 @@
+{
+  "slug": "bamiyan-valley",
+  "name": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+  "alternate_names": [
+    "Bamiyan Valley",
+    "Bamyan Valley",
+    "Bamiyan Buddhas"
+  ],
+  "country": "Afghanistan",
+  "region": "Central Asia (Hindu Kush, Bamiyan Province)",
+  "coordinates": {
+    "lat": 34.8469,
+    "lng": 67.8253
+  },
+  "coordinate_note": "Converted from UNESCO's coordinates for component 208-001, the Bamiyan Cliff with the Buddha niches (N34 50 48.99, E67 49 30.89). The inscription is a serial property of eight components spread along the Bamiyan Valley and its tributaries; this marker is a practical single-point reference.",
+  "unesco_id": "208",
+  "inscription_year": 2003,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": "The UNESCO inscription is itself a serial property of eight components (Bamiyan Cliff, Kakrak, Qoul-i Akram, Kalai Ghamai, Shahr-i-Zuhak, Qallay Kaphari A and B, Shahr-i-Ghulghulah). This profile covers the whole inscribed property, not a single component.",
+  "site_type": "cultural",
+  "significance_summary": "The property represents artistic and religious developments from the 1st to the 13th centuries in ancient Bactria, integrating influences into the Gandharan school of Buddhist art, and includes Buddhist monastic ensembles, cave sanctuaries with wall paintings, and Islamic-period fortified structures along a branch of the Silk Road. It comprises eight separate components and is inscribed under criteria (i), (ii), (iii), (iv) and (vi). It is also the site of the two giant standing Buddha statues (55 m and 38 m) deliberately destroyed by the Taliban in March 2001; the empty niches remain part of the property.",
+  "metadata_sources": [
+    "src_00",
+    "src_16"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "This is the main current threat. UNESCO's 2026 State of Conservation page lists among the factors affecting the property 'risk of collapse of the giant Buddha niches' and 'irreversible deterioration of the murals', alongside commercial development, housing and surface transport infrastructure. The same page, the 2025 page and the Committee decisions record that the property was inscribed on the Danger List for reasons that include long-term instability of the niches and inadequate conservation of archaeological remains and murals, and that the Desired State of Conservation for removal (DSOCR, set in Decision 31 COM 7A.21 in 2007) has not been reached. In 2025 UNESCO's analysis stated it could not be said whether current activities partly achieve the DSOCR. Concerns recorded in the 2024-2026 decisions and SOC pages include use of historic caves as dwellings, uncontrolled access to caves, conversion of agricultural land to commercial use with new construction, and uncontrolled development in the buffer zones; the 2024 decision also asks for backfilling of holes at the top of the Western Buddha niche, and the 2026 decision says urban management remains a major challenge and asks that the design of the Shashpul Zohak access road be submitted for review and that decisions difficult to reverse not be taken on the possible reinstatement of the Old Bazaar near the Western niche. In 2023 UNESCO noted media reports (January 2022) of uncontrolled excavations in the upper part of the cliff behind the Western Buddha niche and a charcoal depot on the Old Bazaar site; The Art Newspaper (10 February 2022) did not identify the diggers; it reported a former UNESCO provincial coordinator's suspicion that they were smugglers and his warning that the cliff and niches could collapse within ten years if unplanned excavation continued (one individual's estimate), and that the Taliban governor first confirmed and then denied the digging. Against this, UNESCO documents extensive ongoing work: emergency stabilisation and security at both niches, restoration at Shahr-e-Gholgholah, Kakrak and Shahr-e-Zohak, mural consolidation, 3D drone and laser documentation, and a heritage security force.",
+      "first_identified_date": null,
+      "date_note": "Chronic since inscription: niche instability and conservation shortcomings were among the reasons for the 2003 danger listing; no single start date applies to development pressure.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_11"
+      ]
+    },
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The property's damage is historically conflict-driven: the Taliban deliberately destroyed the two giant Buddha statues in March 2001 (events[]), and the 2003 danger listing cited site security not being ensured; Decision 31 COM 7A.21 (2007) called for clearing unexploded ordnance and mines. Current evidence is of insecurity rather than combat at the property: after the August 2021 political change donors suspended projects and UNESCO's activities were interrupted until projects resumed progressively from February 2023 (UNESCO SOC 2023); UNESCO's 2024-2026 decisions reiterate calls to observe international humanitarian law. On 17 May 2024 gunmen attacked a tourist group in Bamiyan; Reuters reported three Spanish tourists killed and the Taliban interior ministry's account included one Afghan killed, while AFP reported three Afghans also killed and Islamic State claiming it (figures differ between reports; the reports do not place the attack at the inscribed property itself). No fighting at or adjacent to any of the eight components was found in the sources read, and UNESCO and its partners are carrying out field work there.",
+      "first_identified_date": "2001-03-01",
+      "date_note": "Date shown is the month of the March 2001 destruction; the exact day is not given in the UNESCO sources read.",
+      "source_ids": [
+        "src_04",
+        "src_07",
+        "src_08",
+        "src_01",
+        "src_12",
+        "src_13"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met. (1) No active combat reported at or adjacent to the property; the May 2024 tourist attack was reported in Bamiyan town (AFP: a market) and reports do not place it at the inscribed components. (2) The property is not documented as inaccessible to monitoring: UNESCO's Kabul Office monitors it, UNESCO/Japan and UNESCO/Italy projects have run since February 2023, and the 2025 and 2026 SOC pages describe field work at all main components. (3) Protection and monitoring have not effectively collapsed: UNESCO describes a heritage security force (Security Unit 012, described as 500 members in 2026), a Bamiyan information and culture directorate, and ongoing conservation works. (4) The severe 2001 destruction is historical and belongs in events[]; it is not itself the current trigger. High Concern trigger matched: official inscription on UNESCO's List of World Heritage in Danger for substantive reasons (inscribed 2003 and retained by the Committee in 2024, 2025 and 2026, most recently 48 COM 7A.23) with the DSOCR not yet achieved. A second trigger is also arguably met: UNESCO's 2026 SOC page lists risk of collapse of the giant Buddha niches and irreversible deterioration of murals as current threats. CLOSE CALL with Critical Concern: the niche-collapse risk and the 2022 reports of uncontrolled excavation above the Western niche, in a territory governed by de facto authorities that the international community is engaging only through UN channels, could be read by a reviewer as an 'ongoing severe threat materially affecting the site's survival'. This draft does not call it Critical because UNESCO's own analyses describe 'proven and potential threats' alongside real stabilisation and security work, not verified current severe damage or loss of access.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2001 destruction of the two standing Buddha statues is the property's best-known event, but it is recorded in the timeline; what drives the present classification is that Bamiyan has been on the List of World Heritage in Danger since 2003 and the Committee decided again in 2026 to retain it, after UNESCO's own analysis concluded that the property 'remains subject to proven and potential threats' and the Desired State of Conservation has not been achieved. The corrective measures adopted in 2007 (site security, long-term stability of the niches, conservation of remains and murals, an implemented Management Plan and Cultural Master Plan) are still the framework: the management plan was still being finalised and awaiting Advisory Body review in 2026, the revised Action Plan and a timeline are outstanding, and uncontrolled development, cave dwelling and unregulated access continue to be flagged. Against that, the evidence shows real, funded, current protection: emergency works at both niches and at three other components, 3D drone and laser documentation of all eight components, mural consolidation, a security force, and the resumption of the Bamiyan Expert Working Group in Japan in September 2025. The political situation since August 2021 adds uncertainty about governance and data access, which the Committee addresses through UN channels. Confidence is Supported rather than Confirmed: the Danger List status and the threat list are confirmed by primary UNESCO sources, but the SOC reports were read through UNESCO summaries rather than the underlying State Party reports, the English-language SOC pages were blocked, UNESCO's own information comes largely through its Kabul Office and the de facto authorities' report, independent on-the-ground reporting since 2022 is limited and the Critical/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_11"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-12",
+      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier extensive accepted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category), but coverage is uneven and the margin is thin. The only publicly viewable 3D model found is a model of the Kakrak cliff face by ICONEM (from a 2012 UNESCO-requested drone survey); UNESCO's 2026 report describes 3D drone and laser documentation of all eight components by AEGIS Heritage and earlier laser scans of the Buddha niches are described in a scholarly paper, but no public release of those datasets was found, so they are not counted as public evidence here. No virtual tour (Google Arts & Culture, official 360 platform) was found, so that category is marked false. The documentary record is strongest at official level (UNESCO nomination file, evaluation, decisions and SOC reports). A reviewer may wish to consider whether the lack of any public whole-property 3D model or virtual tour should temper the tier. DPI reflects what is publicly findable, not what exists in private or unpublished archives.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a multi-page public photo gallery for the property (credited UNESCO photographers; general valley views, cliffs and niches).",
+        "url": "https://whc.unesco.org/en/list/208/gallery/",
+        "source_id": "src_14"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 2003 nomination file 208rev (24 MB), the 2003 ICOMOS evaluation, the nomination map, and Committee decisions and reports; it also lists a report on the 2010-2011 advisory mission.",
+        "url": "https://whc.unesco.org/en/list/208/documents/",
+        "source_id": "src_15"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "A public Sketchfab 3D model by ICONEM ('Blasted Buddha', as titled in ICONEM's Sketchfab blog post, which embeds the model; the model page itself was not opened) of the Kakrak cliff face and the alcove of the lost standing Buddha, from a 2012 drone survey carried out for UNESCO. Partial coverage: one component only.",
+        "url": "https://sketchfab.com/models/fb0898a6af97409080261ca91745d8e5",
+        "source_id": "src_17"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Open-access Springer volume 'The Future of the Bamiyan Buddha Statues' (2020), including chapter 19, a technical proposal for revitalizing the Eastern Buddha statue; scholarly literature on the site's documentation and reconstruction. Two further papers are listed separately below.",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-51316-0_19",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "ISPRS Annals (2017) paper by Toubekis, Jansen and Jarke on using virtual reality for the physical remains of the destroyed Buddhas (abstract read; no public model confirmed).",
+        "url": "https://isprs-annals.copernicus.org/articles/IV-2-W2/271/2017/",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Paper by Toubekis et al. describing laser-scan documentation of the cliff and niches (2002-2003 Japanese survey; 2006 scan of the Eastern niche) and virtual reconstruction of the Eastern Buddha. Year not stated; scan data not stated to be public.",
+        "url": "https://www.cipaheritagedocumentation.org/wp-content/uploads/2018/12/Toubekis-e.a.-Preservation-and-Management-of-the-UNESCO-World-Heritage-Site-of-Bamiyan_Laser-Scan-Documentation-and-Virtual-reconstruction-of-the-Dest.pdf",
+        "source_id": "src_18"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-03",
+      "title": "Taliban destroy the two standing Buddha statues",
+      "description": "UNESCO describes the deliberate destruction of the two giant Buddha statues (55 m and 38 m) in March 2001 as a deliberate act of destruction motivated by an extremist ideology. The empty niches remain part of the inscribed property.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_08",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2003",
+      "title": "Inscribed simultaneously on the World Heritage List and the List of World Heritage in Danger",
+      "description": "UNESCO states the property was inscribed on both lists in 2003, in light of the extreme fragility of the niches, the lack of a management framework and concerns over safety and security.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2007",
+      "title": "Committee adopts desired state of conservation and corrective measures (31 COM 7A.21)",
+      "description": "At its 31st session the Committee set the desired state of conservation for removal from the Danger List: ensured site security, long-term stability of the Giant Buddha niches, adequate conservation of archaeological remains and mural paintings, and an implemented Management Plan and Cultural Master Plan. It retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2012",
+      "title": "UNESCO-requested drone survey of three components",
+      "description": "According to the company's own account, UNESCO asked ICONEM in 2012 to evaluate the state of preservation of Shahr-e Zohak, Kakrak and Shahr-e Gholghola; ICONEM scanned the Kakrak cliff face by drone and reported to UNESCO with plans and elevations.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17"
+      ]
+    },
+    {
+      "date": "2020-03-03",
+      "title": "Japan announces US$3.8 million for the sixth phase of Bamiyan support",
+      "description": "UNESCO announced Japan's funding of USD 3.8 million for stabilising the rear of the Western Buddha niche and preserving surviving murals, as part of efforts toward removal from the Danger List.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2021-08",
+      "title": "Political change interrupts conservation projects",
+      "description": "UNESCO's 2023 report states that after major political changes in August 2021 donors suspended ongoing conservation projects on the property and UNESCO's activities were interrupted; the projects resumed progressively from February 2023. On 19 August 2021 UNESCO's Director-General called for protection of Afghanistan's cultural heritage, naming Bamiyan.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2022-01",
+      "title": "Media report uncontrolled excavation above the Western Buddha niche",
+      "description": "UNESCO's 2023 report notes that several media reported in January 2022 uncontrolled excavations in the upper part of the cliff behind the Western Buddha niche and a charcoal depot on the site of the Old Bazaar destroyed in the 1990s. The Art Newspaper (10 February 2022) reported excavations inside the cliff some 40-50 metres behind a Buddha niche and at the base of the Buddha, a former UNESCO provincial coordinator's suspicion that smugglers were responsible and his warning of collapse, and that the Taliban governor first confirmed and then denied the digging. The article does not identify the diggers; the article's naming of the niche (it uses 'Salsal') was not matched against UNESCO's 'Western Buddha niche' wording.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_07",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2023-02",
+      "title": "Conservation projects resume; UNESCO rapid assessment",
+      "description": "UNESCO reports that the Italy- and Japan-funded projects resumed progressively from February 2023 and that its Kabul Office carried out a rapid assessment of the property's condition that month.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_07",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024-05-17",
+      "title": "Gunmen attack tourists in Bamiyan",
+      "description": "Reuters reported gunmen killed three Spanish tourists in Bamiyan province, with the Taliban interior ministry's account also including one Afghan killed. AFP reported Islamic State claimed the attack and that three Afghans were also killed. AFP describes a shopping market in Bamiyan town; neither report places the attack at the inscribed property; casualty figures differ between reports.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_12",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.37 on Bamiyan",
+      "description": "The Committee regretted that no State of Conservation report was submitted, expressed deep concern at the humanitarian situation, noted resumed UNESCO/Japan and Italy projects (over 300 labourers employed), flagged cave dwellings, uncontrolled cave access and conversion of agricultural land, asked for the holes at the top of the Western Buddha niche to be backfilled, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.17 on Bamiyan",
+      "description": "The Committee noted progress under the Japan and Italy projects, asked for revision of the Strategic Master Plan to address uncontrolled urban development, asked that no hard-to-reverse decision be taken on the Ghulghulah Bazaar road, energy supply project or reinstatement of the Old Bazaar, and retained the property on the Danger List, with a report requested by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2025-09",
+      "title": "Bamiyan Expert Working Group resumes (Japan)",
+      "description": "The 2026 Committee decision welcomes the resumption of the Bamiyan Expert Working Group in Japan in September 2025.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "title": "Annual report on safeguarding submitted",
+      "description": "UNESCO's 2026 SOC page records that an annual report on safeguarding and maintenance of the property was submitted on 2 February 2026. UNESCO's summary describes a heritage security force of 500 members in the Bamiyan region, restoration at Shahr-e-Gholgholah, Kakrak and Shahr-e-Zohak, risk mapping at the Buddha cliff, and 3D drone and digital documentation of all components.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.23 retains Bamiyan on the Danger List",
+      "description": "The Committee noted continued operational activities at the Buddha cliffs and niches and the other components, called urban management a major challenge, requested the draft Management Plan and a revised Action Plan, asked that the Shashpul Zohak access road design be submitted for review before implementation, said Old Bazaar reinstatement needs a detailed technical proposal testing feasibility and considering an alternative location, asked that no irreversible decisions be taken before review, requested the next report by 1 February 2027, and decided to retain the property on the List of World Heritage in Danger.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_05"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/208/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.23: Cultural Landscape and Archaeological Remains of the Bamiyan Valley (Afghanistan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9014",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.17: Cultural Landscape and Archaeological Remains of the Bamiyan Valley (Afghanistan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8684",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.37: Cultural Landscape and Archaeological Remains of the Bamiyan Valley (Afghanistan) (C 208 rev)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8506",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 31 COM 7A.21: Cultural Landscape and Archaeological Remains of the Bamiyan Valley (Afghanistan) (C 208 rev)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1287",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2007",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "State of Conservation (SOC 2026): Cultural Landscape and Archaeological Remains of the Bamiyan Valley (French-language page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4968",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on UNESCO's French-language SOC page (the English SOC page was blocked by a bot check). It reproduces the Secretariat/Advisory Bodies analysis and draft decision; the State Party report it summarises (submitted 2 February 2026) was not read directly. Content is a UNESCO summary of information supplied through UNESCO projects and the de facto authorities' annual report.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "State of Conservation (SOC 2025): Cultural Landscape and Archaeological Remains of the Bamiyan Valley (French-language page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4694",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on UNESCO's French-language SOC page; the report submitted 14 February 2025 was not read directly.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation (SOC 2023): Cultural Landscape and Archaeological Remains of the Bamiyan Valley (French-language page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4310",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on UNESCO's French-language SOC page. The page states that no State Party report had been received as of March 2023 and that information came via UNESCO's Kabul Office.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Commemorating 20 years since the destruction of two Buddhas of Bamiyan, Afghanistan",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2253/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021-03-11",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "UNESCO and Japan support Afghanistan's efforts towards removing the Bamiyan Valley from the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2088/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2020-03-03",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Afghanistan - UNESCO calls for the protection of cultural heritage in its diversity",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2333/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021-08-19",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Afghanistan's Bamiyan Valley will collapse in the next ten years",
+      "publisher": "The Art Newspaper",
+      "url": "https://theartnewspaper.com/2022/02/10/afghanistans-bamiyan-valley-will-collapse-in-the-next-ten-years",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Relies on an anonymous source close to the Taliban ministry and on a former UNESCO provincial coordinator for the collapse warning and for the suspicion about the diggers; the governor's statements conflict. The fact of media reports of digging in January 2022 is separately noted in UNESCO's 2023 SOC page (src_07). The ten-year collapse figure is one individual's warning, not an official assessment.",
+      "published_date": "2022-02-10",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Gunmen kill three Spanish tourists in Afghanistan's central Bamyan province (Reuters report)",
+      "publisher": "Cyprus Mail (republishing Reuters)",
+      "url": "https://cyprus-mail.com/2024/05/18/gunmen-kill-three-spanish-tourists-in-afghanistans-central-bamyan-province",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2024-05-18",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Islamic State claims deadly Afghanistan attack on tourists (AFP report)",
+      "publisher": "South China Morning Post (AFP)",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3263290/islamic-state-claims-deadly-afghanistan-attack-tourists",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2024-05-20",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/208/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley: documents (nomination file 208rev, evaluations, decisions)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/208/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley: maps and geographical data (8 components)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/208/maps/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Around the World in 80 Models: Bamiyan Valley (ICONEM, with embedded Sketchfab 3D model)",
+      "publisher": "Sketchfab Community Blog",
+      "url": "https://sketchfab.com/blogs/community/around-world-80-models-bamiyan-valley",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Blog post written from the perspective of the private company ICONEM, hosted by a 3D-model platform; used only to show that a public 3D model of the Kakrak cliff face exists (model page: sketchfab.com/models/fb0898a6af97409080261ca91745d8e5) and the company's own account of its 2012 UNESCO-requested drone survey. Its wording about destruction 'systematically' by the Taliban is not relied on. The blog post is dated 27 March 2017.",
+      "published_date": "2017-03-27",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Preservation and Management of the UNESCO World Heritage Site of Bamiyan: Laser Scan Documentation and Virtual Reconstruction of the Destroyed Buddha Figures and the Archaeological Remains (Toubekis et al.)",
+      "publisher": "CIPA Heritage Documentation (conference paper PDF)",
+      "url": "https://www.cipaheritagedocumentation.org/wp-content/uploads/2018/12/Toubekis-e.a.-Preservation-and-Management-of-the-UNESCO-World-Heritage-Site-of-Bamiyan_Laser-Scan-Documentation-and-Virtual-reconstruction-of-the-Dest.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Publication year and venue are not stated in the text read (it cites material accessed in 2009, so it is from 2009 or later). It describes scanning campaigns; it does not state that the scan data are publicly released.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Long-term preservation of the physical remains of the destroyed Buddha figures in Bamiyan (Afghanistan) using virtual reality technologies for preparation and evaluation of restoration measures (Toubekis, Jansen, Jarke)",
+      "publisher": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, IV-2/W2",
+      "url": "https://isprs-annals.copernicus.org/articles/IV-2-W2/271/2017/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2017-08-17",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Technical Proposal for Revitalizing the Eastern Buddha Statues in Bamiyan (Maeda et al.), in The Future of the Bamiyan Buddha Statues",
+      "publisher": "Springer (open access book, 2020)",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-51316-0_19",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2020-12-08",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. The property is on the List of World Heritage in Danger (2003-present), verified on UNESCO's property page and the 2026 decision 48 COM 7A.23. Known gaps: (1) English-language UNESCO State of Conservation pages (whc.unesco.org/en/soc/...) were blocked by a bot check and not bypassed; the 2023, 2025 and 2026 SOC content was read from the French-language SOC pages, which carry the same analysis and draft decisions, and the underlying State Party reports (14 February 2025; 2 February 2026) were not read. (2) The 2024 SOC page and the 2023 decision 45 COM 7A.51 and 2021 decision 44 COM 7A.28 were not read; the 2024 decision (46 COM 7A.37) states no SOC report was submitted that year. (3) Exact session months for the 2024 and 2025 decisions were not confirmed, so those events carry the year only. (4) The 3D/drone documentation by AEGIS Heritage reported by UNESCO in 2026 could not be confirmed as publicly viewable and was not counted as DPI evidence; only an ICONEM Kakrak model was verified public. No virtual tour was found. (5) Independent on-the-ground reporting since 2022 is limited; the 2022 excavation reports rest on one named former UNESCO coordinator and an anonymous source (see reliability note on src_11) plus UNESCO's own mention that media reported it. (6) Figures for the May 2024 attack differ between Reuters and AFP and are reported as such; the attack was not placed at the inscribed property. (7) Natural-disaster and environmental/climate threat categories were not included because the sources read do not document a specific hazard event or climate assessment for the property (the 2026 SOC mentions risk mapping and disaster risk reduction planning at the Buddha cliff only in passing); these may merit later research. (8) The 2007 session month (July) is from UNESCO's 2020 news item; the exact date of the March 2001 destruction was not given in the UNESCO sources read. (9) Wikipedia was not used; metadata rests on UNESCO. (10) An NBC News piece on Taliban-era ticketing and a sixth-phase Japan project were not relied on. Images omitted by design. VERIFICATION 2026-10-12 (independent check; fixes applied in place): (a) The Art Newspaper does not identify the diggers; wording corrected to the former coordinator's suspicion and the governor's confirm-then-deny, and the digging location described as the article gives it. (b) 2026 decision wording on the Old Bazaar corrected (needs a technical proposal and consideration of an alternative location). (c) Removed unconfirmed 'turning point' embellishment from the 2001 event. (d) 2007 event date set to year only (session month not confirmed). (e) Source titles corrected for src_18 and src_20; src_17 post date added (27 March 2017); 3D model title and src_20 DPI description corrected; 'copyright UNESCO' removed. (f) May 2024 attack: market location attributed to AFP only. (g) Duplicate phrase in coordinate_note removed; documents-page attribution of 2011 mission report corrected. Verified against primary pages: property page, maps/coordinates, documents, gallery, decisions 31 COM 7A.21, 46 COM 7A.37, 47 COM 7A.17, 48 COM 7A.23, 2023 and 2024 SOC pages, UNESCO news items 2088, 2253, 2333. NOT verified (fetch blocked): 2025 and 2026 SOC pages (security force of 500 / Security Unit 012, 2 Feb 2026 report, AEGIS 3D documentation, 'proven and potential threats', 2025 DSOCR analysis wording, management plan awaiting review), the Springer chapter page, the Sketchfab model page, and the property page's '1st to 13th centuries' synthesis wording.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-12",
+      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier extensive accepted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}

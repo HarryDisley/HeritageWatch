@@ -1,0 +1,460 @@
+{
+  "slug": "old-towns-of-djenne",
+  "name": "Old Towns of Djenné",
+  "alternate_names": [
+    "Djenné",
+    "Djenne",
+    "Villes anciennes de Djenné"
+  ],
+  "country": "Mali",
+  "region": "Africa",
+  "coordinates": {
+    "lat": 13.9056,
+    "lng": -4.555
+  },
+  "coordinate_note": "UNESCO's property page does not give coordinates (it says georeferenced polygons will be available once UNESCO receives GIS data). This marker is the town centre of Djenné as given on Wikipedia (13°54′20″N 4°33′18″W). The inscribed property is a serial property of the old town and four separate archaeological sites, so this is a practical single-point reference for the town only.",
+  "unesco_id": "116",
+  "inscription_year": 1988,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes the property as a serial site made up of the old town of Djenné and four archaeological sites (Djenné-Djeno, Hambarkétolo, Kaniana and Tonomba). The old town retains nearly 2,000 traditional earthen houses built on mounds above seasonal floods; Djenné was a trans-Saharan trade hub and, in the 15th and 16th centuries, a centre for the spread of Islam. The archaeological sites are cited as evidence of pre-Islamic urban civilisations in the inland Niger Delta. It is inscribed under criteria (iii) and (iv). UNESCO's Urban Heritage Atlas notes that the Great Mosque is replastered annually (alongside the Tabaye-ho river festival) and that Djenné's earthen architecture was built by traditional masons organised in the barey ton corporation, whose stated objectives include protecting the earthen heritage.",
+  "metadata_sources": [
+    "src_00",
+    "src_08",
+    "src_17"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "Insecurity in central Mali is recorded by UNESCO as a reason for the property's 2016 inscription on the List of World Heritage in Danger: UNESCO's news item of 13 July 2016 states that insecurity in the area was preventing the implementation of protective measures. In 2017 the Committee (41 COM 7A.28) recorded that insecurity prevented the requested joint UNESCO/ICOMOS/ICCROM Reactive Monitoring mission; UNESCO's 2018 state-of-conservation summary quotes the State Party as saying that, due to security concerns, the reactive monitoring mission was not organised, and says the Advisory Bodies described the security situation as very fragile; the 2023 summary says the requested reactive monitoring mission has not visited the property for several years and that the Advisory Bodies cite persistent insecurity in central Mali. A Malian army statement, as reported by Sahelien, described an attack on the National Guard platoon in Djenné on 9 August 2017. In 2024, AP reported that the head of Djenné's Cultural Mission, Moussa Moriba Diakité, said insecurity was deterring visitors and that tourism had nearly vanished; AFP in June 2025 described a violent insurgency in central Mali since 2012 and reported the annual replastering taking place. A May 2026 BBC report describes deadly attacks on villages in Mopti region (the article does not mention Djenné). The 2025 and 2026 Committee decisions reviewed raise site-security concerns at the archaeological sites (lack of guards, illegal excavations, water erosion, worn security bollards) but, in the summaries read, do not describe fighting at the property itself. No source reviewed documents combat damage to the property.",
+      "first_identified_date": "2016-07-13",
+      "date_note": "Date of UNESCO's news item on the Danger List inscription, which cites insecurity. Other sources describe insurgency in central Mali since 2012, so the underlying regional situation is older than this date.",
+      "source_ids": [
+        "src_07",
+        "src_04",
+        "src_06",
+        "src_05",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_01",
+        "src_02"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Torrential rain and flooding are a recurring hazard to earthen architecture. In 41 COM 7A.28 (2017) the Committee recorded that flooding from torrential rains in August 2016 caused the collapse of certain monumental houses, including the old Moroccan Palace dating back to the 16th century, and further deterioration of the old urban fabric; UNESCO's 2018 summary also records the partial collapse of the Moroccan Palace. In 48 COM 7A.37 (2026) the Committee noted that some houses that collapsed in the 2024 rainy season were rebuilt in 2025. The sources reviewed do not quantify the total number of houses lost in either season.",
+      "first_identified_date": "2016-08-01",
+      "date_note": "Month of the August 2016 floods as stated in the 2017 Committee decision; no exact day was given in the sources reviewed. Rain-related damage is long-standing.",
+      "source_ids": [
+        "src_04",
+        "src_06",
+        "src_01"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "UNESCO's property page lists leaching, erosion and gullying from bad weather affecting the archaeological sites. The 2025 decision (47 COM 7A.31) and the 2026 decision (48 COM 7A.37) both express concern about water erosion at the four archaeological sites (Djenné-Djeno, Hambarketolo, Kaniana and Tonomba); the 2026 decision also notes that traditional materials needed for earthen architecture are increasingly hard to obtain. UNESCO's 2023 summary of the State Party's report states that climate change affects rice bran production and banco clay, which is extracted far from town. These are chronic pressures; the sources reviewed do not give measurements of erosion rates.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-standing erosion and materials pressures; no single start date found in the sources reviewed.",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_01",
+        "src_05"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO documents describe long-running conservation challenges. The property page lists the replacement of traditional earthen construction by cement, fired bricks and metal doors and windows, loss of decorative facade features, and looting. The 2024 decision (46 COM 7A.11) recorded that corrective-measure activities such as bollards and anti-looting monitoring had stalled, that the Cultural Mission and Municipality persistently lack technical and financial resources, and that the management and conservation plan expired in 2022. In 2025 (47 COM 7A.31) the Committee commended the State Party's efforts and welcomed reductions in solid construction but was concerned about persistent insalubrity, site security at the four archaeological sites and lack of funding. In 2026 (48 COM 7A.37) it noted inadequate security at the archaeological sites (no guards, illegal excavations), insufficient funding, a long-dysfunctional Management Committee, and an updated Management and Conservation Plan 2025-2030, and adopted the Desired State of Conservation for Removal (DSOCR) as a framework toward eventual removal from the Danger List. A 2021 peer-reviewed article (Sacko) argues that foreign agencies and experts largely lead preservation projects, that residents see practices such as fired clay tiles as protection from rain although UNESCO condemns them, that frequent replastering of earthen walls is becoming expensive for households, and that tourism fell after 2012.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year concerns recorded across successive Committee decisions and state-of-conservation reports; no single start date found in the sources reviewed. Earliest dated Committee record in this dossier is 2016.",
+      "source_ids": [
+        "src_00",
+        "src_03",
+        "src_02",
+        "src_01",
+        "src_05",
+        "src_15"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern: considered and not met on the evidence reviewed. (1) No fighting at or immediately adjacent to the property was found in the sources reviewed; the 2026 BBC report concerns villages in Mopti region and does not mention Djenné, and the 2024 and 2025 reports describe the replastering of the Great Mosque taking place. (2) No source documents severe verified destruction of a significant part of the property as of the most recent review; the August 2016 house collapses and the 2024 rainy-season collapses are documented, with some 2024 collapses rebuilt in 2025. (3) CLOSEST CALL, monitoring access: UNESCO records that insecurity prevented a Reactive Monitoring mission in 2017, that the mission was not organised in 2018 due to security concerns, and the 2023 summary says the requested mission has not visited for several years, which is partly the 'inaccessible to monitoring bodies' pattern. However, the trigger also requires that current condition cannot be verified; the Cultural Mission of Djenné is active on site, the State Party has submitted state-of-conservation reports every year reviewed, and the 2025 and 2026 Committee decisions describe concrete current conditions and actions. This item was therefore judged not met, but a reviewer may weigh the lack of recent international mission access differently and consider Critical Concern. (4) No evidence was found that protection or monitoring has collapsed; the Committee commended the Cultural Mission in 2025 and adopted a Desired State of Conservation for Removal in 2026. High Concern trigger matched: official inscription on the List of World Heritage in Danger (since 2016, retained in 2024, 2025 and 2026 by decisions 46 COM 7A.11, 47 COM 7A.31 and 48 COM 7A.37), for substantive reasons (insecurity preventing protective measures, deterioration of the historic fabric, urbanisation and erosion of the archaeological site). Moderate Concern is ruled out because the Danger List trigger is a defined High Concern trigger and the Committee's concerns about site security and resources remain current in 2026.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The property is on UNESCO's List of World Heritage in Danger and the Committee retained it there in 2024, 2025 and 2026. The current picture combines regional insecurity (which UNESCO has linked to limits on protective measures and on international missions since 2016), chronic climate and erosion pressure on earthen architecture and on the four archaeological sites, and persistent shortfalls in funding, site security and management structures. Against that, the evidence also shows an active protective system: the Cultural Mission of Djenné was commended in 2025, the Great Mosque was replastered in 2024 and 2025 according to AP and AFP, deterrent measures reduced solid construction, some houses that collapsed in 2024 were rebuilt in 2025, the Management and Conservation Plan was updated for 2025-2030, and the Committee adopted a Desired State of Conservation for Removal in 2026, which sets out a pathway toward removal from the Danger List. No source reviewed documents combat damage to the property. Confidence is Supported rather than Confirmed: the Committee decisions are first-hand and consistent, but the 2026 state-of-conservation report and the State Party reports themselves could not be read in this pass, no Djenné-specific source on the security situation in 2025-2026 was found beyond regional reporting, and the High/Critical boundary on monitoring access is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-12",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_11",
+        "src_12"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). Coverage is thin and uneven, and a reviewer may wish to consider whether this should temper the tier: the UNESCO photo gallery holds 27 images, all credited to a single photographer; the only 3D documentation found covers the Great Mosque alone and dates from the Zamani Project's 2005 field campaign (a Sketchfab model embedded on the project's page; the model itself was not opened separately); no 3D documentation of the wider old town or of the four archaeological sites was found. CyArk has a project page for the Great Mosque that links to a '3D Virtual Tour', but the tour itself could not be opened, so virtual_tour is marked false until it is checked. UNESCO's document listing includes a 1988 ICOMOS evaluation, annual state-of-conservation material, a 2018-2022 management plan and a 2014 mission report, but no nomination file appeared in that listing.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property with 27 images, all captioned 'Old Towns of Djenné (Mali)', credited to Francesco Bandarin and copyrighted by UNESCO.",
+        "url": "https://whc.unesco.org/en/list/116/gallery/",
+        "source_id": "src_10"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's document listing for the property includes the 1988 Advisory Body (ICOMOS) evaluation, State Party and Committee state-of-conservation reports (State Party reports for 2014-2026 with gaps), Committee decisions from 1988 to 2026, the 2018-2022 management and conservation plan, a March 2014 reactive monitoring mission report, and periodic reporting (cycles 1 and 3).",
+        "url": "https://whc.unesco.org/en/list/116/documents",
+        "source_id": "src_09"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "The Zamani Project states that it spatially documented the Great Mosque of Djenné in 2005 and embeds a 3D model (Sketchfab), a video, and lists photos, plans, sections and GIS maps on its page. Coverage is the Great Mosque only.",
+        "url": "https://zamaniproject.org/site-mali-djenne-great-mosque.html",
+        "source_id": "src_16"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed article by O. Sacko (2021, Built Heritage) on community involvement in the conservation of earthen architecture, with Djenné as the central case study.",
+        "url": "https://link.springer.com/10.1186/s43238-021-00040-y",
+        "source_id": "src_15"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1988",
+      "title": "Old Towns of Djenné inscribed on the World Heritage List",
+      "description": "The property was inscribed in 1988 under criteria (iii) and (iv). UNESCO's Urban Heritage Atlas records that the 1987 nomination (116Rev) was evaluated and that the property was classified as a national heritage site in 1992.",
+      "event_type": "other",
+      "source_ids": [
+        "src_00",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2016-07-13",
+      "title": "Property placed on the List of World Heritage in Danger",
+      "description": "UNESCO's news item dated 13 July 2016 reports that the Committee, at its 40th session, added the property to the List of World Heritage in Danger, citing insecurity in the area that was preventing the implementation of protective measures, together with deterioration of construction materials in the historic town, urbanisation and erosion of the archaeological site. The Committee appealed to the international community to support Mali. The property page lists the Danger List inscription as 2016 to present.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2016-08",
+      "title": "Floods collapse monumental houses including the Moroccan Palace",
+      "description": "In decision 41 COM 7A.28 (2017) the Committee recorded that flooding from torrential rains in August 2016 caused the collapse of certain monumental houses, including the old Moroccan Palace dating back to the 16th century, and further deterioration of the old urban fabric. UNESCO's 2018 summary records the Moroccan Palace as partially collapsed.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_04",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2017-08-09",
+      "title": "Attack on National Guard platoon in Djenné reported",
+      "description": "Sahelien, citing the Malian army's official website, reported that assailants attacked the National Guard platoon in Djenné at about 4 a.m. on 9 August 2017; a soldier on duty was wounded and the army said the attackers fled and the town was under control. This is an incident in the town; no damage to the heritage property was reported in that source.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee retains the property on the Danger List (45 COM 7A.22)",
+      "description": "UNESCO's state-of-conservation summary records that in 2023 the Committee retained the property on the List of World Heritage in Danger, asked for an updated management plan (the previous plan had expired in 2022) and a sample of the house inventory, and set a 1 February 2024 deadline for an updated report. The summary also quotes the Advisory Bodies citing persistent insecurity in the central region of Mali and notes that the requested reactive monitoring mission has not visited the property for several years.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2024-05",
+      "title": "Great Mosque replastered amid insecurity concerns",
+      "description": "AP, in a report dated 13 May 2024, described the yearly replastering of the Great Mosque as taking place 'this weekend' (exact day not stated). Moussa Moriba Diakité, head of Djenné's Cultural Mission, said people say they cannot come to Djenné because of insecurity, and that upkeep of the mosque must continue 'at any cost'. AP reported that Djenné's tourism had all but disappeared.",
+      "event_type": "other",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.11 on Djenné",
+      "description": "At its 46th session (New Delhi) the Committee retained the property on the Danger List, noted that planned corrective-measure activities such as bollards and anti-looting monitoring had stalled and that the Cultural Mission and Municipality lack technical and financial resources, and asked for increased budget, reactivation of the Management Committee and submission of the DSOCR in 2025. An updated report was requested by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025-06-12",
+      "title": "Annual replastering of the Great Mosque held",
+      "description": "AFP reported that thousands of Malians replastered the Great Mosque on 12 June 2025 in the annual ceremony. The article describes a violent insurgency in central Mali since 2012 but does not say whether security conditions affected the 2025 ceremony.",
+      "event_type": "other",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.31 on Djenné",
+      "description": "The Committee commended the State Party's and the Cultural Mission's efforts, welcomed the effectiveness of deterrent measures in reducing solid construction, expressed concern about persistent insalubrity, the security of the four archaeological sites (water erosion, trampling by people and animals, wear on the security bollards) and lack of funding, noted satisfaction with preparation of the DSOCR, and retained the property on the Danger List. An updated report was requested by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.37 on Djenné",
+      "description": "At its 48th session (Busan) the Committee retained the property on the Danger List, adopted the Desired State of Conservation for Removal (DSOCR) as a framework toward eventual removal, expressed concern about inadequate security at the archaeological sites, insufficient funding and a long-dysfunctional Management Committee, noted that some houses that collapsed in the 2024 rainy season were rebuilt in 2025 and that the Management and Conservation Plan 2025-2030 was updated, and requested an updated report by 1 February 2027 for the 49th session. Month not confirmed in the sources reviewed.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Old Towns of Djenné",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/116",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.37: Old Towns of Djenné (Mali)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9026",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.31: Old Towns of Djenné (Mali)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8698/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.11: Old Towns of Djenné (Mali) (C 116rev)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8480",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 41 COM 7A.28: Old Towns of Djenné (Mali)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6974",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_05",
+      "title": "State of conservation: Old Towns of Djenné (Mali), 2023 (WHC/23/45.COM/7A), including decision 45 COM 7A.22",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4285",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read as a web summary of the 2023 state-of-conservation report; the full report document was not opened.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_06",
+      "title": "State of conservation: Old Towns of Djenné (Mali), 2018 (42nd session)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3778",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read as a web summary of the 2018 state-of-conservation report; the full report document was not opened.",
+      "published_date": "2018",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Old Towns of Djenné added to the List of World Heritage in Danger (news item dated 13 July 2016)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1520",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016-07-13",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Old Towns of Djenné (Mali), Urban Heritage Atlas",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/urban-heritage-atlas/djenne",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Old Towns of Djenné: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/116/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Old Towns of Djenné: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/116/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Thousands replaster Mali's Great Mosque of Djenné, which is threatened by conflict (Associated Press)",
+      "publisher": "Boston Globe (republishing AP)",
+      "url": "https://www.bostonglobe.com/2024/05/13/world/mali-thousands-replaster-great-mosque-djenne-under-threat-conflict",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2024-05-13",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Malians gather to replaster Djenné's iconic mud mosque in annual heritage ritual (AFP)",
+      "publisher": "Malay Mail (republishing AFP)",
+      "url": "https://malaymail.com/news/life/2025/06/14/malians-gather-to-replaster-djennes-iconic-mud-mosque-in-annual-heritage-ritual/180287",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-06-14",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Dozens killed in jihadist attacks on villages in central Mali (BBC News)",
+      "publisher": "The Star (Kenya), carrying BBC News",
+      "url": "https://www.the-star.co.ke/news/world/2026-05-08-dozens-killed-in-jihadist-attacks-on-villages-in-central-mali",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Used only as regional context: it reports attacks on villages in Mopti region and does not mention Djenné. Casualty figures vary by source within the article.",
+      "published_date": "2026-05-08",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Mali - Mopti: a soldier wounded in attack in Djenné",
+      "publisher": "Sahelien.com",
+      "url": "https://sahelien.com/en/mali-mopti-a-soldier-wounded-in-attack-in-djenne/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Small outlet relaying the Malian army's own statement; single-source account of the incident, used only for the fact and date of the 2017 attack and not for any status-determining claim.",
+      "published_date": "2017-08-09",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_15",
+      "title": "The involvement of local communities in the conservation process of earthen architecture in the Sahel-Sahara region: the case of Djenné, Mali (O. Sacko)",
+      "publisher": "Built Heritage (Springer Open), vol. 5, article 26",
+      "url": "https://link.springer.com/10.1186/s43238-021-00040-y",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Great Mosque of Djenné",
+      "publisher": "Zamani Project",
+      "url": "https://zamaniproject.org/site-mali-djenne-great-mosque.html",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Project page states that documentation was done in 2005 and embeds a Sketchfab model; licensing and download terms are not stated, and the embedded model was not opened separately. The page also describes the 1907 mosque as replacing an original 3rd-century mosque, a claim not used here.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Djenné",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Djenn%C3%A9",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference, used only for the town-centre coordinates (UNESCO gives none).",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-12",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call against Critical Concern (monitoring access) flagged in decision_trigger. Danger List status checked directly on UNESCO's property page (2016 to present) and in decision 48 COM 7A.37 (2026). Known gaps (not included because not verified): (1) The 2026 and 2025 UNESCO state-of-conservation pages (whc.unesco.org/en/soc/4982 and /soc/4673) returned fetch errors, and the State Party reports (documents 225313 and 219931) were not read; only the Committee decisions were read for 2024-2026. (2) The 2016 Committee decision text (40 COM) was not retrieved; the 2016 listing rests on UNESCO's news item. (3) No Djenné-specific source on the security situation in 2025-2026 was found; regional reporting (BBC, May 2026) does not mention Djenné and is context only. (4) The 2017 attack in Djenné rests on one small outlet relaying an army statement. (5) The CyArk '3D Virtual Tour' for the Great Mosque (cyark.org/projects/djenne-mosque/tapestry2, linking to tapestry.cyark.org/content/djenne) could not be opened, so virtual_tour is marked false pending a check; the Zamani Sketchfab model was seen embedded on its project page but not opened directly. (6) UNESCO gives no coordinates; coordinates rest on Wikipedia (Tier 4) only. (7) Exact session dates for the 2024-2026 Committee decisions were not confirmed; only years are given (Busan and New Delhi session locations are as stated in the sources). (8) Number of houses lost in the 2016 and 2024 floods, and UNESCO's own figures on the old-town house inventory, were not found and are omitted. (9) Intangible aspects (mason guild, replastering ritual) are mentioned only as context. Images omitted by design. VERIFIER PASS (2026-10-12): re-fetched UNESCO property page, decisions 41/46/47/48, SOC 2018/2023, news item, Urban Heritage Atlas, documents, gallery, AP, AFP, BBC (via The Star), Sahelien, Sacko, Zamani, Wikipedia. Fixes: attributed 2018/2023 'very fragile'/'persistent insecurity' to the Advisory Bodies (not the Committee) and corrected 'no mission recently' to 'not visited for several years'; 2017 wording 'insecurity prevented' (not 'fragile security'); 'damaged bollards' corrected to 'wear on bollards'; Sacko findings restated to match the article (removed unsupported 'buildings unmaintained'/'housing comfort'); AP event date changed to 2024-05 (exact day not stated) and quote paraphrase corrected; Atlas barey ton claim softened; 'about 2,000' to 'nearly 2,000'; removed unverifiable 'second geographic reference' claim for coordinates; 'guard' to 'soldier on duty'.",
+      "changed_by": "claude"
+    }
+  ]
+}

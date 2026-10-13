@@ -1,0 +1,486 @@
+{
+  "slug": "lviv-historic-centre",
+  "name": "L'viv – the Ensemble of the Historic Centre",
+  "alternate_names": [
+    "Lviv",
+    "L'viv",
+    "Lviv Historic Centre"
+  ],
+  "country": "Ukraine",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 49.8417,
+    "lng": 24.0319
+  },
+  "coordinate_note": "Converted from the coordinates UNESCO publishes for component 865-001 (Vysokyi Zamok and Pidzamche, Seredmistia): N49 50 30.00, E24 1 55.00. The property has two components (the castle area and city centre, and the Ensemble of St. Yuri, whose UNESCO coordinates are N49 50 19.00, E24 0 52.00), and UNESCO's main property page does not give a single centre point; this marker is a practical single-point reference for the main component. UNESCO's maps page lists component areas of 142 ha and 8 ha, which differs from the 120 ha given on the main property page.",
+  "unesco_id": "865",
+  "inscription_year": 1998,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes L'viv as a city founded in the late Middle Ages that served for centuries as an administrative, religious and commercial centre, whose medieval street layout survives largely intact alongside Baroque and later buildings. It blends Eastern European architectural traditions with Italian and German influences, and its layout reflects the presence of several ethnic communities. It is inscribed under criteria (ii) and (v) and has two components: the castle area and city centre, and the Ensemble of St. Yuri to the southwest. UNESCO gives the property area as 120 ha with a 2,441 ha buffer zone.",
+  "metadata_sources": [
+    "src_00",
+    "src_01"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The property was inscribed on the List of World Heritage in Danger in 2023 (Decision 45 COM 7B.60) because the Committee considered it threatened by potential danger from the war and that optimal conditions were no longer met to fully guarantee protection of its Outstanding Universal Value; it also noted risk preparedness was not yet sufficient, particularly for assessing vibration effects on buildings from nearby missile strikes. The Committee retained it on the Danger List in 2024, 2025 and 2026. Documented incidents: on the night before 6 July 2023 an attack damaged a historic building in the buffer zone (UNESCO, citing a provisional report of five people killed; the 2023 State of Conservation page places the damage about 2 km from the nearest component); UNESCO's summaries of Ukraine's State Party reporting refer to damage to sites in attacks in January and September 2024 (the 2026 summary mentions damaged residential buildings in the buffer zone); and on 24 March 2026 strikes hit a building near the Bernardine Monastery inside the World Heritage property, which UNESCO said left it 'deeply alarmed'. In Decision 48 COM 7A.31 the Committee expressed grave concern about damage to several historic buildings in the Bernardine Monastery Complex during the 24 March 2026 attack, expressed utmost concern at intensifying threats from the ongoing war, and reiterated its call on the Russian Federation to refrain from any action causing direct or indirect damage to the property. The sources reviewed describe drone and missile strikes rather than ground fighting at the property. The dossier did not find reports of further strikes on the property after March 2026, but that search was not exhaustive.",
+      "first_identified_date": "2022-02-24",
+      "date_note": "UNESCO's 2023 reporting describes the property as under permanent threat since the start of the full-scale invasion on 24 February 2022. The first documented attack affecting the property's buffer zone in the sources reviewed is the night before 6 July 2023, and the first documented damage inside the property itself is 24 March 2026.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_16",
+        "src_19"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Three strands. (1) Unrepaired or incomplete war damage: after the 24 March 2026 strike, a Lviv City Council official (as reported by Ukrainska Pravda on 26 March) said four of the Bernardine church's 16 stained-glass windows were shattered, the 1734 bell tower was damaged, eight windows of the adjacent archive building were shattered, and a damaged residential building was declared unsafe; a repair plan had not yet been published at that date, and windows were being boarded up. A single outlet (flagged, see src_20) reported the same week that initial rubble clearance was finished and protective covers were being placed over stained glass. The sources reviewed do not document the state of repair after March 2026. Repair of earlier war damage in the city is documented as under way: the State Party's 2026 report (as summarised by UNESCO) says restoration of four damaged buildings at Stryiska Street 60-66, in the buffer zone, was carried out in 2025, and an academic study (2026) discusses wartime restoration of two damaged Lviv residential building cases (44 Konovaltsia Street and Stryiska Street; the article does not state they are inside the World Heritage property). (2) Development control and planning: the Committee has repeatedly raised a hotel project at 9 Adam Mickiewicz Square, within the property. In 2024 it requested an immediate halt to construction and a redesign; in 2026 it regretted that the project was completed without prior notification and despite its request to halt construction, and urged strengthening the regulatory framework. UNESCO's property page also names heavy vehicle traffic, residents moving to the suburbs and inappropriate development as threats, attributed to limited funding, lack of heritage awareness among owners and users, and weak enforcement of regulations. (3) Management planning: the Committee in 2026 encouraged prioritising the Management Plan with an emergency preparedness and response component and developing a Desired state of conservation for removal from the Danger List for adoption at the 50th session; as of the State Party's 2024 report the DSOCR was not yet drafted.",
+      "first_identified_date": null,
+      "date_note": "Development-control, traffic and planning concerns are described by UNESCO as long-standing without a single start date in the sources reviewed; the Committee's concern about the Mickiewicz Square hotel is documented from 2024 and the war-damage repair strand from 2023 (buffer zone) and March 2026 (inside the property).",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_04",
+        "src_07",
+        "src_11",
+        "src_16",
+        "src_20",
+        "src_21"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern: not met on the evidence reviewed. (1) No severe, verified damage to a significant part of the site that materially affects its survival, integrity or accessibility was found; the documented March 2026 damage is to individual buildings of the Bernardine Monastery complex and a neighbouring residential building (windows, a bell tower, a roof and ceilings), and UNESCO's 2026 decision commends the State Party's protective, monitoring, emergency and restoration measures. (2) The property is not reported to be in an active combat zone with fighting at or adjacent to it; sources describe drone and missile strikes rather than ground fighting at the property. (3) Monitoring has not been lost: the State Party continues to report to UNESCO and the Committee welcomed an invitation for a joint World Heritage Centre/ICOMOS Reactive Monitoring mission in November-December 2026. (4) Protection has not collapsed. High Concern triggers matched: (a) official inscription on the List of World Heritage in Danger for substantive reasons (the war), since 2023 and retained by the Committee in 2026 (48 COM 7A.31); (b) credible reports from two or more independent sources of a specific damaging event within roughly the last five years with damage not yet fully assessed or repaired: the 24 March 2026 strike inside the property, documented by UNESCO, the Committee and independent press, with a repair plan unpublished as of 26 March 2026 and no later repair status found; (c) the property lies in a country under active armed conflict with credible reporting on risk to cultural property. Moderate Concern is excluded because the Danger List trigger is met. Assessment of closeness: this is not a close call against Moderate. Against Critical, the neighbouring status, the evidence reviewed is clearly short of any Critical trigger, though a reviewer who weighs the Committee's 'intensifying threats' language and the first strike inside the property differently could ask whether the trend warrants escalation; this draft does not do so.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. On the risk side: the property has been on the Danger List since 2023 and was retained in 2026; the Committee describes intensifying threats and expressed grave concern about damage to several historic buildings in the Bernardine Monastery Complex on 24 March 2026, the first documented damage inside (not only beside) the property; the repair status of that damage after March 2026 could not be established from sources reviewed; and long-running development-control concerns remain, notably the Mickiewicz Square hotel, which was completed despite the Committee's request to halt construction. On the protection side: the Committee commends the State Party's protective, monitoring, emergency and restoration measures; the State Party reports (via UNESCO's summaries) volunteer protection of over 50 sites (2024 report), 3D scanning of 13 monuments (2024 report), periodic monitoring of 435 heritage sites in 2025, and restoration of earlier war-damaged buildings in 2025; UNESCO has offered the authorities help with assessments, protection measures and emergency assistance (25 March 2026 statement); and a joint World Heritage Centre/ICOMOS Reactive Monitoring mission, which the Committee welcomed an invitation for, is planned for November-December 2026. The documented war damage is to individual buildings, not a loss of the property's overall integrity, and UNESCO's page rates the property's authenticity as high. Note on source scope: figures for monitoring, scanning and restoration come from the State Party's own reports as summarised by UNESCO and are not independently verified. Confidence is Supported rather than Confirmed because the status-determining facts rest on UNESCO decisions and a UNESCO statement that agree with independent press, but UNESCO's 2026 State of Conservation page could not be retrieved, the post-March 2026 repair status is undocumented, and the war situation is changing. Confidence does not alter the status.",
+      "effective_date": "2026-10-12",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_10",
+        "src_11",
+        "src_15",
+        "src_16",
+        "src_17",
+        "src_18",
+        "src_19"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": false
+    },
+    "coverage_note": "Two of five categories have publicly findable evidence, which meets the moderate tier by the rubric (2-3 categories), at its lower end. The photographic evidence is thin: UNESCO's gallery has at least 13 images over two pages (its 'See All' view shows up to 18); the first page is credited to two photographers. A 2026 peer-reviewed article on wartime restoration of two damaged Lviv building cases was found, but it does not mention World Heritage status and one case (Stryiska Street) is in the buffer zone, so it is not counted as scholarly documentation of the property. 3D documentation is reported but not verified as publicly viewable, so it is not counted: UNESCO's summary of the State Party's 2024 report says 13 monuments were 3D scanned and its summary of the 2026 report says more than 40 objects in the Lviv community have been digitised, but no viewable models for the property were confirmed. Skeiron's project pages describe ALIPH-funded 3D scanning and photogrammetry of eight Lviv-region objects (2022, including three Lviv churches and the Armenian Cathedral complex) and a 2019 AR app 'Pocket City AR: Lviv' covering 16 Lviv monuments, but those pages do not state that the models or the app are publicly accessible. Ukrinform reported in 2017 a Google virtual 3D tour of the Lviv opera theatre, but the tour itself was not opened and the theatre's position relative to the boundary was not verified, so no virtual tour is counted. If publicly viewable 3D models or a live tour of buildings within the property are confirmed, the tier could move up. A reviewer may wish to confirm these items.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (at least 13 images over two pages; the first page's 12 images are credited to two photographers).",
+        "url": "https://whc.unesco.org/en/list/865/gallery/",
+        "source_id": "src_14"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page lists the 1998 nomination file (865) and the 2008 minor-boundary-modification file (865bis), ICOMOS evaluations (1998, 2008), a boundary map, a 2012 reactive monitoring mission report, Periodic Reporting Cycle 2 and 3 Section II documents, State Party State of Conservation reports and Committee decisions from 2004 to 2026.",
+        "url": "https://whc.unesco.org/en/list/865/documents/",
+        "source_id": "src_13"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1998",
+      "title": "L'viv inscribed on the World Heritage List",
+      "description": "The Committee inscribed L'viv – the Ensemble of the Historic Centre on the World Heritage List in 1998 (Decision 22COM VIIIB.1, as listed on UNESCO's documents page) under criteria (ii) and (v). A minor boundary modification was inscribed in 2008.",
+      "event_type": "political",
+      "source_ids": [
+        "src_00",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2023-07-06",
+      "title": "Attack damages historic building in the buffer zone",
+      "description": "UNESCO reported on 6 July 2023 that an attack the previous night hit a historic building in the buffer zone, which it described as the first attack in a World Heritage-protected area in Ukraine since the war began, citing a provisional report of five people killed. UNESCO's 2023 State of Conservation page places the damage about 2 km from the nearest component, the St. Yuri ensemble. The State Party's 2024 report, as summarised by UNESCO, says a missile damaged the historic residential complex at 50-76b Stryyska Street on 6 July 2023 and that monuments in the buffer zone were destroyed.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_09",
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2023-09-15",
+      "title": "L'viv placed on the List of World Heritage in Danger",
+      "description": "UNESCO announced on 15 September 2023 that the Committee had inscribed L'viv, together with Kyiv's Saint Sophia Cathedral and Related Monastic Buildings and Lavra of Kyiv-Pechersk, on the List of World Heritage in Danger. In Decision 45 COM 7B.60 the Committee considered that optimal conditions were no longer met to fully protect the property's Outstanding Universal Value and that it faces potential danger from the war, and requested a Desired state of conservation for removal from the Danger List and an updated report by 1 February 2024.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08",
+        "src_05",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.5 retains L'viv on the Danger List; hotel project halt requested",
+      "description": "The Committee retained the property on the Danger List, noted potential threats from the war, and expressed concern about a hotel project at 9 Adam Mickiewicz Square within the property, requesting an immediate halt to construction and a redesign. The State Party's report (31 January 2024), as summarised by UNESCO, said a court case overturned the stop order on the project. The Committee requested an updated report by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Further attacks damage buildings in the buffer zone (January and September)",
+      "description": "UNESCO's summaries of the State Party's reports for 2025 and 2026 refer to sites damaged in attacks in January and September 2024; the 2026 summary also mentions residential buildings in the buffer zone damaged by shelling. The summaries give no further detail, and the details were not retrieved from other sources in this pass.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_12",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.25 retains L'viv on the Danger List",
+      "description": "The Committee expressed utmost concern at the increasing potential threats facing the property in relation to the ongoing war, retained it on the Danger List, expressed concern about the Mickiewicz Square hotel project, requested submission of the Historical and Architectural Reference Plan of Lviv for ICOMOS review and a joint World Heritage Centre/ICOMOS Reactive Monitoring mission, and requested an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Strikes hit buildings in the Bernardine Monastery area inside the property",
+      "description": "UNESCO said on 25 March 2026 that it was deeply alarmed by the 24 March strikes, which hit a building near the Bernardine Monastery within the World Heritage property, and noted that all parties must safeguard heritage. UNESCO's statement did not name a party. Ukrainian officials and media attributed the attack to Russian drones, and press reported fire at a residential building next to the monastery and St Andrew's Church; injury figures differed between early reports (the city's mayor was reported as giving at least 27).",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10",
+        "src_15",
+        "src_17",
+        "src_18",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Initial inspection of Bernardine Monastery damage reported",
+      "description": "Ukrainska Pravda reported, citing a Lviv City Council official, that four of the church's 16 stained-glass windows were shattered, the 1734 bell tower was damaged, eight windows of the archive building were shattered, and a residential building's roof and ceilings were destroyed and the building declared unsafe. Windows were being boarded up and a repair plan had not yet been published.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Early stabilisation steps reported (single outlet, context only)",
+      "description": "A single outlet reported that initial rubble clearance was complete, protective structures were being placed over stained-glass windows and officials were compiling records of the destruction so international partners could take part in restoration. The report did not state a funding source. Retained as context only; it carries a reliability note and does not support the status.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_20"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.31 retains L'viv on the Danger List",
+      "description": "The Committee, in a decision that refers to the 24 March 2026 attack, expressed grave concern about damage to several historic buildings in the Bernardine Monastery Complex, utmost concern at intensifying threats, and reiterated its call on the Russian Federation to refrain from damaging the property. It commended the State Party's protective, monitoring, emergency and restoration measures, regretted that the Mickiewicz Square hotel was completed without prior notification despite its request to halt construction, welcomed an invitation for a joint World Heritage Centre/ICOMOS Reactive Monitoring mission in November-December 2026, requested an updated report by 1 February 2027, and retained the property on the Danger List. The exact decision date was not captured; it post-dates 24 March 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "L'viv – the Ensemble of the Historic Centre",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/865/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_01",
+      "title": "L'viv – the Ensemble of the Historic Centre: maps and geographical data",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/865/maps",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.31: L'viv – the Ensemble of the Historic Centre (Ukraine)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9020",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.25: L'viv – the Ensemble of the Historic Centre (Ukraine)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8692",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.5: L'viv – the Ensemble of the Historic Centre (Ukraine)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8474",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7B.60: L'viv – the Ensemble of the Historic Centre (Ukraine)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8334",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_06",
+      "title": "State of Conservation: L'viv – the Ensemble of the Historic Centre (2023) and Decision 45 COM 7B.60",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4382",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation: L'viv – the Ensemble of the Historic Centre (2024) and Decision 46 COM 7A.5",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4528",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Ukraine: UNESCO sites of Kyiv and L'viv are inscribed on the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2608",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023-09-15",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_09",
+      "title": "L'viv: UNESCO condemns the attack in the buffer zone of the World Heritage site",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2884",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023-07-06",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_10",
+      "title": "UNESCO alarmed by strikes on Lviv World Heritage Site",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2883",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026-03-25",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Summary of the State of Conservation report by the State Party (2026), L'viv",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/224733",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "UNESCO's summary of a State Party (Ukrainian authorities) report, so the figures are the State Party's own, not independently verified by UNESCO in this document.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Summary of the State of Conservation report by the State Party (2025), L'viv",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/219187",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "UNESCO's summary of a State Party (Ukrainian authorities) report; the statements are the State Party's own.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_13",
+      "title": "L'viv – the Ensemble of the Historic Centre: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/865/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_14",
+      "title": "L'viv – the Ensemble of the Historic Centre: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/865/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_15",
+      "title": "What we know about UNESCO heritage site damaged by Russian strike on central Lviv",
+      "publisher": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/03/24/8027000",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Early same-day report relying largely on Lviv Oblast and national officials (parties to the conflict); extent of damage was still being assessed when published.",
+      "published_date": "2026-03-24",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Inspection of damage to Lviv's Bernardine Monastery completed after Russian strike",
+      "publisher": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/03/26/8027285",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Damage figures are as reported by a Lviv City Council official; not independently verified in this pass.",
+      "published_date": "2026-03-26",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Ukrainian monastery in UNESCO-listed site damaged by Russian drone strikes",
+      "publisher": "Dezeen",
+      "url": "https://www.dezeen.com/2026/03/26/bernardine-monastery-unesco-lviv-ukraine-russian-strikes/amp/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-03-26",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Unesco-protected monastery in Lviv damaged by Russian drone strike",
+      "publisher": "The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2026/03/25/unesco-protected-monastery-lviv-damaged-russian-drone-strike",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-03-25",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_19",
+      "title": "In Photos: Lviv Endures Russian Strikes on its Historic Cultural Heritage",
+      "publisher": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/72525",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-03-24",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_20",
+      "title": "The recovery of the heart of Lviv following the drone attack",
+      "publisher": "The Public (thepublic.info)",
+      "url": "https://thepublic.info/en/news/vidnovlennia_sercia_lvova_pislia_ataki_droniv",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single-outlet report whose editorial standards were not independently verified in this research pass; used only as context for early repair steps and not as sole support for any status-determining claim.",
+      "published_date": "2026-03-28",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Construction and Structural Specificities of Wartime Restoration of Early 20th-Century Heritage Buildings in Lviv",
+      "publisher": "International Journal of Conservation Science (Bokalo, Kaplinska, Pohranychna, Cherkes, Wysznacki)",
+      "url": "https://ijcs.ro/public/IJCS-26-03-16_Bokalo.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Studies two Lviv residential buildings damaged by missile strikes; the article does not explicitly frame them as inside the World Heritage property, so it is used for scholarly-documentation and general context only.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-12"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-12",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; Moderate Concern ruled out by the Danger List trigger, and Critical Concern considered and not met (see decision_trigger). Not yet reviewed or approved. KNOWN GAPS: (1) UNESCO's 2026 and 2025 State of Conservation pages (whc.unesco.org/en/soc/4976 and /soc/4781) returned fetch errors and were not read; the 2026 and 2025 State Party report documents were read only as UNESCO summaries (documents 224733 and 219187), and the Secretariat's assessments were not read. (2) The exact date of the 2026 Committee session was not captured (decision 48 COM 7A.31 post-dates the 24 March 2026 attack); the 2023 Committee session date was taken from UNESCO's 15 September 2023 news item. (3) UNESCO's main property page gives no coordinates; they come from the UNESCO maps page for component 865-001. Wikipedia could not be fetched and was not used. (4) The repair status of the March 2026 damage after 28 March 2026 was not found; searches for later strikes on the historic centre (August-October 2026) returned only March 2026 coverage, but this is not an exhaustive check. (5) January and September 2024 attacks are known only from UNESCO's summaries of State Party reports; details and the July 2023 Stryiska Street damage beyond UNESCO's wording were not independently sourced. (6) Casualty figures for March 2026 differed across early reports and were not reconciled; the dossier does not rely on them. (7) 3D scanning (13 monuments in 2024; more than 40 objects digitised) and virtual-tour items are reported but not verified as publicly viewable, so they are not counted in the Digital Preservation Index; Google Arts & Culture's story page could not be opened. (8) Natural-disaster and environmental/climate threat categories were not researched in depth; none was encountered in the sources read, but this is not a documented 'checked and clear' finding. (9) The Historical and Architectural Reference Plan and the ICOMOS review were not read. (10) Images field intentionally omitted (handled separately). VERIFIER (2026-10-12): fetched and checked UNESCO decisions 45-48, SoC 2023/2024, news items, State Party summaries, documents/gallery/maps pages and the press and academic sources. Fixes: removed unsupported 'rare daytime attack' and 'safer city' claims (not in any fetched article); corrected 2025 summary wording (it does not say buffer zone); 50-76b Stryyska 'destroyed' -> 'damaged'; gallery size corrected (at least 13, not roughly 18; credits only seen for page 1); removed 'volunteers 2023-24' year range and unverified 'UNESCO supported training' claim; mission wording; src_20 wording; noted 120 ha vs 142+8 ha discrepancy; downgraded academic_scholarly DPI category (article does not mention World Heritage property) leaving tier moderate on 2 categories. Not verified: UNESCO SoC 2025/2026 pages, ICOMOS review, gallery page 2 credits, Google Arts & Culture.",
+      "changed_by": "claude"
+    }
+  ]
+}

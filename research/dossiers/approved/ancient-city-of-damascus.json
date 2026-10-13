@@ -1,0 +1,537 @@
+{
+  "slug": "ancient-city-of-damascus",
+  "name": "Ancient City of Damascus",
+  "alternate_names": [
+    "Old City of Damascus",
+    "Old Damascus",
+    "Damascus"
+  ],
+  "country": "Syria",
+  "region": "Middle East (Levant)",
+  "coordinates": {
+    "lat": 33.5108,
+    "lng": 36.3097
+  },
+  "coordinate_note": "Converted from the coordinates on UNESCO's property page (N33 30 39, E36 18 35). The inscribed property is a walled old city of about 86 ha, not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "20",
+  "inscription_year": 1979,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Damascus is described by UNESCO as one of the oldest continually inhabited cities in the world, founded in the 3rd millennium BC, with evidence of Hellenistic, Roman, Byzantine and Islamic civilisations. As the capital of the Umayyad caliphate it became a model for later Arab cities, and its 8th-century Great Mosque of the Umayyads is a masterpiece of Umayyad architecture. UNESCO cites about 125 protected monuments within the walls, including the Citadel, madrasas, khans and private houses. It is inscribed under criteria (i), (ii), (iii), (iv) and (vi).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The Committee inscribed Damascus on the Danger List in 2013, alongside Syria's five other properties, because of the conflict. A UNITAR-UNOSAT assessment using imagery to November 2014 reported conflict damage in Damascus (its text gives 15 sites with sustained damage, mostly moderate and some severe; scope and counts are not fully consistent). In 2016 the Committee urged all parties not to use cultural property such as the Suleymaniye and Umayyad Mosque minarets for military purposes, and in 2023 it again urged all parties to refrain from further damage. On current conditions, the 2026 decision (48 COM 7A.15) does not report active hostilities at the property: it records that the urban fabric retains its coherence and living character, that a Reactive Monitoring mission visited in October 2025, and that key conflict-damaged attributes (Great Mosque, Citadel, northeastern walls, Ottoman Bank) have been effectively restored. The Art Newspaper reported that the Institute of Archeology in the Damascus Citadel was reportedly looted and set on fire in the turmoil after the fall of the Assad government. Al Jazeera reported bomb attacks in central Damascus in July 2026 (a cafe near the Justice Palace and two blasts near a hotel); the article does not mention the Old City, and no source read places fighting at the property. Overall the conflict threat is documented historically and as an ongoing security backdrop, but no source read shows active combat at or adjacent to the property.",
+      "first_identified_date": null,
+      "date_note": "UNESCO's Danger List inscription (2013) is the earliest dated Committee action in this dossier; the exact start of conflict damage to the property was not established from the sources read.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_06",
+        "src_10",
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Fire and infrastructure risk, planning and development control, and management-planning gaps are the main documented pressures. A fire in al-Asrooniya in 2016 extensively damaged the Ottoman Bank (probably electrical in origin, per an official quoted by UNESCO). The 2023 decision welcomed work on mitigating risks linked to electricity and sewage infrastructure in priority areas, and the 2026 decision commends fire, electrical and sewage risk mitigation, noting large-scale works undertaken in priority areas. The Committee repeatedly raised the conversion of Khan Suleiman Pasha into a five-star hotel: in 2024 it regretted that the project was not submitted for review before works commenced, and in 2025 it regretted that works proceeded without a Heritage Impact Assessment being submitted for ICOMOS review. In 2024 it asked for a draft integrated preservation and development plan to be sent for Advisory Body review, in 2023 and 2024 it encouraged funding for a Management Plan, and in 2026 it asked Syria to prioritise a new Master Plan and a disaster risk management plan, and to report by 1 February 2027. UNESCO's 2009 integrity statement notes vulnerability to erosion from a lack of traditional approaches to maintenance and conservation, and its 2009 authenticity statement notes commercial and semi-industrial activities spreading into the residential area of the walled city. A 2023 heritage-house fire in Sarouja (not established to be inside the property) is context on regional fire risk only. The Committee's 2026 assessment is, on balance, positive on restoration of key attributes, so these are chronic, actively managed pressures with corrective measures still incomplete.",
+      "first_identified_date": null,
+      "date_note": "Chronic management and fire-risk concerns documented over successive Committee cycles; no single start date established from the sources read. The earliest dated incident in this dossier is the April 2016 al-Asrooniya fire.",
+      "source_ids": [
+        "src_00",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_14",
+        "src_15"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: not met. (1) The sources read show no severe damage that currently materially affects the property's survival, integrity or accessibility: the 2026 Committee decision (48 COM 7A.15) records that the urban fabric retains its coherence, visual integrity and living character and commends effective restoration of the Great Mosque, Citadel, northeastern city walls and Ottoman Bank. (2) No source read places active combat at or immediately adjacent to the property; July 2026 bombings reported by Al Jazeera were elsewhere in central Damascus and the article does not mention the Old City. (3) The site is not inaccessible: a joint World Heritage Centre/ICOMOS Reactive Monitoring mission visited in October 2025 and the State Party reports annually. (4) Protection and monitoring have not collapsed; the Committee commends progress in re-establishing the protection and management system. High Concern trigger matched: official inscription on UNESCO's List of World Heritage in Danger for substantive reasons, since 2013 and retained by Decision 48 COM 7A.15 (2026), because corrective measures toward the Desired state of conservation for removal (including the new Master Plan and a disaster risk management plan) are not yet complete. Other High triggers were considered: no specific damaging event in roughly the last five years was found corroborated by two independent sources as still unrepaired; the December 2024 report of looting and fire at the Citadel's Institute of Archeology is single-source and extent unknown; no stated near-term timeframe for severe harm. CLOSE CALL: the neighbouring status is Moderate Concern. The only High trigger matched is the Danger List listing, while the Committee's recent language is notably positive (restoration effective, integrity retained, growing resident population). A reviewer could argue present conditions resemble Moderate, but the methodology treats a substantive Danger List inscription as a High trigger, so it is applied here.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Damascus was inscribed on the Danger List in 2013 because of the Syrian conflict, and UNOSAT satellite analysis recorded conflict damage in the city by 2014, but the damage was, on the evidence read, far less extensive than at some other Syrian properties and the Committee's 2026 decision reports effective restoration of key damaged attributes. The present picture is therefore one of a living, inhabited, largely intact historic city in recovery, still formally in danger. Current pressures documented by UNESCO are chronic and managed rather than acute: fire, electrical and sewage risks (with large-scale mitigation works reported in priority areas), development control (the Khan Suleiman Pasha hotel conversion proceeded without a Heritage Impact Assessment being submitted for ICOMOS review), and an outstanding Master Plan and disaster risk management plan. The wider security situation in Damascus remains volatile (bomb attacks in July 2026 reported elsewhere in the city) and a Citadel institute was reportedly looted and burned in the December 2024 upheaval, but no source read documents fighting at the property. The UAE announcement (May 2026) of Umayyad Mosque rehabilitation is recorded only as an announcement. Confidence is Supported rather than Confirmed: the Danger List status and the Committee's findings are directly confirmed by UNESCO decisions, but the October 2025 mission report and the 2026 State Party report could not be read, the 2026 decision relies partly on State Party reporting, and the Moderate/High call is a judgment on how to weigh a positive trajectory against a formal Danger List listing. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_08",
+        "src_10",
+        "src_11",
+        "src_12"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-12",
+      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier extensive accepted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). Coverage is uneven: the 3D work found concentrates on the Umayyad Mosque (courtyard survey) and one madrasa (Madrasa al-Jaqmaqia), not the whole 86 ha city; Project Anqa describes seven sites in Damascus but the text read names only the madrasa; SHAP's Damascus holdings were not enumerated; and no virtual tour (360-degree or Street View style) was found, so the virtual-tour category is marked false. A reviewer may wish to consider whether this building-level coverage should temper the tier toward moderate.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a public photo gallery for the property (several pages of images, including the Great Mosque of the Umayyads and views of the city credited to UNESCO and other photographers).",
+        "url": "https://whc.unesco.org/en/list/20/gallery/",
+        "source_id": "src_09"
+      },
+      {
+        "category": "archival_records",
+        "description": "Rmn-Grand Palais's Google Arts & Culture story on the Umayyad Mosque presents archival material including an 1843 view, a 1911 interior photograph and a 1929 survey drawing of the mosaics.",
+        "url": "https://artsandculture.google.com/story/owUhDrQL2PCxIQ?hl=en",
+        "source_id": "src_21"
+      },
+      {
+        "category": "archival_records",
+        "description": "The Syrian Heritage Archive Project (Museum fuer Islamische Kunst, Berlin, with the German Archaeological Institute) digitises photographs, plans, maps and reports on Syrian heritage; the page reports over 300,000 items received and more than 150,000 digitised items available without registration. Damascus-specific holdings are not enumerated on the page.",
+        "url": "https://www.smb.museum/en/museums-institutions/museum-fuer-islamische-kunst/collection-research/research-cooperation/syrian-heritage-initiative/syrian-heritage-archive-project/",
+        "source_id": "src_19"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "The French Ministry of Culture's archaeology site publishes a 3D image of the Umayyad Mosque courtyard from a photogrammetry-based survey by Iconem and Syria's DGAM.",
+        "url": "https://archeologie.culture.gouv.fr/mosquee-omeyyades/en/mediatheque/umayyad-mosque",
+        "source_id": "src_18"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "CyArk's story on the Madrasa al-Jaqmaqia (Project Anqa) says LiDAR scans and photographs were combined into 3D models and links to a 3D model of the madrasa.",
+        "url": "https://artsandculture.google.com/story/1wXBKvsIedtHkQ",
+        "source_id": "src_16"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Hyperallergic reported in March 2016 that Iconem and DGAM launched a 3D database of threatened Syrian sites with the Umayyad Mosque among the first three available, and further Damascus sites planned.",
+        "url": "https://hyperallergic.com/a-3d-database-of-threatened-syrian-heritage-sites",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed conference paper (ISPRS Annals, 2019) on Project Anqa, which documented seven at-risk heritage sites in Damascus with photographs, laser-scan data and audio interviews and presents them through a web application with open-access data.",
+        "url": "https://isprs-annals.copernicus.org/articles/IV-2-W6/31/2019/",
+        "source_id": "src_17"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1979",
+      "title": "Ancient City of Damascus inscribed on the World Heritage List",
+      "description": "UNESCO's property page records inscription in 1979 under criteria (i), (ii), (iii), (iv) and (vi), with a minor boundary modification inscribed in 2011.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2013",
+      "title": "Damascus and five other Syrian properties inscribed on the List of World Heritage in Danger",
+      "description": "In Decision 37 COM 7B.57 the World Heritage Committee expressed serious alarm at the damage and threats facing Syria's six World Heritage properties, considered that optimal conditions to protect their Outstanding Universal Value were no longer present, and inscribed them, including the Ancient City of Damascus, on the Danger List. The property page states the Danger List inscription runs from 2013 to the present.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2014",
+      "title": "UNOSAT satellite assessment of damage in Damascus",
+      "description": "UNITAR-UNOSAT analysed satellite imagery (acquired 4 June 2010, 27 August 2014 and 3 November 2014) covering 261 key buildings and locations within the property, including the Citadel, walls, gates, historic buildings and religious buildings. For Damascus the report text gives 15 sites with sustained damage, mostly moderate and some severe, and 12 more reported damaged or possibly damaged but not confirmed by imagery; it notes that three quarters of damaged or potentially damaged sites are in or near the Old City. The PDF is undated and its counts are not fully consistent, so the year shown reflects the latest imagery date, not a publication date.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2016",
+      "title": "Fire in al-Asrooniya neighbourhood damages the Ottoman Bank",
+      "description": "UNESCO reported that a fire in April in the al-Asrooniya commercial area, between the Citadel and the Great Mosque, was eventually contained but left the Ottoman Bank extensively damaged. The official quoted by UNESCO (the Director-General of the Old City) said the fire was probably caused by an electrical short circuit and worsened by flammable materials. In Decision 40 COM 7A.18 the Committee expressed deep concern at the conflict damage and the fire, and asked Syria for a detailed report on the damage.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_07",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2016-11-14",
+      "title": "UNESCO first aid support meeting for Damascus held in Beirut",
+      "description": "UNESCO reported a first aid support meeting on 14-15 November 2016 at UNESCO Office Beirut, held as part of its Emergency Safeguarding of the Syrian Cultural Heritage project. A World Heritage Centre delegation met officials from the Directorate-General of Antiquities and Museums, the Governorate of Damascus, the Ministry of Tourism and other experts to discuss reconstruction strategies after the fire. Conclusions included comprehensive coordination among managing parties, an integrated management plan with thorough documentation, and use of traditional materials.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2023-07-16",
+      "title": "Fire destroys heritage houses in Sarouja, Damascus",
+      "description": "AFP, as republished by LBC, reported that a fire destroyed the 19th-century Youssef house in the Sarouja area of central Damascus and slightly damaged the adjacent former al-Azm residence; the cause was unknown. An MEI analysis dates the fire to 16 July 2023 and lists other heritage buildings affected. Neither source states whether Sarouja lies inside the walled property, so this is recorded as context on fire risk in historic Damascus, not as damage to the inscribed property.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_15",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7A.42 retains Damascus on the Danger List",
+      "description": "At its extended 45th session the Committee took note of restoration works including major repair of the city wall between Bab Touma and Bab al-Salam and the adaptation of Khan Suleiman Pasha into a five-star hotel (asking for further information), welcomed work on mitigating risks linked to electricity and sewage infrastructure in priority areas, commended progress on corrective measures, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7A.29 retains Damascus on the Danger List",
+      "description": "The Committee welcomed recovery planning and the formation of a committee to develop a Master Plan, regretted that the Khan Suleiman Pasha project was not submitted for review before works began, commended progress on corrective measures, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024-12",
+      "title": "Citadel institute reportedly looted and set on fire during the political upheaval",
+      "description": "The Art Newspaper (31 January 2025) reported that the Institute of Archeology in the Damascus Citadel was reportedly looted and set on fire during the turmoil after the fall of the Assad government, and that an inspection after reports of attempted looting at the Damascus Museum found no vandalism or theft. Single-source and described as reported; extent of damage and any link to the inscribed property's fabric are not documented in the sources read.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7A.50 retains Damascus on the Danger List",
+      "description": "The Committee asked for full documentation of progress on corrective measures, regretted that conversion of Khan Suleiman Pasha into a five-star hotel proceeded without a Heritage Impact Assessment being submitted for ICOMOS review, welcomed Syria's invitation for a joint World Heritage Centre/ICOMOS Reactive Monitoring mission as soon as feasible, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2025-10",
+      "title": "Joint World Heritage Centre/ICOMOS Reactive Monitoring mission visits Damascus",
+      "description": "UNESCO's documents page lists a mission report for a joint Reactive Monitoring mission dated 18-19 and 24 October 2025. The mission report itself was not read; its observations are known only as summarised in Decision 48 COM 7A.15.",
+      "event_type": "other",
+      "source_ids": [
+        "src_08",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "title": "UAE announces restoration of the Umayyad Mosque",
+      "description": "Khaleej Times, reproducing a WAM report, said the UAE announced restoration of the Umayyad Mosque, covering structural and architectural rehabilitation and wider revitalisation of the surrounding historic area, during a visit by a UAE minister. No funding, timetable or description of the mosque's condition was given; this records an announcement, not completed work.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.15 retains Damascus on the Danger List",
+      "description": "The Committee, noting the October 2025 mission, acknowledged that the urban fabric has retained its urban coherence, visual integrity and living character, and commended effective restoration of key attributes damaged during the conflict (the Great Mosque, the Citadel, the northeastern section of the city walls and the Ottoman Bank), plus risk-mitigation works on fire hazards, electrical systems and sewage. It asked Syria to prioritise a new Master Plan and a disaster risk management plan, to report by 1 February 2027, and decided to retain the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Ancient City of Damascus",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/20/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 37 COM 7B.57: World Heritage properties of Syria",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/5069",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2013",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 40 COM 7A.18: Ancient City of Damascus (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6633",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 45 COM 7A.42: Ancient City of Damascus (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8202",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.29: Ancient City of Damascus (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8498",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 47 COM 7A.50: Ancient City of Damascus (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8717",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 48 COM 7A.15: Ancient City of Damascus (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9006",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "UNESCO meeting considers protection of Ancient City of Damascus following fire",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1593/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016-11-24",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Ancient City of Damascus: Documents (decisions, mission reports, state of conservation reports)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/20/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Used only as a listing: it shows that a joint World Heritage Centre/ICOMOS Reactive Monitoring mission report dated October 2025 exists, but the report itself (a PDF) could not be read in this pass.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Ancient City of Damascus: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/20/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Damascus (satellite-based damage assessment of the Ancient City of Damascus)",
+      "publisher": "UNITAR-UNOSAT",
+      "url": "https://unosat.web.cern.ch/unitar/downloads/chs/Damascus.pdf",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "The PDF carries no publication date (it uses imagery from 4 June 2010, 27 August 2014 and 3 November 2014), and its damage figures are not fully consistent: the text and Figure 36 give different counts, and it is not entirely clear whether they cover the property or the wider city.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "After the collapse of the Assad regime, Syrians are working to preserve their country's heritage",
+      "publisher": "The Art Newspaper",
+      "url": "https://theartnewspaper.com/2025/01/31/after-the-collapse-of-the-assad-regime-syrians-are-working-to-preserve-their-countrys-heritage",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-01-31",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-07-10",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "UAE to restore historic Umayyad Mosque in Syria's Damascus (WAM report)",
+      "publisher": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/uae/restore-umayyad-mosque-syria-damascus",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports a UAE announcement; gives no funding figures, timetable, or description of the mosque's current condition. Evidences the announcement only, not any work done.",
+      "published_date": "2026-05-16",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Fires in Damascus: protecting Syria's homes and heritage from a failed and rapacious state",
+      "publisher": "Middle East Institute (Munqeth Othman Agha)",
+      "url": "https://mei.edu/ar/publication/fires-damascus-protecting-syrias-homes-and-heritage-failed-and-rapacious-state/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Analysis and advocacy piece by a single non-resident scholar, with strong political argument; used only for the date of the July 2023 Sarouja fire and as context on fire risk, not for the status rationale. The article does not state whether Sarouja lies inside the walled Old City.",
+      "published_date": "2023-10-03",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Fire destroys 19th-century heritage house in central Damascus (AFP report)",
+      "publisher": "LBC Group",
+      "url": "https://www.lbcgroup.tv/news/middleeastnews/713951/fire-destroys-19th-century-heritage-house-in-centr/en",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Republication of an AFP report; the article places the fire in the Sarouja area of central Damascus and does not say whether it is inside the Old City walls.",
+      "published_date": "2023-07-18",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Documenting the heart of Damascus, Syria (CyArk / Project Anqa story)",
+      "publisher": "Google Arts & Culture (CyArk)",
+      "url": "https://artsandculture.google.com/story/1wXBKvsIedtHkQ",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Undated story by CyArk; describes the Madrasa al-Jaqmaqia in detail and links to a 3D model of it. Other Damascus sites are not named in the text.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Project Anqa: Presenting the Built Heritage of Damascus, Syria Through Digitally-Assisted Storytelling",
+      "publisher": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (Brzezicki et al.)",
+      "url": "https://isprs-annals.copernicus.org/articles/IV-2-W6/31/2019/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2019-08-21",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Umayyad Mosque (media library, Iconem/DGAM photogrammetric survey)",
+      "publisher": "Archeologie.culture.gouv.fr (French Ministry of Culture)",
+      "url": "https://archeologie.culture.gouv.fr/mosquee-omeyyades/en/mediatheque/umayyad-mosque",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Syrian Heritage Archive Project (SHAP)",
+      "publisher": "Museum fuer Islamische Kunst, Staatliche Museen zu Berlin",
+      "url": "https://www.smb.museum/en/museums-institutions/museum-fuer-islamische-kunst/collection-research/research-cooperation/syrian-heritage-initiative/syrian-heritage-archive-project/",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "Page does not enumerate Damascus holdings; it shows a 2007 photo of the Great Mosque and says the archive covers almost all areas of Syria's architectural history and archaeology.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_20",
+      "title": "A 3D Database of Threatened Syrian Heritage Sites",
+      "publisher": "Hyperallergic",
+      "url": "https://hyperallergic.com/a-3d-database-of-threatened-syrian-heritage-sites",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2016-03-21",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_21",
+      "title": "The Umayyad Mosque of Damascus (story)",
+      "publisher": "Google Arts & Culture (Rmn-Grand Palais)",
+      "url": "https://artsandculture.google.com/story/owUhDrQL2PCxIQ?hl=en",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "Undated story by Rmn-Grand Palais; includes historic photographs and drawings and 2016 Iconem point-cloud and 3D restitution of the courtyard. No 360-degree or Street View content was found in it.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Moderate Concern flagged in decision_trigger (the Danger List trigger is matched while the Committee's 2026 language on restoration and integrity is positive). DPI proposed Extensive (4 of 5 categories) with uneven, building-level coverage flagged. Known gaps (not included because not verified): (1) UNESCO State of Conservation pages (whc.unesco.org/en/soc/...) returned a bot-check page ('Just a moment') and were not read, so the State Party's 2026 report and the Secretariat's assessment were not read; only Committee decisions were. (2) The joint World Heritage Centre/ICOMOS Reactive Monitoring mission report of October 2025 exists (listed on UNESCO's documents page) but its PDF could not be read; its findings are known only as summarised in Decision 48 COM 7A.15. (3) UNESCO news item 1038 on the 2013 Danger List inscription was not read, so the session month for 37 COM 7B.57 and for the 2023, 2024, 2025 and 2026 sessions is not stated beyond the year. (4) The UNOSAT Damascus PDF is undated and internally inconsistent in its counts; used only with that caveat. (5) The 2011 minor boundary modification rests on UNESCO's property page only; decision 35 COM 8B.51 was not read. (6) The December 2024 Citadel institute looting/fire is single-source (The Art Newspaper) and omitted from the status rationale beyond a hedged mention. (7) The July 2023 Sarouja fire is not established to be inside the property and is context only. (8) No natural_disaster or environmental_climate threat category is included: the sources read document a disaster risk management plan requirement but no specific hazard event or climate study for Damascus. (9) Sketchfab models by Iconem could not be opened and are not cited; no virtual tour was found. (10) The WAM original of the UAE announcement could not be read; the Khaleej Times copy was used. (11) Wikipedia/Wikidata were not used; metadata rests on UNESCO. Images omitted by design.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-12",
+      "change": "Re-check pass: attempted to re-open UNESCO Decision 48 COM 7A.15 and the property list page on 2026-10-12; both were blocked (proxy 403 / fetch permission not granted), so no source was re-read and accessed_date values remain 2026-10-11, the date each source was actually opened. Content, status (High Concern / Supported) and DPI tier are unchanged from the 2026-10-11 draft; 'as of now' is taken as 2026-10-12 with no newer evidence checked. | 2026-10-12 independent verification pass: read UNESCO property page and Decisions 37 COM 7B.57, 40 COM 7A.18, 45 COM 7A.42, 46 COM 7A.29, 47 COM 7A.50, 48 COM 7A.15, news item 1593, documents and gallery pages. Fixes: (a) 2025 decision wording corrected (it welcomed Syria's invitation to a Reactive Monitoring mission, it did not request one); (b) Nov 2016 Beirut meeting: ICCROM/ICOMOS are named only as project partners, not as attendees; attendees corrected; (c) 'fire hazards' and 'unsafe electrical systems' were attributed to 2023-2026 decisions but appear only in 2026 (fire, electrical, sewage); 2023 speaks of electricity and sewage infrastructure risks, and 'unsafe' is not in any decision; (d) 'repeatedly asked for an integrated management plan' narrowed to what 2023/2024 decisions say; (e) 2009 integrity vs authenticity statements attributed correctly; (f) 2013 decision wording softened to 'serious alarm'. NOT verified (fetch blocked or not permitted): UNOSAT PDF, Al Jazeera, The Art Newspaper, Khaleej Times, LBC, MEI, ISPRS, French Ministry 3D page, Hyperallergic, both Google Arts & Culture stories, SHAP page; their claims and the DPI categories other than photographic remain as drafted by the original author and unchecked.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-12",
+      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier extensive accepted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}

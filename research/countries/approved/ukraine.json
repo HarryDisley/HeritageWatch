@@ -115,7 +115,9 @@
     }
   ],
   "site_slugs": [
-    "historic-centre-of-odesa"
+    "historic-centre-of-odesa",
+    "kyiv-saint-sophia-and-kyiv-pechersk-lavra",
+    "lviv-historic-centre"
   ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
@@ -138,6 +140,11 @@
       "date": "2026-10-08",
       "change": "Approved by Harry Disley; copied to approved/ for import.",
       "changed_by": "Harry Disley (via claude)"
+    },
+    {
+      "date": "2026-10-12",
+      "changed_by": "claude-draft",
+      "change": "Added site_slugs for newly approved site profiles: kyiv-saint-sophia-and-kyiv-pechersk-lavra, lviv-historic-centre. No treaty data changed."
     }
   ]
 }

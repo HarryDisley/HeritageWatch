@@ -1,0 +1,463 @@
+{
+  "slug": "site-of-palmyra",
+  "name": "Site of Palmyra",
+  "alternate_names": [
+    "Palmyra",
+    "Tadmor"
+  ],
+  "country": "Syria",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 34.5542,
+    "lng": 38.2667
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N34 33 15, E38 16 0). The inscribed property covers an extensive archaeological area and oasis, not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "23",
+  "inscription_year": 1980,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Palmyra is an oasis in the Syrian desert north-east of Damascus, containing the ruins of a major ancient city. UNESCO describes it as a city that, in the 1st and 2nd centuries, blended Graeco-Roman techniques with local traditions and Persian influences. It was inscribed in 1980 under criteria (i), (ii) and (iv); a minor boundary modification was inscribed in 2017.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO's 2024 state of conservation report records that armed conflict since March 2011 has destroyed parts of the property. UNOSAT satellite analysis reported the destruction of the Baalshamin Temple (estimated 25-27 August 2015), the main Temple of Bel (reported 30 August 2015) and the Arch of Triumph (reported 5 October 2015), and in January 2017 reported near-total destruction of the Tetrapylon and severe damage to the Roman Amphitheatre stage backdrop. UNESCO's 2016 rapid assessment mission recorded that armed groups held the city from May 2015 to March 2016, and confirmed destruction of the Baal-Shamin cella, the Temple of Ba'al cella and surrounding columns, and the Triumphal Arch; satellite images indicated six funerary towers destroyed. That history is recorded in events[]. For present conditions: UNESCO's 2024 report lists mine clearance and safe access among the corrective measures still required, and in May 2025 the HALO Trust's Syria country director said Palmyra has not yet been surveyed, that he had not seen maps of the areas (which complicates surveying for landmines and unexploded ordnance), and that accidents are already occurring among returnees. The sources reviewed do not report fighting at or adjacent to the site in 2025-2026; the HALO director described post-war security in Syria as remarkably good while saying the next threat is hard to predict.",
+      "first_identified_date": "2011-03",
+      "date_note": "Month of the start of the armed conflict as stated in UNESCO's 2024 state of conservation report (conflict since March 2011); damage to the property is dated individually in events[].",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_11",
+        "src_03"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's 2024 state of conservation report describes the portico of the Temple of Bel and the Triumphal Arch as in perilous condition, serious weathering of many stone blocks, humidity as a current factor, reports of illegal excavations, development pressures cited in earlier reports (urban growth, a pipeline crossing the southern necropolis, an antenna on a hill, a hotel near the thermal springs; the report says cooperation has since been set up to control urban expansion, tourism development and traffic), and the long-standing absence of a Conservation Management Plan, with limited funding and staff slowing progress. In 2025 the Committee regretted that restoration of the Triumphal Arch had been halted and asked for documentation and a detailed plan before further work on the Theatre proscenium wall. In 2026 it expressed concern at damage assessments at the necropolises and the extent of illicit excavations, and asked for information on the planned restoration of the Palmyra National Museum before irreversible decisions are made. An AFP report of February 2025 quotes Syria's director general of antiquities and museums as saying that looters use heavy machinery and metal detectors, that he doubted guards could do their work to the fullest extent, and that excavations across very wide areas were destroying archaeological layers. The Committee also records progress: it recognised recovery efforts by authorities, international organisations and the local community, welcomed the 2026 Recovery and Reuse Master Plan as a significant step, and recognised the State Party's strategic framework for disaster risk reduction.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year conservation and management concerns recorded across successive Committee decisions; no single start date established from the sources reviewed.",
+      "source_ids": [
+        "src_04",
+        "src_02",
+        "src_01",
+        "src_10"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern: considered and not mechanically met, but this is a close call with Critical as the neighbouring status. (1) Severe damage: the destruction of major monuments in 2015-2017 is verified by UNESCO and UNOSAT, but under the current-versus-historical rule it counts toward the present status only insofar as it still materially affects the site; that is covered by the High trigger on substantially incomplete repair rather than the Critical damage trigger. (2) Active combat: the sources reviewed report no fighting at or adjacent to the site in 2025-2026. (3) Inaccessibility to monitoring for roughly six months or more: not established. The Committee has repeatedly asked for a joint World Heritage Centre/ICOMOS Reactive Monitoring mission (in 2024, 2025 and 2026), and the 2026 decision says it should be organised as soon as the situation allows; but the State Party invited the mission (welcomed by the Committee in 2025), the 2026 decision recognised recovery efforts by authorities and the local community, and an international conference on Palmyra was reported in late 2025. Whether any international expert has visited the property since 2016 was not established in this pass. (4) Collapse of protection or monitoring: not shown; the national antiquities directorate is reported active, though its director general doubted guards could work to the fullest extent given widespread digging. High Concern triggers matched: (a) the property is inscribed on the List of World Heritage in Danger (since 2013, retained in 2024, 2025 and 2026) for substantive reasons; (b) significant historical damage whose repair remains substantially incomplete, evidenced by the 2024 report (Temple of Bel portico and Triumphal Arch in perilous condition), the 2025 regret that Triumphal Arch restoration is halted, and the 2026 request for a Recovery and Reuse Master Plan road map; (c) a documented unresolved threat in illicit excavation and unmapped explosive hazards, with the Committee's corrective-measures timeframe running to the end of 2027.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of a World Heritage property that UNESCO has retained on the Danger List in 2024, 2025 and 2026, where the 2015-2017 destruction has not been repaired at the scale needed, where UNESCO's Committee in 2026 expressed concern about damage at the necropolises and the extent of illicit excavations, and where explosive hazards have not been formally surveyed according to the HALO Trust. Against that, the evidence also shows a changing situation: access has reportedly reopened since early 2025 (AFP), the Committee welcomed a Recovery and Reuse Master Plan in 2026 as a significant step, ALIPH and Syrian authorities have announced restoration plans focused on the museum and a pedestrian bridge, and the State Party invited a Reactive Monitoring mission (welcomed by the Committee in 2025). This is why the call is High rather than Critical: no active combat at the site was found, protection and monitoring have not collapsed, and recovery planning is under way. A reviewer could weigh the unverified current condition of the necropolises, the unsurveyed explosive hazards and the long-pending monitoring mission differently and argue for Critical. Confidence is Supported rather than Confirmed: the facts are corroborated by UNESCO decisions and independent reporting, but UNESCO's 2026 state of conservation report was not read, no independent post-2025 field assessment of the property was found, and the trajectory is open. Confidence does not alter the status.",
+      "effective_date": "2026-10-12",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_10",
+        "src_11",
+        "src_12"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). Coverage is uneven: the virtual tours are a digital reconstruction of the ancient city produced for broadcast and exhibition, not a record of the site's present condition; the 360-degree research platform is a proof of concept covering one visitor route and selected buildings; and the archival category rests on UNESCO's own reports rather than a dedicated digitised archive. No publicly viewable 3D model was verified: a 2016 ArchDaily article reported a photogrammetric model of the Temple of Bel by Iconem with a low-resolution version public on Sketchfab, but the model page could not be read in this pass, so 3D documentation is marked false rather than assumed. A reviewer may wish to consider whether this uneven coverage should temper the tier, or re-check the Iconem model.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (about 73 images across seven pages, credited to Francesco Bandarin and Ron Van Oers; the page does not describe the subjects of the images).",
+        "url": "https://whc.unesco.org/en/list/23/gallery/",
+        "source_id": "src_06"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO publishes a body of official documentary records for the property, including state of conservation reports and the report of its April 2016 rapid assessment mission, which records conditions after the occupation of the city.",
+        "url": "https://whc.unesco.org/document/142423",
+        "source_id": "src_05"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "The Staatliche Museen zu Berlin / Stiftung Preussischer Kulturbesitz describes a 360-degree and VR project (with ZDF/Terra X, 2019) offering tours of a digital reconstruction of ancient Palmyra, with online addresses given (palmyra.zdf.de and video platforms).",
+        "url": "https://www.smb.museum/en/whats-new/detail/experience-ancient-palmyra-in-360-and-in-3d/",
+        "source_id": "src_14"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Open-access peer-reviewed article (Built Heritage, 2024) presenting an online 360-degree platform that pairs archival and current images of Palmyra's monuments, as a proof of concept for one route and selected buildings.",
+        "url": "https://link.springer.com/article/10.1186/s43238-024-00126-3",
+        "source_id": "src_15"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "A 2021 scholarly chapter on Palmyrene funerary portraits draws on the Aarhus Palmyra Portrait Project database (which it describes as documenting over 3,000 sculptures) and other digital resources.",
+        "url": "https://edizionicafoscari.it/media/pdf/books/978-88-6969-518-6/978-88-6969-518-6-ch-04_yQCe8eT.pdf",
+        "source_id": "src_16"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013",
+      "title": "Palmyra inscribed on the List of World Heritage in Danger",
+      "description": "UNESCO's property page gives 2013 as the year the Site of Palmyra was inscribed on the List of World Heritage in Danger. It remains listed as in danger.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2015-05/2016-03",
+      "title": "Armed groups hold Palmyra",
+      "description": "UNESCO's 2016 rapid assessment report states that armed groups held Palmyra from May 2015 to March 2016, after which the military controlled the site with no civilian presence other than national antiquities directorate staff doing damage assessment and first-aid work.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2015-08-23",
+      "title": "Baalshamin Temple destroyed",
+      "description": "UNITAR-UNOSAT reported that explosives were reportedly detonated inside the Baalshamin Temple on 23 August 2015 and, comparing satellite images, estimated complete destruction between 25 and 27 August 2015. ASOR reported that satellite imagery verified the destruction. UNESCO's 2016 mission confirmed destruction of the temple cella.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_07",
+        "src_09",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2015-08-30",
+      "title": "Temple of Bel main structure destroyed",
+      "description": "UNITAR-UNOSAT reported the destruction of the Temple of Bel on 30 August 2015 and confirmed from satellite imagery that the main temple was destroyed. ASOR also reported that satellite imagery verified the destruction. UNESCO's 2016 mission confirmed destruction of the cella and surrounding columns. The UNOSAT report is inconsistent on the condition of the portico (see reliability note).",
+      "event_type": "damage",
+      "source_ids": [
+        "src_07",
+        "src_09",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2015-10-05",
+      "title": "Arch of Triumph destroyed",
+      "description": "UNITAR-UNOSAT reported the Arch of Triumph destroyed on 5 October 2015, with complete destruction shown in an image of 18 October 2015. UNESCO's 2016 mission confirmed its destruction.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_07",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2016-04",
+      "title": "UNESCO rapid assessment mission to Palmyra",
+      "description": "A UNESCO rapid assessment mission took place on 23-27 April 2016. It confirmed destruction of the Baal-Shamin and Ba'al temple cellae and the Triumphal Arch, reported severe structural damage to the museum building, and noted that the colonnaded street, Amphitheatre, Tetrapylon and Agora were then still standing. Mission members could not access the Valley of the Tombs, the necropolises or the Citadel.",
+      "event_type": "other",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2017-01-20",
+      "title": "UNOSAT reports new damage to Tetrapylon and Amphitheatre",
+      "description": "Analysing imagery of 26 December 2016 and 10 January 2017 at UNESCO's request, UNOSAT reported that nearly all of the Roman Tetrapylon was destroyed (two columns still standing) and that the stage backdrop of the Roman Amphitheatre was severely damaged. The release said the damage was likely caused by explosives.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7A.32 on Palmyra",
+      "description": "The Committee retained Palmyra on the Danger List, praised the documentation and impact analysis for the Triumphal Arch project as a model, noted the first phase of Theatre restoration, set a desired state of conservation for removal from the Danger List with corrective measures (including mine clearance and safe access) to be completed by the end of 2027, and repeated its call for a Reactive Monitoring mission.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025-02-10",
+      "title": "AFP reports reopening of Palmyra and widespread digging",
+      "description": "An AFP report described Syrians returning to Palmyra after the fall of the Assad government, and said military bases set up by the former government and its allies (including Russia and Iran) had effectively barred public access. It also reported, citing Syria's director general of antiquities and museums, that looters were using heavy machinery and metal detectors, that he doubted guards could do their work to the fullest extent, and that excavations across very wide areas were destroying archaeological layers.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2025-05-21",
+      "title": "HALO Trust reports unsurveyed explosive hazards at Palmyra",
+      "description": "Vatican News reported that the HALO Trust's Syria country director, who had just returned from Palmyra, said Palmyra has not yet been surveyed, that he had not seen maps of the areas (which makes surveying harder), and that accidents are already occurring among people returning.",
+      "event_type": "other",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7A.53 on Palmyra",
+      "description": "The Committee retained Palmyra on the Danger List, regretted that restoration of the Triumphal Arch had been halted, asked for a recovery master plan and a post-conflict rehabilitation and reconstruction Action Plan, and asked for a Reactive Monitoring mission as soon as possible and an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "title": "ALIPH announces programme for Syrian heritage",
+      "description": "Enab Baladi reported a new ALIPH programme for Syrian heritage with an initial two-year budget of USD 5 million, and that ALIPH and the national antiquities directorate expressed readiness to restore Palmyra, rehabilitate its museum and stabilise damaged artefacts.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2025-10/2025-11",
+      "title": "International conference on Palmyra held in Switzerland",
+      "description": "To Vima, relaying The Art Newspaper, reported on 6 November 2025 that UNESCO and ALIPH had organised a conference the previous week in Switzerland to design an action plan toward removal from the Danger List. ALIPH's executive director said work would focus on the museum, artefacts in the Damascus Museum and a pedestrian bridge, with initial work slated to start in January 2026.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.18 on Palmyra",
+      "description": "At its 48th session in Busan the Committee retained Palmyra on the Danger List, expressed concern at damage assessments at the necropolises and the extent of illicit excavations, welcomed a Recovery and Reuse Master Plan as a significant step, recognised the State Party's disaster risk reduction framework, asked for information on the planned restoration of the Palmyra National Museum, called for a joint World Heritage Centre/ICOMOS Reactive Monitoring mission as soon as the situation allows, and set reporting deadlines of 1 February 2027 (interim) and 1 February 2028.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Site of Palmyra",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/23/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.18: Site of Palmyra (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9009",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.53: Site of Palmyra (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8720",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.32: Site of Palmyra (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8501",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_04",
+      "title": "State of conservation report (46 COM, 2024): Site of Palmyra (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4555",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Report of the UNESCO Rapid Assessment Mission to the World Heritage 'Site of Palmyra', Syrian Arab Republic (mission 23-27 April 2016)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/142423",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Reference number not stated in the document as read; the report was finalised after the April 2016 mission (it cites a 4 May 2016 DGAM report and a June 2016 expert meeting). Describes conditions in 2016, not current conditions.",
+      "published_date": "2016",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Site of Palmyra: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/23/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Satellite-Based Damage Assessment of Cultural Heritage Sites: Iraq, Nepal, Syria and Yemen (Syria section)",
+      "publisher": "UNITAR-UNOSAT",
+      "url": "https://unitar.org/sites/default/files/media/file/CHS_Report_Syria_0.pdf",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Publication date not stated on the page read. The Syria section is internally inconsistent in places (for example, the Temple of Bel portico is described both as surviving and as severely damaged, and some image dates differ between text and captions); used here only for the dates and the fact of destruction, which are corroborated by the UNESCO 2016 mission report.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Cultural Treasures in Ancient City of Palmyra Destroyed",
+      "publisher": "UNITAR-UNOSAT",
+      "url": "https://unitar.org/about/news-stories/news/cultural-treasures-ancient-city-palmyra-destroyed",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2017-01-20",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Weekly Report 57-58 (2-15 September 2015)",
+      "publisher": "ASOR Cultural Heritage Initiatives (Safeguarding the Heritage of the Near East Initiative)",
+      "url": "https://www.asor.org/?p=52039",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "The report itself describes its findings as preliminary and drawn from varied sources that may include unverified material; used for satellite-verified destruction only.",
+      "published_date": "2015-09",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Syrians back to famed Palmyra ruins scarred by IS group (AFP report)",
+      "publisher": "Al-Monitor (republishing AFP)",
+      "url": "https://www.al-monitor.com/originals/2025/02/syrians-back-famed-palmyra-ruins-scarred",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-02-10",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Ten years on: the HALO Trust and Palmyra's potential future",
+      "publisher": "Vatican News",
+      "url": "https://www.vaticannews.va/en/world/news/2025-05/ten-years-on-the-halo-trust-and-palmyra-s-potential-future.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-05-21",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Palmyra's Rebirth: Global Plan to Restore Syria's Ancient City Takes Shape",
+      "publisher": "To Vima International Edition",
+      "url": "https://www.tovima.com/world/palmyras-rebirth-global-plan-to-restore-syrias-ancient-city-takes-shape",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Secondary report that attributes its information to The Art Newspaper; the original article was not read. Statements are attributed here to the named speakers as reported.",
+      "published_date": "2025-11-06",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_13",
+      "title": "$5 Million Program Launched to Safeguard Syrian Heritage",
+      "publisher": "Enab Baladi (English edition)",
+      "url": "https://english.enabbaladi.net/archives/2025/07/5-million-program-launched-to-safeguard-syrian-heritage/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Independent Syrian outlet; ALIPH's own announcement was not read. Used only for the existence of the programme and the stated readiness to restore Palmyra.",
+      "published_date": "2025-07-09",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Experience ancient Palmyra in 360 and in 3D",
+      "publisher": "Staatliche Museen zu Berlin (Stiftung Preussischer Kulturbesitz)",
+      "url": "https://www.smb.museum/en/whats-new/detail/experience-ancient-palmyra-in-360-and-in-3d/",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "Evidences the existence of the 360-degree tours and the online addresses given; the live tour pages themselves were not opened. The tours are a digital reconstruction, not a scan of the surviving site.",
+      "published_date": "2019-02-26",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Interactive 360 media for the dissemination of endangered world heritage sites: the ancient city of Palmyra in Syria (Dieb, Alsalloum and Webb)",
+      "publisher": "Built Heritage (SpringerOpen)",
+      "url": "https://link.springer.com/article/10.1186/s43238-024-00126-3",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2024-05-28",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Palmyrene Funerary Portraits: A 'Conflict Antiquities' Case (De Bernardin), in Stolen Heritage (Antichistica 29 | Archeologia 6)",
+      "publisher": "Edizioni Ca' Foscari",
+      "url": "https://edizionicafoscari.it/media/pdf/books/978-88-6969-518-6/978-88-6969-518-6-ch-04_yQCe8eT.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2021-03-31",
+      "accessed_date": "2026-10-12"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-12",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger and rationale. Known gaps (not included because not verified): (1) UNESCO's 2026 state of conservation report and the State Party's 2026 report were not located or read; only the Committee decisions (2024, 2025, 2026) and the 2024 state of conservation report were read. (2) Whether any international mission or expert has visited the property since the April 2016 rapid assessment was not established; the Reactive Monitoring mission is described by the Committee as still to be organised. (3) Current condition of the necropolises and the scale of illicit excavation are known only through the Committee's 2026 expression of concern and a February 2025 AFP report quoting the antiquities director; no damage assessment document was read. (4) The 2026 session month was not confirmed, so the 2026 decision is dated by year only. (5) 3D documentation marked false: a 2016 ArchDaily article reports an Iconem photogrammetric model of the Temple of Bel with a low-resolution public version on Sketchfab, but the model page returned no readable content, so it was not counted or cited. (6) The 2019 ZDF/SPK virtual tours were evidenced through the museum's description; the live tour pages were not opened. (7) The Arab News piece on explosive remnants and The Art Newspaper original were not read (access not granted). (8) 2015 deaths of individuals, the 2016-2017 changes of control of the city and Russian military presence, and the 2017 boundary modification were omitted from events[] as not adequately sourced in this pass beyond brief mentions. (9) UNESCO's own 2015-2017 damage assessments of the museum and necropolis tower tombs rest on ASOR (preliminary) and the 2016 mission; the UNOSAT Syria report is undated on the page read and internally inconsistent in places (see reliability notes). (10) Natural-disaster and environmental/climate categories were not included because no site-specific evidence was found beyond UNESCO listing humidity and weathering under conservation. Images omitted by design. Wording is deliberately neutral and attributes causes only as the cited sources state them. | Independent verification 2026-10-12: 13 wording fixes. UNESCO decisions 46/47/48 COM, 2024 SOC, property page, 2016 mission report, UNOSAT (both), ASOR, AFP/Al-Monitor, Vatican News, To Vima, Enab Baladi, SMB, Springer, Ca' Foscari, UNESCO gallery were all re-read. Corrected: AFP quote (guards 'doubted could work to the fullest extent'; 'destructive' referred to equipment, digging described as destroying layers); HALO 'unmapped' softened to 'had not seen maps'; 2016 mission 'only DGAM staff present' corrected to no civilian presence besides DGAM; 2024 development pressures marked as cited in earlier reports with cooperation since set up; 2026 decision no longer credited with welcoming the mission invitation (that was 2025) and 'commended/major step/welcomed' aligned to 'recognised/significant step'. Not verified: Iconem/Sketchfab model; live ZDF tour pages; date/month of 2025 and 2026 sessions (year-only dates; 2025 decision sits after July-dated items only by convention).",
+      "changed_by": "claude"
+    }
+  ]
+}

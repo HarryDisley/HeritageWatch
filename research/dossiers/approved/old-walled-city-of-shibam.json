@@ -1,0 +1,451 @@
+{
+  "slug": "old-walled-city-of-shibam",
+  "name": "Old Walled City of Shibam",
+  "alternate_names": [
+    "Shibam",
+    "Shibam Hadramaut",
+    "Manhattan of the Desert"
+  ],
+  "country": "Yemen",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 15.9269,
+    "lng": 48.6267
+  },
+  "coordinate_note": "Converted from the centre-point coordinates given on UNESCO's property page (N15 55 36.984, E48 37 36.012). The inscribed property is a walled city with its setting in Wadi Hadramaut, not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "192",
+  "inscription_year": 1982,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Shibam as a 16th-century walled city and one of the oldest and best examples of urban planning based on vertical construction, with sun-dried mud-brick tower houses of up to seven storeys rising from the edge of Wadi Hadramaut, earning the nickname 'the Manhattan of the desert'. It stood at a caravan halt on the spice and incense route and replaced an earlier settlement partly destroyed by a flood in 1532-3. It is inscribed under cultural criteria (iii), (iv) and (v).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee's 2024 decision (46 COM 7A.36) expressed continuing concern that the property's Outstanding Universal Value is vulnerable because of the deteriorating condition of historic buildings and continuing limited support and resources, and noted with concern that implementation of the Conservation Plan had been hindered, resulting in some building violations. The 2026 decision (48 COM 7A.22) notes that the Conservation Plan has not been updated (a local-level plan is to be prepared), cites development pressures and lack of awareness of the property's World Heritage status, again asks for full details of works at the Governmental Complex buildings, asks for boundary clarification and a minor boundary modification, and asks for a Heritage Impact Assessment and full details of a proposed asphalt road and paving works before work starts or any irreversible decision. The 2021 decision (44 COM 7A.27) regretted that the 'Shibam Oasis Development Project' was not referred to the World Heritage Centre and that it does not appear to have achieved its aims of dual irrigation, flood protection and agricultural diversity. Against this, repair is documented: the 2026 Committee commends progress on conservation of historic buildings, including the EU-funded 'Youth Employment through Culture and Heritage in Yemen' project and the ALIPH-funded 'Preserving the Unique Earthen Architecture of Shibam', and acknowledges UNESCO/Netherlands Funds-in-Trust support for reconstructing historic houses. ALIPH lists its 2025-2027 project at USD 1,568,977, covering up to 63 houses and three public buildings; an earlier ALIPH/GOPHCY-Shibam project restored 18 damaged buildings (ARC-WH, 2022). GOPHCY's Shibam branch reported that 35 mud buildings were restored between November 2020 and June 2021 (its own figure). UNESCO's property page (2011 text) said the urban fabric within the walls was 'largely undamaged and mostly in good condition', but that the city's decay had been driven by abandonment of the old flood-management system and overloaded sanitary systems with inadequate drainage. No consolidated count of damaged or unrepaired buildings was found in the sources read.",
+      "first_identified_date": null,
+      "date_note": "Documented as a chronic, long-standing concern across successive State of Conservation cycles; no single identifiable start date found in the sources reviewed.",
+      "source_ids": [
+        "src_00",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_11",
+        "src_12",
+        "src_13"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "UNESCO's property page records that the city was affected by a 'disastrous flood of October 2008' and describes flood as the most distressing potential threat. In August 2020 UNESCO regretted loss of life and property in Zabid, Shibam and Sana'a after exceptional extreme weather. The New Arab (2 November 2020, based on AFP and agency reporting) quoted a local official, Abdulwahab Jaber, saying at least four towers were completely destroyed and 15 others damaged in recent floods, and quoted the head of the national historic-cities authority saying roofs and exteriors of the mud towers suffered most; Africanews carried the same quotes. The Committee in 2019 and 2021 referred to the 'residual impact of previous flooding' and, in 2024, to extreme weather, as reasons the property remains vulnerable. ALIPH says conflict and heavy rains have damaged the buildings. The sources read give no 2025-2026 collapse or flood-damage figures, and the 2020 collapse numbers come from one local official.",
+      "first_identified_date": "2008-10",
+      "date_note": "Month of the flood described on UNESCO's property page; the flood threat itself is recurring. The specific figures for the 2020 floods are one official's statement.",
+      "source_ids": [
+        "src_00",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_12"
+      ]
+    },
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The Committee placed the property on the Danger List in 2015 (39 COM 7B.60) because, UNESCO's announcement said, it was under potential threat from the armed conflict, compounding safeguarding and management problems already seen there. In 2025 (47 COM 7A.57) and 2026 (48 COM 7A.22) the Committee said the property's Outstanding Universal Value remains vulnerable owing to the current conflict, and urged all parties to refrain from action that would damage Yemen's cultural heritage, citing the 1954 Hague Convention. The sources read do not document fighting at or damage to Shibam itself: the New Arab/AFP piece (2020) says Shibam escaped damage in the civil war, while noting residents could not restore buildings because of the war. Regional context: Anadolu reported on 2 January 2026 that coalition jets struck Southern Transitional Council forces in Hadramaut province, per Yemeni officials; the article does not mention Shibam or Wadi Hadramaut and no damage to the property is reported. No Reactive Monitoring mission has been possible; the Committee has repeated since 2019 that one is needed, in 2026 'as soon as the security situation allows'.",
+      "first_identified_date": "2015-07-02",
+      "date_note": "Date of the Committee's Danger List decision citing the armed conflict as a potential threat; no earlier dated conflict damage to the property was found.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_16"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "The Committee's 2025 and 2026 decisions name climate change, alongside the current conflict and development pressures, among the reasons the property's Outstanding Universal Value is vulnerable; the decisions as read do not quantify this. UNESCO's property page links the city's decay to abandonment of the traditional agricultural flood-management system in the wadi and to changes in water supply and drainage, and describes the surrounding spate-irrigated landscape as part of the property's value. The 2021 Committee decision regretted that the Shibam Oasis Development Project did not appear to protect Shibam from flooding as intended. The sources read contain no climate-attribution analysis specific to Shibam, so this entry rests on the Committee's wording.",
+      "first_identified_date": null,
+      "date_note": "Chronic and developing concern; the Committee names climate change in 2025 and 2026, and no single start date was found in the sources reviewed.",
+      "source_ids": [
+        "src_00",
+        "src_04",
+        "src_06",
+        "src_07"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. High triggers matched: (1) Official inscription on the List of World Heritage in Danger. UNESCO's property page shows the property on the Danger List from 2015 to the present, and the 2026 Committee (48 COM 7A.22) decided to retain it, citing the current conflict, climate change, development pressures and lack of awareness of its World Heritage status. The 2015 inscription gave substantive reasons (significant threats from natural elements, physical changes and lack of resources, plus potential threat from armed conflict). (2) The site sits in a country under active armed conflict, with Committee wording repeatedly urging parties to refrain from damaging cultural heritage, although no credible report of direct damage at Shibam from fighting was found. Critical Concern considered and not met: no fighting reported at or adjacent to the site in the sources read; the property is not wholly unverifiable (a national heritage authority branch, UNESCO-hosted reports, ALIPH and EU-funded projects and a 2022 ARC-WH visit operate locally, although the Committee's requested Reactive Monitoring mission has not been possible); protection has not been shown to have collapsed; and no source read documents severe, verified damage to a significant part of the city as of now. CLOSE CALL: the nearer neighbour is Moderate Concern, not Critical. The documented physical threats are chronic and monitored (rain and flood damage to mud-brick houses being repaired through funded projects, building violations, planning concerns), and 2011 UNESCO text described the urban fabric as largely undamaged. Moderate is not reached here because the Danger List trigger is satisfied mechanically and the 2026 decision still describes the property's value as vulnerable. A reviewer who weights the physical evidence over the listing would weigh Moderate; a reviewer who weights the 2020 reports of collapsed towers and the absence of a monitoring mission would weigh Critical, but the evidence for that is thin.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2008 flood and the reported 2020 flood damage are recorded in the timeline. The present picture, per the Committee's 2026 decision, is a property still on the Danger List and still described as vulnerable to the conflict, climate change and development pressures, with an outdated Conservation Plan, open questions on a Governmental Complex and a proposed asphalt road, and a request for a heritage impact assessment before works. Against that, the evidence shows real, funded repair work (EU-funded project phases commended in 2024, 2025 and 2026; ALIPH's USD 1,568,977 project for 2025-2027 covering up to 63 houses and three public buildings; 18 buildings restored under an earlier ALIPH partnership; the national authority's own report of 35 mud buildings restored in 2020-2021), a Committee that commends progress, and no documented fighting at the city. The Committee has also asked for work toward a Desired state of conservation for removal from the Danger List, which signals a process but not an imminent outcome. The main uncertainty is that the State of Conservation reports for 2023-2026 could not be read (UNESCO's pages returned a bot-check), no international monitoring mission has been possible, and the numbers of damaged and repaired buildings are unclear, so the present condition rests on Committee decisions, project descriptions and the State Party authority's own report. Confidence is Supported rather than Confirmed because the Danger List status and the Committee's concerns are corroborated by primary UNESCO decisions, but the scale of current physical damage is not independently verified. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_16"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-12",
+      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier moderate accepted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": false
+    },
+    "coverage_note": "Two of five categories have publicly findable evidence, which meets the moderate tier. The photographic evidence is a UNESCO gallery (two pages, with images credited to UNESCO, Editions Gelbart and an individual photographer), so it is institutional rather than a systematic survey. The archival evidence is UNESCO's documents page (Committee decisions from 1982 and State of Conservation reports and index pages from 1991 (State Party reports from 2015), plus the 1982 ICOMOS evaluation and mission reports of 1997 and 2009) and the GOPHCY Shibam branch's 2021 report (a separate UNESCO-hosted document); UNESCO's property page also states that GOPHCY documented 98% of the traditional housing, but that documentation itself was not found online. 3D documentation is marked false: GOPHCY's 2021 report says a 3D documentation project of at-risk monuments in Wadi Hadhramaut, funded by ALIPH and supervised by Iconem, ran from October 2020 to August 2021, but no publicly viewable Shibam model was found, and the CEFAS/Iconem project page read did not name Shibam. No virtual tour was found. No peer-reviewed study of Shibam was read; a 2014 short article by Rita Cofield (California Preservation Foundation) was found but is a professional-association piece and is not counted. A reviewer may wish to note that the existence of unseen records (the housing documentation and the Iconem work) could mean the public record understates what exists.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a public photo gallery for the property (two pages), credited to UNESCO, Editions Gelbart and a named photographer.",
+        "url": "https://whc.unesco.org/en/list/192/gallery/",
+        "source_id": "src_14"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists Committee decisions (1982 to 2026) and State of Conservation reports (State Party reports 2015 to 2026; index pages 1991 to 2026), the 1982 ICOMOS evaluation and mission reports (1997, 2009). The Shibam branch of GOPHCY's 2020-2021 state report is hosted on UNESCO's site as a separate document (whc.unesco.org/document/191652) but was not listed on the documents page read.",
+        "url": "https://whc.unesco.org/en/list/192/documents/",
+        "source_id": "src_15"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "NOT COUNTED toward the tier: GOPHCY's 2021 report says an ALIPH-funded, Iconem-supervised 3D documentation project of at-risk monuments in Wadi Hadhramaut ran from October 2020 to August 2021, but no publicly viewable Shibam model was found.",
+        "url": "https://whc.unesco.org/document/191652",
+        "source_id": "src_13"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1982",
+      "title": "Old Walled City of Shibam inscribed on the World Heritage List",
+      "description": "UNESCO's property page records inscription in 1982 under criteria (iii), (iv) and (v).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2008-10",
+      "title": "Disastrous flood affects the city",
+      "description": "UNESCO's property page (Integrity statement, 2011) says the old city was harmed in the 'disastrous flood of October 2008' and describes flood as the most distressing potential threat facing the city. Damage figures were not retrieved.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2015-07-02",
+      "title": "Property placed on the List of World Heritage in Danger",
+      "description": "At its 39th session the Committee decided (39 COM 7B.60) to inscribe the property on the Danger List, noting great concern at significant threats from natural elements, physical changes and a lack of organisational support and resources for conservation. UNESCO's announcement said the Committee considered the site under potential threat from armed conflict and that listing could help reinforce international mobilisation.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2020-08-11",
+      "title": "UNESCO statement on loss of life and property after extreme weather",
+      "description": "UNESCO said it profoundly regretted loss of life and property in historic centres in Yemen, including Zabid, Shibam and Sana'a, after exceptional extreme weather, and said it was mobilising funds and expertise, including an EU-funded cash-for-work project covering Aden, Sana'a, Shibam and Zabid. The statement does not give Shibam-specific damage figures.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2020-11-02",
+      "title": "Floods reportedly destroy towers and damage others",
+      "description": "The New Arab, drawing on AFP and agency reporting, quoted a local official as saying at least four towers were completely destroyed and 15 others damaged in recent floods, and the head of the national historic-cities authority as saying roofs and exteriors suffered most and residents could not restore them because of the war. The report says restoration of about 40 buildings costing $194,000 was under way with UNESCO. Figures are one official's account.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_09",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2022-08",
+      "title": "Emergency restoration of 18 damaged historic buildings reviewed on site",
+      "description": "The Regional Centre for the Protection of World Heritage in the Arab Region reported a visit assessing completion of a first partnership project with ALIPH and GOPHCY-Shibam, which funded emergency restoration of 18 damaged historic buildings by local associations using traditional techniques, including replastering and filling cracks to keep water out. A second ALIPH partnership, on rehabilitating the Old Market, was starting.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.36",
+      "description": "The Committee retained the property on the Danger List, expressed continuing concern about deteriorating historic buildings, extreme weather, conflict damage and limited resources, noted that implementation of the Conservation Plan had been hindered resulting in some building violations, reiterated the need for a Reactive Monitoring mission and asked for a report by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.57",
+      "description": "The Committee retained the property on the Danger List, cited the current conflict, climate change, development pressures and lack of awareness of World Heritage status, welcomed the proposed updating of the conservation plan, asked the State Party to begin remote work on a Desired state of conservation for removal from the Danger List (DSOCR), and asked for a report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "ALIPH project 'Preserving the unique earthen architecture of Shibam' listed for 2025 to 2027",
+      "description": "ALIPH lists the project as ongoing from 2025 to 2027 with funding of USD 1,568,977, covering rehabilitation of key buildings including three public buildings (one, the South Palace, to become an ethnographic museum) and repairs to up to 63 residential houses. Month of start not stated on the page read.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.22",
+      "description": "At its 48th session the Committee retained the property on the Danger List, cited the current conflict, climate change, development pressures and lack of awareness, noted the Conservation Plan has not been updated, requested a Heritage Impact Assessment for a proposed asphalt road and paving, reiterated the need for a Reactive Monitoring mission as soon as the security situation allows, and asked for a report by 1 February 2027.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Old Walled City of Shibam",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/192/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Yemen's Old City of Sana'a and Old Walled City of Shibam added to List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1310/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015-07-02",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 39 COM 7B.60: Old Walled City of Shibam (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6315",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 43 COM 7A.40: Old Walled City of Shibam (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7538",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 44 COM 7A.27: Old Walled City of Shibam (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7692",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 46 COM 7A.36: Old Walled City of Shibam (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8505",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 47 COM 7A.57: Old Walled City of Shibam (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8724",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 48 COM 7A.22: Old Walled City of Shibam (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9013",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "UNESCO Mobilizes Funds and Expertise to Safeguard Yemen's Cultural Heritage",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2150/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2020-08-11",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Yemen's ancient 'Manhattan of the Desert' risks collapse",
+      "publisher": "The New Arab",
+      "url": "https://www.newarab.com/news/yemens-ancient-manhattan-desert-risks-collapse",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Based on AFP and agency reporting per the page; the figures on collapsed towers are one local official's statement and were not independently verified.",
+      "published_date": "2020-11-02",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Yemen's ancient 'Manhattan of the Desert' risks collapse",
+      "publisher": "Africanews",
+      "url": "https://www.africanews.com/2020/11/02/yemen-s-ancient-manhattan-of-the-desert-risks-collapse",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The page read gave no byline or agency credit, and its date is taken from the URL; used only to corroborate src_09, which carries the same quotes.",
+      "published_date": "2020-11-02",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "ARC-WH conducts mission to Old Walled City of Shibam to supervise the implementation of its ALIPH project partnerships",
+      "publisher": "Regional Centre for the Protection of World Heritage in the Arab Region (ARC-WH)",
+      "url": "https://www.arcwh.org/?p=6029",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "ARC-WH describes its own project and mission; it is a UNESCO category 2 centre, but this is the implementer's own account, so it evidences the work done, not its overall adequacy.",
+      "published_date": "2022-08-06",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Preserving the unique earthen architecture of Shibam",
+      "publisher": "ALIPH Foundation",
+      "url": "https://www.aliph-foundation.org/en/projects/preserving-the-unique-earthen-architecture-of-shibam",
+      "source_type": "ngo",
+      "tier": 1,
+      "reliability_note": "ALIPH's own funder description of an ongoing 2025-2027 project; planned scope, not a record of completed work.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "A report on the state of the governorate of Shibam, Hadramout, Yemen (2020-2021)",
+      "publisher": "GOPHCY, Shibam Hadramout Branch (Yemen Ministry of Information, Culture and Tourism)",
+      "url": "https://whc.unesco.org/document/191652",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "A report by the national heritage authority's local branch, hosted on UNESCO's site; its project completion percentages are the authority's own statements and are not independently verified.",
+      "published_date": "2021-09",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Old Walled City of Shibam: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/192/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Old Walled City of Shibam: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/192/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Coalition fighter jets struck STC forces accused of setting up ambushes in Hadhramaut, Yemeni official says",
+      "publisher": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/coalition-fighter-jets-struck-stc-forces-accused-of-setting-up-ambushes-in-hadhramaut-yemeni-official/3787583",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Regional context only: the article names Hadramaut province but does not mention Shibam, Seiyun or Wadi Hadramaut.",
+      "published_date": "2026-01-02",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; Critical not close, Moderate considered as the nearer neighbour (see decision_trigger). DPI recommendation: moderate (2 of 5). Known gaps (not included because not verified): (1) UNESCO State of Conservation pages for 2023-2026 (e.g. whc.unesco.org/en/soc/4967, 4690, 4559) returned a Cloudflare 'Just a moment' bot-check page in the browser pane and were not bypassed, so the State Party reports and Secretariat assessments for those years were not read; only Committee decisions 39 COM 7B.60, 43 COM 7A.40, 44 COM 7A.27, 46 COM 7A.36, 47 COM 7A.57 and 48 COM 7A.22 and UNESCO news pages were read. (2) whc.unesco.org/document/224568 (a 2025-2026 report surfaced by search) returned no readable text and was not used. (3) Decisions 40-42 COM and 45 COM 7A.50 were not read. (4) No figures were found for the number of Shibam buildings damaged or still unrepaired, nor for 2025-2026 rain damage; the 2020 collapse figures rest on one local official as reported by the New Arab/AFP. The Africanews copy has no byline or date on the page. (5) No fighting or damage at Shibam itself was found; the Hadramaut events of late 2025 and January 2026 are cited only as regional context from one wire report that does not mention Shibam, and wider reporting on those events was not reviewed. (6) Whether any international monitoring mission has visited since 2015 was not confirmed beyond the Committee's repeated statements that a Reactive Monitoring mission is needed; a 2022 ARC-WH visit supervising ALIPH-funded work is documented. (7) The 2008 flood damage details were not retrieved (property page statement only). (8) No public 3D model, virtual tour or peer-reviewed Shibam study was found or cited; a Springer built-heritage review article surfaced in search but could not be fetched and was not used. (9) An EEAS page of 13 November 2025 mentions an EU delegation visit to Shibam but gives no specifics and was not cited. (10) Wikipedia and Wikidata were not used; metadata rests on UNESCO. Images omitted by design. VERIFIER R1 (2026-10-11): re-fetched all UNESCO pages, decisions, news items, ALIPH, ARC-WH, GOPHCY report, New Arab, Africanews, Anadolu and gallery; core claims, quotes, figures and attributions held. 3 small fixes: removed quotation marks around an unverified 2024 phrase ('extreme weather' now paraphrased); corrected the documents-page year ranges (decisions 1982-2026, SOC reports 1991-2026) and clarified that the GOPHCY 2020-2021 report is a separate UNESCO-hosted document not listed on that page. Notes: the 39 COM 7B.60 decision text itself does not mention armed conflict (only the UNESCO news item does), already attributed correctly; Africanews page shows no date or byline (already noted). Status and DPI tier left unchanged. VERIFIER R2 (2026-10-12): re-read UNESCO property page, decisions 39/43/44/46/47/48, news 1310 and 2150, ALIPH project page, GOPHCY report (document 191652), gallery and documents pages; claims held. 3 small fixes: 2008 flood event reworded to match the property page (removed 'authenticity' embellishment); documents-page ranges refined (State Party SOC reports 2015-2026, index 1991-2026, plus ICOMOS evaluation and 1997/2009 mission reports). NOT RE-VERIFIED in R2 (fetch errors or permission timeouts): New Arab and Africanews (towers/quotes, 40 buildings/$194,000 figure), ARC-WH page (18 buildings, Aug 2022 date), Anadolu article; GOPHCY report does not itself state the 98% housing-documentation figure (it is on the UNESCO property page, as cited). Status and DPI tier unchanged.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-12",
+      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier moderate accepted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "slug": "hatra",
+  "name": "Hatra",
+  "alternate_names": [
+    "Al-Hadr",
+    "Hatra (Al-Hadr)"
+  ],
+  "country": "Iraq",
+  "region": "Western Asia (Mesopotamia / northern Iraq)",
+  "coordinates": {
+    "lat": 35.5881,
+    "lng": 42.7183
+  },
+  "coordinate_note": "Converted from the coordinates on UNESCO's maps page (N35 35 17.02, E42 43 5.99); the page does not label them as a centre point. The inscribed area is 626 ha with no buffer zone listed, so this marker is a single-point reference.",
+  "unesco_id": "277",
+  "inscription_year": 1985,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Hatra as a large fortified city under the influence of the Parthian Empire and capital of the first Arab Kingdom, whose high, thick walls helped it withstand Roman invasions in A.D. 116 and 198. It was inscribed in 1985; Iraq's own report lists criteria (ii), (iii), (iv) and (vi).",
+  "metadata_sources": [
+    "src_00",
+    "src_01"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "Hatra was occupied by armed groups from mid-2014 and was inscribed on the List of World Heritage in Danger in 2015 for destruction and damage due to armed conflict; Iraqi forces retook it on 26 April 2017. UNESCO's 2017 entry cites UNITAR/UNOSAT satellite analysis confirming further destruction after 2015. The sources reviewed describe conflict damage as a legacy condition that is being repaired (rebuilt portico column, restored sculptures, recovery of unexploded bombs and fragments by the ISMEO/ALIPH project), but the 2026 Committee decision still asks for repair of conflict damage and for the remaining archaeological finds to be moved, catalogued and protected. No fighting at or near the site since 2017 was found in the sources reviewed; the Committee's 2026 request for already-funded surveillance cameras indicates site security is still being strengthened. UNESCO's state-of-conservation pages list major looting of Iraqi archaeological sites among factors marked as resolved at Hatra in earlier reports.",
+      "first_identified_date": "2014-06",
+      "date_note": "UNESCO's 2017 entry dates the occupation to 'mid-2014'; month is approximate.",
+      "source_ids": [
+        "src_02",
+        "src_04",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_15",
+        "src_13",
+        "src_12"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's 2026 decision (48 COM 7A.2) asks for assessment and stabilisation of the Temples of Samya, the Triad, Shahiru and Allat (monuments indirectly affected by the conflict), calls the Temenos Conservation Plan a pressing priority, and repeats the request for a Site Management Plan and a documentation management strategy; the June 2026 working document says the Site Management Plan and Temenos Conservation Plan remain outstanding and that risks at these temples need urgent assessment and stabilisation, while welcoming the monitoring programme. Iraq's November 2024 report lists nine urgent works including treating wall bulges in the Great Temple and repairing the arch of the middle iwan of the Temple of Sumayyah (spelled Samya in the Committee decisions), and says a site management plan had not been prepared because the ISMEO mission has not returned because of a lack of funding.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year concerns recorded across Committee decisions from 2023 to 2026 (and a one-year corrective-measures timeframe set in 2023); no single start date found.",
+      "source_ids": [
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Iraq's November 2024 report lists ongoing threats from weather, plant growth on exposed temple floors, and moisture from roof cracks and rising damp. Iraq's 2024 submission, summarised by UNESCO, reports that wells are more than 15 m deep, so groundwater does not affect the Temenos foundations, with no change in well water levels over the year. This is a weathering and moisture pressure on exposed stonework, reported by the State Party; the sources reviewed give no quantified climate-change assessment for Hatra.",
+      "first_identified_date": null,
+      "date_note": "Ongoing weathering pressure described in the State Party's 2024 report; no start date given. The 2023 Committee decision also asked for investigation of the water table.",
+      "source_ids": [
+        "src_10",
+        "src_11",
+        "src_05"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met. There is no active combat at or adjacent to the site in the sources reviewed (retaken April 2017); the site is accessible, has a guarded entrance and a monitoring programme, and receives visitors (Rudaw/AFP, 2022; Iraq's 2024 report); UNESCO and ICOMOS visited in 2023 and ALIPH/ISMEO have worked on site since 2020, so access for monitoring has not been lost; protection has not collapsed (the State Board of Antiquities and Heritage manages the site). The 'ongoing severe threat materially affecting survival' limb was weighed: the Committee's concerns centre on unfinished stabilisation and planning rather than on a reported imminent-loss event, and the sources reviewed do not document a current severe threat of that kind. High Concern trigger matched: official inscription on UNESCO's List of World Heritage in Danger for substantive reasons (destruction and damage due to armed conflict), which the Committee retained in 2026 (48 COM 7A.2). A second trigger is also plausibly met: significant conflict damage whose site-wide repair is incomplete (corrective measures not complete; conflict damage still to be repaired; stabilisation of four temples still needed). The call is close to Critical only in the sense that the Danger List inscription is itself the High trigger;  the nearest neighbour is Moderate Concern if the property were removed from the Danger List. Conflicting evidence to note: UNESCO's 2024 state-of-conservation analysis listed some conflict-damage repair among corrective measures already completed, while the 2026 decision still lists repair of conflict damage (completing transfer, cataloguing and storage of finds) as outstanding, so the 'repair substantially incomplete' trigger is weaker than the Danger List trigger and the status rests mainly on the latter. Nothing found places it at Critical.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2014-2017 occupation and the destruction of sculptures and structures are recorded in events[] permanently. The present picture is of a site that is on the List of World Heritage in Danger (retained in 2023, 2024, 2025 and 2026), whose Committee in July 2026 still asks for conflict-damage repair, stabilisation of the Temples of Samya, the Triad, Shahiru and Allat, and a pressing Temenos Conservation Plan, and for which a Site Management Plan is still outstanding. Against that, there is real recovery: funded first-aid conservation by ISMEO with ALIPH support since 2020, a rebuilt portico column, restored sculptures, fencing and a single guarded entrance, an established monitoring programme, funded surveillance cameras awaiting installation, and a 2023 Committee decision that adopted a Desired State of Conservation and corrective measures with a path to removal from the Danger List. These indicate a stabilising but unfinished recovery rather than an acute emergency, which is why this is High rather than Critical. Confidence is Supported rather than Confirmed: the Danger List status is directly confirmed by Committee decisions, but the account of present on-site condition rests largely on the State Party's own reports and UNESCO's summaries of them, the 2023 mission report and Iraq's 2026 report were not read in full, and no independent 2025-2026 site assessment was found. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_02",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_15",
+        "src_19"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null,
+      "approved_date": null,
+      "approval_note": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories (photographic, archival records, academic/scholarly) have publicly findable evidence, which gives the Moderate tier by the rubric. The photographic evidence is a small institutional set (12 images on UNESCO's gallery). 3D documentation is not counted: the only publicly viewable item found is a single object-level relief model (a mask) on a French Ministry of Culture museum-project page, which is not site-level photogrammetry or scanning, and the ISMEO drone and 3D survey of the temenos and sacred buildings is documented by the operator but no public viewing or download of that model was found. No virtual tour was found. The Iraqi State Board of Antiquities has a documentation strategy requested by the Committee but not yet in place (2026 decision). Strict assessment by the independent verifier: the writer's Extensive proposal did not hold; the 3D category was downgraded and the tier set to Moderate accordingly. Harry may revisit if a public site-level 3D model is found.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public gallery of 12 images of Hatra credited to two photographers; each is captioned only 'Hatra (Iraq)'.",
+        "url": "https://whc.unesco.org/en/list/277/gallery/",
+        "source_id": "src_20"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for Hatra lists the Committee decisions and state-of-conservation material, the 1985 ICOMOS Advisory Body Evaluation and a 1985 plan of Hatra; the Iraqi State Party's November 2024 conservation report and the 2023 mission report are catalogued there.",
+        "url": "https://whc.unesco.org/en/list/277/documents",
+        "source_id": "src_00"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Not counted toward the tier: A 3D model of an anthropomorphic mask in low relief from Hatra is hosted on the French Ministry of Culture's Mossoul Museum site (Sketchfab). Separately, ISMEO reports a drone survey and 3D model of the exteriors of the sacred buildings and two Great Iwan interiors; public access to that model was not confirmed.",
+        "url": "https://archeologie.culture.gouv.fr/mossoul-museum/en/media/view/12486",
+        "source_id": "src_21"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed scholarship on Hatra's excavation and archive record, such as Foietta (2021) in Asia Anteriore Antica on the 1898-1899 French expedition, which describes the first photographs taken at the site; ISMEO's university-partnered survey (Padua, Siena) is also research-led.",
+        "url": "https://riviste.fupress.net/index.php/asiana/article/download/1132/1086",
+        "source_id": "src_22"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2014",
+      "title": "Armed groups occupy Hatra",
+      "description": "UNESCO's state-of-conservation entry says extremist groups occupied the site in mid-2014 and caused major destruction, the full extent of which remained uncertain. UNESCO's 2017 entry also records that, according to the State Party, unofficial (unverified) reports indicate the site became a military storage area and training centre for terrorist groups; Iraq's State Board of Antiquities and Heritage 2024 report states that ISIS used the portico columns as shooting targets to train its members (a State Party claim in a single source).",
+      "event_type": "damage",
+      "source_ids": [
+        "src_04",
+        "src_10",
+        "src_15"
+      ]
+    },
+    {
+      "date": "2015-07",
+      "title": "Hatra inscribed on the List of World Heritage in Danger",
+      "description": "In decision 39 COM 7B.51 (Bonn, 2015) the Committee expressed serious concern about the lack of information on the property's condition, found that optimal conditions for protecting its Outstanding Universal Value no longer existed, and inscribed Hatra on the Danger List. Month follows ALIPH and Culture in Crisis; the decision text itself gives the year.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_15",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2016",
+      "title": "Committee retains Hatra on the Danger List",
+      "description": "Decision 40 COM 7A.11 retained Hatra on the List in Danger, voiced great concern about the lack of information on its condition, and encouraged Iraq's protection efforts despite the State Party being unable to access the property.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2017",
+      "title": "Satellite analysis confirms further destruction after 2015",
+      "description": "UNESCO's 2017 state-of-conservation entry reports that UNITAR/UNOSAT satellite analysis confirmed preliminary reports of further destruction at Hatra since 2015, and records, according to the State Party, unverified unofficial reports that the site became a military storage area and training centre. Hatra was retained on the Danger List (Decision 41 COM 7A.34).",
+      "event_type": "damage",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2017-04-26",
+      "title": "Iraqi forces retake Hatra",
+      "description": "AFP reported that pro-government forces announced they had retaken the ancient city from ISIS; the extent of damage was unclear. UNESCO's Director-General Irina Bokova confirmed the liberation on 28 April 2017, called the destruction an immense loss and said deliberate destruction of heritage is a war crime; UNESCO said preliminary reports indicated further damage since 2015. A Popular Mobilization Forces spokeswoman was quoted as saying sculptures and engraved images were destroyed but walls and towers remained standing, and VOA reported that mines laid around the eastern gates needed clearing.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_13",
+        "src_12",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2020",
+      "title": "ISMEO/ALIPH damage assessment, drone and 3D survey",
+      "description": "An Italian-Iraqi team led by ISMEO with the State Board of Antiquities and Heritage, funded by ALIPH, surveyed the site (field survey March 2020). ISMEO reports drone imaging of the whole city at 3.5 cm per pixel and the inner temenos at 1 cm per pixel, and a 3D model of the exteriors of the sacred buildings and two interiors of the Great Iwans. The project's later phases are described by ALIPH as including removal of about 350 tons of rubble and recovery of 10 unexploded bombs.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_15",
+        "src_16",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2022-02",
+      "title": "Restored sculptures returned to their places",
+      "description": "The Art Newspaper reported (4 March 2022) a ceremony the previous week marking restoration of three badly damaged sculptures, with lead archaeologist Massimo Vidale saying two giant face-like sculptures had been smashed and were restored and returned in 2021. Rudaw/AFP (September 2022) also reported three restorations unveiled in February.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_18",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee adopts desired state of conservation and corrective measures (45 COM 7A.28)",
+      "description": "At its extended 45th session the Committee commended conservation efforts, adopted the Desired State of Conservation for Removal (DSOCR) and corrective measures, set a one-year timeframe for completing the corrective measures, and retained Hatra on the Danger List. The decision follows, and asks the State Party to act on, a joint World Heritage Centre/ICOMOS Reactive Monitoring mission to Hatra on 10-16 June 2023 (the mission report text was not read in this pass; catalogued by UNESCO).",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_23"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee retains Hatra on the Danger List (46 COM 7A.16)",
+      "description": "At its 46th session (New Delhi) the Committee commended the State Party's efforts, encouraged the State Party to prioritise the remaining corrective measures, notably site security including surveillance cameras, repair of conflict damage, assessment and stabilisation of indirectly affected temples and a Conservation Plan for the Temenos, and retained Hatra on the List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2024-11",
+      "title": "Iraq submits state of conservation report",
+      "description": "Iraq's State Board of Antiquities and Heritage report (signed 5 November 2024 by the Hatra site manager) says one portico column, which ISIS fighters had used as a shooting target, was rebuilt with old stones; the site is fenced with a single guarded entrance; a joint committee formed on 2 November 2024 listed nine urgent works; and a site management plan had not been prepared because the ISMEO mission has not returned owing to lack of funding.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee retains Hatra on the Danger List (47 COM 7A.36)",
+      "description": "The Committee noted the State Party's efforts, repeated priorities (security cameras, conflict-damage repair, stabilisation of the Temples of Samya, the Triad, Shahiru and Allat, a Temenos Conservation Plan, a Site Management Plan), encouraged a buffer-zone boundary modification, and retained Hatra on the List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "title": "Iraq submits 2026 state of conservation report",
+      "description": "According to UNESCO's working document WHC/26/48.COM/7A, the report was submitted on 21 January 2026. The working document records funds allocated for works identified by the State Board of Antiquities and Heritage and the Nineveh Antiquities and Heritage Inspectorate, funding allocated for a surveillance camera system (installation still pending), restricted access to the Temenos through a single guarded entrance, and an established monitoring programme.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "Committee retains Hatra on the Danger List (48 COM 7A.2)",
+      "description": "At its 48th session (Busan) the Committee again asked for installation of already-funded surveillance cameras, repair of conflict damage and stabilisation of the affected temples, called the Temenos Conservation Plan a pressing priority, requested a Site Management Plan, and asked for an updated report by 1 February 2027. Month reflects the session's scheduled 19-29 July 2026 dates per the working document.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08",
+        "src_09"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Hatra (Iraq): documents and decisions",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/277/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Property page itself returned only the documents listing; inscription year (1985) and the UNESCO summary text are taken from here.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Hatra: maps",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/277/maps/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 39 COM 7B.51: Hatra (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6306",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 40 COM 7A.11: Hatra (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6627",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "State of Conservation: Hatra (2017 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3532",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7A.28: Hatra (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8158",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 46 COM 7A.16: Hatra (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8485",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 47 COM 7A.36: Hatra (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8703",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 48 COM 7A.2: Hatra (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8994",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "State of conservation of properties inscribed on the List of World Heritage in Danger (WHC/26/48.COM/7A), Hatra section",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/226088",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Working document dated Paris, 5 June 2026; contains the Secretariat/advisory-body analysis and a draft decision. The adopted text is src_08.",
+      "published_date": "2026-06-05",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "State of Conservation Report: Hatra (Republic of Iraq, State Board of Antiquities and Heritage), November 2024",
+      "publisher": "Government of Iraq, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/219874",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party's own report on its site; self-reported. The document refers to the 2024 decision as 46 COM 7A.15 whereas UNESCO's decision page numbers it 46 COM 7A.16; this dossier uses the UNESCO decision page numbering.",
+      "published_date": "2024-11",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "State of Conservation: Hatra (2024 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4539",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Press release / news: UNESCO confirms liberation of Hatra (28 April 2017)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/actualites/1658/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read in the French-language page.",
+      "published_date": "2017-04-28",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Iraqi forces retake ancient city of Hatra from ISIS (AFP)",
+      "publisher": "Al Arabiya English",
+      "url": "https://english.alarabiya.net/News/middle-east/2017/04/26/Iraqi-forces-retake-ancient-city-of-Hatra-from-ISIS",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2017-04-26",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Iraqi militias find relics destroyed in ancient town",
+      "publisher": "Voice of America",
+      "url": "https://voanews.com/a/iraqi-militias-find-relics-destroyed-ancient-town/3828751.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Article gives no explicit date in the text read; dated by context to the week after the April 2017 retaking.",
+      "published_date": "2017-04",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_15",
+      "title": "First Aid Interventions to the World Heritage Site of Hatra after Daesh Occupation",
+      "publisher": "ALIPH Foundation",
+      "url": "https://aliph-foundation.org/en/projects/first-aid-interventions-to-the-world-heritage-site-of-hatra-after-daesh-occupation",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "ALIPH is an international foundation (funder of the project); treated as Tier 1 official-programme page by the methodology's ALIPH category. The page does not name the project's funders beyond the grants.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Damage Assessment and First Aid Interventions to the World Heritage Site of Hatra after Daesh Occupation",
+      "publisher": "Culture in Crisis",
+      "url": "https://cultureincrisis.org/projects/damage-assessment-and-first-aid-interventions-to-the-world-heritage-site-of-hatra-after-daesh-occupation",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Hatra project: drone survey and 3D documentation",
+      "publisher": "ISMEO (International Association of Studies on the Mediterranean and the Orient)",
+      "url": "https://ismeo.eu/?p=19089",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Operator's own account of its project; not independently peer reviewed.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Sculptures vandalised by Isis return to ancient city of Hatra after restoration",
+      "publisher": "The Art Newspaper",
+      "url": "https://theartnewspaper.com/2022/03/04/sculptures-vandalised-by-isis-return-to-ancient-city-of-hatra-after-restoration",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2022-03-04",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Iraq ancient ruins open up to tourism after IS atrocities",
+      "publisher": "Rudaw (AFP report)",
+      "url": "https://www.rudaw.net/english/middleeast/iraq/110920223",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2022-09-11",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Hatra: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/277/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Three-dimensional reconstruction of a relief from Hatra (Sketchfab model)",
+      "publisher": "Mossoul Museum project, French Ministry of Culture",
+      "url": "https://archeologie.culture.gouv.fr/mossoul-museum/en/media/view/12486",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Page describes a single object-level 3D model credited to Pedro Maximo; date not given.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_22",
+      "title": "An Unexpected Journey: The French Expedition of Charles Fossey at Hatra (Iraq)",
+      "publisher": "Asia Anteriore Antica (Firenze University Press), E. Foietta",
+      "url": "https://riviste.fupress.net/index.php/asiana/article/download/1132/1086",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Report of the joint World Heritage Centre/ICOMOS Reactive Monitoring mission to Hatra, Iraq (10-16 June 2023)",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/fr/documents/201086",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Only the catalogue page (title, date, authors) was read; the report text itself was not.",
+      "published_date": "2023-06-16",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-11",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; trigger is Danger List inscription for conflict damage (retained 2026, 48 COM 7A.2); nearest neighbours: Critical (not met, flagged in decision_trigger) and Moderate (would apply on Danger List removal). DPI proposed Extensive by count but flagged as thin. Known gaps: (1) The built-in browser pane could not be opened, so UNESCO pages were read via fetch; the property's main page (whc.unesco.org/en/list/277/) could not be fetched, so inscription year, criteria and description rest on the documents page, maps page and Iraq's report. (2) The June 2023 mission report text, Iraq's January 2026 report and Advisory Body analysis were not read in full; 2026 findings come from the Secretariat working document WHC/26/48.COM/7A and decision 48 COM 7A.2. (3) Iraq's November 2024 report cites the 2024 decision as 46 COM 7A.15, whereas UNESCO's decision page gives 46 COM 7A.16; UNESCO's numbering used. (4) A Heidelberg University article on documentation was blocked by bot protection and not used. (5) No independent (non-State-Party, non-UNESCO) 2025-2026 report on current site condition or security was found. (6) Exact UNESCO session dates for 2023-2025 decisions not confirmed (years only); 2015 month from ALIPH/Culture in Crisis. (7) Whether the ISMEO 3D model and drone imagery are publicly viewable was not confirmed. (8) Wikipedia not used; metadata rests on UNESCO. Images omitted by design. | Verifier round 1 (2026-10-11): verified UNESCO decisions 39 COM 7B.51, 40 COM 7A.11, 45 COM 7A.28, 46 COM 7A.16, 47 COM 7A.36, 48 COM 7A.2, SOC 2017 and 2024 entries, Iraq's Nov 2024 report and working document WHC/26/48.COM/7A (Hatra section) against the draft. Fixes: (1) Nov 2024 report attributed to State Board of Antiquities and Heritage (signed by site manager), not Ministry of Culture; (2) 'vault' corrected to arch of the middle iwan of the Temple of Sumayyah; 'Italian mission' to ISMEO mission; (3) groundwater claim corrected to wells over 15 m deep; (4) 2026 report event limited to what the working document states (removed unverified 'cracks and bulges' monitoring and 'conservation of key structures'); (5) 2024 decision 'urged' changed to 'encouraged'; (6) looting sentence reworded; (7) 'column destroyed' softened; (8) added conflicting-evidence note on conflict-damage repair status (2024 analysis vs 2026 decision); (9) DPI: 3D category downgraded (single object-level model, ISMEO model not confirmed public), tier changed to moderate per rubric count. Could not verify (fetch limit/blocked hosts): src_00, src_01, src_12-22 content, 2023 mission catalogue page, and the significance summary (116/198 AD sieges, criteria list, 'Iraq's own report lists criteria'). | Verifier round 2 (2026-10-12): re-read UNESCO decisions 39 COM 7B.51, 40 COM 7A.11, 45 COM 7A.28, 46 COM 7A.16, 47 COM 7A.36, 48 COM 7A.2, SOC 2017 and 2024, documents/maps/gallery pages, working document WHC/26/48.COM/7A and Iraq's Nov 2024 report: all confirmed (coordinates convert correctly; criteria ii/iii/iv/vi, 626 ha, no buffer zone, 12 gallery images, 116/198 AD sieges, nine urgent works, 21 Jan 2026 report date, 1 Feb 2027 deadline). Fixes: (1) 2016 decision wording corrected from 'serious concern' to 'great concern' and the access wording aligned to the decision text; (2) the military storage/training-centre claim attributed to the State Party and marked unverified (2014 and 2017 events); (3) shooting-target claim marked as a single-source State Party claim; (4) 2017 satellite wording aligned to 'preliminary reports ... confirmed by UNITAR/UNOSAT'; (5) DPI archival description corrected to the 1985 ICOMOS evaluation and plan (the documents page does not list a nomination file); (6) decision_trigger wording on the 2024 analysis softened to 'some conflict-damage repair'. Still not fetched this round (tool refused URLs): src_12 to src_19 content, src_21, src_22, src_23 catalogue URL, ISMEO and Culture in Crisis pages.",
+      "changed_by": "claude"
+    }
+  ]
+}

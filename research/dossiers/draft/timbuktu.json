@@ -1,0 +1,496 @@
+{
+  "slug": "timbuktu",
+  "name": "Timbuktu",
+  "alternate_names": [
+    "Tombouctou"
+  ],
+  "country": "Mali",
+  "region": "West Africa (Sahel)",
+  "coordinates": {
+    "lat": 16.7733,
+    "lng": -2.9994
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N16 46 24, W2 59 58). The inscribed property comprises three mosques and sixteen mausoleums within the city, not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "119",
+  "inscription_year": 1988,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Timbuktu, at the edge of the Sahara, was founded in the 5th century and reached its cultural and economic peak in the 15th and 16th centuries as an intellectual and spiritual capital and a centre for spreading Islam across Africa; UNESCO notes the University of Sankore, with 180 Koranic schools and 25,000 students. The inscribed property comprises three great mosques (Djingareyber, Sankore and Sidi Yahia) and sixteen mausoleums and holy places, described by UNESCO as exceptional examples of earthen architecture and traditional maintenance techniques. It is inscribed under criteria (ii), (iv) and (v).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "Timbuktu was occupied by armed groups in 2012; UNESCO reports that 14 of the 16 mausoleums forming part of the World Heritage property were destroyed that year (the ICC's conviction of Ahmad Al Faqi Al Mahdi concerned nine mausoleums and the sacred gate of the Sidi Yahia Mosque, a narrower scope than UNESCO's count). UNESCO also estimates 4,203 manuscripts of the Ahmed Baba Institute were burnt or stolen. The mausoleums were reconstructed and UNESCO says they reopened three years after destruction. The security context has not normalised: in the 2023 Committee decision the Committee noted that conservation continues 'in a still precarious security context'; in 2024 it noted a 'even more precarious security situation since the withdrawal of' MINUSMA; Al Jazeera reported in September 2023 that Timbuktu had been under blockade for about six weeks, with the Malian military reporting shelling that killed at least two people; Africanews reported a JNIM car bomb and gunfire in the city on Monday 2 June 2025, which the Malian army said it foiled (13 attackers killed per the army). In April 2026 coordinated attacks hit Bamako, Kati, Sevare, Kidal and Gao (Timbuktu is not mentioned in the report read). The property remains on the List of World Heritage in Danger (inscribed there since 2012), and the Reinforced Monitoring Mechanism continues. The sources reviewed do not document new damage to the inscribed monuments from the 2023-2025 incidents.",
+      "first_identified_date": "2012-06-28",
+      "date_note": "Date of the World Heritage Committee decision placing Timbuktu on the Danger List at Mali's request (28 June 2012, during the occupation); destruction of mausoleums was reported from 30 June 2012.",
+      "source_ids": [
+        "src_01",
+        "src_03",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_18"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "UNESCO's property page states the monuments are under threat from desertification. In 2023 the Committee expressed concern over continued silting of the mosques, which appears to be related to silting of the Niger River due to deforestation, and noted that climate change seems to have aggravated the supply of traditional construction material (asking for plantations to guarantee sustainable building timber). The 2025 decision welcomed the planting of over 3,300 trees and hedges around four cemeteries and mausoleums to reduce silting and flooding, but reiterated the request for a more expansive programme, including an ecological flood management strategy; the 2026 decision repeats the request for a more ambitious tree and hedge planting programme and flags silting among the corrective measures to be advanced. This is a chronic, partly managed pressure rather than a documented acute damage event.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-term pressures (desertification, silting, flooding); no single start date established from the sources reviewed. Earliest dated Committee wording in this dossier is 2023.",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_04"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee's 2026 decision reiterates concern about persistent negative impacts of vibrations connected with security systems and road traffic around the mosques, which it says could have long-term repercussions on their stability, and urges Mali to divert traffic away. The 2024, 2025 and 2026 decisions all express concern at a persistent lack of technical and financial resources of the Cultural Mission and traditional actors; the 2026 decision is also concerned about the long-term sustainability of measures funded by the ICC Trust Fund for Victims project once funding ends. The conservation and management plan expired in 2022 (2023 decision); the 2026 decision welcomes an updated plan for 2025-2030 and asks that it be submitted for review. Positive developments are also recorded: maintenance and plastering of the Djingareyber and Sankore mosques, reinforcement of cemetery enclosing walls, and a special delegation that evicted illegal occupations and carried out drainage work. UNESCO's statement of Outstanding Universal Value also notes urban development pressure and the construction of a large institute on a public square associated with the Sankore Mosque, which it says compromised the integrity of that mosque.",
+      "first_identified_date": null,
+      "date_note": "Chronic management and resource concerns raised over successive State of Conservation cycles; the OUV statement describes urbanisation concerns as dating from inscription. No single start date established.",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met on present evidence. (1) Severe damage materially affecting the site now: the 2012 destruction is historical; the mausoleums were reconstructed (UNESCO says reopened three years after destruction) and the 2025 and 2026 Committee decisions describe ongoing conservation progress, not unrepaired severe damage. (2) Active combat zone with fighting at or adjacent to the site: this is the closest call. Armed attacks in the city itself are documented (a JNIM car bomb and gunfire on 2 June 2025; shelling and a blockade in 2023), and national-level fighting continued in 2026, but the most recent Timbuktu-specific incident found is about 16 months old, no report read places current fighting at the monuments, and the April 2026 offensive report does not mention Timbuktu. (3) Inaccessible to monitoring or conservation bodies for 6+ months: not established; the 2026 decision records on-site conservation work, a special delegation and a coordination committee, although whether international experts can visit was not verified. (4) Protection or monitoring collapsed: not established; local management committees, masons' guild and Cultural Mission are functioning and a Reinforced Monitoring Mechanism and State of Conservation reporting continue. High Concern triggers matched: (a) the property is on UNESCO's List of World Heritage in Danger (since 2012) for substantive reasons (armed conflict and its aftermath, per the Committee's continuing corrective-measures and DSOCR process); (b) the property is in a region under active armed conflict with credible reporting on risk, including attacks in Timbuktu in 2023 and 2025. This is a close call between High and Critical: a reviewer who weighs the 2025 attack, the precarious security noted by the Committee in 2023 and 2024, and the unverified status of international access more heavily could argue for Critical; a reviewer who weighs the adopted DSOCR (2025), the reported conservation progress and the absence of documented new damage could argue the trajectory is toward Moderate, though Danger List status alone keeps it at High under the tree.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Present conditions: Timbuktu is on the List of World Heritage in Danger and the Committee retained it there in 2023, 2024, 2025 and again in 2026 (decision 48 COM 7A.38), continuing the Reinforced Monitoring Mechanism. The 2012 destruction of mausoleums and manuscripts is recorded in events[] and no longer, by itself, drives the status: the mausoleums have been reconstructed and the Committee in 2026 welcomes progress on stabilising and plastering the Djingareyber and Sankore mosques. What keeps the status at High is (i) formal Danger List status; (ii) a security situation that the Committee itself called precarious in 2023 and even more so in 2024, and that includes documented attacks and a blockade affecting the city in 2023 and 2025 and wider offensives in Mali in 2026; and (iii) structural and environmental pressures that remain only partly addressed (vibration from traffic and security systems, silting and flooding, resource and funding shortfalls, and an unproven sustainability of externally funded measures). Against this, the evidence shows real progress: an adopted Desired state of conservation for removal from the Danger List (2025), an updated 2025-2030 management plan, community-based maintenance, and no documented new damage to the monuments from the 2023-2025 attacks. Confidence is Supported rather than Confirmed: the Committee decisions are primary and consistent, but the 2026 State of Conservation report (WHC/26/48.COM/7A) could not be read, the Timbuktu-specific security reporting is thin and partly from single outlets, and access for international monitors was not verified. The High/Critical boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_07",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_18"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four, including a visual and a technical/scholarly category). Coverage is uneven and in places thin: the only 3D documentation found covers Djingareyber Mosque alone (Zamani Project field campaign in 2005; the other two mosques and the mausoleums were not found); manuscript digitisation is reported but only part is viewable online (a British Library EAP project page states its material is not currently available, and Google reports more than 40,000 digitised pages on Google Arts & Culture, out of an estimated 400,000). A virtual-tour category was marked false because no tour was opened in this pass: a March 2022 article reports Google Street View tours of Mali heritage sites including the Sidi Yahia and Djinguereber mosques, but the Google Arts & Culture page itself could not be opened, so this is a known gap that a reviewer can check and may change (it would not alter the tier). A reviewer may wish to consider whether the uneven, mosque-level 3D coverage should temper the tier to moderate.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property spanning four pages of images (twelve on the first page; a 'See All' link suggests about 47 in total), marked © UNESCO and credited on the first page to Francesco Bandarin and Lazare Eloundou Assomo.",
+        "url": "https://whc.unesco.org/en/list/119/gallery/",
+        "source_id": "src_05"
+      },
+      {
+        "category": "archival_records",
+        "description": "Google Arts & Culture hosts digitised Timbuktu manuscript pages from the SAVAMA-DCI association's work; Google's own blog states that more than 40,000 pages are available on the platform out of a collection estimated at about 400,000 pages. A SAVAMA-DCI exhibit on the platform presents scans and photographs (exhibit page not opened by the verifier).",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/trials-and-triumphs-timbuktu-manuscripts/",
+        "source_id": "src_20"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's property page lists the nomination dossier reference (119rev) and State of Conservation reports by year from 1990 to 2026, and holds the Committee decisions on the property.",
+        "url": "https://whc.unesco.org/en/list/119/",
+        "source_id": "src_00"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "The Zamani Project at the University of Cape Town lists a 3D model among its outputs for Djingareyber Mosque, from a field campaign in 2005 (this mosque only); a model titled 'Djingereyber Mosque, Timbuktu, Mali' is hosted on Sketchfab (that page could not be rendered by the verifier).",
+        "url": "https://www.zamaniproject.org/site-mali-timbuktu-djingareyber-mosque.html",
+        "source_id": "src_21"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Conference paper (HERITAGE2020, Valencia) by Joffroy and Essayouti (CRAterre; Cultural Mission of Timbuktu) on the reconstruction of the destroyed mausoleums, published in the ISPRS Archives in 2020.",
+        "url": "https://isprs-archives.copernicus.org/articles/XLIV-M-1-2020/913/2020/",
+        "source_id": "src_14"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-06-28",
+      "title": "World Heritage Committee places Timbuktu on the List in Danger",
+      "description": "At its 36th session in St Petersburg the Committee accepted Mali's request to place Timbuktu and the Tomb of Askia on the List of World Heritage in Danger. Timbuktu had previously been on the Danger List from 1990 to 2005 (UNESCO property page). It has remained on the List since.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2012-06/2012-07",
+      "title": "Mausoleums and the Sidi Yahia sacred gate destroyed during the occupation",
+      "description": "UNESCO's Director-General condemned the destruction of three tombs on 30 June 2012. UNESCO states that between June and July 2012 several mausoleums and the sacred gate of the Sidi Yahia Mosque were destroyed during occupation by armed groups, and its World Heritage Canopy case study reports that 14 of the 16 mausoleums of the property were destroyed (the later ICC case concerned nine mausoleums and the gate).",
+      "event_type": "damage",
+      "source_ids": [
+        "src_06",
+        "src_07",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2013",
+      "title": "Ahmed Baba Institute manuscripts burnt or stolen",
+      "description": "UNESCO estimates that 4,203 manuscripts of the Ahmed Baba Institute were burnt or stolen by armed groups (UNESCO's 2021 news item says nearly 4,200). The British Library's Endangered Archives Programme page places the destruction of manuscripts at the Institute in 2013; UNESCO's Canopy page does not date it separately from the 2012 occupation.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_07",
+        "src_08",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2015-06-30",
+      "title": "Mausoleum reconstruction announced as nearly complete",
+      "description": "At the World Heritage Committee session in Bonn, UNESCO announced that the mausoleums had been nearly fully rebuilt three years after their destruction, with work done by local masons. A 2020 paper by Joffroy and Essayouti, who were involved in the project, states the reconstruction was completed in 2016. UNESCO's 2021 news item describes the reconstruction as a task completed in 2015, so sources differ on the completion year (2015 vs 2016).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_09",
+        "src_14",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2016-09-27",
+      "title": "ICC convicts Ahmad Al Faqi Al Mahdi",
+      "description": "UNESCO reports that on 27 September 2016 the International Criminal Court convicted Al Mahdi for his responsibility in the destruction of cultural property in Timbuktu and sentenced him to nine years in prison.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2017-08-17",
+      "title": "ICC orders reparations for the destruction",
+      "description": "UN News reported that ICC Trial Chamber VIII issued a reparations order on 17 August 2017 of 2.7 million euros (about 3.2 million US dollars), noting that Al Mahdi was indigent. The order related to nine mausoleums and the secret gate of the Sidi Yahia Mosque.",
+      "event_type": "political",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2021-03-30",
+      "title": "Symbolic one euro awarded to Mali and UNESCO",
+      "description": "UNESCO reported that the ICC awarded a symbolic one euro each to the Government of Mali and UNESCO for harm to the Malian people and the international community, alongside individual and collective reparations that began in January 2021.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2023-09",
+      "title": "Timbuktu under blockade and shelled",
+      "description": "Al Jazeera reported on 22 September 2023 that Timbuktu had been under blockade for about six weeks, that an al-Qaeda-linked group declared war on the Timbuktu region in August, and that the Malian military reported shelling that killed at least two people and wounded five, according to a provisional toll. The article does not say who fired the shells. In the same year the Committee noted that conservation continued 'in a still precarious security context'.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_11",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7A.12 on Timbuktu",
+      "description": "The Committee noted with concern the lack of technical and financial resources of the Cultural Mission and an 'even more precarious security situation' since MINUSMA's withdrawal, welcomed rehabilitation including plastering of the Djingareyber Mosque, requested submission of the Desired state of conservation (DSOCR) in 2025, and retained Timbuktu on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7A.32 adopts the DSOCR",
+      "description": "The Committee adopted the Desired state of conservation for the removal of the property from the List in Danger as a framework for the work needed, welcomed the planting of over 3,300 trees and hedges, continued the Reinforced Monitoring Mechanism, and retained Timbuktu on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2025-06-02",
+      "title": "JNIM car bomb and gunfire in Timbuktu city",
+      "description": "Africanews reported that on Monday a vehicle bomb in the city was followed by shooting; JNIM claimed responsibility, and the Malian army said it had repelled an attack on a military camp, reporting 13 attackers killed. The article does not mention damage to the heritage property.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_12",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2025-08",
+      "title": "Timbuktu manuscripts returned home",
+      "description": "Africanews reported in November 2025 that most manuscripts were brought home in August following digitisation; the article cites 28,000 manuscripts, and a representative of the SAVAMA-DCI association said families holding manuscripts receive no support, with the article noting that struggling families might be tempted to sell.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.38 retains Timbuktu on the Danger List",
+      "description": "At its 48th session the Committee welcomed progress on conserving the Djingareyber and Sankore mosques and a special delegation that evicted illegal occupations, reiterated concern about vibrations from security systems and road traffic, welcomed an updated 2025-2030 management plan, asked Mali to report by 1 February 2027, continued the Reinforced Monitoring Mechanism, and retained Timbuktu on the List of World Heritage in Danger.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Timbuktu",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/119/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.38: Timbuktu (Mali)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9027",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.32: Timbuktu (Mali)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8699",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.12: Timbuktu (Mali) (C 119rev)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8481",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7A.23: Timbuktu (Mali) (C 119rev)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8148",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Timbuktu: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/119/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "UNESCO Director-General of UNESCO calls for a halt to destruction of cultural heritage site in Timbuktu",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/901",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2012-06-30",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Reconstruction of the destroyed mausoleums of Timbuktu (Mali)",
+      "publisher": "UNESCO World Heritage Centre (World Heritage Canopy)",
+      "url": "https://whc.unesco.org/en/canopy/timbuktu",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Canopy case studies carry a UNESCO disclaimer that the practices shown are not assessed by the World Heritage Centre and views are those of the experts and site managers; used here for descriptive facts about 2012 damage and the reconstruction, which are corroborated by other sources in this dossier.",
+      "published_date": "2021",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Mali and UNESCO receive symbolic reparation on behalf of international community for destruction of Timbuktu's mausoleums",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2268",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021-03-30",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Timbuktu mausoleums reconstruction news item (Bonn session announcement)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1307/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015-06-30",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "ICC orders former Mali Islamist to pay more than $3 million for damage to Timbuktu cultural sites",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/story/2017/08/563502-icc-orders-former-mali-islamist-pay-more-3-million-damage-timbuktu-cultural",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Page text had a garbled sentence on the sentence length (it says 'to nine years in prison' where 'guilty' was evidently meant); the nine-year term is taken from UNESCO's 2021 news item instead.",
+      "published_date": "2017-08",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Attack kills at least two people in Mali's besieged city of Timbuktu",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2023/9/22/attack-kills-at-least-two-in-malis-timbuktu",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2023-09-22",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Mali army foils attack in Timbuktu a day after jihadist assault killed 30 soldiers",
+      "publisher": "Africanews",
+      "url": "https://www.africanews.com/2025/06/02/mali-army-foils-attack-in-timbuktu-a-day-after-jihadist-assault-killed-30-soldiers//",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The article gives 'Monday morning' rather than a calendar date; the date 2 June 2025 is inferred from the publication date in the URL. Casualty figure of 13 attackers is the army's own account.",
+      "published_date": "2025-06-02",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Timbuktu's ancient manuscripts return home but security threats remain",
+      "publisher": "Africanews",
+      "url": "https://www.africanews.com/2025/11/19/timbuktus-ancient-manuscripts-return-home-but-security-threats-remain",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Article text read does not state the year of the 'June' JNIM attack on Timbuktu; it is read here as the June 2025 attack reported by src_12.",
+      "published_date": "2025-11-19",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Lessons learnt from the reconstruction of the destroyed mausoleums of Timbuktu, Mali (Joffroy & Essayouti)",
+      "publisher": "International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. XLIV-M-1-2020",
+      "url": "https://isprs-archives.copernicus.org/articles/XLIV-M-1-2020/913/2020/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2020-07-24",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Mali hit by wave of coordinated attacks from armed groups",
+      "publisher": "WGCU / NPR",
+      "url": "https://www.wgcu.org/2026-04-25/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Used only for national security context; the article does not mention Timbuktu.",
+      "published_date": "2026-04-25",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Endangered Libraries In Timbuktu (EAP1094)",
+      "publisher": "British Library Endangered Archives Programme",
+      "url": "https://eap.bl.uk/node/2441",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Project page states material is currently not available online; used only to date the Ahmed Baba Institute manuscript losses to 2013 and to record that this EAP digitisation was not publicly available.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_20",
+      "title": "The trials and triumphs of the Timbuktu manuscripts",
+      "publisher": "Google (The Keyword blog)",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/trials-and-triumphs-timbuktu-manuscripts/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Published by the operator of Google Arts & Culture, so the digitisation figures are the platform owner's own account; used only for the existence and approximate scale of online manuscript pages.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Djingareyber Mosque (Timbuktu, Mali)",
+      "publisher": "Zamani Project, University of Cape Town",
+      "url": "https://www.zamaniproject.org/site-mali-timbuktu-djingareyber-mosque.html",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-11",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. Known gaps (not included because not verified): (1) UNESCO State of Conservation pages (whc.unesco.org/en/soc/?id=119) returned a bot-check page and were not bypassed, so the 2026 State of Conservation report (WHC/26/48.COM/7A) and the Secretariat's assessment were not read; only Committee decisions 45 COM 7A.23, 46 COM 7A.12, 47 COM 7A.32 and 48 COM 7A.38 were. (2) The original 2012 Danger-List decision text (36 COM 7B.106) was not opened; the 28 June 2012 fact rests on a UNESCO news item. (3) No Timbuktu-specific security report dated after June 2025 was found; the April 2026 national offensive report does not mention Timbuktu, so the present state of fighting around the city is unverified. Whether international monitors can currently visit the site was not verified. (4) The Google Arts & Culture pages for Mali Magic / Street View tours of the Sidi Yahia and Djinguereber mosques (reported by a March 2022 iAfrikan article) could not be opened, so virtual_tour is marked false pending reviewer check. (5) The count of mausoleums destroyed differs by source scope (UNESCO: 14 of 16; ICC conviction: nine mausoleums plus the Sidi Yahia gate); both are given with attribution. (6) The 2013 date for the manuscript losses comes from a British Library EAP page; UNESCO sources read do not date it separately. (7) The 2025 and 2026 Committee session dates were not confirmed; only the years are given. The UN News reparations article has a garbled sentence on sentencing; the nine-year term is taken from UNESCO. (8) Wikipedia was not used; metadata rests on UNESCO. Images omitted by design. VERIFIER R1 (2026-10-11): verified against fetched UNESCO pages: decisions 45 COM 7A.23, 46 COM 7A.12 (including the quoted 'even more precarious security situation'), 47 COM 7A.32, 48 COM 7A.38 (all match as described); property page (coordinates, OUV text, Danger List 1990-2005 and 2012-present, SoC years); news 901 (28 June 2012 listing at Mali's request; 30 June DG statement on three tombs); Canopy page (14 of 16 mausoleums, 4,203 manuscripts, reopened three years after); news 2268 (June-July 2012, nine-year term, one euro, nearly 4,200 manuscripts). Fixes: (1) 2025 tree-planting wording corrected to 'reduce silting and flooding' (the decision does not mention watercourses); (2) 2015 reconstruction event now notes that UNESCO's 2021 news item says reconstruction was completed in 2015 versus 2016 in the Joffroy paper, and cites src_08. NOT verified by verifier (session limit reached): src_09 (2015 news), src_10 UN News, Al Jazeera, both Africanews articles, WGCU/NPR, ISPRS paper, Sketchfab, Hyperallergic, Google Arts & Culture exhibit, British Library EAP page (2013 dating), gallery page count, 'about 40,000 manuscripts' claim. Those claims remain as drafted and need a reviewer check. VERIFIER R2 (2026-10-12): read src_09, src_10, src_11, src_12, src_13, src_18 (NPR/WGCU text via NPR URL), src_14, src_05, plus Zamani page and Google blog; fixes: (1) Al Jazeera 2023 wording corrected: 'blockaded by fighters' removed (article does not attribute the blockade or the shelling), 'killed two' -> 'at least two, provisional toll'; (2) 2 June 2025 event: removed 'morning' and the claim that the article reports no casualties (it only says no heritage damage is mentioned); (3) August 2025 manuscript event: removed 'from Bamako' and 'government-owned', attributed the 28,000 figure only as cited, corrected the nonprofit quote paraphrase; (4) DPI: Hyperallergic '40,000 manuscripts' claim removed (Google's own blog says 40,000 pages) and src_16 dropped, replaced by src_20; Sketchfab-based claim re-anchored to the Zamani Project page (src_21), 'laser-scanned' softened; gallery credits corrected (Bandarin and Eloundou Assomo, not 'staff photographers'); (5) ISPRS paper described as conference paper, not asserted as peer-reviewed. NOT verified: Hyperallergic (search hit only), Sketchfab page, Google exhibit page, British Library EAP page (2013 dating and 'not available online'), ISPRS publication date 2020-07-24, Africanews 'in the city centre'. Open validation issue: the 2 June 2025 event and 2017 reparations event rest only on sources carrying reliability notes (src_12/src_13 and src_10), which the workflow treats like Tier 4 for sole support; corroboration (e.g. ICC press release, other outlets) is needed. Sources src_15 (Sketchfab) and src_17 (Google exhibit) were dropped as orphaned after DPI evidence was re-anchored to src_21 and src_20; they could not be opened by the verifier.",
+      "changed_by": "claude"
+    }
+  ]
+}

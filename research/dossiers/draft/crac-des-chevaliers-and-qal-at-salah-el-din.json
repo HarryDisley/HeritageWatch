@@ -1,0 +1,524 @@
+{
+  "slug": "crac-des-chevaliers-and-qal-at-salah-el-din",
+  "name": "Crac des Chevaliers and Qal'at Salah El-Din",
+  "alternate_names": [
+    "Krak des Chevaliers",
+    "Qal'at al-Hosn",
+    "Qal'at Salah El-Din",
+    "Saladin's Castle",
+    "Sahyun Castle"
+  ],
+  "country": "Syria",
+  "region": "Western Asia (Levant)",
+  "coordinates": {
+    "lat": 34.757,
+    "lng": 36.2947
+  },
+  "coordinate_note": "Serial property of two castles roughly 100 km apart; this marker is the Crac des Chevaliers component (Syriaca.org gives 34.756897, 36.294731; Wikipedia prints 34°45'25\"N 36°17'41\"E). The second component, Qal'at Salah El-Din (Sahyun Castle), is printed on Wikipedia at 35°35'45\"N 36°03'26\"E (about 35.5958, 36.0572). The UNESCO page did not provide coordinates in its text.",
+  "unesco_id": "1229",
+  "inscription_year": 2006,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": "UNESCO inscribes the two castles together as one serial property (2 components, 8.87 ha with a 167.21 ha buffer zone). This profile covers both components; their conditions differ, and the dossier says so where it matters.",
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes the two castles as the most significant examples illustrating the exchange of influences and the evolution of fortified architecture in the Near East during the Crusades (11th-13th centuries). The Crac des Chevaliers was built by the Hospitaller Order of Saint John from 1142 to 1271, with Mamluk additions in the late 13th century, and ranks among the best-preserved Crusader castles. Qal'at Salah El-Din, though partly in ruins, retains Byzantine (10th century), Frankish (late 12th century) and Ayyubid features. It is inscribed under criteria (ii) and (iv).",
+  "metadata_sources": [
+    "src_00",
+    "src_20",
+    "src_21"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The property was placed on the List of World Heritage in Danger in June 2013 together with Syria's other five World Heritage properties because of risks arising from the situation in the country (UNESCO news, 20 June 2013). In February 2014 UNESCO's Director-General said the Crac des Chevaliers was among three World Heritage sites being used for military purposes. Press and a Google Arts & Culture story summarise the Crac as a rebel-held position and bombardment target between 2012 and 2014, with government forces retaking it in March 2014 (Middle East Eye, a source with a reliability note, gives March 2014). The October 2025 joint World Heritage Centre/ICOMOS mission report, as summarised, records that no further conflict-related damage has been recorded at the Crac since March 2014, that Qal'at Salah El-Din was not shelled but was temporarily occupied by an armed group (the report mentions damage to furnishings and signage) and had access restrictions until 2016, with structural collapses recorded in 2017 and 2019, and that the mission judged the conflict-related threats to have ceased. The desired state of conservation (DSOCR) adopted in 2023 still lists 'removal of substantive threats arising from the conflict that started in 2011'. The threat is therefore recorded as the origin of the danger listing and of residual damage, not as an active combat threat according to the sources read.",
+      "first_identified_date": "2012",
+      "date_note": "Year only: military use and fighting at the Crac are placed in 2012 by the press and Arts & Culture sources reviewed; UNESCO's own dated actions are the 2013 danger listing and the February 2014 statement.",
+      "source_ids": [
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_04",
+        "src_12",
+        "src_13",
+        "src_14"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "This is the main present-tense concern. In 2026 the Committee (48 COM 7A.17) commended the State Party for significant progress at the Crac, where it describes corrective measures as carried out through high-quality conservation work, but regretted that at Qal'at Salah El-Din conservation has been limited to urgent risk-mitigation measures, remains insufficient in scope and methodology to ensure long-term conservation of the property's Outstanding Universal Value, and that the DSOCR for that component has not been achieved. The October 2025 mission report, as summarised, names persistent threats as uncontrolled vegetation growth threatening structural stability (mainly at Qal'at Salah El-Din; vegetation at the Crac is described as largely under control), widespread degradation of lime-mortar joints and illegal construction in the Crac buffer zone; at Qal'at Salah El-Din it describes residual risks including urgent structural stabilisation, a recommendation to consolidate the most vulnerable sections of the eastern ramparts, an outdated 2020 condition assessment and a shortage of qualified personnel and insufficient financial resources, plus a need for a fire-protection perimeter in the buffer zone. The 2024 decision regretted that a Heritage Impact Assessment was not submitted before the restoration of the Crac's stable and counterscarp walls, and the mission report, as summarised, found the northern stable facade reconstruction remains overly impactful, carried out without considering alternatives and without prior referral to the World Heritage Centre. The Committee in 2026 also asked for a master plan for the Crac, a landscape planning framework for the buffer zone, and a sustainable tourism strategy.",
+      "first_identified_date": null,
+      "date_note": "Chronic and cumulative; the 2023 desired state of conservation includes restoration of deteriorated or compromised attributes, but no single start date is stated in the sources read.",
+      "source_ids": [
+        "src_02",
+        "src_07",
+        "src_03",
+        "src_04",
+        "src_01"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The 6 February 2023 earthquake caused additional damage at both castles. The Committee (45 COM 7A.44, 2023) expressed concern at additional damage from the earthquake and welcomed works planned under an Emergency Assistance request approved in March 2023; in 2025 (47 COM 7A.52) it welcomed collaborative efforts that have addressed the earthquake damage at the Crac. An ALIPH project page lists emergency restoration works at the Crac after the earthquake as ongoing, with an Action Plan grant listed as $100,000. AFP, quoting the Qal'at Salah El-Din custodian in March 2023, reported that one tower had already fallen and that all the fortress's towers were in danger; this is a single reported statement from 2023 and not a current assessment. The 2025 mission report, as summarised, records that the earthquake caused additional collapses. In 2026 the Committee welcomed a national disaster risk reduction plan for Syrian World Heritage properties and the State Party's intention to prepare a site-specific risk management plan.",
+      "first_identified_date": "2023-02-06",
+      "date_note": "Date of the earthquake as given in the ALIPH project title and in AFP's March 2023 reporting.",
+      "source_ids": [
+        "src_04",
+        "src_01",
+        "src_02",
+        "src_10",
+        "src_11",
+        "src_07"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met on the evidence read. (1) Severe verified damage materially affecting survival: the closest area is Qal'at Salah El-Din, where the October 2025 mission report (as summarised) describes structural collapses, a recommendation to consolidate the vulnerable eastern ramparts and a need for urgent stabilisation, and the 2026 Committee regrets that measures are insufficient; but these are described as residual risks and inadequate scope of conservation, and no source read describes destruction of a significant part of the property that currently threatens its survival. (2) Active combat zone: the mission report, as summarised, says conflict-related damage at the Crac has not been recorded since March 2014 and judges conflict threats to have ceased; no reporting of fighting at or adjacent to either component was found in the sources read, though regional security reporting was not systematically reviewed in this pass. (3) Inaccessible to monitoring: a joint World Heritage Centre/ICOMOS mission made field visits on 20-21 October 2025 (mission programme 18-24 October) and the State Party submitted state-of-conservation reports. (4) Collapse of protection: national management and reporting continue. High Concern trigger matched: the property is on UNESCO's List of World Heritage in Danger (2013 to present, confirmed on the UNESCO property page and retained in decision 48 COM 7A.17 in 2026) for substantive, conflict-related reasons, and the Committee states the DSOCR has not been achieved at Qal'at Salah El-Din. A second High trigger, damaging event within roughly five years not fully repaired, also partly applies (February 2023 earthquake damage, with the ALIPH page listing works at the Crac as ongoing, the Committee in 2025 describing the Crac damage as addressed and the mission summary describing most earthquake restoration there as completed; additional collapses at Qal'at Salah El-Din are recorded by the mission), but the status rests on the danger listing. This is a close call between High and Moderate: the Committee in 2026 commended the Crac for implementing its corrective measures, and the mission concluded the Crac is no longer subject to the threats that justified listing. The property is, however, inscribed and listed as a single serial property, and the second component has not met the desired state, so the dossier does not downgrade the whole property. A reviewer may weigh the diverging components differently, and may also ask whether the Qal'at Salah El-Din situation approaches Critical.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Between 2012 and March 2014 the Crac des Chevaliers was a rebel-held position and was bombarded; UNESCO listed all six Syrian properties as in danger in 2013. That history is in the timeline. What is true now, on the evidence read, is narrower. The Crac has been the subject of a sustained recovery effort: the 2026 Committee decision commends significant progress there, with corrective measures carried out through high-quality conservation work, and the October 2025 mission found no conflict-related damage since March 2014. Against that, Qal'at Salah El-Din, the second half of the same inscription, has seen only urgent risk-mitigation measures according to the Committee, which says they are insufficient for long-term conservation, with outdated condition documentation, a shortage of qualified personnel and unresolved fire and buffer-zone issues according to the mission report as summarised. Earthquake restoration at the Crac is described in the mission summary as mostly completed (the ALIPH page still lists works as ongoing), but a 2023 statement from the Qal'at Salah El-Din custodian that all towers were in danger has not been updated by anything read. The Committee retained the property on the Danger List in 2023, 2024, 2025 and 2026. These are substantive, officially recognised, unresolved concerns at the property level, which is what High Concern describes, rather than an active acute emergency (Critical) or merely chronic and monitored pressures (Moderate). Confidence is Supported rather than Confirmed: the Committee decisions and the Danger List status were read directly, but the 2026 State of Conservation report and Secretariat assessment could not be retrieved (UNESCO served a bot-check page), the 2025 mission report was read only in a truncated machine summary, and no independent recent reporting on Qal'at Salah El-Din's physical condition was found. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_07",
+        "src_08",
+        "src_10",
+        "src_11"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four, including a visual and a technical/scholarly category). Coverage is strongly uneven between the two components: every item found specifically documents the Crac des Chevaliers, and none was found for Qal'at Salah El-Din beyond UNESCO's own pages and the mission and Committee documents. The 3D evidence (a French Ministry of Culture media-library entry credited to Iconem, and a 2016 platform blog saying a model was released on Sketchfab) was not opened interactively, and its model appears to represent the castle at a 1930 state; no virtual tour was found (a Google Arts & Culture story exists but contains no street view or tour). The UNESCO gallery shows photographs by UNESCO staff and is not a complete or recent survey. A reviewer may wish to consider whether this Crac-only coverage should temper the tier to moderate. Verifier note (round 1): the UNESCO gallery and documents pages could not be re-opened by the verifier (403), and the gallery size is uncounted, so the photographic category rests on an unquantified gallery; the 3D category rests on a platform blog and ministry entries rather than an opened model. With both thin and nothing found for Qal'at Salah El-Din, moderate is arguably the better-supported tier; left for the reviewer.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property, with images credited to UNESCO photographers (including Jean-Pierre Heim and Ron Van Oers).",
+        "url": "https://whc.unesco.org/en/list/1229/gallery/",
+        "source_id": "src_09"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 2006 nomination text, annexes and ICOMOS advisory body evaluation, State Party and Committee state-of-conservation reports and the 2025 mission report.",
+        "url": "https://whc.unesco.org/en/list/1229/documents/",
+        "source_id": "src_08"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "The French Ministry of Culture's archaeology website hosts a media-library entry for a 3D model of the Krak des Chevaliers credited to Iconem, and a second entry describing the site as digitised by Iconem; a 2016 Sketchfab blog post says Iconem released a 3D model of the castle, created under its Syrian Heritage project with Syria's antiquities directorate. Crac des Chevaliers only.",
+        "url": "https://archeologie.culture.gouv.fr/crac-chevaliers/en/mediatheque/mjswm-mn-am-1930-thlathy-alabad",
+        "source_id": "src_16"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "The monograph Le Crac des Chevaliers. Histoire et architecture by Jean Mesqui and Maxime Goepp (Paris, 2018, Academie des Inscriptions et Belles-Lettres, Memoire 54) was reviewed in the Bulletin critique des Annales islamologiques (no. 34, 2020).",
+        "url": "https://www.ifao.egnet.net/bcai/34/57",
+        "source_id": "src_19"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Second French Ministry of Culture media-library entry describing the Krak des Chevaliers as digitised by Iconem (format not confirmed from the page).",
+        "url": "https://archeologie.culture.gouv.fr/crac-chevaliers/en/mediatheque/krak-des-chevaliers",
+        "source_id": "src_17"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Sketchfab community blog (25 April 2016) stating Iconem released a 3D model of the Krak des Chevaliers on Sketchfab as part of its Syrian Heritage project with Syria's antiquities directorate.",
+        "url": "https://sketchfab.com/blogs/community/museum-spotlight-iconem",
+        "source_id": "src_15"
+      },
+      {
+        "category": "archival_records",
+        "description": "Culture in Crisis / ALIPH-funded project page (listed as complete) for creating 3D restitutions of the Crac's sculpted-decoration casts made by Paul Deschamps in 1927-28 (preserved in Paris) and digitising the related documentation; the page does not say whether outputs are public, so this is supporting context only and not counted as public evidence.",
+        "url": "https://cultureincrisis.org/projects/documenting-the-sculpted-decoration-of-the-crac-des-chevaliers",
+        "source_id": "src_18"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012",
+      "title": "Crac des Chevaliers becomes a military position in the Syrian conflict",
+      "description": "Press and a Google Arts & Culture story place the castle under opposition control and in use as a military base from 2012, with bombardment and damage to structures between 2012 and 2014; Asharq Al-Awsat says it became a battleground and closed to visitors in 2012. Middle East Eye (undated, flagged) reports opposition forces took it in spring 2012. Specific damage details are drawn from that undated article and are not repeated here.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_14",
+        "src_12",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2013-06-20",
+      "title": "All six Syrian World Heritage properties placed on the Danger List",
+      "description": "The World Heritage Committee, at its 37th session in Phnom Penh, decided to place Syria's six World Heritage properties, including the Crac des Chevaliers and Qal'at Salah El-Din, on the List of World Heritage in Danger to draw attention to the risks they face because of the situation in the country. UNESCO's property page shows the listing in force from 2013 to the present.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2014-02-20",
+      "title": "UNESCO Director-General condemns military use of Crac des Chevaliers",
+      "description": "Irina Bokova stated that Palmyra, the Crac des Chevaliers and Aleppo including the citadel were being used for military purposes, which she said raised the risk of imminent and irreversible destruction, and appealed for removal of all military presence.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2014-03",
+      "title": "Government forces retake the Crac; no further conflict damage recorded since",
+      "description": "Middle East Eye (flagged as undated) reports government forces retook the castle in March 2014. The October 2025 joint mission report, as summarised, gives 20 March 2014 as the date the State Party regained control and states that no further conflict-related damage has been recorded at the Crac since March 2014.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_07",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2020-10",
+      "title": "Volunteers clear vegetation at the Crac",
+      "description": "Asharq Al-Awsat reported on 24 October 2020 that dozens of volunteers were cutting grass, shrubs and dead trees at the castle to reduce forest-fire risk; a university official quoted said more than 400 volunteers had come to clear vegetation and other fire hazards. It reported sightseers had been welcomed back in late 2018.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2023-02-06",
+      "title": "Earthquake damages both castles",
+      "description": "The 6 February 2023 earthquake caused additional damage. AFP, quoting the Qal'at Salah El-Din custodian in March 2023, reported that one tower had already fallen and that all the fortress's towers were in danger. UNESCO's Committee later recorded concern at additional damage and welcomed Emergency Assistance works approved in March 2023. ALIPH lists emergency restoration works at the Crac after the earthquake.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_11",
+        "src_04",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee decision 45 COM 7A.44 adopts the desired state of conservation",
+      "description": "The Committee adopted a DSOCR and corrective measures with a three-year implementation timeframe, asked for a Heritage Impact Assessment for the Crac's stables and counterscarp walls, welcomed progress on buffer-zone protection and fire-risk mitigation at Qal'at Salah El-Din, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.31 retains the property in danger",
+      "description": "The Committee regretted that a Heritage Impact Assessment was not submitted before restoration of the stable and counterscarp walls, noted the works and consolidation at the Crac, reiterated the need for a Reactive Monitoring mission, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.52 retains the property in danger",
+      "description": "The Committee welcomed collaborative efforts that have addressed the 2023 earthquake damage at the Crac, asked for clear documentation of restoration work at Qal'at Salah El-Din, requested a joint mission, and decided to retain the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "title": "Joint World Heritage Centre/ICOMOS Reactive Monitoring mission (field visits 20-21 October 2025)",
+      "description": "The mission assessed progress towards the desired state of conservation. As summarised, it concluded the Crac des Chevaliers is no longer subject to the threats that justified listing, while Qal'at Salah El-Din has not yet met the DSOCR, and gave immediate and urgent recommendations including consolidating the most vulnerable sections of its eastern ramparts and updating the 2020 condition assessment.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_07",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.17 retains the property in danger",
+      "description": "The Committee commended progress at the Crac and regretted that conservation at Qal'at Salah El-Din has been limited to urgent measures and is insufficient; it welcomed a national disaster risk reduction plan, requested implementation of the mission recommendations and a report by 1 February 2027 for the 49th session, and decided to retain the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Crac des Chevaliers and Qal'at Salah El-Din",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1229/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 47 COM 7A.52: Crac des chevaliers and Qal'at Salah El-Din (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8719",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.17: Crac des chevaliers and Qal'at Salah El-Din (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9008",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.31: Crac des chevaliers and Qal'at Salah El-Din (Syrian Arab Republic) (C 1229)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8500",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7A.44: Crac des chevaliers and Qal'at Salah El-Din (Syrian Arab Republic) (C 1229)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8207",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Syria's Six World Heritage sites placed on List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1038/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2013-06-20",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "UNESCO Director-General condemns military presence and destruction at World Heritage Sites in Syria",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1108/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2014-02-20",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Report of the joint World Heritage Centre/ICOMOS Reactive Monitoring mission to Crac des Chevaliers and Qal'at Salah El-Din (Syrian Arab Rep.), 20-21 October 2025",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/226794",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Retrieved as a machine-generated summary of the PDF, which was flagged as truncated; only the portions summarised were relied on, and no exact figures or quotations are taken from it beyond those shown.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Crac des Chevaliers and Qal'at Salah El-Din: Documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1229/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Crac des Chevaliers and Qal'at Salah El-Din: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1229/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Emergency restoration works of Crac des Chevaliers following the Earthquake of 6 February 2023",
+      "publisher": "ALIPH Foundation",
+      "url": "https://www.aliph-foundation.org/en/projects/emergency-restoration-works-of-crac-des-chevaliers-following-the-earthquake-of-6-february-2023",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "ALIPH is an international heritage-protection foundation (Tier 1 per the project's source hierarchy); the project page gives only the year 2023, no start or end dates, and does not name a funder.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Syrian castle among quake-hit ancient sites at risk (AFP report on the Fortress of Saladin)",
+      "publisher": "Oman Observer (carrying AFP)",
+      "url": "https://www.omanobserver.om/article/1134089/features/culture/syrian-castle-among-quake-hit-ancient-sites-at-risk",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Statements about the Fortress of Saladin come from its custodian as quoted by AFP; used only for the reported post-earthquake situation at Qal'at Salah El-Din in March 2023, not for current condition.",
+      "published_date": "2023-03-13",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Syrians spruce up famed Crusader castle after years of war",
+      "publisher": "Asharq Al-Awsat (English)",
+      "url": "https://english.aawsat.com/node/2583631",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The article text names no wire agency (photo credited to AFP); used for context and for the 2020 vegetation-clearing event only.",
+      "published_date": "2020-10-24",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Inside the medieval castle that survived a 21st century war",
+      "publisher": "Middle East Eye",
+      "url": "https://acquiaprod.middleeasteye.net/node/127831",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The article carries no visible publication date or author on the mirrored page retrieved; internal references suggest roughly 2019, which is an inference. Used only as corroboration of the 2012-2014 military use and March 2014 recapture, never as sole support.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_14",
+      "title": "The Krak des Chevaliers (Eternal Sites story)",
+      "publisher": "Google Arts & Culture / Rmn-Grand Palais",
+      "url": "https://artsandculture.google.com/story/6gWxTjNfndR2Kw",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "Appears to be a draft-stage story (it contains a paragraph marked as likely to be deleted); used only for the 2012-2014 summary of military use and for noting that it shows a 2016 3D modelling image and no street-view tour.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_15",
+      "title": "3D digitalisation: an invaluable tool to preserve Syrian heritage (Iconem on Sketchfab)",
+      "publisher": "Sketchfab community blog",
+      "url": "https://sketchfab.com/blogs/community/museum-spotlight-iconem",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Platform blog describing Iconem's own work; supports existence and approximate release date of a 3D model, not its quality or current availability, which were not independently checked.",
+      "published_date": "2016-04-25",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Model of the Krak des Chevaliers 1930 (media library)",
+      "publisher": "Archeologie.culture.fr, French Ministry of Culture",
+      "url": "https://archeologie.culture.gouv.fr/crac-chevaliers/en/mediatheque/mjswm-mn-am-1930-thlathy-alabad",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Credited to ICONEM. The page title indicates a model of the castle as of 1930; its construction method was not described and the model was not opened interactively in this pass.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Krak des Chevaliers (media library entry: site digitised by Iconem)",
+      "publisher": "Archeologie.culture.fr, French Ministry of Culture",
+      "url": "https://archeologie.culture.gouv.fr/crac-chevaliers/en/mediatheque/krak-des-chevaliers",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Page states the site was digitised by Iconem; the format of the resource was not confirmed from the page text.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Documenting the Sculpted Decoration of the Crac des Chevaliers",
+      "publisher": "Culture in Crisis (ALIPH-funded)",
+      "url": "https://cultureincrisis.org/projects/documenting-the-sculpted-decoration-of-the-crac-des-chevaliers",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Page lists the project as complete and describes 3D restitutions of 1927-28 casts and digitisation of the documentation; it does not say whether outputs are public, so used only as supporting context.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Review of Le Crac des Chevaliers. Histoire et architecture (Mesqui and Goepp, 2018)",
+      "publisher": "Bulletin critique des Annales islamologiques (IFAO), no. 34 (2020)",
+      "url": "https://www.ifao.egnet.net/bcai/34/57",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2020",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Crac des Chevaliers (place record)",
+      "publisher": "Syriaca.org",
+      "url": "https://syriaca.org/place/272",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Gives latitude and longitude citing Pleiades; used for metadata only.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Sahyun Castle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sahyun_Castle",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4; used only for the printed coordinates of the Qal'at Salah El-Din component.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-11",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Moderate (Crac des Chevaliers progress) flagged in decision_trigger, with a note on whether Qal'at Salah El-Din approaches Critical. Known gaps: (1) UNESCO State of Conservation pages (whc.unesco.org/en/soc/4962 for 2026 and /soc/4825 for 2025) returned a bot-check page and were not read, so the State Party's 2026 report and the Secretariat's assessment are unseen; only Committee decisions were read. (2) The October 2025 mission report (whc.unesco.org/document/226794) was read only through a truncated machine summary; no quotations beyond that summary are used. (3) 45 COM 7A.46 (general decision on Syria), 45 COM 8B.67 (minor boundary modification) and the 2013 decision 37 COM 7B.57 were not read. (4) No independent journalism after 2023 on the physical condition of Qal'at Salah El-Din or of the Crac was found. (5) Regional security reporting for Homs and Latakia provinces from 2025-2026 was not systematically reviewed and no site-specific conflict reporting was found. (6) The Middle East Eye article is undated; its detailed damage claims were deliberately not repeated. (7) The Arab News 2020 article on the Crac and arabnews.com were not accessible to the fetch tools and were not used. (8) The 3D model and Sketchfab release were not opened interactively; the exact UNESCO gallery size was not counted. (9) Month of Committee sessions for 2023-2026 decisions not confirmed from decision pages, so years only. Images omitted by design. VERIFIER ROUND 1 (2026-10-11): 11 edits after checking UNESCO decisions 45-48 COM, news 1038/1108, mission report summary, ALIPH, AFP, Asharq Al-Awsat, MEE, Arts & Culture, ministry and Sketchfab pages, IFAO, Syriaca. Fixes: Qal'at Salah El-Din conflict history corrected per mission report (temporarily occupied, access limited to 2016, collapses 2017/2019); 'implemented' softened to the Committee's 'carried out/commends progress'; vegetation-root threat located mainly at Qal'at; earthquake repair status reconciled with mission summary; Culture in Crisis project no longer described as holding documents in France or as future work and not counted as public archival evidence; 20 March 2014 added; DPI caveat added. Not verified: UNESCO gallery/documents pages, Wikipedia coordinates, 3D models. VERIFIER ROUND 2 (2026-10-12): re-read UNESCO decisions 45-48 COM, news 1038/1108, property page and the mission report (via WebFetch); fixes: removed 'minor' (not in report) for the Qal'at occupation damage; 'roots penetrating masonry' replaced by the report's uncontrolled vegetation growth; 'incomplete consolidation' of eastern ramparts reworded as the mission's recommendation; 'limited staff and equipment' aligned to the report's personnel/financial shortage; northern stable facade wording aligned to report (no alternatives, no prior referral; the HIA regret is the Committee's); mission field visits 20-21 Oct (programme 18-24 Oct). Not re-verified in round 2 (fetch permission not granted): ALIPH, Oman Observer/AFP, Asharq Al-Awsat, MEE, Arts & Culture, ministry pages, Sketchfab (empty fetch), Syriaca, Wikipedia, UNESCO gallery/documents pages.",
+      "changed_by": "claude"
+    }
+  ]
+}

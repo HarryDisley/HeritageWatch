@@ -1,0 +1,505 @@
+{
+  "slug": "historic-town-of-zabid",
+  "name": "Historic Town of Zabid",
+  "alternate_names": [
+    "Zabid",
+    "Zabid (Yemen)"
+  ],
+  "country": "Yemen",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 14.1954,
+    "lng": 43.3155
+  },
+  "coordinate_note": "Converted from the coordinates on UNESCO's property page (N 14 11 43.2, E 43 18 55.9; Al-Hudayda Governorate). Single reference point for the town.",
+  "unesco_id": "611",
+  "inscription_year": 1993,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Zabid is a circular fortified town on the Tihama coast of western Yemen, supplied with water by canals. UNESCO describes its domestic and military architecture and urban plan as an outstanding archaeological and historical site. It was Yemen's capital from the 13th to 15th centuries and an important centre of Islamic learning, with about 86 mosques (the highest concentration in Yemen) and 14 Rasulid-period madrasas, and the most characteristic example of Tihama-style courtyard houses. It is inscribed under criteria (ii), (iv) and (vi).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "This is the best-documented and longest-running threat. UNESCO's 2000 Danger List factors cite serious deterioration of the built heritage, with many houses replaced by concrete and multi-storey buildings, remaining houses decaying because residents have low incomes, souq activity moving outside the city, and the absence of a conservation strategy. In 2023 the Committee (45 COM 7A.47) expressed concern that the town has incurred irreversible damage, and its 2025 and 2026 decisions (47 COM 7A.54, 48 COM 7A.19) say the Outstanding Universal Value remains threatened by fragile historic structures and socioeconomic conditions. UNESCO's 2025 state-of-conservation page reproduces the Danger List inscription reasoning (the old souk nearly empty because souk activity moved outside the city, and remaining houses decaying because of residents' low income); that wording dates from the 2000 inscription rather than being a fresh 2025 survey. Responses are also documented: UNESCO's state-of-conservation pages report 187 houses rehabilitated under the EU-funded project as of the report submitted in January 2022, and over 85 houses rehabilitated and returned to owners under phase 2 of the UNESCO/EU youth employment project as of the 2025 page; the Supreme Committee for the Protection of Zabid has been activated; illegal constructions have been removed (48 in 2024 according to UNESCO's 2025 page; the State Party's January 2026 report says illegal structures were removed in 2025); and the State Party reports that no new building permits will be issued until a 'Zabid guide' is finished. The State Party's January 2026 report also states that studies for roofing, restoration and paving of the old market are complete but implementation has not started because UNESCO Doha suspended the project. The Committee has asked for details of projects at the Old Souk, the northern citadel section, parts of the Alexandria Minaret and Zabid Castle before irreversible decisions, and welcomed preparations for a boundary clarification and minor modification.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-running concern. The earliest dated Committee record in this dossier is decision 24 COM VIII.31 (27 November-2 December 2000 session), which placed the property on the Danger List at Yemen's request (ICOMOS, backing the request, cited the serious condition of the historic buildings); a 2014 Gulf Times opinion piece describes the decline as continuing after inscription in 1993.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_08",
+        "src_10",
+        "src_12",
+        "src_19"
+      ]
+    },
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The Committee's 2025 and 2026 decisions cite ongoing conflict (2026) and armed conflict (2025) as threats to Yemen's cultural heritage and urge all parties to avoid further damage in line with the 1954 Hague Convention and UN Security Council Resolution 2347; UNESCO's 2025 state-of-conservation page lists war and armed conflict among the threats and, summarising the State Party report, says the property remains threatened by the resumption of conflict. The State Party's January 2021 report described armed men arriving in Zabid, which it said lies close to a conflict zone, and a precarious security situation. The State Party's January 2026 report links the town's risks to armed conflict and to ongoing interventions by what it calls the controlling authority, which the local authority says threaten the property's safety; that is the report's own characterisation and was not independently verified. The sources reviewed do not document fighting at the property itself, nor specific conflict-caused destruction at Zabid in recent years. The conflict threat is therefore recorded as a documented, ongoing contextual and access risk (including the repeated postponement of a joint World Heritage Centre/ICOMOS Reactive Monitoring mission 'once the situation allows'), not as a verified combat event at the site.",
+      "first_identified_date": null,
+      "date_note": "The conflict context is long-standing; the earliest conflict-related text in the sources reviewed is the January 2021 State Party report and the 2023 decision. No single start date is claimed.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_08"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Heavy rainfall and flooding repeatedly damage the town's fragile earthen and brick structures. UNESCO's state-of-conservation pages record post-flood interventions on two historic houses after 2019 flooding (Heritage Emergency Fund, 2019-2020), torrential rain that damaged several buildings in August 2022, torrential rains in 2023 (UNESCO's 2024 page), and torrential rains in August 2024 that affected 530 houses, which were surveyed (UNESCO's 2025 page). The Committee's 2025 and 2026 decisions cite heavy rainfall as a factor in the vulnerability of the property. This is recorded as a recurring seasonal hazard acting on already-fragile buildings; the sources reviewed do not report the outcome of repairs to the 530 surveyed houses.",
+      "first_identified_date": null,
+      "date_note": "Recurring hazard rather than a single event. The earliest dated occurrence in the sources reviewed is flood damage in 2019 (year only, per UNESCO's 2021 state-of-conservation page); no precise start date is claimed.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "UNESCO's 2025 state-of-conservation page lists 'other climate changes' among the threats (an earlier threats list on the same page also cites the impact of extreme weather conditions), and the 2025 analysis says heavy rainfall and economic conditions continue to threaten the property's Outstanding Universal Value. The sources reviewed give no further detail, data or projection specific to Zabid on climate-related change, so this category is recorded with limited evidence and overlaps with the rainfall hazard described under natural_disaster.",
+      "first_identified_date": null,
+      "date_note": "Listed on UNESCO's 2025 state-of-conservation page as \"other climate changes\"; no start date or trend data found in the sources reviewed.",
+      "source_ids": [
+        "src_08"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern was considered and is not mechanically triggered on the evidence reviewed: (1) no source reviewed reports fighting at or immediately adjacent to the property, or specific severe conflict damage at Zabid in recent years; (2) the property has not been shown to be inaccessible for monitoring or conservation for 6+ months so that its condition cannot be verified: UNESCO's 2025 page reports a survey of the 530 houses affected by the August 2024 rains and ongoing rehabilitation work with UNESCO, EU and Yemeni partners, although the joint World Heritage Centre/ICOMOS Reactive Monitoring mission has still not taken place 'once conditions allow' (decisions 45 COM 7A.47 through 48 COM 7A.19); (3) protection has not collapsed: the Supreme Committee for the Protection of Zabid is reported active and illegal constructions have reportedly been removed. High Concern trigger matched: the property is on UNESCO's List of World Heritage in Danger (since 2000, per the UNESCO property page, and retained by the Committee in decision 48 COM 7A.19 in 2026) for substantive reasons (conflict context, fragile and deteriorating historic fabric, heavy rainfall, socioeconomic conditions), which is an official at-risk designation. Secondary High Concern element: the sources reviewed document 2024 rain damage affecting 530 houses, surveyed but with repair outcome not reported. This is a close call against Critical Concern: the Committee records 'irreversible damage' (2023), the Danger List reasoning is ongoing, and the State Party's January 2026 report describes continuing threats to the property's safety and a stalled souk project; a reviewer who weighs those more heavily, or who has information about current access and conditions on the ground that this pass could not obtain, could reasonably place the site at Critical Concern. The neighbouring status is Critical Concern.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture, from the Committee's 2026 session (48 COM 7A.19, Busan) and its 2025 predecessor, is of a town whose Outstanding Universal Value the Committee describes as remaining threatened by ongoing conflict, fragile historic structures, heavy rainfall and socioeconomic conditions, and which it has again retained on the Danger List with a 1 February 2027 reporting deadline. Against that, the evidence shows real, funded, documented activity: houses rehabilitated under UNESCO/EU programmes (187 as of UNESCO's 2023 page; over 85 in phase 2 as of the 2025 page), a damage survey after the 2024 rains, removal of illegal structures, reported studies for Zabid Castle, and a State Party that is preparing a boundary clarification. These do not remove the Danger List designation and the Committee has said a Reactive Monitoring mission and a Desired State of Conservation for removal remain to be completed. The classification is therefore High Concern: an official at-risk designation for substantive reasons, with ongoing, documented damage and vulnerability, but without verified combat at the site, collapse of protection or loss of monitoring. Confidence is Supported rather than Confirmed: the decisions and state-of-conservation pages are authoritative and consistent across 2023-2026, but nearly all information comes from UNESCO's reporting process and State Party reports, no independent recent journalism or satellite-based assessment specific to Zabid was found, the Reactive Monitoring mission has not taken place, and the 2026 State of Conservation material was read via the State Party report rather than the Secretariat's own assessment. Confidence does not alter the status.",
+      "effective_date": "2026-10-12",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_06",
+        "src_08",
+        "src_12"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-12",
+      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier moderate accepted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly findable evidence, which gives the moderate tier by the rubric (2-3 categories). No publicly accessible 3D model or virtual tour of Zabid was found. An ALIPH-supported project (2019-2023) documented listed buildings in Zabid, and the same ALIPH project page says Iconem and Cefrepa provided 3D documentation of several endangered urban centres (not named), but the page does not say Zabid was included in the 3D work or that any output is publicly viewable, so the 3D category is marked false. The photographic evidence is UNESCO's own gallery only (page does not state a total; pagination suggests up to 36 images (3 pages of 12)). Coverage reflects what is publicly findable, not necessarily what exists in unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (images credited to Veronique Dauge, (c) UNESCO). The page does not state a total; the gallery has 3 pages of 12 images, so up to 36.",
+        "url": "https://whc.unesco.org/en/list/611/gallery/",
+        "source_id": "src_14"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists Committee decisions from 1993 to 2026, state-of-conservation reports, seven mission reports (1997-2009), the 1993 ICOMOS evaluation, Cycle 3 periodic reporting (2021) and a map of protection zones. No nomination file is listed on that page.",
+        "url": "https://whc.unesco.org/en/list/611/documents",
+        "source_id": "src_13"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Scholarship includes a 2024 article on the town's urban heritage and risks (Alhiagi, Journal of Tourism and Archaeology) and the Royal Ontario Museum's Zabid excavation project described by Edward Keall on the American Institute for Yemeni Studies site, covering trench excavation and the town's changing extent.",
+        "url": "https://www.aiys.org/zabid2",
+        "source_id": "src_18"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "2024 journal article on the universal value of Zabid's urban heritage between conservation and current risks (abstract read on the author's faculty profile).",
+        "url": "https://faculty.ksu.edu.sa/en/yalhiagi/publication/426075",
+        "source_id": "src_17"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1993",
+      "title": "Historic Town of Zabid inscribed on the World Heritage List",
+      "description": "UNESCO records the town as inscribed in 1993 under criteria (ii), (iv) and (vi); its documents page lists the Committee's 1993 inscription decision (17 COM XI).",
+      "event_type": "political",
+      "source_ids": [
+        "src_00",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2000",
+      "title": "Zabid placed on the List of World Heritage in Danger",
+      "description": "At its 24th session (Cairns, 27 November-2 December 2000) the Committee inscribed Zabid on the Danger List following Yemen's own request. ICOMOS supported the findings of a 1999 UNESCO monitoring mission and backed the request, citing the serious condition of the historic buildings. UNESCO's Danger List factors of that year cite serious deterioration of the built heritage, replacement of houses by concrete buildings, an emptied souq and no conservation strategy. The property remains on the List as of 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2019/2020",
+      "title": "Post-flood interventions on two historic houses",
+      "description": "UNESCO's state-of-conservation pages report that two historic houses were consolidated and rehabilitated after 2019 flood damage, supported by the Heritage Emergency Fund (2019-2020).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_11",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2019/2023",
+      "title": "ALIPH-supported architectural assessments of listed buildings",
+      "description": "The ALIPH Foundation lists a 2019-2023 project by Monumenta Orientalia with the Social Fund for Development that carried out detailed architectural assessments of listed heritage buildings in Zabid and other Yemeni cities. The page does not say whether the results are publicly available.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2022-08",
+      "title": "Torrential rain damages several buildings",
+      "description": "UNESCO's 2023 state-of-conservation page records that torrential rain in August 2022 damaged several buildings in the town.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7A.47 on Zabid",
+      "description": "At its extended 45th session (Riyadh, 2023) the Committee retained Zabid on the Danger List, expressed continuing concern that the town has suffered irreversible damage and remains vulnerable to extreme weather and security challenges, commended capacity-building, damage assessment and emergency work, and called again for a Reactive Monitoring mission once the situation allows.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7A.33 on Zabid",
+      "description": "At its 46th session (New Delhi, 2024) the Committee retained Zabid on the Danger List, noted continuing vulnerability from deteriorating historic buildings, extreme weather, security challenges and limited resources, commended damage assessment, documentation and emergency interventions including the second phase of the EU-funded youth employment project, and asked for an updated report by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2024-08",
+      "title": "Torrential rains affect 530 houses",
+      "description": "UNESCO's 2025 state-of-conservation page states that torrential rains in August 2024 affected 530 houses, which were surveyed.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "World Heritage Committee decision 47 COM 7A.54 on Zabid",
+      "description": "The Committee retained Zabid on the Danger List, noted fragile historic structures, heavy rainfall and economic conditions, acknowledged damage assessment, housing rehabilitation, documentation and emergency interventions, and urged all parties to the conflict to avoid further damage to Yemen's cultural heritage. It asked for an updated report by 1 February 2026. The month reflects UNESCO's page stating the report was reviewed at the 47th session in July 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2025-08",
+      "title": "UN in Yemen video story on restoration of historic homes in Zabid",
+      "description": "A United Nations in Yemen page dated 21 August 2025 describes an engineer of the Social Fund for Development restoring historic homes in Zabid with UNESCO and EU funding, and says political unrest, negligence and climate challenges have pushed many centuries-old homes to the brink of collapse.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "title": "State Party submits updated state of conservation report",
+      "description": "The January 2026 State Party report records eight houses rehabilitated and returned to owners under a Cash-for-Work project with UNESCO Doha, removal of illegal structures in 2025, and activation of the Supreme Committee for the Protection of Zabid, and states that old-market restoration studies are complete but implementation has not started because UNESCO Doha suspended the project. It also states that boundary clarification and minor modification proposals have reportedly been prepared.",
+      "event_type": "other",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.19 on Zabid",
+      "description": "At its 48th session (Busan, 2026) the Committee retained Zabid on the Danger List, said its Outstanding Universal Value remains threatened by ongoing conflict, fragile historic structures, heavy rainfall and socioeconomic conditions, welcomed preparations for a boundary clarification and minor modification, called for a Reactive Monitoring mission once conditions allow, and asked the State Party for an updated report by 1 February 2027. Month of the session not confirmed in this pass.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_00"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Historic Town of Zabid",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/611/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.19: Historic Town of Zabid (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9010",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.54: Historic Town of Zabid (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8721",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.33: Historic Town of Zabid (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8502",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7A.47: Historic Town of Zabid (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8243",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 24 COM VIII.31: Historic Town of Zabid (Yemen), inscription on the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/2390",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2000",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_06",
+      "title": "State Party Report on the State of Conservation: Historic Town of Zabid, Yemen (Inscribed on the World Heritage List in Danger), January 2026",
+      "publisher": "UNESCO World Heritage Centre (document submitted by the State Party)",
+      "url": "https://whc.unesco.org/document/224570",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party's own report: its statements about the local situation and about actors in the area are the State Party's characterisation and were not independently verified here. The document uses two spellings of the national authority's acronym (GOPHCY/GOPHCV).",
+      "published_date": "2026-01",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State Party Report on the State of Conservation of Historic Town of Zabid, Yemen, January 2021",
+      "publisher": "UNESCO World Heritage Centre (document submitted by the State Party)",
+      "url": "https://whc.unesco.org/document/200080",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party's own report; used only for what it reports about 2021 conservation measures and the security context, as the State Party describes them.",
+      "published_date": "2021-01",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Historic Town of Zabid: State of Conservation 2025 (47th session)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4752",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Historic Town of Zabid: State of Conservation 2024 (46th session)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4556",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Historic Town of Zabid: State of Conservation 2023 (45th session)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4307",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Historic Town of Zabid: State of Conservation 2021 (44th session)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4028",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Historic Town of Zabid: threats (List in Danger factors, 2000)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/611/threats/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Historic Town of Zabid: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/611/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Historic Town of Zabid: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/611/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The gallery page does not state a total number of images; it has 3 pages of 12 images (up to 36).",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_15",
+      "title": "UNESCO Yemen: Reviving Zabid: A Young Engineer's Mission",
+      "publisher": "United Nations in Yemen",
+      "url": "https://yemen.un.org/en/node/300244",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Short video-story page; gives no figures for houses restored or funding amounts.",
+      "published_date": "2025-08-21",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Documentation of endangered architectural heritage of Yemen",
+      "publisher": "ALIPH Foundation",
+      "url": "https://aliph-foundation.org/en/projects/documenting-yemeni-built-heritage-at-risk",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "Project description page; it does not say whether the resulting documentation is publicly available, so it is not used as evidence for any Digital Preservation category. The page also mentions 3D documentation of several unnamed urban centres by Iconem and Cefrepa; Zabid is not stated to be among them.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_17",
+      "title": "The Universal Value of the Urban Heritage in the Historic Town of Zabid between conservation and current risks (Y. H. I. Alhiagi)",
+      "publisher": "Journal of Tourism and Archaeology (Riyadh), vol. 36, issue 1, pp. 41-53; via King Saud University faculty profile",
+      "url": "https://faculty.ksu.edu.sa/en/yalhiagi/publication/426075",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Only the abstract on the author's faculty profile page was read; the article itself and the journal's standing were not independently checked.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Excavating Zabid: the Royal Ontario Museum Yemen Project (E. Keall)",
+      "publisher": "American Institute for Yemeni Studies",
+      "url": "https://www.aiys.org/zabid2",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_19",
+      "title": "A glimmer of light in a dark era of Zabid urban history (Dr Kamal Bittar)",
+      "publisher": "Gulf Times",
+      "url": "https://www.gulf-times.com/story/399270/a-glimmer-of-light-in-a-dark-era-of-zabid-urban-history",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Opinion-style piece by an official of the Arab Regional Center for World Heritage, an organisation involved in the rehabilitation work it describes; used only as background corroboration of chronic urban decline, not as sole support for any claim.",
+      "published_date": "2014-07-05",
+      "accessed_date": "2026-10-12"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-12",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. Proposed Digital Preservation tier: moderate (3 of 5 categories). Known gaps (not included because not verified): (1) The Secretariat's 2026 state-of-conservation assessment was not read; the 2026 evidence is the Committee decision 48 COM 7A.19 and the January 2026 State Party report (document 224570), whose statements are the State Party's own. (2) No independent recent journalism, satellite imagery (UNOSAT) or on-site monitoring report specific to Zabid was found, so current on-the-ground condition rests on UNESCO and State Party reporting; no source reviewed documents fighting at the site. (3) The Reactive Monitoring mission has not taken place; mission reports on UNESCO's page date from 2009 or earlier and were not read. (4) Repair outcomes for the 530 houses affected by the August 2024 rains are not reported in sources reviewed. (5) The UNESCO/EU youth employment project end year is given as 2026 on the 2024 page and 2025 on the 2025 page; house counts come from different report dates and are not directly comparable (187 houses as of the report submitted in January 2022; over 85 in phase 2 as of the 2025 page; eight in the January 2026 State Party report's Cash-for-Work project). (6) Exact session month for 48 COM 7A.19 was not confirmed. (7) An Al-Monitor 2015 piece on Zabid was only partly readable (paywall) and was not used. (8) ALIPH 'Yemeni Heritage Recorded' (2020-2022, Iconem/CEFREPA) names no specific sites on its page and was not used. (9) The 2025 state-of-conservation page was read at the French-language URL but the content read was in English. (10) The UNESCO property page lists 2010 integrity text (e.g. vulnerable structures, encroachment); those figures were not used because their scope and date could not be confirmed. Images omitted by design. | Verifier pass 2026-10-12: (a) 2025 SOC page souk/low-income wording reattributed as the 2000 Danger List reasoning reproduced, not a 2025 finding; (b) 'risk of renewed fighting' and 'heavy rainfall and extreme weather/climate-related changes' corrected to the page's actual wording ('threatened by the resumption of conflict', 'other climate changes'); (c) 2000 decision: serious-condition rationale attributed to ICOMOS, not Yemen's request; (d) 45 COM 7A.47 no longer says 'documentation' was commended; (e) ALIPH title corrected and 3D note fixed (same project page, Zabid not named in 3D work); (f) gallery count clarified (3 pages x 12); (g) 'Province' -> 'Governorate'.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-12",
+      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier moderate accepted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}

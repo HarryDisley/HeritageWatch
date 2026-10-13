@@ -1,0 +1,569 @@
+{
+  "slug": "kyiv-saint-sophia-and-kyiv-pechersk-lavra",
+  "name": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+  "alternate_names": [
+    "Saint-Sophia Cathedral and Kyiv-Pechersk Lavra",
+    "Kyiv Pechersk Lavra",
+    "Kyiv Monastery of the Caves",
+    "Kiev-Pechersk Lavra"
+  ],
+  "country": "Ukraine",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 50.4529,
+    "lng": 30.5143
+  },
+  "coordinate_note": "Converted from the component coordinates on UNESCO's maps page for the property: Saint-Sophia Cathedral N50 27 10.28, E30 30 51.58 (used for this marker). The inscription has three components in different parts of Kyiv: Saint-Sophia Cathedral (5.02 ha), the Kyiv-Pechersk Lavra (N50 26 2.16, E30 33 30.15; 22.9 ha, roughly 3 km to the south-east) and the Church of the Saviour at Berestove (N50 26 14.6, E30 33 17.7; 0.6 ha). A reviewer may prefer a different representative point; most of the damage recorded in 2026 was at the Lavra.",
+  "unesco_id": "527",
+  "inscription_year": 1990,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": "This profile covers the whole UNESCO inscription (id 527), which UNESCO's maps page shows as three components: Saint-Sophia Cathedral, the Kyiv-Pechersk Lavra and the Church of the Saviour at Berestove. Threat and condition evidence differs by component (the 2026 damage was concentrated at the Lavra), so a later schema may split them.",
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes two main components. Saint-Sophia Cathedral in central Kyiv was built in the early 11th century as the main church of the capital of Kyivan Rus' and was designed to rival Hagia Sophia in Constantinople. The Kyiv-Pechersk Lavra monastery, founded in the 11th century, is known for its cave churches and Ukrainian Baroque buildings and has long been a major Christian pilgrimage centre. The property was inscribed in 1990 under cultural criteria (i), (ii), (iii) and (iv), with minor boundary modifications in 2005 and 2021, and covers 28.52 ha with a 476.08 ha buffer zone.",
+  "metadata_sources": [
+    "src_00",
+    "src_01"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The property was inscribed on the List of World Heritage in Danger in 2023 because of the war, and the World Heritage Committee retained it there in 2024 (46 COM 7A.4), 2025 (47 COM 7A.24) and 2026 (48 COM 7A.30). The Committee's 2026 decision expresses utmost concern at the intensification of threats arising from the ongoing war and expresses grave concern about significant damage to the Dormition Cathedral, parts of the Lavra's fortification complex and the Ivan Kushnyk Tower during a large-scale attack on Kyiv on 15 June 2026. UNESCO reported damage to the eastern facade of Saint-Sophia Cathedral after an attack on 10 June 2025. Ukraine's Culture Minister reported damage to the entrance of the Far Caves and a church facade at the Lavra after an attack on the night of 24 January 2026, and stated it was the first damage from military action recorded on the Lavra's territory since the Second World War. The Lavra's director put the cost of repairing the June 2026 damage at over 500 million UAH (not final) and the time at around two years; the AFP report of his estimate notes that Moscow says a misfiring US-made Patriot missile, not Russian drones, struck the site, while Ukraine says Russian drones caused the damage. The Committee's decision does not name the perpetrator of the 15 June attack but repeats its call on the Russian Federation to avoid any action that could damage the property. The evidence reviewed shows recurring air strikes on Kyiv rather than ground fighting at the property, and UNESCO has been able to carry out a monitoring mission (February 2026) and a damage assessment (completed in July 2026). Historical damage is documented in the site's record and in events[] below, but the current classification is based on present conditions and the most recent credible evidence.",
+      "first_identified_date": null,
+      "date_note": "UNESCO's 2023 news item says the site has been under permanent threat since the full-scale invasion began on 24 February 2022. The first date on which the property itself was damaged was not established; the earliest dated damage documented here is 10 June 2025 (Saint-Sophia Cathedral), although the Culture Minister stated the January 2026 damage was the first recorded at the Lavra since the Second World War.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_17",
+        "src_18"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Two related strands. (1) Incomplete repair of the June 2026 damage: UNESCO's assessment, completed in July 2026 and relayed in an August 2026 report, found extensive damage to the Dormition Cathedral with more than 80% of its roof affected and damage to the upper structure; emergency measures have provided short-term stability but further work is needed, including stabilising the north-eastern dome drum, securing masonry, protecting exposed sections and structural investigations before the permanent roof can be rebuilt (the Lavra's director gave an earlier figure of nearly 80% of the roof damaged). A New York Times report republished on 22 September 2026 describes the roof covered in plastic sheeting and cupola windows boarded up, with the Culture Ministry considering a stronger covering against winter snow and reconstruction dependent on funding, while the gilded iconostasis survived. UNESCO issued a tender notice on 5 September 2026 for a detailed design to consolidate and reconstruct the roof, which it describes as significantly damaged. AFP reports the cathedral had been almost entirely destroyed in the Second World War and rebuilt in the 1990s. (2) Management and planning pressures raised by the Committee: it asked Ukraine to amend and resubmit the Management Plan (2024, 2025) and to finalise it (2026), found in 2024 that risk preparedness was not yet sufficient (particularly analysis of how nearby missile strikes could affect building fabric), and in 2024 and 2025 asked for buffer-zone regulations to be refined to prevent urbanisation of green areas such as the Pechora-Navodnytska hill slopes; in 2026 it also invited progress on the new Kyiv City Master Plan and the Historical and Architectural Reference Plan and encouraged systematic heritage impact assessments.",
+      "first_identified_date": null,
+      "date_note": "Management Plan and buffer-zone concerns are recurring items in Committee decisions from at least 2024 (the earliest decision read for this dossier); the repair-incompleteness aspect dates from the 15 June 2026 strike.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_15",
+        "src_16"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "A journal article by Demchyshyn and Kril of the Institute of Geological Sciences, National Academy of Sciences of Ukraine (Science and Innovation, vol. 15 no. 3, a 2019 issue that the journal page shows as posted online on 4 September 2024) describes the Lavra reserve as lying on difficult engineering-geological terrain on the right-bank slopes of the Dnipro valley, where stability depends on retaining and water-regulating structures. The authors attribute slope (landslide) processes to active erosion of the Dnipro's right bank, large earthworks in the 17th-18th centuries and protective structures that are poorly matched to the scale of the processes or perform inefficiently, and recommend better maintenance, a monitoring system and planning that accounts for unusual weather and hydrological events. This is a chronic, studied geotechnical concern; the sources reviewed do not report a recent slope failure at the property, and it is not used to support the status.",
+      "first_identified_date": null,
+      "date_note": "Chronic slope-stability concern described in one academic article; no single start date applies and the current state of the slopes was not verified in this pass.",
+      "source_ids": [
+        "src_23"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Several named High Concern triggers match: (1) official inscription on UNESCO's List of World Heritage in Danger for substantive reasons -- listed since 2023 because of the war and retained by the Committee in 2026 (48 COM 7A.30); (2) credible reports from two or more independent sources of specific damaging events within roughly the last five years with damage not yet fully repaired -- the 15 June 2026 strike (UNESCO, ICOMOS, UN News, the Committee, and Ukrainian and AFP reporting), the 24 January 2026 strike and the 10 June 2025 strike, with the Dormition Cathedral roof still under emergency protection; (3) the site sits in a region under active armed conflict with credible reporting on risk to cultural property. Critical Concern was considered and not selected, BUT THIS IS A CLOSE CALL. Arguments for Critical: the Dormition Cathedral, a principal church of the Lavra, had more than 80% of its roof affected (UNESCO assessment) and is only in a state of short-term stabilisation; the property has been struck three times in about thirteen months; and the Committee expresses utmost concern about intensifying threats. Arguments against, which carried the decision: the Critical triggers require severe verified damage to a significant part of the site that materially affects its survival, integrity or accessibility, fighting at or adjacent to the property in an active combat zone, inaccessibility to monitors for roughly six months or more, or collapse of protection. On the evidence reviewed, none is clearly met: the severe damage is concentrated in one building and adjacent fortification elements within a 28.52 ha, multi-component property, while the 2025 damage to Saint-Sophia was to its eastern facade and the January 2026 damage was reported as damage to an entrance and a church facade; the gilded iconostasis survived; Kyiv is exposed to recurring air strikes rather than ground combat at the property; UNESCO and ICOMOS have reached the site (mission of 17-20 February 2026, damage assessment completed July 2026) and are funding stabilisation and design; and the Committee commends the State Party's continued commitment to protecting the property. A reviewer who weighs the roof loss as materially affecting the integrity of a principal monument, or who reads the repeated strikes as an ongoing severe threat, could reasonably argue for Critical; the neighbouring status below High is not seriously in play.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of real, recent and still-unrepaired war damage alongside active protection and recovery work. On the risk side: the property remains on the Danger List; the Committee's 2026 decision expresses utmost concern at the intensification of threats and grave concern about the 15 June 2026 damage; the Dormition Cathedral's roof is reported by UNESCO's assessment as more than 80% affected, with the roof protected only temporarily and the permanent design still at the tender stage (UNESCO notice of 5 September 2026, deadline extended to 5 October 2026); and Management Plan, emergency-preparedness and buffer-zone concerns remain open in the Committee's decisions. On the protection side: the Committee's 2026 decision commends the State Party for its continued commitment to the protection of the property (the 2024 decision welcomed the protective measures taken); a joint World Heritage Centre/ICOMOS reactive monitoring mission visited in February 2026; UNESCO reports $100,000 from its Heritage Emergency Fund, Swiss funding of about $732,000 channelled through UNESCO and a Japan-funded 3D laser scan and digital survey of the cathedral; Ukraine's Culture Ministry allocated UAH 26.7 million for emergency response and urgent conservation; and the cathedral's iconostasis survived. Note on conflicting or differing evidence: attribution of the 15 June strike is disputed (Ukraine says Russian drones; AFP reports Moscow says a misfiring Patriot missile), and neither UNESCO's statement nor the Committee's decision text as read names the perpetrator, though the Committee repeats its call on the Russian Federation; roof-damage figures differ in scope and source (nearly 80% in a 16 June report; more than 80% in UNESCO's July assessment), and the repair-cost estimate of over 500 million UAH is the Lavra director's, described as preliminary. Confidence is Supported rather than Confirmed because the status-determining facts rest on UNESCO and Committee texts that agree with Ukrainian and international reporting, but the 2026 State Party report and the February 2026 mission report were listed on UNESCO's documents page and not read, the July assessment is relayed through a secondary outlet (corroborated on funding by a Ukrainian government source), and the situation is changing quickly. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_16",
+        "src_17"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-12",
+      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier set to moderate (stricter reading): The second reader could not re-confirm the 3D evidence (Lavra website, Ukrainska Pravda, Google Arts & Culture), so the 3d_documentation category is no longer counted."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four, including a visual and a technical/scholarly category). Coverage is uneven. The 3D evidence is for selected parts of the property (Dormition Cathedral and the Near and Far Caves models on the Lavra's own site, the cave scan, and a Google Arts & Culture 3D asset of Saint-Sophia) rather than a property-wide model; the Lavra page does not date the Dormition Cathedral model, and the detailed cave model is available only on request. Japan's funding of a new 3D laser scan of the Dormition Cathedral (reported August 2026) is announced, not a published model, and is not counted. Virtual_tour is marked false conservatively: reports and organisational pages mention online virtual tours of Saint-Sophia and of the Lavra, but the tour pages themselves were not opened in this pass. The University of Gothenburg inscription-documentation project says data will be published in a public portal, but its availability was not verified, so it is cited only as a research project. A reviewer may wish to consider whether this uneven, building-level coverage should temper the tier. ADJUSTED 2026-10-12 on review: The second reader could not re-confirm the 3D evidence (Lavra website, Ukrainska Pravda, Google Arts & Culture), so the 3d_documentation category is no longer counted. Tier is therefore moderate (3 of 5 categories).",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (five pages; the page read showed 12 images, 10 of them credited to the National Preserve Kyiv-Pechersk Lavra, one to the Electronic Archive of the National Conservation Area (credit truncated on the page) and one to a photographer; the total count was not established).",
+        "url": "https://whc.unesco.org/en/list/527/gallery/",
+        "source_id": "src_08"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 2021 minor boundary modification file, ICOMOS evaluations (1990, 2005, 2021), maps, Committee decisions from 1990 to 2026, mission reports (2013, 2017, 2020 and February 2026) and State of Conservation reports (2015 to 2026).",
+        "url": "https://whc.unesco.org/en/list/527/documents",
+        "source_id": "src_07"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "The Kyiv-Pechersk Lavra National Reserve's website lists three public 3D models embedded from Sketchfab: the Assumption (Dormition) Cathedral, the Far Caves and the Near Caves.",
+        "url": "https://kplavra.kyiv.ua/en/3D-Model",
+        "source_id": "src_19"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Ukrainska Pravda's Life section reports that the Skeiron team laser-scanned the Lavra caves (5 to 15 metres underground, nearly 900 metres in total) at the Ministry of Culture's initiative; a basic model is freely available on Sketchfab and a detailed version is provided on request for non-commercial use with the Lavra's permission. The article is undated.",
+        "url": "https://life.pravda.com.ua/culture/v-ukrajini-stvorili-3d-model-lavrskih-pecher-detali-300860/",
+        "source_id": "src_20"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Google's November 2022 post on Arts & Culture lists Saint-Sophia Cathedral among more than 40 architectural 3D models and links to its 3D asset.",
+        "url": "https://blog.google/outreach-initiatives/arts-culture/discover-ukraines-art-culture-history/",
+        "source_id": "src_21"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "University of Gothenburg Department of Conservation research project on digital documentation of the inscriptions in Saint Sophia Cathedral (project period 2023 to 2024; more than 7,000 inscriptions), with the Museum of St. Sophia Cathedral.",
+        "url": "https://gu.se/en/research/digital-documentation-of-inscriptions-in-the-saint-sophia-cathedral-in-kyiv",
+        "source_id": "src_22"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Demchyshyn and Kril, Improvement of the Engineering Protection Systems of the Kyiv-Pechersk Lavra Reserve Territory, Science and Innovation 15(3), Institute of Geological Sciences, National Academy of Sciences of Ukraine.",
+        "url": "https://nasu-periodicals.org.ua/index.php/science/article/view/7360",
+        "source_id": "src_23"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1990",
+      "title": "Inscribed on the World Heritage List",
+      "description": "The property was inscribed in 1990 (14th session of the World Heritage Committee) under cultural criteria (i), (ii), (iii) and (iv), with minor boundary modifications in 2005 and 2021.",
+      "event_type": "political",
+      "source_ids": [
+        "src_00",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2023-09-15",
+      "title": "Property inscribed on the List of World Heritage in Danger",
+      "description": "UNESCO reported on 15 September 2023 that the World Heritage Committee, meeting in Riyadh, placed the property (together with the Historic Centre of Lviv) on the List of World Heritage in Danger because of the threat posed by the Russian offensive, noting that optimal conditions for protecting its Outstanding Universal Value were no longer met and that the site is vulnerable to shockwaves from bombing in the city. The listing remains in effect following the Committee's 2026 decision.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee retains the property on the Danger List (46 COM 7A.4)",
+      "description": "At its 46th session (New Delhi) the Committee welcomed Ukraine's protective measures but expressed utmost concern at the increasing potential threats, found risk preparedness not yet sufficient (particularly analysis of how nearby missile strikes could affect the building fabric), said buffer-zone regulations need refinement to prevent urbanisation of green areas such as the Pechora-Navodnytska hill slopes, and asked for a revised Management Plan, an emergency preparedness plan and a Desired State of Conservation for removal from the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025-06-10",
+      "title": "Attack damages the eastern facade of Saint-Sophia Cathedral",
+      "description": "UNESCO reported on 11 June 2025 that, after a Russian attack on 10 June 2025 amid a wave of strikes on Ukrainian cities, a preliminary inspection by UNESCO's representative in Ukraine and the UN Resident and Humanitarian Coordinator found damage to the cathedral's eastern facade. UNESCO said it was discussing support for an in-depth structural analysis and emergency conservation measures.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee retains the property on the Danger List (47 COM 7A.24)",
+      "description": "The Committee expressed utmost concern at the increasing potential threats and grave concern about damage to Saint-Sophia Cathedral during the attack on Kyiv on 10 June 2025, retained the property on the Danger List, asked Ukraine to resubmit the Management Plan, urgently implement an Emergency Preparedness and Response Plan, refine buffer-zone regulations, invite a joint reactive monitoring mission and report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026-01-24",
+      "title": "Overnight attack damages the Far Caves entrance and a church facade at the Lavra",
+      "description": "Ukraine's Culture Minister Tetiana Berezhna announced damage on the Lavra's territory from the night of 24 January 2026, to the entrance of the Far Caves and a church facade, and said it was the first damage from military action recorded there since the Second World War. Two outlets agree on the Far Caves entrance but name the damaged church differently (the Annunciation in one, the Conception of St. Anne in the other), and one also reports broken windows, doors and cracked plaster; the church is therefore not named here.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_17",
+        "src_18"
+      ]
+    },
+    {
+      "date": "2026-02-17/2026-02-20",
+      "title": "Joint World Heritage Centre / ICOMOS reactive monitoring mission",
+      "description": "UNESCO's documents page lists a joint World Heritage Centre/ICOMOS mission to the property on 17-20 February 2026. The Committee's 2026 decision refers to the 2026 mission and endorses its recommendations; the mission report itself was not read for this dossier.",
+      "event_type": "other",
+      "source_ids": [
+        "src_07",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Strike sets fire to the Dormition Cathedral and damages nearby Lavra structures",
+      "description": "UN News reported on 15 June 2026 that UNESCO said a strike reportedly caused significant damage to the exterior and interior of the Dormition Cathedral, with parts of the fortification complex and the Ivan Kushnyk Tower also reportedly affected. ICOMOS said the roof caught fire, also named the Treasury of the National Museum of the History of Ukraine and the Museum of Books and Printing as reportedly damaged, and noted the full extent was not yet assessed. The Lavra's director said on 16 June that repair costs exceed 500 million UAH (not final) and could take around two years, that nearly 80% of the roof was damaged and that 17 other structures were damaged by the blast; endangered exhibits were removed within the first hour and firefighters kept the fire from spreading inside. Ukraine attributes the damage to Russian drones; AFP reports that Moscow says a misfiring US-made Patriot missile struck the site.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "UNESCO damage assessment of the Dormition Cathedral completed",
+      "description": "A report of 18 August 2026 states that a UNESCO assessment completed in July found extensive damage to the Dormition Cathedral, with more than 80% of its roof affected and damage to the upper structure, and that emergency measures had provided short-term stability but further work was needed before a permanent roof could be rebuilt. The report is a secondary relay of UNESCO's statement.",
+      "event_type": "other",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "World Heritage Committee retains the property on the Danger List (48 COM 7A.30)",
+      "description": "At its 48th session (Busan, 2026) the Committee expressed utmost concern at the intensification of threats, grave concern about significant damage to the Dormition Cathedral, the Lavra's fortification complex and the Ivan Kushnyk Tower during the 15 June 2026 attack, endorsed the 2026 mission's recommendations, asked Ukraine to finalise the Management Plan, encouraged it to develop a proposal for a Desired State of Conservation for removal (for the 50th session), requested an updated report by 1 February 2027, and decided to retain the property on the Danger List. Month shown is approximate; the decision page does not give a separate adoption date.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "title": "International funding announced for stabilisation and reconstruction planning",
+      "description": "Ukraine's Ministry of Culture reported that Switzerland was providing more than 636,000 euros to UNESCO for urgent stabilisation and design documentation for the Dormition Cathedral (UNESCO's Director-General cited 732,000 US dollars), and that the Ministry had earlier allocated UAH 26.7 million for emergency response and urgent conservation. A report of 18 August 2026 adds that UNESCO is providing $100,000 from its Heritage Emergency Fund and that Japan is funding a 3D laser scan and digital survey of the cathedral.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_14",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "UNESCO opens tender for detailed design to consolidate and reconstruct the Dormition Cathedral roof",
+      "description": "UNESCO published a request for proposals (RFP-UA-26-08) on 5 September 2026 for a detailed design to consolidate and reconstruct the roof of the Dormition Cathedral, which the notice describes as significantly damaged. An edited notice of 28 September 2026 extended the submission deadline to 5 October 2026.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_15"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/527",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra: maps",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/527/maps",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.30: Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra (Ukraine)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9019",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.24: Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra (Ukraine)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8691/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.4: Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra (Ukraine)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8473",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Ukraine: UNESCO sites of Kyiv and L'viv are inscribed on the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2608",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023-09-15",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Kyiv: UNESCO is deeply concerned about threats to World Heritage in Ukraine's capital",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2784",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025-06-11",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/527/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra: gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/527/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "ICOMOS Statement on the Attacks of 14-15 June 2026 in Ukraine",
+      "publisher": "ICOMOS",
+      "url": "https://www.icomos.org/news/statement-attacks-june-2026-kyiv-ukraine/",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "ICOMOS is a UNESCO Advisory Body; its statement reports initial, unassessed damage and was updated on 16 June 2026.",
+      "published_date": "2026-06-15",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "UN News report on the overnight attacks of 15 June 2026 (Kyiv-Pechersk Lavra damaged)",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/story/2026/06/1167718",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026-06-15",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Lavra restoration may cost over 500 million UAH and take around two years",
+      "publisher": "Hromadske",
+      "url": "https://hromadske.ua/en/war/265992-lavra-restoration-may-cost-over-500-million-uah-and-take-around-two-years",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Figures are those of the Lavra's director-general (a party with an interest in the site) and described as not final; the 80% roof figure and the 17-structures figure are not clearly attributed in the article.",
+      "published_date": "2026-06-16",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Restoring Kyiv cathedral hit by Russia could take two years: director (AFP)",
+      "publisher": "Eastern Progress (AFP)",
+      "url": "https://www.easternprogress.com/restoring-kyiv-cathedral-hit-by-russia-could-take-two-years-director/article_94be6d5c-6bcd-5d00-be8e-0830d1c14f3c.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Wire report republished by a regional outlet; the page carries no visible publication date (the attack is described as the previous Monday, i.e. 15 June 2026).",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "UNESCO Pledges New Support to Restore Kyiv-Pechersk Lavra",
+      "publisher": "DevDiscourse",
+      "url": "https://www.devdiscourse.com/article/other/3964950-unesco-pledges-new-support-to-restore-kyiv-pechersk-lavra",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "News aggregator relaying UNESCO's statement on the Director-General's visit; the UNESCO original was not located. The funding figures are corroborated by a Ukrainian Ministry of Culture release (src_14); the July assessment finding rests on this report alone, so it is not used as sole support for the status.",
+      "published_date": "2026-08-18",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Switzerland allocates more than 636,000 euros to protect and restore the Dormition Cathedral of the Kyiv-Pechersk Lavra",
+      "publisher": "Ministry of Culture of Ukraine",
+      "url": "https://mincult.gov.ua/en/news/shvejczariya-vydilyaye-ponad-e636-tysyach-na-zahyst-i-vidnovlennya-uspenskogo-soboru-kyyevo-pecherskoyi-lavry/",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Ukrainian government ministry, a party to the conflict; used for funding facts, not for damage assessment.",
+      "published_date": "2026-08-17",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Development of the Detailed Design for the Consolidation and Reconstruction of the Dormition Cathedral in Kyiv, Ukraine (RFP-UA-26-08)",
+      "publisher": "UNESCO (United Nations Global Marketplace notice)",
+      "url": "https://www.ungm.org/Public/Notice/313065",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026-09-05",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Resilience beneath the domes",
+      "publisher": "The Star (Malaysia), republishing a New York Times report",
+      "url": "https://www.thestar.com.my/news/focus/2026/09/22/resilience-beneath-the-domes",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Republication of a New York Times feature (original dated 19 August 2026 per the page); includes parishioners' opinions, which are not used; used only for the described condition of the roof and plans.",
+      "published_date": "2026-09-22",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_17",
+      "title": "For the first time since the Second World War the Lavra was damaged by an attack on January 24",
+      "publisher": "LIGA.net",
+      "url": "https://news.liga.net/en/amp/kiev/news/for-the-first-time-since-the-second-world-war-the-lavra-was-damaged-by-an-attack-on-january-24-photo",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Quotes the Lavra's director; the page does not show a publication date (the year 2026 is stated in the article).",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Russian Shelling Damages Caves and Church at Kyiv Pechersk Lavra",
+      "publisher": "EMPR.media",
+      "url": "https://empr.media/news/war/russian-shelling-damages-caves-and-church-at-kyiv-pechersk-lavra/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Outlet's editorial standards were not independently verified; it credits Zaxid.net and a Facebook post by the Culture Minister, and names a different church from src_17. Used only as corroboration of the Far Caves damage and the minister's statement.",
+      "published_date": "2026-01-27",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_19",
+      "title": "3D Model",
+      "publisher": "National Preserve Kyiv-Pechersk Lavra",
+      "url": "https://kplavra.kyiv.ua/en/3D-Model",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "Operator's own page; evidences the existence of embedded models, not their date, resolution or full scope.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_20",
+      "title": "A 3D model of the Lavra caves has been created in Ukraine",
+      "publisher": "Ukrainska Pravda (Life)",
+      "url": "https://life.pravda.com.ua/culture/v-ukrajini-stvorili-3d-model-lavrskih-pecher-detali-300860/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Article has no visible date and the Sketchfab model itself was not opened in this pass.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Discover Ukraine's art, culture and history",
+      "publisher": "Google (The Keyword blog)",
+      "url": "https://blog.google/outreach-initiatives/arts-culture/discover-ukraines-art-culture-history/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Company blog post; the linked 3D asset was not opened in this pass.",
+      "published_date": "2022-11-24",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Digital documentation of inscriptions in the Saint Sophia Cathedral in Kyiv",
+      "publisher": "University of Gothenburg, Department of Conservation",
+      "url": "https://gu.se/en/research/digital-documentation-of-inscriptions-in-the-saint-sophia-cathedral-in-kyiv",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Project description page; it does not confirm that the public data portal is live.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Improvement of the Engineering Protection Systems of the Kyiv-Pechersk Lavra Reserve Territory",
+      "publisher": "Science and Innovation (National Academy of Sciences of Ukraine), Demchyshyn and Kril",
+      "url": "https://nasu-periodicals.org.ua/index.php/science/article/view/7360",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Only the abstract page was read; the issue is dated 2019 although the page lists a posting date of 4 September 2024, so the findings may not reflect current slope conditions.",
+      "published_date": "2019",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-12",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; the High-versus-Critical call is flagged as close (see decision_trigger). Not yet reviewed or approved. KNOWN GAPS: (1) The user's browser pane could not open a new tab in this session, so UNESCO State of Conservation reports (2024-2026), the February 2026 mission report and the 2026 State Party report were NOT read; only the Committee decisions (46 COM 7A.4, 47 COM 7A.24, 48 COM 7A.30), UNESCO news items, and the property, maps, gallery and documents pages were read, via the web fetch tool. (2) UNESCO's own statement on the 15 June 2026 strike and the Director-General's August 2026 visit were not retrieved; they are relayed via UN News, ICOMOS, DevDiscourse and the Ukrainian Ministry of Culture. The July 2026 UNESCO assessment (more than 80% of the roof affected) rests on DevDiscourse alone. (3) The exact month of Decision 48 COM 7A.30 was not confirmed (a Ukrainska Pravda item of 23 July 2026 appeared in search results but could not be read), so 2026-07 is approximate. (4) Attribution of the 15 June 2026 strike is disputed (Ukraine: Russian drones; Moscow, per AFP: a misfiring Patriot missile); the Committee decision does not name the perpetrator of that attack. (5) Roof-damage figures differ (nearly 80% on 16 June; more than 80% in UNESCO's July assessment). (6) Sources differ on which church was damaged on 24 January 2026, so it is not named. (7) Virtual-tour pages (a Saint-Sophia tour and a Lavra online tour) were mentioned in search results but not opened, so virtual_tour is false; the Sketchfab models themselves and the Google 3D asset were not opened. (8) The Saint-Sophia laser scan of December 2022 (reported by Rubryka) was not counted because public availability is unstated. (9) Dispute between Moscow-aligned and Orthodox Church of Ukraine monks over control of the Lavra (mentioned in the NYT report) was not researched and is not included. (10) Natural-disaster threats were not researched in depth; the environmental/climate entry rests on one academic abstract and is chronic context only. (11) Earlier war-time events at the property (2022-2024) were not documented beyond the Committee decisions. (12) Process note: the shared browser pane tab named seed was navigated once to the UNESCO property page before tab creation was found to be unavailable; no other use of it was made. Images field intentionally omitted. VERIFIER R1 (2026-10-11): UNESCO decisions 46 COM 7A.4, 47 COM 7A.24, 48 COM 7A.30, news 2608 and 2784, documents page, UN News, ICOMOS, Hromadske, AFP/Eastern Progress, DevDiscourse, UNGM notice and Ukrainian Ministry release re-read directly and found to support the claims. Fixes: 2024 and 2025 Committee wording corrected to 'utmost concern at the increasing potential threats' (was 'highly concerned about growing threats'); 2026 'commends protective, monitoring and emergency-preparedness measures' corrected to the decision's actual wording (commends continued commitment to protection); 2026 Desired State of Conservation corrected to 'encouraged to develop a proposal'; Management Plan asks stated accurately by year; unsupported 'periodic reports' removed from the documents-page description. NOT re-verified (session fetch limit reached): Star/NYT, LIGA, EMPR, Lavra 3D page, Ukrainska Pravda, Google blog, Gothenburg, NASU abstract, gallery and maps pages, and the month of the Busan session. DevDiscourse text says roof more than 80% 'destroyed' versus 'affected' in this dossier; dossier wording kept as the softer one. VERIFIER R2 (2026-10-12): re-read directly on UNESCO: decisions 46 COM 7A.4, 47 COM 7A.24, 48 COM 7A.30, news 2608 and 2784, property, maps, documents and gallery pages; all core Committee wording, dates, criteria, areas, coordinates (50.4529, 30.5143 matches Saint-Sophia component) and the 'repeats its call on the Russian Federation' point confirmed. Fixes (4): 2026 'deep concern' corrected to the decision's 'utmost concern at the intensification of threats'; gallery description corrected (12 images seen on a five-page gallery, not '49 to 60'); 2025 Emergency Preparedness wording aligned to 'urgent implementation'; mission event no longer claims the Committee 'takes note of conclusions' (only endorsement of recommendations confirmed). NOT VERIFIED in R2 (fetch permission for non-UNESCO domains was not granted): UN News, ICOMOS, Hromadske, Eastern Progress/AFP, DevDiscourse, Ministry of Culture, UNGM notice, The Star/NYT, LIGA, EMPR, Lavra 3D page, Ukrainska Pravda, Google blog, Gothenburg page and NASU abstract; claims resting only on these (15 June 2026 details, 500 million UAH, 80% roof, July assessment, funding figures, tender dates, 24 January 2026 details, minister's name and quote, all 3D and Gothenburg DPI evidence) carry only the R1/drafter checks.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-12",
+      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier set to moderate (stricter reading): The second reader could not re-confirm the 3D evidence (Lavra website, Ukrainska Pravda, Google Arts & Culture), so the 3d_documentation category is no longer counted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
+      "changed_by": "harry"
+    }
+  ]
+}

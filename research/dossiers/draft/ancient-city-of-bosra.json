@@ -1,0 +1,405 @@
+{
+  "slug": "ancient-city-of-bosra",
+  "name": "Ancient City of Bosra",
+  "alternate_names": [
+    "Bosra",
+    "Bosra al-Sham",
+    "Bostra"
+  ],
+  "country": "Syria",
+  "region": "Middle East (southern Syria)",
+  "coordinates": {
+    "lat": 32.5204,
+    "lng": 36.4913
+  },
+  "coordinate_note": "Converted from the second of two coordinate pairs listed on UNESCO's property Maps page (Area 2, a 1.2 ha component: N32 31 13.53, E36 29 28.5). The first pair (Area 1, the 115 ha main area) is printed as 'N32 3109 / E36 29 03' (apparently a typo for about 32.519 N, 36.484 E); the two points are within roughly a kilometre of each other. The inscribed property is a walled town of about 116 ha, not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "22",
+  "inscription_year": 1980,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Bosra, in southern Syria, was a Nabataean capital before becoming part of the Roman Empire in 106 AD, later a Byzantine frontier market and the first Byzantine city entered by Arab forces (in 634), according to UNESCO. The inscription highlights an exceptionally intact 2nd-century Roman theatre that was later incorporated into a citadel, an early cathedral, and early Islamic buildings including the Mosque of Omar and the Madrasa Mabrak an-Naqua. It is inscribed under criteria (i), (iii) and (vi).",
+  "metadata_sources": [
+    "src_00",
+    "src_12"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The property was inscribed on the List of World Heritage in Danger in 2013 together with Syria's five other World Heritage properties, because the Committee considered them threatened by 'both ascertained and potential danger' amid the conflict (decision 37 COM 7B.57). UNESCO's Director-General reported on 24 December 2015 that parts of the property were destroyed during combat on 22 December 2015, confirmed by the Syrian Directorate of Antiquities and Museums, with severe damage to the western courtyard adjacent to the Roman theatre and to parts of the Ayyubid citadel around it. The Committee in 2015 noted with satisfaction a temporary agreement to freeze combat within the property. Conflict-related damage that the Committee still lists as needing stabilisation is part of the 2026 desired state of conservation (decision 48 COM 7A.14). That decision also records that essential fieldwork is lacking 'in part due to the prevailing security constraints' and that the desired state includes the removal of conflict-related external threats 'through lasting cessation of hostilities'. The sources reviewed do not report active fighting at the property in 2025-2026, but they also do not state that hostilities have lastingly ceased; no independent 2025-2026 reporting on Bosra's security situation was found in this pass.",
+      "first_identified_date": null,
+      "date_note": "UNESCO's 2026 decision refers to 'the conflict that started in 2011'; the Committee's Danger List inscription for Bosra dates from the 37th session in 2013 (month not read from the sources used). The earliest specific damaging event in this dossier is 22 December 2015.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_09",
+        "src_10"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's Committee has repeatedly raised illegal excavations and weak management capacity. In 2021 it expressed concern that extensive illegal excavations were carried out at the site; in 2023 it again urged the international community to share inventories and documentation to help recover looted cultural property. In 2026 it expressed concern about the lack of detailed information on damage resulting from illegal activities, including illicit excavations, and about the lack of progress in essential fieldwork, citing security constraints and limited human resources, and urged the State Party to document damage and implement emergency measures. The 2026 decision lists corrective measures not yet implemented, including re-establishing a fully functional and staffed management team, completing a Recovery Master Plan and Conservation Management Plan, completing the inventory of illicit excavations, stabilising or fencing hazardous illegal excavations, inventorying illicit constructions dating from the conflict period, curating museum collections, and finalising a reconstruction project for the Nymphaeum (al-Kalybe monument) after a Heritage Impact Assessment. It sets a timeframe of the end of 2030 for the corrective measures. Positive developments are also recorded: the 2025 decision takes note of restoration work reinforcing structural stability at the Citadel/Theatre and repairing conflict damage at the dome drum and facade of Madrasa Abu al-Fida; the 2026 decision lists emergency measures at the Nymphaeum and the Theatre/Citadel among measures implemented since 2013, a buffer zone and a building code, and that 1058 of 1800 looted artefacts had been recovered. The Committee in 2025 asked the State Party to limit works to emergency measures until a Recovery Master Plan is agreed. A joint World Heritage Centre/ICOMOS Reactive Monitoring mission has been invited by the State Party and repeatedly requested by the Committee, but the decisions reviewed do not record that it has taken place.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year concerns recorded across successive Committee decisions. UNESCO's 2009 retrospective Statement of Outstanding Universal Value already noted conservation problems from lack of funds, technical resources and skilled labour and no management plan. The earliest dated Committee reference to extensive illegal excavations in this dossier is 2021.",
+      "source_ids": [
+        "src_00",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern was considered and not mechanically triggered, but it is a close call (see below). Critical checks: (1) Severe, verified damage materially affecting integrity as of now: the 2015 combat damage is documented as history, and the Committee's 2026 text expresses concern about the lack of detailed information on damage from illicit activities; no source reviewed documents a currently verified severe condition, and the 2025 decision notes structural stabilisation work at the Citadel/Theatre. (2) Active combat at or adjacent to the property: not reported in any source reviewed for 2025-2026, though no independent security reporting for Bosra was found either. (3) Inaccessible to monitoring bodies for 6+ months so condition cannot be verified: this is the closest Critical trigger. The Reactive Monitoring mission invited by the State Party has not been recorded as taking place in the decisions reviewed (still 'requested as soon as the situation allows' in 2026), and the Committee says detailed damage information is lacking. However, the Syrian Directorate of Antiquities and Museums is working on site, the State Party reports to the Committee, and restoration and emergency works are described, so the property is not shown to be unverifiable. (4) Protection or monitoring effectively collapsed: the 2026 decision lists re-establishing a functional management team and national conservation capacities as not yet implemented, but also recognises the State Party's efforts in halting violations at the site and establishing a disaster-risk-reduction framework. High Concern triggers matched: (a) the property is on the List of World Heritage in Danger, retained in 2026 (decision 48 COM 7A.14), for substantive reasons tied to conflict damage and loss of protective systems; (b) significant conflict-era damage and illicit excavation whose repair and documentation remain substantially incomplete on the Committee's own list of unimplemented corrective measures, with a stated timeframe of end of 2030.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture, according to UNESCO's World Heritage Committee in July 2026 (decision 48 COM 7A.14, which builds on 47 COM 7A.49 of 2025), is of a property that remains on the Danger List, where conflict-era damage and damage from illicit excavations have not been fully documented, where essential fieldwork has been limited by security and capacity constraints, and where a long list of corrective measures (management team, Recovery Master Plan, stabilisation of illegal excavations, Nymphaeum reconstruction project) remains to be done by the end of 2030. Against that, the Committee takes note of real restoration and structural stabilisation at the Citadel/Theatre and Madrasa Abu al-Fida, a buffer zone and building code, the recovery of 1058 of 1800 looted artefacts, an infrastructure and inhabitant-return effort welcomed in 2024, and it adopted a Desired State of Conservation and corrective-measure timeframe in 2026, a step that lays out a route to removal from the Danger List. This is not Critical Concern on the evidence reviewed because no source documents active fighting at the property now, a currently verified severe condition, or a complete collapse of protection; the closest Critical trigger is the prolonged lack of an independent on-site mission and detailed damage information, which is a gap in evidence rather than evidence of collapse. It is not Moderate Concern because the property is on the Danger List and repair/management is substantially incomplete. Confidence is Supported rather than Confirmed: the Danger List status and the Committee's findings are directly confirmed by UNESCO decision texts, but the 2026 State of Conservation report and Secretariat assessment could not be read (UNESCO's State of Conservation pages were blocked by a bot check), no independent post-2024 journalism or field reporting on Bosra's condition and security was found, and the Committee itself says detailed damage information is lacking. If independent reporting later showed active hostilities, new damage, or loss of access, Critical Concern should be reconsidered; if the Reactive Monitoring mission and a Recovery Master Plan proceed, the status could move down. These are noted as open questions, not predictions. Confidence does not alter the status.",
+      "effective_date": "2026-10-11",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly findable evidence, which gives the moderate tier by the rubric (2-3 categories). Photographic and archival evidence is institutional but modest in scale: a UNESCO photo gallery page and a French Ministry of Culture page with photographs, a zoomable plan and a zoomable aerial view. No publicly viewable 3D model or virtual tour specific to Bosra was found in this pass (a Sketchfab model surfaced in search but could not be opened and was not verified; the French Ministry page notes no Bosra-specific 3D model). The academic evidence found is a 2016 GIS documentation study of 45 sites; it is not a comprehensive survey. Larger archives of Syrian heritage material, such as the Syrian Heritage Archive Project in Berlin, may hold Bosra photographs, but its page reviewed does not mention Bosra, so it is not counted. This reflects what is publicly findable, not necessarily what exists in unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery page for the property.",
+        "url": "https://whc.unesco.org/en/list/22/gallery/",
+        "source_id": "src_11"
+      },
+      {
+        "category": "photographic",
+        "description": "French Ministry of Culture 'Great Archaeological Sites' page on Bosra with photographs of the Roman theatre, southern baths, colonnaded street, cathedral and citadel, a zoomable plan and a zoomable aerial view.",
+        "url": "https://archeologie.culture.gouv.fr/en/bosra",
+        "source_id": "src_12"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the ICOMOS advisory body evaluations, the Committee decisions and state-of-conservation reports spanning 1980 to 2026, and the French Ministry of Culture page offers a plan of the city.",
+        "url": "https://whc.unesco.org/en/list/22/documents/",
+        "source_id": "src_15"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Eid and Ali (2016), 'Study and documentation of the ancient city of Bosra and the role of archaeological ... using GIS', Tishreen University Journal (Arts and Humanities Series), vol. 37, no. 5, documenting 45 sites with maps and a database.",
+        "url": "https://journal.tishreen.edu.sy/index.php/humlitr/article/view/1984",
+        "source_id": "src_13"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013",
+      "title": "Bosra inscribed on the List of World Heritage in Danger",
+      "description": "At its 37th session (Phnom Penh) the World Heritage Committee decided to inscribe Syria's six World Heritage properties, including the Ancient City of Bosra, on the List of World Heritage in Danger, stating that optimal conditions for protecting their Outstanding Universal Value were no longer present and that they were threatened by 'both ascertained and potential danger'. The month of the decision was not read from the sources used.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2015-03",
+      "title": "Opposition forces reportedly capture Bosra; local antiquities department loses salaries and equipment",
+      "description": "ASOR reported that opposition forces captured Bosra in March 2015, ending salary payments to local Antiquities Department staff, who lacked equipment to continue their work. According to ASOR, its Cultural Heritage Initiatives engaged a partner in November 2015 to provide bridge funding under a cooperative agreement with the US Department of State, paying for equipment (a generator, computers, cameras) and local laborers, and reported that historic mosques and the museum were restored and the Roman theatre was cleaned and repaired. This is a single NGO source (a fundraising-style article that also misstates when the site was listed by UNESCO), so these are ASOR's own claims and are used only for the March 2015 capture and ASOR's described activity.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2015",
+      "title": "World Heritage Committee notes a temporary agreement to freeze combat within the property",
+      "description": "In decision 39 COM 7A.31 (Bonn, 2015) the Committee noted with satisfaction that a temporary agreement to freeze combat within the property had been reached, asked that it be maintained, asked that heritage professionals be given access to protect the property, and retained Bosra on the Danger List. The month was not read from the source used.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2015-12-22",
+      "title": "Combat damages the western courtyard of the Roman theatre and parts of the Ayyubid citadel",
+      "description": "UNESCO's Director-General, Irina Bokova, condemned on 24 December 2015 the destruction of parts of the Ancient City of Bosra during combat on 22 December 2015, as confirmed by the Syrian Directorate of Antiquities and Museums. UNESCO reported severe damage to the western courtyard adjacent to the 2nd-century Roman theatre and to parts of the Ayyubid citadel surrounding it, and a fear of further deterioration.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2017",
+      "title": "Committee approves minor boundary modification and buffer zone",
+      "description": "In decision 41 COM 8B.39 the Committee approved a minor modification to the property boundaries and the proposed buffer zone and, pending improvement in the conflict situation, recommended clearer buffer zone objectives and building-height regulations, a management plan for the whole property and buffer zone, promulgation of a revised antiquities law, and better protection of the ancient water supply system.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2018-12",
+      "title": "Emergency International Assistance request approved",
+      "description": "The Committee's 2021 decision refers to works by the Directorate General of Antiquities and Museums carried out under an Emergency International Assistance request approved in December 2018 and welcomed the 'high quality' of those works.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Committee expresses concern about extensive illegal excavations",
+      "description": "In decision 44 COM 7A.19 (extended 44th session) the Committee expressed concern that extensive illegal excavations were carried out at the site, called for sharing of inventories to help the return of looted objects, and asked that restoration, including at the Kalybe monument, be limited to first aid interventions pending agreement on restoration approaches. Bosra was retained on the Danger List.",
+      "event_type": "other",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee urges sharing of inventories on looted objects and welcomes Kalybe rehabilitation studies",
+      "description": "In decision 45 COM 7A.41 the Committee urged the international community to share inventories and documentation to help recover looted cultural property, welcomed a World Heritage Fund-supported project of studies for rehabilitating the Kalybe monument, asked for a revised project report and a Heritage Impact Assessment before any anastylosis, and retained Bosra on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee welcomes infrastructure work and return of inhabitants",
+      "description": "In decision 46 COM 7A.28 the Committee took note of conservation work at the Citadel/Theatre and Madrasa Abu al-Fida, welcomed infrastructure work contributing to the revival of the property and the return of inhabitants, stressed the importance of the site management plan and master plan (asking that the management plan be treated as a priority), encouraged continued development of the Desired state of conservation for removal from the Danger List, and retained Bosra on the Danger List.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.49: restoration noted, Recovery Master Plan requested",
+      "description": "The Committee took note of restoration work reinforcing structural stability at the Citadel/Theatre and repairing conflict damage at the dome drum and facade of Madrasa Abu al-Fida, asked the State Party to undertake only emergency measures until a Recovery Master Plan is agreed, asked for a revised Heritage Impact Assessment for the Kalybe monument, and retained Bosra on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.14: Desired state of conservation adopted, Bosra retained on Danger List",
+      "description": "At its 48th session the Committee expressed concern about the situation at the property, the lack of detailed information on damage from illegal activities including illicit excavations, and the lack of progress in essential fieldwork, in part due to security constraints and human resource limitations. It adopted a Desired state of conservation for removal from the Danger List, a list of corrective measures (some implemented, some not yet), and a timeframe to the end of 2030; requested a joint World Heritage Centre/ICOMOS Reactive Monitoring mission as soon as the situation allows; asked for an interim report by 1 February 2027 and an updated report by 1 February 2028; and decided to retain Bosra on the List of World Heritage in Danger.",
+      "event_type": "political",
+      "source_ids": [
+        "src_09",
+        "src_00"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Ancient City of Bosra",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/22/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 37 COM 7B.57: World Heritage properties of Syria",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/5069",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2013",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 39 COM 7A.31: Ancient City of Bosra (Syrian Arab Republic) (C 22)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6247",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Director-General condemns destruction of vestiges in the Ancient City of Bosra, a Syrian World Heritage site",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1416",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015-12-24",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 41 COM 8B.39: Ancient City of Bosra (Syrian Arab Republic), minor boundary modification",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6911",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 44 COM 7A.19: Ancient City of Bosra (Syrian Arab Republic) (C 22bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7684",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 45 COM 7A.41: Ancient City of Bosra (Syrian Arab Republic) (C 22bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8200",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 46 COM 7A.28: Ancient City of Bosra (Syrian Arab Republic) (C 22bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8497",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 47 COM 7A.49: Ancient City of Bosra (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8716",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Decision 48 COM 7A.14: Ancient City of Bosra (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9046",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Mitigation and Restoration Work at Bosra al Sham: Helping Syrians Protect and Preserve Cultural Rights",
+      "publisher": "American Society of Overseas Research (ASOR)",
+      "url": "https://asor.org/?p=32021",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Single NGO article (author Jared Koller, published 5 August 2016) that includes a fundraising appeal and states that 'Bosra became a UNESCO World Heritage Site in 2013', which is inaccurate (inscribed 1980; placed on the Danger List in 2013). Used only for the reported March 2015 capture of the city and ASOR's own described emergency work; not used as sole support for any status-determining claim.",
+      "published_date": "2016-08-05",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Ancient City of Bosra: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/22/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Bosra (Great Archaeological Sites)",
+      "publisher": "French Ministry of Culture",
+      "url": "https://archeologie.culture.gouv.fr/en/bosra",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Undated page; used for photographs, plan and aerial view as documentation evidence and for general location (about 140 km south of Damascus), not for current condition.",
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Study and documentation of the ancient city of Bosra and role Archaeological using GIS",
+      "publisher": "Tishreen University Journal, Arts and Humanities Sciences Series (Eid and Ali)",
+      "url": "https://journal.tishreen.edu.sy/index.php/humlitr/article/view/1984",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2016-09-22",
+      "accessed_date": "2026-10-11"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Ancient City of Bosra: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/22/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-11"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-11",
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; DPI tier Moderate. Close call vs Critical Concern flagged in decision_trigger (closest trigger: no independent on-site monitoring mission recorded and detailed damage information lacking, which is a gap in evidence rather than evidence of collapse). Known gaps (not included because not verified): (1) UNESCO State of Conservation pages (whc.unesco.org/en/soc/...) returned a bot-check page and were not read, so the State Party's 2026 report and the Secretariat's assessment were not seen; only Committee decisions, the property page, documents page and a UNESCO news item were read. (2) UNESCO document PDFs (e.g. whc.unesco.org/document/224513) did not render as text and were not read. (3) No independent journalism or field reporting on Bosra's condition, security or access in 2025-2026 (including after the December 2024 change of government in Syria) was found; two 2025 articles surfaced (The National, 27 Jan 2025; The Art Newspaper, 31 Jan 2025) mention Bosra only in a photo caption or a one-line parenthetical, so they were not cited. (4) The UN News item on archaeological destruction at Bosra (December 2015, via Refworld) and a Heritage for Peace newsletter (April 2015) reported shattered mosaics and walls in April 2015; the Refworld archive was blocked and the newsletter is an aggregator, so neither is cited and the April 2015 damage is omitted from events[] pending better sourcing. (5) The exact month of the 2013, 2015 and 2017 Committee decisions and of the 2026 session was not read from the sources used, so only years are shown. (6) The nature and extent of illicit excavations, and which specific buildings were damaged beyond those named by UNESCO, were not independently verified; the figure of 1058 of 1800 looted artefacts recovered is the Committee's own text in the 2026 decision and was not checked against the primary national report. (7) UNESCO's property page marks the property 'Serial: yes' (dossier 22bis, minor boundary modification inscribed 2017) although it is a single walled town; treated here as a non-serial profile and worth a reviewer check. (8) Natural-disaster and environmental/climate threat categories are omitted because no Bosra-specific evidence was found; 45 COM 7A.46 mentions damage from the 2023 earthquake to Syrian properties in general, without naming Bosra. (9) A Sketchfab 3D model surfaced in search but could not be opened and is not counted; the Syrian Heritage Archive Project (Berlin) page reviewed does not mention Bosra so it is not counted; the ACOR (Jordan) archive holds a Bosra theatre slide with access limited, so it is not counted. (10) Wikipedia was not used; metadata rests on UNESCO and the French Ministry of Culture. Images omitted by design. VERIFIER R1 (2026-10-11): re-read the 2013, 2015, 2017, 2021, 2023, 2024, 2025 and 2026 decisions, the 2015 UNESCO news item, the property page, Maps/Documents/Gallery pages, ASOR, French Ministry and Tishreen pages. Fixes: (a) removed src_14 (45 COM 7A.46) from conservation_structural and from sources, as it does not name Bosra or mention illegal excavations; (b) removed the unsupported claim that the 2023 decision 'recalled' earlier illegal-excavation reports, replaced with what the decision says (urges sharing of inventories to recover looted property); (c) corrected the 2024 event: the decision stressed the importance of the management and master plans rather than 'encouraging development of a plan'; (d) corrected the ASOR 2015 event (salaries ended and equipment lacking; bridge funding with a State Department grant; 'local partner' not supported); (e) coordinate_note now says the used pair is UNESCO's Area 2 (1.2 ha component), not the main 115 ha area. Not verifiable in this pass (session limit reached): exact wording of 48 COM 7A.14 phrases 'the conflict that started in 2011', 'prevailing security constraints' and the State Party efforts/disaster-risk-reduction clause; whether 45 COM 7A.41 says anything about the mission invitation. VERIFIER R2 (2026-10-12): re-read decisions 37 COM 7B.57, 39 COM 7A.31, 41 COM 8B.39, 44 COM 7A.19, 45 COM 7A.41, 46 COM 7A.28, 47 COM 7A.49, 48 COM 7A.14 (incl. the previously unconfirmed phrases 'the conflict that started in 2011', 'prevailing security constraints', State Party efforts/disaster-risk-reduction clause, 'lasting cessation of hostilities'), the 2015 news item, the property, Maps, Gallery and Documents pages, and ASOR; all UNESCO claims confirmed. Fixes: (a) src_10 title corrected to the article's real title and reliability note corrected; (b) 2015-03 ASOR event reworded to what the article says (unsupported 'site assessments and cleaning' and 'staff support' removed; State Department funding, equipment and the November 2015 partner engagement stated as ASOR's own account; 'reportedly' added to the capture). Not verifiable in R2 (fetch blocked): French Ministry of Culture page (src_12) contents and the Tishreen journal page (src_13) contents; the DPI photographic/archival categories stand on the verified UNESCO gallery and documents pages alone, which still gives the moderate tier. The 2026 State of Conservation report remains unread.",
+      "changed_by": "claude"
+    }
+  ]
+}
