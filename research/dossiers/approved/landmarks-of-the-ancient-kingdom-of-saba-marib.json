@@ -1,0 +1,586 @@
+{
+  "slug": "landmarks-of-the-ancient-kingdom-of-saba-marib",
+  "name": "Landmarks of the Ancient Kingdom of Saba, Marib",
+  "alternate_names": [
+    "Ancient Kingdom of Saba",
+    "Ma'rib",
+    "Marib",
+    "Landmarks of the Ancient Kingdom of Saba in Marib Governorate"
+  ],
+  "country": "Yemen",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 15.4269,
+    "lng": 45.3352
+  },
+  "coordinate_note": "Converted from the central-point coordinates given in the State Party's nomination executive summary for the Ancient City of Ma'rib component (15°25'36.76\"N, 45°20'6.82\"E). UNESCO's property page states that georeferenced polygons will be published once UNESCO receives the GIS data, so no official single coordinate was read there. The inscribed property is a serial property of seven component parts spread across Marib Governorate; the nomination states that Sirwah lies 40 km west of Ma'rib and that the dam is about 8 km west of the ancient capital. This marker is a practical single-point reference for the ancient city only.",
+  "unesco_id": "1700",
+  "inscription_year": 2023,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes the property as a serial property of seven archaeological sites in Marib Governorate, central Yemen, that bear witness to the Kingdom of Saba, dating from the 1st millennium BCE to the arrival of Islam around 630 CE. The components include the walled city of Ma'rib, the fortified city of Sirwah, temples at Awam and Bar'an, and the Ma'rib dam and irrigation system, which UNESCO describes as the largest ancient man-made oasis. UNESCO's news item says the sites reflect the Kingdom's centralised administration, its control of much of the incense route and its trade links with the Mediterranean and East Africa. It was inscribed in January 2023 under criteria (iii) and (iv) through the Committee's emergency procedure, and placed on the List of World Heritage in Danger at the same session.",
+  "metadata_sources": [
+    "src_00",
+    "src_08",
+    "src_10"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "The Committee inscribed the property under the emergency procedure because of what UNESCO's news item calls threats of destruction from the ongoing conflict, and the 2023 decision links the property's threats to war and conflict. Conflict damage is documented in events[]: National Geographic and ICCROM reported in June 2015 that an airstrike on the night of 31 May 2015 damaged the northern sluice of the ancient dam (Yemeni officials attributed the strike to coalition forces; the Saudi embassy did not respond to a request for comment), a 2017 article by Khalidi states that Sirwah was bombarded in April and May 2015, and ICOMOS's 2022 evaluation cites an airstrike on the northern dam bank in 2015 and bombing at Sirwah in 2018 and describes some attributes as 'gravely damaged' by ongoing military attacks. For present conditions: the State Party's report to the 2024 Committee session says unstable conditions and armed conflict prevent local authorities from carrying out field inspections and projects, with the security situation at Sirwah a particular obstacle, while most sites in the Marib Oasis are in a better security situation; a State Party report listed by UNESCO under 2024 says the area is still not safe, particularly Sirwah and the Ma'rib dam. The Committee's 2026 decision again asks for a Reactive Monitoring mission 'once conditions allow'. Press reporting in August-September 2026 describes renewed fighting in Marib Governorate: Al Jazeera reported on 8 August 2026 that the Houthis had renewed shelling of Marib city, with two civilians killed and 14 wounded on the Friday according to Yemen's Health Ministry; on 10 September 2026 it reported pro-government forces and the Houthis attacking each other in Marib and al-Jawf; and Arab News on 19 September 2026 relayed government-side military sources describing clashes on fronts west and south of Marib city. Al Jazeera also reported attacks on Marib city on 16 August 2026 and Arab News reported army-claimed fighting south of Marib city on 20 September 2026. None of the five 2026 articles reviewed mentions the heritage components, and the sources reviewed do not establish the distance between these fighting locations and individual components, nor report new damage to the property in 2026.",
+      "first_identified_date": "2015-05-31",
+      "date_note": "Date of the airstrike reported to have damaged the northern sluice of the ancient dam (ICCROM, 3 June 2015); this is the earliest precisely dated conflict damage in the sources reviewed. Khalidi (2017) dates the bombardment of Sirwah to April and May 2015, and the conflict is ongoing.",
+      "source_ids": [
+        "src_01",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_16",
+        "src_17",
+        "src_18",
+        "src_19",
+        "src_22",
+        "src_23"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee's 2023 inscription decision lists, among the property's threats, urban sprawl that has destroyed some areas with archaeological potential, demolition of post-Sabaean vernacular architecture, vandalism and looting, gravely damaged physical fabric and highly vulnerable integrity and authenticity, an unclear legal framework for the component parts and buffer zones, the absence of a management plan, funding gaps and the potential impacts of the 2018 Master Plan. The ICOMOS evaluation (approved 13 April 2022) describes the physical fabric as 'very poor', says the Ma'rib city walls have been quarried for building stone, that inscriptions at the Awam temple were pillaged, smuggled abroad and sold, that planned roads threaten the dam components, that 'Funds for protection and conservation of the component parts have not been available since 2015', that no state of conservation reports had been prepared since 2009, that only 'an estimated ten percent' of sites are excavated, and that monitoring relies mainly on satellite imagery, which ICOMOS considers inadequate. A State Party report listed by UNESCO under 2024 says no conservation projects had started at the sites and that donors are reluctant to fund projects in Yemen; the State Party's report to the 2024 session says increased damage is occurring because the property has no fences, that conflict damage, vandalism, looting and illegal activity are continuing concerns, that no encroachment has occurred within the boundaries since inscription, and that international assistance requests approved to date total zero. National Geographic (2022) reported that a 2,300-year-old inscribed alabaster statue base was ripped from the floor of the Awwam Temple and later appeared at a Paris auction house, and quoted Marib's antiquities director Sadeq al Salwi saying 'It's better that everything is under the ground. The sand is safety.' The Committee in 2024, 2025 and 2026 repeated the inscription-time requests (halt the 2018 Master Plan pending a Heritage Impact Assessment, restore funding, develop risk preparedness plans, include local tribes as custodians, extend protection to post-Sabaean vernacular architecture, complete an inventory, and notify the World Heritage Centre of major projects including fencing), and in 2025 and 2026 expressed concern at the lack of detailed, comprehensive information on the state of conservation. In 2026 it commended the State Party's recent efforts to preserve and monitor the property in a challenging context.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year concerns recorded by ICOMOS (2022) and the Committee (2023-2026); ICOMOS states conservation funding has been unavailable since 2015, but no single start date applies to the full set of concerns.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_16"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "The ICOMOS evaluation says sand is reburying parts of the Awam temple and the dam bank, and treats these environmental pressures as long-term issues rather than emergencies, though hard to address without funds. The nomination executive summary (State Party) cites torrential rains, flooding and desertification, and says agriculture relocates fertile sediments and damages archaeological remains. A State Party report listed by UNESCO under 2024 identifies rainwater, humidity, heat and drought as risks to be monitored. National Geographic (2022) captions describe sand slowly engulfing the pillars at Bar'an and reburying critical areas of the Awwam Temple; archaeologists quoted there say sand may help protect Bar'an from looters. This is a chronic, monitored pressure with mixed effects (sand both obscures and protects), not a documented acute event.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-term environmental pressures described in the 2022 ICOMOS evaluation and the State Party's nomination; no single start date applies.",
+      "source_ids": [
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_16"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The ICOMOS evaluation states that flash floods have damaged a wall of the Bar'an temple, and the nomination states the area receives two rainy seasons per year and cites torrential rains and flooding as threats. The sources reviewed give no date for the Bar'an flood damage and do not document a specific recent flood event affecting the inscribed components. Reports of flooding at the modern Marib dam in 2020 were found but are not used, because the sources reviewed treat the modern dam and the ancient dam inconsistently. This category reflects documented exposure to flash flooding rather than a currently documented unrepaired disaster.",
+      "first_identified_date": null,
+      "date_note": "ICOMOS reports flash-flood damage to a wall of the Bar'an temple without giving a date; the exposure is long-standing.",
+      "source_ids": [
+        "src_07",
+        "src_08"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "critical_concern",
+      "confidence": "supported",
+      "decision_trigger": "Critical Concern, applying the methodology top-down, and this is a close call with High Concern as the neighbouring status. Trigger matched: the site has been inaccessible to international monitoring and conservation bodies for an extended period for safety reasons, so its current condition cannot be verified. Evidence: ICOMOS could not carry out a technical evaluation mission in 2022 because of safety and security conditions; the Committee's 2023 inscription decision noted that a technical evaluation mission had not been possible, so authenticity, integrity, protection and management could not be fully assessed; the Committee asked the State Party to invite a Reactive Monitoring mission in 2023 and, in 2024, 2025 and 2026, welcomed or reiterated that the joint World Heritage Centre/ICOMOS mission take place 'once conditions allow', and it has not taken place on the evidence reviewed (more than three and a half years since inscription); and in 2025 and 2026 the Committee expressed concern at the lack of detailed, comprehensive information on the state of conservation. Counter-evidence weighed: national authorities report some field activity (the State Party's 2024 report says most sites in the Marib Oasis are in a better security situation and suitable for projects, and the Committee in 2026 commended the State Party's efforts to preserve and monitor the property), so the property is not wholly unmonitored; the inaccessibility is documented for international bodies and, in the State Party's own reports, for Sirwah and the dam. Other Critical triggers considered: (1) severe verified damage materially affecting the site now: the Committee's 2023 decision and ICOMOS's 2022 evaluation describe the fabric as gravely damaged or very poor, but no current damage assessment was available (the Committee itself asks for one), so this is not independently established as a present-tense finding; (2) active combat with fighting at or immediately adjacent to the site: Al Jazeera (8 August, 16 August and 10 September 2026) and Arab News (19 and 20 September 2026) report renewed shelling of Marib city and fighting on fronts in Marib Governorate, but none mentions the heritage components and the sources reviewed do not establish how close the fighting is to any component, so this trigger is treated as raising the weight of the first rather than as separately met; (3) collapse of protection or monitoring: not shown, since national management and UNESCO reporting continue. High Concern triggers also matched and would apply if Critical were not accepted: inscription on the List of World Heritage in Danger (since 2023, retained in 2024, 2025 and 2026) for substantive reasons; a region under active armed conflict with credible reporting on risk to cultural property; and significant historical damage whose repair has not begun (the State Party reports no conservation projects had started). A reviewer could reasonably call this High Concern if they weigh the national authorities' continuing on-site activity and the absence of any documented new damage to the components since 2018 more heavily than the long-pending international mission.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2015 and 2018 attacks are recorded in events[] and are not themselves the basis for the present status. The present picture is of a World Heritage property that has been on the List of World Heritage in Danger since its inscription in January 2023, where the Committee has repeatedly asked for a monitoring mission that has not been possible, where the Committee said in 2025 and 2026 it lacks detailed, comprehensive information about the property's condition, where ICOMOS and the State Party report very poor fabric, looting, quarrying and no available conservation funding, and where renewed fighting in Marib Governorate was reported in August and September 2026 (the most recent article read is dated 20 September 2026). Against that, the evidence also shows that national authorities continue to monitor and report, that the State Party reports no encroachment within the boundaries since inscription, that the Committee in 2026 commended the State Party's efforts, that the State Party has reported most Marib Oasis sites to be in a better security situation, and that none of the five 2026 conflict reports reviewed mentions damage to the heritage components. The call therefore rests mainly on the unverifiable current condition and sustained lack of access for international monitoring, in a setting of renewed nearby fighting, rather than on documented new destruction. Confidence is Supported rather than Confirmed: the inaccessibility and the Committee's statements are drawn from UNESCO decisions and reports, but the 2025 and 2026 state of conservation reports could not be read, the 2026 conflict reporting is from news outlets and partly from government-side military sources, the location of fighting relative to the components is not established, and the security situation is changing. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_17",
+        "src_18",
+        "src_19",
+        "src_22",
+        "src_23"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 2 review summary, agreeing with the recommended status and confidence. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of five categories have publicly findable evidence (photographic and academic/scholarly), which gives the moderate tier by the rubric (two to three categories). Coverage is thin: the UNESCO photo gallery holds only ten images and the Smithsonian page offers a small selection of historic excavation photographs. Archival records are marked false: UNESCO's documents page hosts the nomination dossier, ICOMOS evaluation and state of conservation material, but these are UNESCO process documents rather than a digitised archive of the site, and no dedicated digitised archive (for example excavation records) was located. No publicly viewable 3D model was verified: a 2007 peer-reviewed paper describes a photogrammetry and laser-scanning model of the northern sluice of the ancient dam made in January 2006, and the Smithsonian page says an international excavation team at the Awam Temple produced digital topographic plans and 3D models, but neither source indicates the models are publicly viewable, so 3D documentation is marked false rather than assumed. No virtual tour or 360-degree presentation was found. ICOMOS (2022) notes that most sites are unexcavated or only slightly excavated ('an estimated ten percent'), which limits what has been documented. The Madain Project page, a volunteer-run, ad-supported site, was opened but not counted because it is not an authoritative source. A reviewer may wish to re-check for DAI or other excavation archives that were not located in this pass.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property with 10 images, credited to Ebrahim Abdallah (4), Amr Alsrori (3), Irmgard Wagner (2) and the Deutsches Archaeologisches Institut (1).",
+        "url": "https://whc.unesco.org/en/list/1700/gallery/",
+        "source_id": "src_11"
+      },
+      {
+        "category": "photographic",
+        "description": "The Smithsonian's National Museum of Asian Art online exhibition page on the Awam Temple includes a small gallery of historic photographs of the Wendell Phillips-era and later excavations at Marib.",
+        "url": "https://asia-archive.si.edu/exhibition/awam-temple",
+        "source_id": "src_21"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed article by Thomas Kersten (International Journal of Architectural Computing, 2007) on a virtual reality model of the northern sluice of the ancient dam made by combining photogrammetry and terrestrial laser scanning during January 2006 excavations, a collaboration between the German Archaeological Institute and HafenCity University Hamburg. The record read does not indicate that the model itself is publicly viewable.",
+        "url": "https://forschungsportal.hcu-hamburg.de/en/publications/virtual-reality-model-of-the-northern-sluice-of-the-ancient-dam-i-4/",
+        "source_id": "src_20"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2015-04/2015-05",
+      "title": "Reports of bombardment and damage at Sirwah",
+      "description": "A 2017 article by Lamya Khalidi in the International Journal of Middle East Studies states that the archaeological site of Sirwah was bombarded by the Saudi-led coalition in April and May 2015. National Geographic reported on 3 June 2015 that Yemeni sources told Iris Gerlach, director of the German Archaeological Institute's Sanaa Branch, that Sirwah had sustained considerable damage in recent fighting because of its proximity to the local governor's palace, and noted that communication shutdowns made independent confirmation difficult. Sirwah is now a component of the inscribed property.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_14",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2015-05-31",
+      "title": "Airstrike damages the northern sluice of the ancient Marib dam",
+      "description": "ICCROM reported that an airstrike on the night of 31 May 2015 damaged the Great Dam of Marib, that ancient Sabaean inscriptions on the dam walls may have been affected, and that UNESCO Director-General Irina Bokova condemned the airstrikes. National Geographic reported that Gerlach relayed reports from sources close to local Marib leadership that the strike hit the better-preserved northern sluice, with images showing damage to its tower about 7 metres (23 feet) high; Yemeni officials said coalition forces were responsible, and the Saudi embassy in Washington did not respond to a request for comment. A 2022 National Geographic feature by Iona Craig describes the strike as having hit a sluice gate and torn through the remaining tower, leaving a pile of rubble. ICOMOS's 2022 evaluation also cites an airstrike on the northern dam bank in 2015.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_12",
+        "src_13",
+        "src_16",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2018",
+      "title": "Bombing at Sirwah cited by ICOMOS",
+      "description": "ICOMOS's 2022 evaluation cites bombing at Sirwah in 2018 among the deliberate or conflict-related damage to components. The date is given by year only in the evaluation as read, and the same evaluation reports Sirwah as occupied by militia at the time, leaving its management unclear.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2018-02-08",
+      "title": "Associated Press reports Awwam Temple neglected in a front-line area",
+      "description": "An Associated Press report described the Awwam Temple in Marib, which it called a front-line area in the Saudi-led war against Houthi rebels, as left neglected and unprotected. The report does not describe specific damage to the temple. Unnamed experts feared it remained at risk, and Anna Paolini, director of UNESCO's regional office in Qatar, was quoted saying 'it's sad to see what's happening'.",
+      "event_type": "other",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2022-04-13",
+      "title": "ICOMOS approves evaluation of the emergency nomination",
+      "description": "ICOMOS approved its evaluation of the nomination on 13 April 2022; the State Party had submitted the nomination under the emergency procedure on 11 February 2022. ICOMOS could not carry out a technical evaluation mission because of safety and security conditions. It described the fabric as 'very poor', reported quarrying, pillaging and flash-flood damage, said conservation funding had not been available since 2015, and recommended inscription on an emergency basis under criteria (iii) and (iv) together with inscription on the List of World Heritage in Danger.",
+      "event_type": "other",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2022-08-04",
+      "title": "National Geographic feature reports looting, sand reburial and proximity of the front line",
+      "description": "Iona Craig's National Geographic feature (September 2022 issue, published online 4 August 2022) reported that sand has reburied critical areas of the Awwam Temple, that a 2,300-year-old inscribed alabaster statue base was ripped from the floor and later appeared at a Paris auction house, and that a Houthi offensive had brought Marib city within range of rebel missiles. It quoted Sadeq al Salwi, Marib director of the General Organization of Antiquities and Museums: 'It's better that everything is under the ground. The sand is safety.'",
+      "event_type": "other",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2023-01",
+      "title": "Property inscribed on the World Heritage List and the List of World Heritage in Danger",
+      "description": "At its 18th extraordinary session (listed by UNESCO as 24-25 January 2023; UNESCO's news item is dated 25 January 2023) the Committee inscribed the property under the emergency procedure, under criteria (iii) and (iv), and placed it on the List of World Heritage in Danger. UNESCO's news item gives threats of destruction from the ongoing conflict as the reason for the emergency procedure. The decision (18 EXT.COM 5.3) noted that a technical evaluation mission had not been possible, changed the property's name to 'Landmarks of the Ancient Kingdom of Saba, Marib', and set out nine numbered recommendations (the Committee's later decisions reiterate, among them, halting the 2018 Master Plan pending a Heritage Impact Assessment) and asked the State Party to invite a Reactive Monitoring mission.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_04",
+        "src_09",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2024-02-19",
+      "title": "State Party submits state of conservation report",
+      "description": "UNESCO records that the State Party submitted its report on 19 February 2024. It reports that unstable conditions and armed conflict prevent local authorities from carrying out field inspections and projects, with Sirwah a particular obstacle, while most sites in the Marib Oasis are in a better security situation and suitable for projects; that increased damage is occurring because the property has no fences; that no encroachment has occurred within the boundaries since inscription; and that funding, training and skilled personnel are lacking, with zero international assistance requests approved to date.",
+      "event_type": "other",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7A.34 on Marib",
+      "description": "The Committee welcomed the State Party's informative report on damage and challenges, requested implementation of the inscription-time recommendations, encouraged detailed damage documentation when conditions allow, said urgent stabilisation should be limited to cases where collapse or further damage is imminent, welcomed the invitation of a joint World Heritage Centre/ICOMOS Reactive Monitoring mission once conditions allow, called for international support including through the UNESCO Heritage Emergency Fund, retained the property on the List of World Heritage in Danger and asked for an updated report by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7A.55 on Marib",
+      "description": "The Committee expressed concern about the lack of detailed, comprehensive information on the property's state of conservation, reiterated the inscription-time requests, again called for a joint Reactive Monitoring mission once conditions allow (to advise on a Desired state of conservation for removal from the Danger List), appealed for cooperation against illicit trafficking of cultural property from Yemen, retained the property on the Danger List and asked for an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.20 on Marib",
+      "description": "At its 48th session (Busan) the Committee commended the State Party's recent efforts to preserve and monitor the property in a challenging context, again expressed concern about the lack of detailed, comprehensive information on its state of conservation, reiterated its earlier requests, again called for a Reactive Monitoring mission once conditions allow, retained the property on the List of World Heritage in Danger, and asked for an updated report by 1 February 2027 for the 49th session. The month of the decision was not confirmed in this pass.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Renewed shelling of Marib city reported",
+      "description": "Al Jazeera reported on 8 August 2026 that government forces launched attacks on Houthi positions hours after the Houthis renewed shelling of Marib city. It reported that on the Friday an attack on Marib killed two civilians and wounded 14, according to Yemen's Health Ministry, and that the Houthis said they targeted a military camp on the city's outskirts; Deputy Information Minister Mohammed Gezan said the Houthis had resumed shelling civilian neighbourhoods. The article does not mention any heritage site.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_17"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Further attacks on Marib city reported",
+      "description": "Al Jazeera reported on 16 August 2026 that the Houthis launched missile and drone strikes on Marib city (on the Saturday evening, 15 August) and al-Makha (on the Sunday). Marib's government media office said six ballistic missiles and four drones hit residential neighbourhoods, wounding four people, and the Yemeni military said it carried out 181 operations against Houthi positions across several governorates over the weekend. These are the accounts of the parties named in the article; it does not mention any heritage site.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_23"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "title": "Fighting reported on fronts in Marib Governorate",
+      "description": "Al Jazeera reported on 10 September 2026 that, over recent weeks, pro-government forces had attacked Houthi-held areas in Marib and al-Jawf and the Houthis had retaliated, and cited aid agencies as saying at least 194 people were killed and 880 wounded in two weeks of fighting across Taiz, the western coast, al-Jawf, Marib and Dhalea (a total for several governorates, not Marib alone). Arab News reported on 19 September 2026, citing unnamed government-side military sources, that government forces advanced on the Al-Mashjah front west of Marib city and that airstrikes reportedly hit Houthi forces on southern fronts; the report carried no Houthi response or independent verification. Neither article mentions the heritage components. Arab News reported on 20 September 2026 that the Yemeni army's military media director said more than 80 Houthi fighters were killed in 24 hours of fighting at Hareb, Mala'a and Um Raish, south of Marib city; the article presents these as the army's unverified claims and does not mention heritage components.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_18",
+        "src_19",
+        "src_22"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Landmarks of the Ancient Kingdom of Saba, Marib",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1700",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Fetched through a summarising tool, so wording is paraphrased rather than read verbatim. Used for ID (1700), inscription year, criteria, component description, area and current Danger List status (2023 to present).",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.20: Landmarks of the Ancient Kingdom of Saba, Marib (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9011",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Re-read on 2026-10-14 through a summarising tool that returns a paragraph-by-paragraph paraphrase rather than verbatim text; the only direct quotation relied on is the short phrase 'once conditions allow' (and the decision wording to retain the property on the List of World Heritage in Danger). The page gives the session as Busan, 2026, without exact session dates.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.55: Landmarks of the Ancient Kingdom of Saba, Marib (Yemen)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8722",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through a summarising tool; paraphrased paragraph by paragraph.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.34: Landmarks of the Ancient Kingdom of Saba, Marib (Yemen) (C 1700)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8503",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through a summarising tool; paraphrased paragraph by paragraph.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 18 EXT.COM 5.3: Any other matter - Nominations to be processed on an emergency basis - Yemen",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8049",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through a summarising tool; paraphrased. The decision is dated 2023 (18th extraordinary session); the exact day of adoption was not confirmed.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_05",
+      "title": "State of conservation report (46 COM, 2024): Landmarks of the Ancient Kingdom of Saba, Marib (Yemen) (C 1700)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4557",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through a summarising tool. Statements about security, damage and encroachment are the State Party's, as recorded on UNESCO's page, and are attributed to the State Party in this dossier.",
+      "published_date": "2024-02-19",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Summary of the state of conservation report by the State Party / Resume du rapport de l'Etat partie sur l'etat de conservation (Landmarks of the Ancient Kingdom of Saba, Marib)",
+      "publisher": "Republic of Yemen (State Party), hosted by UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/205420",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "UNESCO's documents page lists this document under 2024, but the text as summarised refers to events of 2023 (the January 2023 inscription and a March 2023 meeting) and gives no exact submission date, so the report date is not confirmed. It is the State Party's own account and is attributed to it. Read through a summarising tool.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_07",
+      "title": "ICOMOS evaluation: Landmarks of the Ancient Kingdom of Saba in Marib Governorate (Yemen), nomination No. 1700",
+      "publisher": "ICOMOS (hosted by UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/198691",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Evaluation approved 13 April 2022, so it describes conditions as of 2022 and is based on desk review because no technical evaluation mission was possible. Read through a summarising tool.",
+      "published_date": "2022-04-13",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Landmarks of the Ancient Kingdom of Saba in Marib Governorate, Volume 1: Executive Summary (nomination for inscription, emergency procedure)",
+      "publisher": "Republic of Yemen, Ministry of Information, Culture and Tourism (hosted by UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/191748",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The State Party's own nomination document; no submission date is stated on the text as read. Used for component coordinates and distances and for the State Party's statement of threats, attributed to the State Party. Read through a summarising tool.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Landmarks of the Ancient Kingdom of Saba, Marib (Yemen) inscribed on the World Heritage List and the List of World Heritage in Danger (news item)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2517",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page title refers to the World Heritage List while the body text specifies the Danger List; both are consistent with the Committee decision.",
+      "published_date": "2023-01-25",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Landmarks of the Ancient Kingdom of Saba, Marib: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1700/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Used to identify which UNESCO documents exist for the property (nomination, ICOMOS evaluation, state of conservation material); not counted as an archival_records DPI source.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Landmarks of the Ancient Kingdom of Saba, Marib: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1700/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Airstrikes on Yemen's cultural heritage",
+      "publisher": "ICCROM",
+      "url": "https://iccrom.org/es/node/333",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "ICCROM news item dated 3 June 2015 that reports and endorses the UNESCO Director-General's statement; ICCROM is an intergovernmental organisation, and its tier here is a judgement call. It does not name who carried out the strike.",
+      "published_date": "2015-06-03",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_13",
+      "title": "'Engineering Marvel' of Queen of Sheba's City Damaged in Airstrike",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/science/article/150603-Yemen-ancient-Sheba-dam-heritage-destruction-Middle-East-archaeology",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Contemporary report relaying second-hand accounts and images; the article notes communication shutdowns made independent confirmation difficult.",
+      "published_date": "2015-06-03",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_14",
+      "title": "The Destruction of Yemen and Its Cultural Heritage (Lamya Khalidi)",
+      "publisher": "International Journal of Middle East Studies, Cambridge University Press",
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/destruction-of-yemen-and-its-cultural-heritage/53D08264CAACB808618BCF9D70053D25",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Short commentary in a journal special issue (vol. 49, issue 4, pp. 735-738), written in a critical register about the coalition; the page as read gives dates for the Sirwah bombardment but no detailed sourcing, so it is used for that claim only alongside the 2015 National Geographic report.",
+      "published_date": "2017-10-16",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Ancient temple left neglected as Yemen war threatens history (Associated Press report)",
+      "publisher": "Fox News (republishing Associated Press)",
+      "url": "https://www.foxnews.com/world/ancient-temple-left-neglected-as-yemen-war-threatens-history.amp",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Wire report from 2018 describing conditions at that date; it reports no specific damage to the temple and quotes unnamed experts.",
+      "published_date": "2018-02-08",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Ancient caravan kingdoms are threatened in Yemen's civil war (Iona Craig)",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/magazine/article/ancient-caravan-kingdoms-are-threatened-in-yemens-civil-war-feature",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Magazine feature from 2022 describing conditions at that date; its account of the 2015 dam strike differs in detail from the contemporary 2015 report (see event description).",
+      "published_date": "2022-08-04",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Yemen's government forces attack Houthis amid renewed shelling of Marib",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Casualty figures are attributed in the article to Yemen's Health Ministry; claims about targets and intentions are those of the parties named.",
+      "published_date": "2026-08-08",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Casualty totals cover several governorates and are attributed in the article to aid agencies; the article does not mention heritage sites.",
+      "published_date": "2026-09-10",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Yemeni forces target Houthi positions and reinforcements in Marib",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/middle-east/yemeni-forces-target-houthi-positions-and-reinforcements-in-marib-3002344",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "All combat claims in the article come from unnamed government-side military sources and are not independently verified; no Houthi response is included. Used only to show that fighting was reported in Marib Governorate, not for the details of battlefield outcomes.",
+      "published_date": "2026-09-19",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Virtual Reality Model of the Northern Sluice of the Ancient Dam in Marib/Yemen by Combination of Digital Photogrammetry and Terrestrial Laser Scanning for Archaeological Applications (Thomas Kersten)",
+      "publisher": "International Journal of Architectural Computing, via HafenCity University Hamburg research portal",
+      "url": "https://forschungsportal.hcu-hamburg.de/en/publications/virtual-reality-model-of-the-northern-sluice-of-the-ancient-dam-i-4/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Bibliographic record and abstract only; the article itself and any hosted model were not opened. Evidences that scholarship and a model exist, not that the model is publicly viewable.",
+      "published_date": "2007-06-01",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Excavations: Awam Temple (Unearthing Arabia: The Archaeological Adventures of Wendell Phillips)",
+      "publisher": "Smithsonian National Museum of Asian Art (Freer|Sackler)",
+      "url": "https://asia-archive.si.edu/exhibition/awam-temple",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "Exhibition page last modified 25 March 2020; evidences a small photograph gallery and the existence of digital topographic plans and 3D models produced by the excavation team, not that the models are public.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_22",
+      "title": "At least 80 Houthis killed in fierce Marib fighting, Yemen army says",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/middle-east/at-least-80-houthis-killed-in-fierce-marib-fighting-yemen-army-says-3002454",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Combat figures are claims by the Yemeni army's military media department and are presented in the article as unverified; read through a summarising tool. The article names Hareb, Mala'a and Um Raish south of Marib city and does not mention any heritage site.",
+      "published_date": "2026-09-20",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/amp/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Casualty and damage figures are attributed in the article to Yemeni government media offices and state media; the Houthis' account differs. Read through a summarising tool. The article names only Marib city within the governorate and does not mention any heritage site.",
+      "published_date": "2026-08-16",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Revision of the 2026-10-12 draft for the 2026-10-14 reference date. (1) Re-read Decision 48 COM 7A.20 (whc.unesco.org/en/decisions/9011): session Busan 2026; commends State Party; concern at lack of detailed information; reiterates eight inscription-time recommendations; reiterates Reactive Monitoring mission request once conditions allow; retains the property on the Danger List; updated report due 1 February 2027. (2) Corrected DPI: archival_records changed from true to false because UNESCO's documents page hosts nomination/ICOMOS/state of conservation process documents, not a digitised archive of the site; DPI now photographic + academic_scholarly = 2 categories, still the moderate tier. (3) Added two 2026 news sources (Al Jazeera 16 August; Arab News 20 September) and one event; neither mentions heritage components. (4) Known gap: UNESCO's property page (list/1700) could not be re-fetched on 2026-10-14 (fetch tool refused the URL); current Danger List status rests on the 2026 decision text, which retains the property on the List, plus the 2026-10-12 read of the property page. Status call unchanged: Critical Concern / Supported, close call with High Concern. | Independent verification pass 2026-10-14: (1) corrected mission wording in decision_trigger (2023 decision asked the State Party to invite a mission; 'once conditions allow' is the wording of 2024-2026); (2) 2023 event: recommendations/mission wording aligned to decision page; (3) 2024 decision: stabilisation limit now 'collapse or further damage is imminent'; (4) 16 Aug 2026 Al Jazeera event: timing of Marib strikes (Saturday evening) and 181 operations 'across several governorates'. Verified against fetched pages: decisions 48 COM 7A.20, 47 COM 7A.55, 46 COM 7A.34, 18 EXT.COM 5.3, 2024 SOC page, news/2517, list/1700, UNESCO gallery (10 images, credits), Arab News 19 and 20 Sep, Al Jazeera 16 Aug. Not fetchable in this pass (tool refused): documents 205420/198691/191748, ICCROM, both National Geographic, Cambridge, Fox/AP, Al Jazeera 8 Aug and 10 Sep, HCU, Smithsonian; claims resting only on those are unverified by this pass.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-12",
+      "change": "Initial draft dossier by Claude. Proposed status Critical Concern / Supported; close call vs High Concern flagged in decision_trigger and rationale. UNESCO ID confirmed as 1700 (the brief's 1695 was not correct). Fetch note: WebFetch refused the two URLs named in the brief (list/1695 and list/1695/documents) as not in its permitted set, so they were not read; UNESCO pages were instead reached via URLs returned by web search, and all UNESCO content was read through a summarising tool (decisions paraphrased, not verbatim). Known gaps (not included because not verified): (1) UNESCO's 2025 state of conservation report (whc.unesco.org/en/soc/4879) returned a fetch error and the 2026 state of conservation report and Secretariat assessment were not located or read; only the Committee decisions (2023-2026) and the 2024 state of conservation page were read. (2) No international mission or expert visit since inscription was found, but absence of evidence is not proof; the Reactive Monitoring mission is described by the Committee as still to be organised. (3) Current condition of individual components is unknown from the sources reviewed; the Committee itself says it lacks detailed information, and no damage assessment or satellite-imagery analysis (for example UNOSAT) of the components after 2018 was found. (4) The distance between 2026 fighting locations and individual components was not established; the 2026 conflict articles (Al Jazeera 8 and 10 September, Arab News 19 September) do not mention heritage. Wikipedia's '2026 Yemen offensives' page was opened for orientation only and not cited. (5) The date and exact content of the State Party summary report (document 205420) is uncertain: UNESCO lists it under 2024 but the text refers to 2023 events. (6) 45 COM 7A.48 (2023) is only a notice that no reporting was required and was not cited. (7) Flood reports from 2020 (New Arab / Anadolu) concern the modern Marib dam (rebuilt 1986) and were not used because they conflate it with the ancient dam. (8) The Science magazine article on war damage to ancient sites in Yemen and the Madain Project page could not be read or were not authoritative enough to cite. (9) The 2018 Master Plan: only its existence and the Committee's request to halt it pending a Heritage Impact Assessment are recorded; whether it has since been halted or revised is not stated in the sources read. (10) 3D documentation marked false (a 2007 paper and the Smithsonian page describe scans and models that were not found publicly viewable); no virtual tour found. (11) The month of the 2026 Committee decision and the adoption day of the 2023 decision were not confirmed, so they are dated by year or month only. Images omitted by design. Wording is deliberately neutral and attributes causes only as the cited sources state them.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: critical_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

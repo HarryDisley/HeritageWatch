@@ -91,8 +91,8 @@
       ],
       "recorded_by": "claude-draft",
       "approved_by": "Harry Disley",
-      "approved_date": "2026-10-12",
-      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier set to moderate (stricter reading): The second reader could not re-open the French Ministry of Culture and Sketchfab 3D pages, so the 3d_documentation category is no longer counted."
+      "approved_date": "2026-10-14",
+      "approval_note": "Approved by Harry Disley on 2026-10-14 from the round 1 review summary. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
     }
   ],
   "digital_preservation": {
@@ -103,7 +103,7 @@
       "virtual_tour": false,
       "academic_scholarly": true
     },
-    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four, including a visual and a technical/scholarly category). Coverage is strongly uneven between the two components: every item found specifically documents the Crac des Chevaliers, and none was found for Qal'at Salah El-Din beyond UNESCO's own pages and the mission and Committee documents. The 3D evidence (a French Ministry of Culture media-library entry credited to Iconem, and a 2016 platform blog saying a model was released on Sketchfab) was not opened interactively, and its model appears to represent the castle at a 1930 state; no virtual tour was found (a Google Arts & Culture story exists but contains no street view or tour). The UNESCO gallery shows photographs by UNESCO staff and is not a complete or recent survey. A reviewer may wish to consider whether this Crac-only coverage should temper the tier to moderate. Verifier note (round 1): the UNESCO gallery and documents pages could not be re-opened by the verifier (403), and the gallery size is uncounted, so the photographic category rests on an unquantified gallery; the 3D category rests on a platform blog and ministry entries rather than an opened model. With both thin and nothing found for Qal'at Salah El-Din, moderate is arguably the better-supported tier; left for the reviewer. ADJUSTED 2026-10-12 on review: The second reader could not re-open the French Ministry of Culture and Sketchfab 3D pages, so the 3d_documentation category is no longer counted. Tier is therefore moderate (3 of 5 categories).",
+    "coverage_note": "[Tier revised to moderate on 2026-10-14] 3D documentation set to false: the French Ministry and Sketchfab/Iconem pages could not be re-opened by the independent verifier. Photographic, archival (UNESCO gallery and documents pages, re-checked 2026-10-14) and scholarly evidence remain. Original researcher note follows. Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four, including a visual and a technical/scholarly category). Coverage is strongly uneven between the two components: every item found specifically documents the Crac des Chevaliers, and none was found for Qal'at Salah El-Din beyond UNESCO's own pages and the mission and Committee documents. The 3D evidence (a French Ministry of Culture media-library entry credited to Iconem, and a 2016 platform blog saying a model was released on Sketchfab) was not opened interactively, and its model appears to represent the castle at a 1930 state; no virtual tour was found (a Google Arts & Culture story exists but contains no street view or tour). The UNESCO gallery shows photographs by UNESCO staff and is not a complete or recent survey. A reviewer may wish to consider whether this Crac-only coverage should temper the tier to moderate. Verifier note (round 1): the UNESCO gallery and documents pages could not be re-opened by the verifier (403), and the gallery size is uncounted, so the photographic category rests on an unquantified gallery; the 3D category rests on a platform blog and ministry entries rather than an opened model. With both thin and nothing found for Qal'at Salah El-Din, moderate is arguably the better-supported tier; left for the reviewer.",
     "tier_recommendation": "moderate",
     "evidence": [
       {
@@ -515,7 +515,7 @@
     "final_classification_approved": true
   },
   "review_status": "approved",
-  "last_verified_date": "2026-10-12",
+  "last_verified_date": "2026-10-14",
   "changelog": [
     {
       "date": "2026-10-11",
@@ -523,9 +523,14 @@
       "changed_by": "claude"
     },
     {
-      "date": "2026-10-12",
-      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier set to moderate (stricter reading): The second reader could not re-open the French Ministry of Culture and Sketchfab 3D pages, so the 3d_documentation category is no longer counted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
-      "changed_by": "harry"
+      "date": "2026-10-14",
+      "changed_by": "claude",
+      "change": "DPI tier revised after independent verification: 3D documentation set to false: the French Ministry and Sketchfab/Iconem pages could not be re-opened by the independent verifier. Photographic, archival (UNESCO gallery and documents pages, re-checked 2026-10-14) and scholarly evidence remain."
+    },
+    {
+      "date": "2026-10-14",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
     }
   ]
 }

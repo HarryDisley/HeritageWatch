@@ -1,0 +1,541 @@
+{
+  "slug": "ancient-villages-of-northern-syria",
+  "name": "Ancient Villages of Northern Syria",
+  "alternate_names": [
+    "Dead Cities",
+    "Villages antiques du Nord de la Syrie"
+  ],
+  "country": "Syria",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 36.1017,
+    "lng": 36.7007
+  },
+  "coordinate_note": "UNESCO's property page gives no single coordinate; its maps page lists eight points, one per archaeological park (for example Qal'at Sem'an N36 20 3, E36 50 39; Ba'uda N35 40 11, E36 34 7; Kafr Aqareb N36 2 3, E36 26 26), and UNESCO notes some values may be truncated. This marker is the simple average of those eight points, a practical single-point reference only: the property is a serial property of eight parks (about 40 villages, 12,290 ha) spread across the Limestone Massif in Aleppo and Idleb governorates. Alternate name 'Dead Cities' is a common popular name, not UNESCO's inscribed name.",
+  "unesco_id": "1348",
+  "inscription_year": 2011,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes some forty ancient villages in a limestone massif in northwestern Syria, grouped into eight archaeological parks, which offer insight into rural life in late Antiquity and the Byzantine period. The villages were abandoned in the 8th to 10th centuries and retain many original monuments, including dwellings, pagan temples, churches, funerary monuments and bathhouses, illustrating the shift from the pagan Roman world to Byzantine Christianity. It was inscribed in 2011 as a cultural landscape under criteria (iii), (iv) and (v).",
+  "metadata_sources": [
+    "src_00",
+    "src_14"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO placed the property on the List of World Heritage in Danger in 2013, and its 2024 state of conservation report gives the basis as destruction and ascertained or potential threats from the armed conflict in Syria that began in March 2011. The 2024 report lists war, deliberate destruction, military training and illegal activities among the factors, including (as factors identified in earlier reports) use of sites by armed groups for military training and occupation by internally displaced people. The Committee recorded deep concern in 2016 about the escalating conflict and reported damage including at Saint Simeon; UNESCO's Director-General said on 17 May 2016 that the Church of Saint Simeon was heavily damaged, possibly by an air strike on 12 May 2016. In 2023 the Committee cited the continued presence of armed groups, and in 2024 it again called on all parties to refrain from any action that could further damage the property, including its military use. For present conditions, the 2026 decision and the sources reviewed do not report fighting at or adjacent to the property in 2025-2026. The DGAM's 2026 State Party report says landmines and unexploded ordnance are reported at Ruweiha, al-Rabia'a, Shinshrah, Ba'uda and Wadi Martahun, that Kafr Nabo is confirmed contaminated (blocking access and assessment), and that no one can work or visit until clearance is complete.",
+      "first_identified_date": "2011-03",
+      "date_note": "Month of the start of the armed conflict as stated in UNESCO's 2024 state of conservation report; damage to the property is dated individually in events[].",
+      "source_ids": [
+        "src_04",
+        "src_03",
+        "src_06",
+        "src_09",
+        "src_10",
+        "src_05",
+        "src_01"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The February 2023 earthquake caused further damage. UNESCO's 2024 state of conservation report records earthquake damage to monastery buildings and fortress structures at Qal'at Sem'an (with third-party reports of the collapse of an arch of the western basilica) and at Jebel Sem'an park, and third-party photos showing collapsed walls and ceilings and cracks in walls at the Jebel Zawiye, Jebel al-A'la, Jebel Barisha, Jebel Wastani and Jebel Sem'an parks. The State Party's report referred to extensive damage at Qal'at Sem'an as reported by the media, without giving new details, and UNESCO's report describes the limited information received as a serious concern. The DGAM's 2026 report says the earthquake damaged structures including the Citadel of Semaan and the Mar Maroun shrine in Brad and caused the collapse of the baptistery at Qal'at Sem'an. In 2025 the Committee expressed concern that several components are in a worse condition, where previously reported damage appears to have deteriorated (the decision does not itself attribute this to the earthquake). The sources reviewed do not describe a systematic structural survey of earthquake damage across the property.",
+      "first_identified_date": "2023-02",
+      "date_note": "Date is that of the February 2023 earthquake as given in UNESCO's 2024 state of conservation report; the sources reviewed describe no other natural-disaster event for the property.",
+      "source_ids": [
+        "src_04",
+        "src_06",
+        "src_02",
+        "src_05",
+        "src_16"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's 2024 report lists illegal activities (use of ancient stones as building material, illegal construction and excavation), quarrying, land conversion, shortfalls in financial and human resources and an incomplete management system among the factors, and records that a desired state of conservation for removal from the Danger List, corrective measures and a timeframe had not yet been drafted or identified. The Committee has repeated its request for a Desired State of Conservation for removal (DSOCR) in 2025 and again in 2026. In 2026 it noted measures against illegal construction at al-Bara (a regional committee and removal of unfinished concrete structures) and asked the State Party to report on an evaluation of each current illegal construction, including those on private land, and on mitigation. The DGAM's 2026 report states that unauthorised housing inside the al-Bara archaeological park has caused irreversible damage, that approximately 70 houses are involved, that a regional committee has been asked to study regularising their status, and that clandestine excavations, looting, stone robbing and unauthorised construction continue, often at night, with a critical lack of financial resources, specialised equipment and transport. It describes Qal'at Sem'an as in 'acute structural peril'. Earlier looting reports (a 2018 Atlantic Council blog relying largely on unnamed sources) and pre-conflict threats noted by ICOMOS in 2011 (stone reuse, unauthorised construction, illegal excavation, about twenty guards for the whole property) show these pressures are long-standing. The Committee also records progress: it welcomed the State Party's condition assessment at most sites and priority actions (removing explosive hazards and illegal construction, stabilising structures, 3D documentation) and noted the Jebel Zawiyeh archaeological park project and local community involvement.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year conservation and management concerns recorded across successive Committee decisions and the 2011 ICOMOS evaluation; no single start date established from the sources reviewed.",
+      "source_ids": [
+        "src_04",
+        "src_01",
+        "src_02",
+        "src_05",
+        "src_12",
+        "src_23",
+        "src_19"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "developing",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern: considered and not mechanically met, but this is a close call with Critical as the neighbouring status. (1) Severe verified damage materially affecting the property: damage is documented and described as severe in places (the DGAM's 2026 report calls Qal'at Sem'an 'in acute structural peril'; in July 2026 the site director told AFP that 30 to 40 percent of the Saint Simeon monastery is damaged; the Committee in 2025 expressed concern that several components are in a worse condition). But the evidence is largely State Party and press accounts, covers some of the roughly forty villages and eight parks, and no independent UNESCO or ICOMOS assessment has taken place, so a site-wide finding of severe damage is not established. (2) Active combat at or adjacent to the property: the sources reviewed (the 2026 Committee decision, the DGAM's 2026 report, AFP in July 2026) report no fighting there in 2025-2026. The 2023 decision cited the continued presence of armed groups; later decisions do not. (3) Inaccessibility to monitoring bodies for roughly six months or more so that condition cannot be verified: this is the closest Critical trigger. UNESCO's 2024 report states that no mission has visited since March 2011 and that very little substantive new information has been reported since 2017, and the 2026 decision still asks for the joint World Heritage Centre/ICOMOS Reactive Monitoring mission only 'as soon as the security situation allows'. Against that, by 2026 the Committee welcomed a State Party condition assessment at most sites, AFP journalists and a French delegation visited Saint Simeon in July 2026, and the DGAM reports documentation work, so condition is partly verifiable, though not by the international bodies. Explosive hazards still block access to several sites. (4) Collapse of protection or monitoring: not shown; the DGAM reports ongoing work (while citing severe resource shortages) and the Committee notes local community involvement. High Concern triggers matched: (a) the property has been on the List of World Heritage in Danger since 2013 for substantive reasons and was retained in 2023, 2024, 2025 and 2026; (b) significant damage (airstrike 2016, earthquake 2023) whose repair remains substantially incomplete, with no desired state of conservation or corrective measures yet drafted; (c) documented unresolved threats: unauthorised construction at al-Bara, continuing clandestine excavation and stone robbing, and unsurveyed or uncleared explosive hazards at several sites.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of a World Heritage property that the Committee retained on the Danger List in 2026, expressing continued concern about reported damage, where UNESCO itself has had no mission since March 2011, where the Committee in 2025 noted that several components are in a worse condition, and where the State Party reports unresolved pressures: irreversible damage from unauthorised housing at al-Bara, continuing clandestine excavation, landmine and unexploded ordnance contamination that blocks access at several sites, and a severe shortage of resources. Against that, the evidence also shows a changing situation: the Committee in 2026 welcomed the State Party's condition assessment at most sites and its priority actions, noted the Jebel Zawiyeh park project and community involvement, no fighting at the property was found in 2025-2026, and journalists and a French delegation were able to visit Saint Simeon in July 2026 to discuss reopening and restoration. This is why the call is High rather than Critical. A reviewer could weigh the absence of any international monitoring since 2011, the reliance on State Party self-reporting, the description of Qal'at Sem'an as in acute structural peril and the 30 to 40 percent damage estimate for Saint Simeon differently and argue for Critical; the close call with Critical is the main judgment here. Confidence is Developing rather than Supported: UNESCO's 2025 and 2026 state of conservation reports could not be retrieved, key figures come from a State Party report read via a summary, no independent post-2011 field assessment of the whole property exists in the sources reviewed, and the situation is changing. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_09",
+        "src_10",
+        "src_17",
+        "src_18",
+        "src_19"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": false,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly findable evidence, which meets the moderate tier by the rubric (2-3 categories). Coverage is uneven and mostly building-level or site-level: the 3D data found covers two churches (al-Bara Church 4 and the Qalb Lozeh church) and the academic 3D work on Saint Simeon is a 2011 digital-survey and reconstruction study, not a public whole-property model. Photographic is marked false because the only public collection found, UNESCO's gallery, holds 8 images and is not a substantial archive; a reviewer may consider it thin-but-present evidence. No virtual tour was found. The DGAM's 2026 report recommends drones and cameras to create a complete 3D record of every site, which indicates that whole-property 3D documentation does not yet exist. Archival records rest on UNESCO's nomination and decision documents rather than a dedicated digitised archive.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page lists the 2011 nomination file (nomination text, annexes, maps, management plan, supplementary information), the ICOMOS evaluation, State Party and UNESCO state of conservation reports for 2012-2026, and Committee decisions from 2011 to 2026.",
+        "url": "https://whc.unesco.org/en/list/1348/documents",
+        "source_id": "src_15"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "The University of Tsukuba's Research Center for West Asian Civilization lists 3D data from digital photogrammetry for the churches at al-Bara and Qalb Lozeh as downloadable point-cloud/mesh files in several resolutions, with PDF reports; the al-Bara volume reports using more than 3,500 ground photographs and about 200 aerial photographs for Church 4.",
+        "url": "https://rcwasia.hass.tsukuba.ac.jp/bunka_EN/record_en.html",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed conference paper (ISPRS Archives, 2011) on digital surveys of Qal'at Sem'an since 2003 and the 3D virtual anastylosis of the 'Residence', structured in the NUBES documentation platform.",
+        "url": "https://isprs-archives.copernicus.org/articles/XXXVIII-5-W16/45/2011/",
+        "source_id": "src_22"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "University of Tsukuba publication (2018) 'A Series of Photogrammetry for Protection of Syrian Cultural Heritage: Ancient Villages of Northern Syria, Vol. 2, al-Bara', with a survey of damage to the site and photogrammetric documentation of Church 4.",
+        "url": "https://rcwasia.hass.tsukuba.ac.jp/conservation_AR/pub_al-Bara_en.pdf",
+        "source_id": "src_21"
+      },
+      {
+        "category": "photographic",
+        "description": "Noted but not counted: UNESCO's photo gallery for the property holds 8 images (credited to three photographers) showing, among other subjects, Kfeir, Baqirha, Kafr Nabo, Kharab Shams and the octagon of the Saint-Simeon martyrion.",
+        "url": "https://whc.unesco.org/en/list/1348/gallery/",
+        "source_id": "src_13"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2011",
+      "title": "Ancient Villages of Northern Syria inscribed on the World Heritage List",
+      "description": "The Committee inscribed the property as a cultural landscape under criteria (iii), (iv) and (v) (decision 35 COM 8B.23). It asked Syria to extend its protection and conservation policy, add guards to the most exposed parks, finalise the Management Plan and Action Plan, and report by 1 February 2012.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_11",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2013",
+      "title": "Property inscribed on the List of World Heritage in Danger",
+      "description": "At its 37th session in Phnom Penh the Committee placed all six Syrian World Heritage properties, including this one, on the List of World Heritage in Danger (decisions 37 COM 8C.1 and 37 COM 7B.57), finding that conditions for protecting their Outstanding Universal Value no longer existed, and asked for a desired state of conservation and corrective measures once stability returns.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_08",
+        "src_07",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2016-05-12",
+      "title": "Church of Saint Simeon heavily damaged, possibly by air strike",
+      "description": "UNESCO's Director-General stated on 17 May 2016 that, according to information and photos received, the Church of Saint Simeon (built around 490 AD) was heavily damaged, including the remains of the pillars where Saint Simeon reportedly lived as a hermit, possibly by an air strike on 12 May 2016. UNESCO did not state who was responsible. An AFP report of July 2026 also states that an airstrike hit the monastery in 2016.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2016",
+      "title": "World Heritage Committee decision 40 COM 7A.19 on the property",
+      "description": "The Committee expressed deep concern about the escalating conflict and reported damage to the property, including at Saint-Simeon, and noted illegal reuse of archaeological material and inappropriate new construction. It retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2023-02-06",
+      "title": "February 2023 earthquake damages parts of the property",
+      "description": "UNESCO's 2024 report records earthquake damage at Qal'at Sem'an and Jebel Sem'an park, with third-party reports of the collapse of an arch of the western basilica, and third-party photos of collapsed walls and ceilings and cracks in walls at several other parks. An AFP photographer reported seeing heavy damage at the Saint Simeon monastery on 19 February 2023. The State Party's 2024 reporting gave no new details of the damage, and the DGAM's 2026 report describes the earthquake-induced collapse of the baptistery at Qal'at Sem'an.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_04",
+        "src_16",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7A.43 on the property",
+      "description": "The Committee expressed great concern at the continued presence of armed groups, additional damage from the February 2023 earthquake and the lack of detailed information on damage, again urged all parties to avoid action that could further harm the property, including its military use, repeated its call for a Reactive Monitoring mission once security permits, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7A.30 on the property",
+      "description": "At its 46th session in New Delhi the Committee expressed deep concern that the situation does not allow an overall assessment of the property's state of conservation and that there is not enough information on damage, including the effects of the 2023 earthquake. It repeated its call for the Reactive Monitoring mission as soon as security allows and retained the property on the Danger List. UNESCO's accompanying report states that no mission has visited the property since March 2011.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7A.51 on the property",
+      "description": "The Committee noted reported extensive damage during the conflict and expressed concern that several components of the property are in a worse condition, where previously reported damage appears to have deteriorated. It asked for a detailed, systematic condition assessment, encouraged the State Party to begin drafting a Desired State of Conservation for removal from the Danger List, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "title": "Heritage for Peace Jebel Zawiyeh project planned to launch",
+      "description": "The DGAM's 2026 report states that a six-month Jebel Zawiyeh project led by Heritage for Peace was to launch in January 2026, with landmine clearance, documentation and monitoring, structural stabilisation of key monuments and community engagement. Heritage for Peace's own undated project page describes mine clearance, damage documentation at several sites and six awareness events, without giving dates or a funder.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_05",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.16 on the property",
+      "description": "The Committee expressed continued concern about reported damage to parts of the property, welcomed the State Party's condition assessment at most sites and its priority actions (removing explosive hazards and illegal construction, stabilising structures, 3D documentation), noted measures against illegal construction at al-Bara, repeated its request to begin drafting a Desired State of Conservation for removal from the Danger List, asked that the Reactive Monitoring mission be organised as soon as the security situation allows, requested an updated report by 1 February 2027, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "title": "French delegation visits Saint Simeon; damage estimate reported",
+      "description": "AFP and North Press reported on 21 July 2026 that a French delegation, with representatives of Oeuvre d'Orient and the French Institute for the Near East and in coordination with the DGAM, visited the Saint Simeon monastery and nearby Brad to explore reopening and restoration. The site director, Abdel Jalil Arabi, estimated that 30 to 40 percent of the monastery is damaged, citing the collapse of the western arch and its columns and attributing damage to armed groups, looting, illegal excavation, military use and neglect; archaeologist Micheline Kurdy said the southeastern section has irreparable damage but the church is standing and in good condition.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17",
+        "src_18"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Ancient Villages of Northern Syria",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1348/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.16: Ancient Villages of Northern Syria (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9007",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.51: Ancient Villages of Northern Syria (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8718",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.30: Ancient Villages of Northern Syria (Syrian Arab Republic) (C 1348)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8499",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "State of conservation report (46 COM, 2024): Ancient Villages of Northern Syria (C 1348)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4553",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "State of conservation report by the State Party (2026), Syrian Arab Republic, document 224513",
+      "publisher": "Directorate-General of Antiquities and Museums (DGAM), Syrian Arab Republic, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/224513",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "A State Party self-report covering 2025 activities across several Syrian World Heritage properties, not an independent assessment. Read in this pass through an automated page summary rather than line by line, so figures (for example the approximately 70 unauthorised houses at al-Bara) should be re-checked against the document itself. Its exact submission date was not stated on the page read.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 45 COM 7A.43: Ancient Villages of Northern Syria (Syrian Arab Republic) (C 1348)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8203",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 37 COM 7B.57: World Heritage properties of Syria",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/5069",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2013",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 37 COM 8C.1: Update of the List of World Heritage in Danger (inscribed properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/5176",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2013",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Decision 40 COM 7A.19: Ancient Villages of Northern Syria (Syrian Arab Republic)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6634",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "UNESCO Director-General condemns damage to the Church of Saint Simeon in Syria",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1499",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016-05-17",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Decision 35 COM 8B.23: Cultural Properties - Ancient Villages of Northern Syria",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4294",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2011",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_12",
+      "title": "ICOMOS Advisory Body Evaluation: Ancient Villages of Northern Syria (No 1348)",
+      "publisher": "ICOMOS, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/152436",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Pre-conflict (2011) evaluation; describes the property and its threats before the armed conflict that began in March 2011 affected it. Not evidence of current conditions.",
+      "published_date": "2011",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Ancient Villages of Northern Syria: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1348/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Ancient Villages of Northern Syria: maps",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1348/maps/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page does not label the coordinate format and some values may be truncated; the eight listed points are used here only to place a single reference marker.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Ancient Villages of Northern Syria: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1348/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Syrian castle among quake-hit ancient sites at risk (AFP report)",
+      "publisher": "Al-Monitor (republishing AFP)",
+      "url": "https://www.al-monitor.com/originals/2023/03/syrian-castle-among-quake-hit-ancient-sites-risk",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The article does not use the property name and quotes a Syrian antiquities official on more than 40 damaged sites across the country, not specifically within this property; used only for the AFP photographer's observation of damage at Saint Simeon.",
+      "published_date": "2023-03-13",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Scars of war linger on Syria's Saint Simeon monastery (AFP report)",
+      "publisher": "Kuwait Times (republishing AFP)",
+      "url": "https://kuwaittimes.com/article/46831/lifestyle/art-fashion/scars-of-war-linger-on-syrias-saint-simeon-monastery/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-07-21",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_18",
+      "title": "France, Syria explore restoration of war-damaged Saint Simeon site",
+      "publisher": "North Press Agency",
+      "url": "https://npasyria.com/en/139332/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Regional outlet that includes AFP material; used only as corroboration of the AFP report (src_17), not as sole support for any claim.",
+      "published_date": "2026-07-21",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Project for the Protection and Conservation of Archaeological Sites in Jabal Zawiya Park, Idlib",
+      "publisher": "Heritage for Peace",
+      "url": "https://www.heritageforpeace.org/project-for-the-protection-and-conservation-of-archaeological-sites-in-jabal-zawiya-park-idlib/",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Organisation's own project page: undated, no funder or project dates stated, and it presents outcomes without metrics. Used only as corroboration of the DGAM report's description of the project, not as sole support for any status-determining claim.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Cultural Heritage Record: ancient villages of northern Syria (al-Bara and Qalb Lozeh churches, 3D data)",
+      "publisher": "Research Center for West Asian Civilization, University of Tsukuba",
+      "url": "https://rcwasia.hass.tsukuba.ac.jp/bunka_EN/record_en.html",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "The page lists downloadable 3D files (PLY) for two churches only; the underlying download links were not shown in the text read and the files themselves were not opened. Evidences the availability of building-level data, not whole-property coverage.",
+      "published_date": "",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_21",
+      "title": "A Series of Photogrammetry for Protection of Syrian Cultural Heritage: Ancient Villages of Northern Syria, Vol. 2, al-Bara (Tsuneki, Watanabe, Jammo and Takizawa)",
+      "publisher": "Research Center for West Asian Civilization, University of Tsukuba",
+      "url": "https://rcwasia.hass.tsukuba.ac.jp/conservation_AR/pub_al-Bara_en.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "The booklet carries an all-rights-reserved notice; part of its text was garbled in the copy read, so only title, authors, year and the stated photograph counts are relied on.",
+      "published_date": "2018",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_22",
+      "title": "3D Virtual Anastylosis and Reconstruction of Some Buildings in the Site of Saint-Simeon, Syria (Kurdy, Biscop, De Luca and Florenzano)",
+      "publisher": "ISPRS Archives (Copernicus), vol. XXXVIII-5/W16",
+      "url": "https://isprs-archives.copernicus.org/articles/XXXVIII-5-W16/45/2011/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2011",
+      "accessed_date": "2026-10-12"
+    },
+    {
+      "source_id": "src_23",
+      "title": "The Destruction and Looting of Idlib's Ancient Heritage by Extremists (Saleem al-Omar)",
+      "publisher": "Atlantic Council, SyriaSource blog",
+      "url": "https://www.atlanticcouncil.org/?p=107866",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Freelance journalist's blog piece; most looting claims rely on unnamed sources and are not independently verified in the article. Used only as corroboration of looting reports, never as sole support.",
+      "published_date": "2018-02-02",
+      "accessed_date": "2026-10-12"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-14",
+  "changelog": [
+    {
+      "date": "2026-10-12",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Developing; close call vs Critical Concern flagged in decision_trigger and rationale (main issue: no UNESCO or ICOMOS mission since March 2011, though by 2026 the State Party had assessed most sites and journalists visited Saint Simeon). UNESCO id 1348 confirmed on the property page; the property is on the Danger List (2013 to present) per UNESCO. Known gaps (not included because not verified): (1) UNESCO's 2025 and 2026 state of conservation report pages (whc.unesco.org/en/soc/4836 and /soc/4961) returned fetch errors, so only the Committee decisions (2023-2026), the 2024 state of conservation report and the State Party's 2026 report (doc 224513) were read; the 2026 State Party report was read through an automated page summary and its figures (including approximately 70 unauthorised houses at al-Bara) should be re-checked against the document. (2) No independent post-2011 field assessment of the whole property was found; current condition of most of the roughly forty villages is unverified. (3) Descriptions of the Qal'at Sem'an collapse differ across sources (arch of the western basilica in UNESCO's 2024 report citing third-party reports; western section of the baptistery in the DGAM's 2026 report; western arch and its columns per the site director in AFP, July 2026) and were not reconciled. (4) The 2016 airstrike is described by UNESCO as 'possibly' an air strike with no attribution; a damage report titled as a Russian airstrike (TDA-HPI) was read but its page held no findings or evidence, so it was not cited and no responsibility is attributed here. (5) Session months for the 2011, 2023, 2025 and 2026 Committee decisions were not confirmed, so they are dated by year only; the 2026 decision is placed before the 21 July 2026 events by convention. (6) The Heritage for Peace page is undated, so its described work (mine clearance, documentation at Serjilla, Batrasa, Ba'uda) cannot be dated and is only noted. (7) Photographic DPI category marked false because only an 8-image UNESCO gallery was found; the Tsukuba photo archive was not opened. The 3D files at Tsukuba were evidenced through the page listing, not opened; two reads of Tsukuba pages gave differing accounts of whether a Sketchfab model exists, so no Sketchfab model is cited. A HAL archive copy of the Saint Simeon paper returned an access-denied page. (8) Environmental/climate category omitted: no property-specific evidence found beyond general weathering. (9) Casualty numbers, looting figures for the wider Idlib region and the Dec 2024 change of government's effect on the property were not sourced and are omitted. Images omitted by design. Wording attributes claims to who made them.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-14",
+      "change": "Refresh pass for 'now' = 2026-10-14. Re-read UNESCO decisions 48 COM 7A.16 (src_01) and 47 COM 7A.51 (src_02) and confirmed the dossier's descriptions of them (retention on the Danger List; welcome of the State Party's condition assessment at most sites; al-Bara illegal-construction reporting request; repeated DSOCR request; Reactive Monitoring mission as soon as security allows; updated report by 1 February 2027; 2025 concern that several components are in a worse condition). The 2025 decision's reporting date was 1 February 2026 (not restated in the dossier). Other sources keep their original 2026-10-12 accessed dates: the news pages (src_16, src_17, src_18), the 2026 State Party report (src_05) and UNESCO list/gallery pages could not be re-opened in this pass (direct UNESCO fetches returned proxy 403 and further page fetches were not permitted), so those claims rest on the 2026-10-12 reads. Status, confidence and DPI tier unchanged: High Concern / Developing / moderate (close call vs Critical). Known gaps from the 2026-10-12 entry still apply. Independent verification pass 2026-10-14: re-read decisions 48 COM 7A.16, 47 COM 7A.51, 46 COM 7A.30, 45 COM 7A.43, 40 COM 7A.19, the 2024 state of conservation report and the State Party's 2026 report (via page summaries) and corrected wording: 2023 decision 'great concern' (was 'serious'); 2024 decision 'deep concern'; 2024 report's 'very little substantive new information since 2017' (was 'verifiable'); State Party 2024 reporting only relayed media reports of extensive damage (was 'confirmed'); removed 'Advisory Bodies' and 'major concern' attribution; DGAM 2026 report: baptistery collapse not 'western section', a regional committee asked to study regularising the ~70 al-Bara houses (removed unsupported 'residents have asked'/'housing shortage'), resource shortage described as funding, specialised equipment and transport (removed 'technical staff'); accessed dates updated for pages re-read. Not re-verified (fetch blocked): decisions 35 COM 8B.23, 37 COM 7B.57 and 8C.1, UNESCO news 1499, ICOMOS evaluation, list/maps/gallery/documents pages, AFP/North Press/Al-Monitor/Atlantic Council articles, Heritage for Peace, Tsukuba and ISPRS pages.",
+      "changed_by": "claude"
+    }
+  ]
+}

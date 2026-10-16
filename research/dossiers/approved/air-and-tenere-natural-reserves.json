@@ -1,0 +1,452 @@
+{
+  "slug": "air-and-tenere-natural-reserves",
+  "name": "Air and Ténéré Natural Reserves",
+  "alternate_names": [
+    "Aïr and Ténéré Natural Reserves",
+    "Aïr et Ténéré",
+    "Réserves naturelles de l'Aïr et du Ténéré",
+    "Aïr and Ténéré National Nature Reserve"
+  ],
+  "country": "Niger",
+  "region": "Africa",
+  "coordinates": {
+    "lat": 19.0762,
+    "lng": 9.662
+  },
+  "coordinate_note": "Converted from the centre-point coordinates on UNESCO's property page (N19 4 34.293, E9 39 43.2). The property covers about 7.7 million ha (Aïr massif and Ténéré desert), so this marker is a practical single-point reference only.",
+  "unesco_id": "573",
+  "inscription_year": 1991,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "natural",
+  "significance_summary": "UNESCO describes the property as one of Africa's largest protected areas (7,736,000 ha), combining the volcanic Aïr massif, a Sahelian enclave with isolated plant and animal life, with the Ténéré desert. UNESCO calls it the last bastion of Saharo-Sahelian wildlife in Niger. A strictly protected Addax Sanctuary covers about one-sixth of the area. It is inscribed under natural criteria (vii), (ix) and (x).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "Political instability is the stated basis of the property's danger listing: UNESCO's property page says it was inscribed on the List of World Heritage in Danger in 1992 'due to political instability and dissention among the populations'. The 2015 IUCN reactive monitoring mission report states that the security threat from the Tuareg rebellion no longer applied, citing a 'return définitif de la paix' in the Agadez region, and that demining of the Aïr area was in its final phase with official certification still pending. UNESCO's 2016 state of conservation page records the Committee's 2016 decision (40 COM 7A.45) citing the illegal circulation of weapons of war as leading to an increase in poaching threats and timber harvesting. In its 2025 decision the Committee credited the State Party's efforts 'despite a difficult security situation and limited resources' and in 2026 'despite insecurity and limited resources' (wording as paraphrased in the page extracts, not verbatim); the 2024 state of conservation page records the World Heritage Centre and Advisory Bodies' analysis commending the State Party's efforts 'despite the difficult security context' and limited technical and financial resources. IUCN's 2025 Outlook assessment rates insecurity/conflict as a Low threat while noting that insecurity linked to Libya and the wider Sahel has affected managers' ability to protect the reserve, and mentions a gradual return of security that allowed a management unit to be set up. The sources reviewed do not document active fighting at the property or damage from combat in recent years. This category reflects a security context that constrains management, not documented current combat.",
+      "first_identified_date": "1992-01-01",
+      "date_note": "Year of danger-list inscription (1992) per UNESCO; the exact date within 1992 was not established, so 1 January is a placeholder for the year only.",
+      "source_ids": [
+        "src_00",
+        "src_11",
+        "src_09",
+        "src_04",
+        "src_03",
+        "src_02",
+        "src_10"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Habitat pressures are documented by UNESCO and IUCN. The Committee's 2025 and 2026 decisions record persistent illegal gold panning and logging, and (2026) concern about gold-panning sites on the south-eastern boundary that has no buffer zone; the 2026 decision also notes illegal logging and land clearing persist. A Sahara Conservation quarterly report for July-September 2025 says gold panning and human presence on the Takoulokouzet massif have been increasing and calls this an important threat; this is a single NGO source and sits alongside the Committee's 2025 note that several illegal gold-panning sites were dismantled. IUCN's 2025 Outlook rates mining and quarrying (including oil and gas) as a High threat, wood logging as High, and the invasive Prosopis juliflora as a Low threat inside the site. The Committee in 2025 noted positively the clearing and carbonization of Prosopis juliflora and the restoration of degraded land (about 75 hectares restored was reported in the 2024 state of conservation page). On climate, IUCN's 2025 page says the effect of climate change is uncertain and rated climate action Data Deficient, but warns of more frequent and intense drought or flood episodes; it links erosion and desertification partly to human pressures. Exploration and operation licences for gold, uranium and oil have reportedly been suspended since 26 July 2023 (a State Party report recorded on UNESCO's 2024 state of conservation page; the Committee's 2024 decision took note of the suspension), and the Committee has stated, including in 2025 and 2026, that mining is incompatible with World Heritage status. Note on category mapping: HeritageWatch has no separate category for resource extraction, so habitat-level pressures (logging, gold panning, invasive species, drought and desertification) are placed here and enforcement and management gaps are placed under conservation_structural.",
+      "first_identified_date": null,
+      "date_note": "Chronic pressures (grazing, wood cutting, drought, gold panning) documented across successive reports from the 1991 IUCN evaluation to 2026; no single start date applies.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_10",
+        "src_13",
+        "src_14",
+        "src_12"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Management capacity and monitoring are persistent concerns. In its 2026 decision (48 COM 7A.53) the Committee welcomed the State Party's efforts and noted the extension of patrols beyond the property boundaries with local communities and the absence of poaching cases since 2022, but also: remained concerned about the management unit's weak financial and technical capacity; said the lack of clear performance indicators and verification sources makes it impossible to measure effectiveness; noted that emblematic species such as the dama gazelle, red-necked ostrich and Barbary sheep are still observed but regretted that the data do not allow assessment of the DSOCR encounter-rate trend indicator; asked for a rigorous ecological monitoring protocol; and noted that the 2020-2024 development and management plan expired more than a year earlier, urging faster revision. (The 2025 decision describes the plan as the 2022-2024 plan that expired in 2024; the 2023 and 2024 decisions refer to the 2022-2024 plan; the sources differ on the plan's dates and this dossier does not resolve that.) The Committee also noted steps to revoke three mining permits on the south-eastern boundary and urged their definitive cancellation. By contrast, IUCN's 2025 Outlook rates protection and management as Serious Concern, with law enforcement, sustainable finance and staffing each Serious Concern, and rates poaching of mammals as a Very High threat inside the property 'throughout (>50%)'. The IUCN assessment lists the oryx and North African ostrich as having disappeared from the site and the addax as probably gone; the State Party reported on UNESCO's 2021 state of conservation page that the addax has not been seen on the property for more than 20 years. The Committee's 2024 decision adopted a Desired State of Conservation for Removal (DSOCR) from the Danger List; the property remains listed. The State Party's 2023 report (UNESCO's 2023 state of conservation page) says the addax has not been observed for more than 20 years and that Nubian bustard numbers are decreasing sharply, and says illegal activity is decreasing; the World Heritage Centre and Advisory Bodies judged the latter too imprecise to assess. The IUCN and Committee accounts of poaching differ and are both reported here.",
+      "first_identified_date": null,
+      "date_note": "Chronic management and capacity concerns recorded in UNESCO reporting since the 1990s (the property page notes there was no management plan); no single start date established.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_10",
+        "src_11",
+        "src_00",
+        "src_01"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered, and this is a close call; Critical is not mechanically triggered. (1) Severe verified damage or an ongoing severe threat materially affecting survival: IUCN's 2025 Outlook rates the state of values Critical and deteriorating, overall threats Very High and poaching of mammals Very High, and records the loss or probable loss of the oryx, North African ostrich and addax. These losses are long-standing rather than new, and against them the Committee's 2025 and 2026 decisions record no poaching cases since 2022, the continued presence of dama and dorcas gazelles is reported (2023 monitoring, noted by the World Heritage Centre and Advisory Bodies on the 2024 state of conservation page; Sahara Conservation Q3 2025). The Sahara Conservation report mentions no access or security restrictions on its mission, and the Committee adopted a DSOCR in 2024. The IUCN and Committee accounts of current poaching conflict and are not resolved here. (2) Active combat: not documented; IUCN rates insecurity/conflict a Low threat. (3) Inaccessible to monitoring for roughly 6+ months: not documented. Management-unit patrols, ecological monitoring in 2023, and an NGO monitoring mission in July-September 2025 are reported. However, independent international monitoring is thin: the most recent IUCN reactive monitoring mission found was in February 2015, and that mission did not visit the Ténéré section. This is recorded as a monitoring-evidence gap, not as inaccessibility. (4) Collapse of protection: not met; a management unit, forestry officers and eco-guards exist, though the Committee judges capacity weak. High Concern trigger matched: the property is on UNESCO's List of World Heritage in Danger (listed since 1992, retained in 2026 by decision 48 COM 7A.53) for substantive reasons (political instability and dissension among populations at listing; the 2015 IUCN mission described poaching and wood cutting as the main remaining pressures). If a reviewer reads IUCN's Critical outlook and the access/monitoring gap more heavily than the Committee's positive notes, Critical Concern is the neighbouring status.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The property is on the Danger List, which the Committee retained in 2023, 2024, 2025 and 2026. The present picture is mixed rather than uniformly negative. Positive signals recorded by the Committee: patrols extended with local communities, no poaching cases since 2022 as noted in the decisions, some gold-panning sites dismantled (2025), a suspension of mining and energy authorizations since 26 July 2023 (State Party-reported; the Committee took note), a DSOCR adopted in 2024, and a working group set up to revise the management plan (2026). Negative signals: the Committee remains concerned about the management unit's weak financial and technical capacity, a lack of performance indicators and population-trend data, illegal logging and gold panning, and an expired management plan; IUCN's 2025 Outlook rates the property Critical overall with Serious Concern for protection and management; a Sahara Conservation report for July-September 2025 says gold panning on the Takoulokouzet massif has been increasing, and the same report records camera-trap thefts. The security context is described by the Committee as difficult, but IUCN rates insecurity a Low threat and sources reviewed do not document fighting at the property. The question flagged for this site is access and monitoring: sources reviewed show local monitoring activity but little independent verification (the last IUCN reactive mission found was in 2015 and did not visit the Ténéré), and the 2026 state of conservation report and 2025 report could not be read in this pass. Confidence is Supported rather than Confirmed because the danger-listing and Committee positions are firmly documented, but the extent of current poaching differs between IUCN and the Committee, and there is little recent independent fieldwork to settle it. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_10",
+        "src_11",
+        "src_13"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": false,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of five categories have publicly viewable evidence found in this pass, which gives the moderate tier by the rubric (2-3 categories). Evidence is thin and dated: the archival items are UNESCO-hosted documents (1991 IUCN evaluation, 2015 reactive monitoring mission report, state of conservation reports), and the scholarly item found is a 1992 Oryx paper, so no recent peer-reviewed study was confirmed here. Photographic is marked false: the UNESCO property page shows only two gallery thumbnails (the draft pass reported these as one image at two sizes; the gallery page itself was not re-checked in the independent pass), which is not a meaningful body of documentation. No 3D model or virtual tour of the property was found. The property is about 7.7 million ha, and coverage is uneven; this reflects what was publicly findable, not necessarily what exists in unpublished archives. A reviewer may weigh whether this sits closer to limited.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "archival_records",
+        "description": "UNESCO's World Heritage Centre hosts the 1991 IUCN/WCMC evaluation summary of the nomination, which describes the reserve's size, values, wildlife and threats at inscription.",
+        "url": "https://whc.unesco.org/document/153793",
+        "source_id": "src_12"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO hosts the February 2015 IUCN reactive monitoring mission report (in French) and a long run of state of conservation reports and Committee decisions for the property.",
+        "url": "https://whc.unesco.org/document/136079",
+        "source_id": "src_11"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Newby (1992), 'Parks for people: a case study from the Aïr Mountains of Niger', Oryx 26(1), 19-28, a peer-reviewed article on the reserve whose abstract is publicly viewable.",
+        "url": "https://www.cambridge.org/core/journals/oryx/article/parks-for-peoplea-case-study-from-the-air-mountains-of-niger/4D85E7F8AE8C2E598B2B341275308F8B",
+        "source_id": "src_15"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1988",
+      "title": "Aïr and Ténéré gazetted as a national nature reserve",
+      "description": "The 1991 IUCN/WCMC evaluation states the reserve was gazetted in 1988, and Newby (1992) likewise gives 1988 for the national nature reserve.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_12",
+        "src_15"
+      ]
+    },
+    {
+      "date": "1991",
+      "title": "Inscribed on the World Heritage List",
+      "description": "UNESCO inscribed the property in 1991 under criteria (vii), (ix) and (x).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "1992",
+      "title": "Placed on the List of World Heritage in Danger",
+      "description": "UNESCO's property page states the property was inscribed on the Danger List in 1992 due to political instability and dissention among the populations, and shows it as listed from 1992 to the present.",
+      "event_type": "political",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2015-02",
+      "title": "IUCN reactive monitoring mission",
+      "description": "IUCN experts carried out a reactive monitoring mission in February 2015. The report states the security threat from the Tuareg rebellion no longer applied and demining of the Aïr area was in a final phase. It found no management plan or operating budget, sporadic patrols and a near-absent monitoring system, and recommended keeping the property on the Danger List. The mission did not visit the Ténéré section.",
+      "event_type": "other",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2015-10",
+      "title": "Conservator appointed to manage the property",
+      "description": "UNESCO's 2016 state of conservation page records the State Party's report of 9 February 2016 stating that, since October 2015, the management unit had been strengthened by the appointment of a conservator (reported by the State Party).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2023-07-26",
+      "title": "Mining and energy authorizations suspended",
+      "description": "UNESCO's 2024 state of conservation page records the State Party reporting that exploration and operation licences for gold, uranium and oil have been suspended since 26 July 2023, and the Committee's 2024 decision takes note of a general temporary suspension of exploration and operation authorizations and mining permit renewals as of that date. The sources reviewed do not state the reason for the suspension.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_06",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee decision 45 COM 7A.12 retains the property on the Danger List",
+      "description": "The Committee welcomed the finalization and quality of the 2022-2024 development and management plan, urged its implementation, welcomed the proposed Desired State of Conservation for Removal (DSOCR) and asked for it to be finalized, expressed concern about the growing number of mining and energy permits near the south-eastern limit, and set a reporting deadline of 1 February 2024.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.53 adopts the DSOCR",
+      "description": "The Committee adopted the DSOCR for removal from the Danger List, asked for its timely implementation, requested recruitment of sufficient staff, required an environmental and social impact assessment before any mining decision, and retained the property on the Danger List. Reporting deadline: 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.15 retains the property on the Danger List",
+      "description": "The Committee noted with appreciation that there had been no poaching cases since 2022 and that several illegal gold-panning sites were dismantled, remained concerned about persistent illegal gold panning and logging, was deeply concerned about the management unit's limited human and financial capacity, and stated that gas, oil and mining exploration and exploitation are incompatible with World Heritage status. Reporting deadline: 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025-07/2025-09",
+      "title": "Ecological monitoring mission on the Takoulokouzet massif (NGO report)",
+      "description": "A Sahara Conservation quarterly report for July-September 2025 records a monitoring mission on the Takoulokouzet massif (4 dama gazelles, 24 dorcas gazelles and 3 Barbary sheep observed), camera-trap data from 16 of 31 cameras, thefts of camera traps, and an increase in gold panning and human presence on the massif. Single NGO source; exact dates not given.",
+      "event_type": "other",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2025-10-11",
+      "title": "IUCN World Heritage Outlook 2025 rates the property Critical",
+      "description": "IUCN's page states the 2025 outlook was finalised on 11 October 2025, rating the overall outlook Critical (the page also displays Critical gauges for earlier assessments, understood to be 2014, 2017 and 2020; the extract did not map each gauge to a year), threats Very High, and protection and management Serious Concern.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.53 maintains the property on the Danger List",
+      "description": "The Committee maintained the property on the Danger List, noted steps to revoke three mining permits on the south-eastern boundary, was concerned about gold-panning sites there, asked for a rigorous ecological monitoring protocol, urged faster revision of the management plan, and asked for an updated report by 1 February 2027 for the 49th session. The session month was not confirmed in this pass.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_00"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Air and Ténéré Natural Reserves",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/573/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Air and Ténéré Natural Reserves: documents (mission reports, state of conservation reports, Committee decisions)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/573/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.53: Air and Ténéré Natural Reserves (Niger)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9039",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.15: Air and Ténéré Natural Reserves (Niger)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8682",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.53: Air and Ténéré Natural Reserves (Niger)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8522",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7A.12: Air and Ténéré Natural Reserves (Niger)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8115",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Air and Ténéré Natural Reserves: State of Conservation 2024",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4577",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Air and Ténéré Natural Reserves: State of Conservation 2023",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4275",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Air and Ténéré Natural Reserves: State of Conservation 2021",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4006",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Air and Ténéré Natural Reserves: State of Conservation 2016",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3372",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Aïr and Ténéré Natural Reserves (IUCN World Heritage Outlook, 2025 assessment)",
+      "publisher": "IUCN World Heritage Outlook",
+      "url": "https://worldheritageoutlook.iucn.org/explore-sites/air-and-tenere-natural-reserves",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "IUCN is the Advisory Body to the World Heritage Committee for natural sites. This is IUCN's own assessment, separate from the Committee's decisions; the page text is in French. Publication date taken from the page's statement that the 2025 outlook was finalised on 11 October 2025.",
+      "published_date": "2025-10-11",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Rapport de la mission de suivi réactif UICN, Réserve naturelle nationale de l'Aïr et du Ténéré (République du Niger), 8-20 février 2015",
+      "publisher": "IUCN / UNESCO World Heritage Centre (authors: Y. Diedhiou, N. Crawhall)",
+      "url": "https://whc.unesco.org/document/136079",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Report is in French. It gives the mission dates as 8-20 February in one place and 9-20 February in another.",
+      "published_date": "2015",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Evaluation summary: Aïr and Ténéré Natural Reserve (IUCN/WCMC, April 1991)",
+      "publisher": "IUCN / UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/153793",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Scanned document with OCR errors; used only for basic descriptive facts.",
+      "published_date": "1991-04",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "SCF 2025 Rapport trimestriel Niger, T3 (July-September 2025)",
+      "publisher": "Sahara Conservation",
+      "url": "https://saharaconservation.org/wp-content/uploads/2026/04/SCF_2025_RAPPORT-TRIMESTRIEL_NIGER_T3_V3.pdf",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Operational quarterly report by a conservation NGO that works with the reserve's management unit (UGAP); report is in French and gives no exact date for the monitoring mission. Single source for the camera-trap and gold-panning observations, so these are treated as context and not as sole support for the status.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Aïr and Ténéré National Nature Reserve",
+      "publisher": "Sahara Conservation",
+      "url": "https://saharaconservation.org/critical-conservation-landscapes/air-and-tenere-national-nature-reserve/",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Undated NGO programme page (footer shows 2023); used only for general context on threats and the start of its monitoring in 2017.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Parks for people: a case study from the Aïr Mountains of Niger (J. E. Newby)",
+      "publisher": "Oryx, Volume 26, Issue 1, pp. 19-28 (Cambridge University Press)",
+      "url": "https://www.cambridge.org/core/journals/oryx/article/parks-for-peoplea-case-study-from-the-air-mountains-of-niger/4D85E7F8AE8C2E598B2B341275308F8B",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Dated 1992; used for historical background and as evidence of scholarly documentation, not for current conditions.",
+      "published_date": "1992",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. Danger List status checked directly: UNESCO's property page shows 'List of World Heritage in Danger: 1992 - Present'; Committee decisions 2023-2026 read (45 COM 7A.12, 46 COM 7A.53, 47 COM 7A.15, 48 COM 7A.53) and IUCN World Heritage Outlook 2025 (Critical) read. Access/monitoring question: no source reviewed documents inaccessibility of 6+ months; local patrols, 2023 ecological monitoring and a Q3 2025 NGO mission are reported; independent international monitoring is thin (last IUCN reactive mission found: Feb 2015, Ténéré not visited). Known gaps: (1) UNESCO state of conservation pages for 2025 and 2026 (whc.unesco.org/en/soc/4744 and /4997) could not be fetched, so the State Party's 2025 and 2026 reports and the Secretariat's assessments were not read; only Committee decisions were. (2) Decision texts were read via page extraction, which did not reproduce them verbatim; the 2026 decision refers to a '2020-2024' management plan while the 2023-2025 decisions refer to a '2022-2024' plan, left unresolved. (3) No independent journalism on current security or access in the Aïr/Ténéré was found and cited; security statements rest on UNESCO and IUCN. A single-source report of an attack on an army escort on the Arlit-Tabarakat road (Feb 2024) was found but its location relative to the property is not stated, so it was omitted. (4) Month of the 2026 Committee session and date of the 2025 session not confirmed. (5) IUCN Outlook page is in French; its page is the only source for the 2014/2017/2020/2025 outlook ratings, and the underlying PDF assessments were not read. (6) Whether permits near the south-eastern boundary were definitively revoked is not verified. (7) The 2025 Outlook's Very High poaching rating versus the Committee's 'no poaching cases since 2022' is an unresolved difference in sources; both reported. (8) UNESCO gallery checked but only one image seen in the extract; no 3D or virtual-tour evidence found. (9) NASA Earth Observatory and Natural World Heritage Sites pages were opened but not used because of factual inconsistencies / unclear editorial standards. Images omitted by design. VERIFIER PASS (2026-10-15): sources re-fetched. Fixes: (1) removed claim that the 2024 Committee decision acknowledged a difficult security context (that wording is the State Party's, on the 2024 SoC page; 2024 decision has no security language) and attributed the 2016 weapons-of-war wording to Committee decision 40 COM 7A.45; (2) attributed the 26 July 2023 licence suspension to the State Party report, with the Committee 'taking note'; (3) attributed addax-absent (2021, 2023) and Nubian bustard statements to the State Party reports; (4) reworded the 2026 encounter-rate point (species still observed, indicator data insufficient); (5) softened IUCN earlier-year Critical ratings (gauges not mapped to years); (6) replaced unsupported 'illegal grazing, illegal extraction' in the danger-list reasons with the 2015 mission's wording; (7) gallery confirmed as a single image, wording updated. Checked and held: IUCN 2025 ratings, poaching 'throughout (>50%)', 2023-2026 decision contents and deadlines, 2015 mission details, Sahara Conservation numbers, Newby citation, area/coordinates/significance text. Not verified: 2025 and 2026 SoC reports, session months. INDEPENDENT VERIFIER PASS 1 (2026-10-15): sources re-fetched. Fixes: (1) the 'despite the difficult security context' wording on the 2024 SoC page is from the World Heritage Centre/Advisory Bodies analysis, not the State Party (corrects the earlier pass); 2026 decision wording is 'despite insecurity', not 'difficult security situation'; (2) 2023 dama/dorcas monitoring on the 2024 SoC page attributed to the Secretariat/Advisory Bodies noting it; (3) conservator appointment attributed to the State Party's 9 Feb 2016 report; (4) removed src_09 from the Feb 2015 mission event (the 2016 page does not contain the Tuareg/demining statements, which are in the mission report); (5) Prosopis wording 'notes positively' per 2025 decision para 10; (6) removed the unverifiable Holger Reineccius gallery credit and single-image claim (property page lists no credits or count). Checked and held: coordinates, area, criteria, 'last bastion', Danger List 1992, all decision contents/deadlines, IUCN 2025 ratings, SCF Q3 numbers, Newby citation and 1988 gazetting, 40 COM 7A.45 weapons wording.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

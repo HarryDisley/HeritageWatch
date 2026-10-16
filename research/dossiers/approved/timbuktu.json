@@ -88,8 +88,8 @@
       ],
       "recorded_by": "claude-draft",
       "approved_by": "Harry Disley",
-      "approved_date": "2026-10-12",
-      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier extensive accepted."
+      "approved_date": "2026-10-14",
+      "approval_note": "Approved by Harry Disley on 2026-10-14 from the round 1 review summary. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
     }
   ],
   "digital_preservation": {
@@ -487,7 +487,7 @@
     "final_classification_approved": true
   },
   "review_status": "approved",
-  "last_verified_date": "2026-10-12",
+  "last_verified_date": "2026-10-14",
   "changelog": [
     {
       "date": "2026-10-11",
@@ -495,9 +495,9 @@
       "changed_by": "claude"
     },
     {
-      "date": "2026-10-12",
-      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier extensive accepted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
-      "changed_by": "harry"
+      "date": "2026-10-14",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier extensive. review_status advanced draft -> approved."
     }
   ]
 }

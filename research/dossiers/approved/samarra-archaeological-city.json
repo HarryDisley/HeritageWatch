@@ -1,0 +1,611 @@
+{
+  "slug": "samarra-archaeological-city",
+  "name": "Samarra Archaeological City",
+  "alternate_names": [
+    "Samarra"
+  ],
+  "country": "Iraq",
+  "region": "Western Asia (Mesopotamia / Salah al-Din Governorate, Tigris valley)",
+  "coordinates": {
+    "lat": 34.341,
+    "lng": 43.8235
+  },
+  "coordinate_note": "Converted from UNESCO's maps page coordinates for the first component, Samarra North Zone - al-Mutawakkiliyya (N34 20 27.56, E43 49 24.76), which contains the Great Mosque area. UNESCO's property page does not give a single coordinate. The inscribed property comprises ten separate components over a very large area (UNESCO states 15,058 ha with a 31,414 ha buffer zone; the maps page lists components whose areas sum to about 14,894 ha, which is the dossier writer's addition), so this marker is a practical single-point reference only.",
+  "unesco_id": "276",
+  "inscription_year": 2007,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": "UNESCO lists Samarra Archaeological City as a serial property of ten components. This profile covers the whole inscribed property, not a single component.",
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Samarra as a 9th-century Abbasid capital on the Tigris, about 130 km north of Baghdad, the second capital of the Abbasid Caliphate after Baghdad, whose notable monuments include the Great Mosque and its spiral minaret (al-Malwiya). UNESCO states that about 80% of the site remains unexcavated. ICOMOS's 2007 evaluation (based on the nomination dossier, as ICOMOS could not conduct a site mission) described ruins extending about 41.5 km north to south, including the Caliphal and al-Ja'fari palaces, and called Samarra the best preserved plan of an ancient large city. It is inscribed under criteria (ii), (iii) and (iv).",
+  "metadata_sources": [
+    "src_00",
+    "src_02",
+    "src_18",
+    "src_23"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO's state-of-conservation entry (2024) gives the reason for the 2007 Danger List inscription as a 'state of conflict in the country' that does not allow the responsible authorities to assure protection, and the Secretariat's 2026 working document (WHC/26/48.COM/7A) lists the same threat. UNESCO's property page states that the site has been 'occupied by multi-national forces' since 2003 and used as a theatre for military operations, and that protective procedures have been in abeyance since 2003. ICOMOS's 2007 evaluation reported that multi-national forces at times occupied the Malwiya minaret and that a small bomb in April 2005 slightly damaged it (Al Jazeera, 1 April 2005, reported that the top tier was destroyed; the accounts differ). UNESCO's 2015 entry records a State Party report that an ISIL attack partly damaged the 'Dome Crusade', that a July 2014 attack damaged fixed walls and that a car bomb partly damaged the Eshnass fence, and records a black banner hung on the minaret in November 2014 and black and red graffiti on it in March 2015. UNESCO's 2017 entry says military operations and clashes with extremist armed groups undid corrective work begun in 2013 on the Great Mosque and that warring parties occupied and damaged Qubbat al-Sulaybiyya. Iraq's November 2024 report (a State Party statement, not independently verified) says Qubbat al-Sulaibiyya was lost to site management control after 2014, was damaged by a projectile and is now used as a military barracks, and that many sites are unreachable and insecure. Iraq's January 2024 report states that the security situation has improved. No active fighting at the property in 2024-2026 was found in the sources reviewed. The conflict is therefore documented as the continuing stated basis of the Danger List inscription and as a legacy of damage, not as ongoing combat at the site.",
+      "first_identified_date": "2003",
+      "date_note": "UNESCO's property page dates military occupation by multinational forces to 2003; later conflict episodes (2014-2017) are in events[].",
+      "source_ids": [
+        "src_00",
+        "src_11",
+        "src_10",
+        "src_18",
+        "src_12",
+        "src_13",
+        "src_15",
+        "src_16",
+        "src_19"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee has repeatedly expressed concern about the property's condition (45 COM 7A.29 in 2023, 46 COM 7A.17 in 2024, 47 COM 7A.37 in 2025 and 48 COM 7A.3 in 2026), citing encroachment, urban sprawl, bulldozing and natural weathering or deterioration. The 2023 joint World Heritage Centre/ICOMOS mission report states that several attributes are vulnerable to weathering and deterioration; that the Great Mosque and Malwiya minaret, the Qasr al-Khalifa basin and al-Ma'shuq Palace were heavily restored in the 1980s (the 2011 mission described the basin as fully reconstructed with poor quality materials and techniques, and the 2023 mission observed new brick cladding that affects its authenticity); that preparation of comprehensive conservation and management plans had not started; and that there was no on-site unit managing the whole property. It also records the State Party's statement (2022 report) that encroachment and bulldozing had increased over the previous five years and had since been stopped. Iraq's November 2024 report lists 25 sites affected by encroachment (including ploughing and planting, bulldozing, construction and occupation by security forces), says some areas were bulldozed and divided into residential plots in 2018, and describes the Abu Dalf (Abu Dulaf) Mosque as in very poor condition (State Party statements). The 2026 working document says the World Heritage Centre learned in December 2025 of horizontal residential complexes being built within the property and requested information, that the Secretariat, ICOMOS and ICCROM note continuing pressure from encroachment and urban sprawl and growing residential and agricultural activity in the buffer zone, that a school project in the buffer zone is suspended for lack of funding after an August 2025 archaeological investigation found Abbasid-period remains, and that the DSOCR, corrective measures and timeframe have not yet been drafted, identified or established. The 2025 decision regretted that several major restoration projects had not followed technical review findings (naming the Great Mosque, Caliphal Palace, Al Hir and Bab al-Amma), and the Committee requested a moratorium on major interventions in 2025 and again in 2026. Al-Monitor (February 2018 per its URL; article partly paywalled), citing Iraqi media, reported that the minaret's external stairway was unstable and that visitors had carved their names on its walls; this is dated. Positive steps are also documented (surveys and documentation, an on-site management unit welcomed in 2025, emergency works begun at al-Ma'shuq, UNESCO/Netherlands Fund-in-Trust support). HeritageWatch has no separate category for encroachment or urban development, so it is recorded here.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year concerns recorded in Committee decisions from 2023 to 2026 and in earlier cycles; the State Party's report says some damage predates inscription. No single start date established.",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_14",
+        "src_15",
+        "src_10",
+        "src_11",
+        "src_20"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Weathering is named by the Committee among the causes of the property's condition (natural weathering in 2023-2025 decisions, natural deterioration in 2026). The 2023 mission report states that several attributes conveying Outstanding Universal Value are vulnerable to weathering effects and deterioration. UNESCO's 2024 entry lists 'weathering and lack of maintenance affecting the fragile structures' among threats. Iraq's November 2024 report attributes damage at the Abu Dalf Mosque to sand-laden wind, rain and temperature swings, together with visitor damage and vehicles entering the unfenced site (State Party statement), and the 2026 working document notes erosion among continuing pressures. These are weathering pressures on earthen and brick structures; the sources reviewed give no quantified climate-change assessment for Samarra.",
+      "first_identified_date": null,
+      "date_note": "Ongoing weathering pressure described across successive decisions and the 2023 mission; no start date given.",
+      "source_ids": [
+        "src_14",
+        "src_15",
+        "src_04",
+        "src_07",
+        "src_05",
+        "src_11",
+        "src_10"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not clearly met. (1) Active combat: no fighting at or adjacent to the property in 2024-2026 was found in the sources reviewed; Iraq's January 2024 report says the security situation has improved, although UNESCO still states the Danger List threat as a 'state of conflict in the country'. (2) Inaccessibility: the property has not been inaccessible to monitoring for 6+ months in the sense of the trigger; joint World Heritage Centre/ICOMOS missions took place in 2011 and 2023 (the 2023 mission did not visit all ten components, citing time constraints and the security context), State Party reports continue to be submitted (most recently 21 January 2026), and the World Heritage Centre learned of new construction in December 2025. (3) Collapse of protection: a site manager and a management unit (which took over on 3 June 2024) exist, though Iraq's November 2024 report says the unit lacks an engineer, surveyor, administrator and vehicle and that many sites are unreachable and insecure, so protection is weak rather than collapsed. (4) Severe verified damage materially affecting integrity: the Committee expresses continued concern about encroachment, urban sprawl, bulldozing and natural deterioration, and the State Party describes the Abu Dalf Mosque as in very poor condition, but the sources reviewed give no site-wide quantified measure of loss. High Concern trigger matched: official inscription on UNESCO's List of World Heritage in Danger since 2007 for a state of conflict preventing protection and management, retained in 2026 (48 COM 7A.3 and 48 COM 8C.2). A second High trigger is plausibly met: continuing encroachment and bulldozing that the Committee has asked to be documented and controlled over several years, with the detailed encroachment report and the Danger List exit pathway (DSOCR) still outstanding. This is a close call: the nearest neighbour above is Critical Concern, because the December 2025 report of residential complexes being built within the property, the very poor condition of Abu Dulaf reported by the State Party, and the absence of a drafted DSOCR point to an unresolved situation that a reviewer could weigh as an ongoing severe threat to integrity. The nearest neighbour below is Moderate Concern, which would apply only if the property left the Danger List.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The military use from 2003, the 2005 minaret bombing and the 2014-2017 conflict damage are recorded in events[]. The present picture is of a very large, mostly unexcavated Abbasid city (UNESCO's property page says 80% remains to be excavated) on the Danger List since 2007 and retained in 2026, where the Committee remains concerned about encroachment, urban sprawl, bulldozing and natural deterioration, no completed comprehensive Conservation Plan was found in the sources reviewed, the Committee regretted in 2025 that several major restorations did not follow technical review findings, and the Danger List exit pathway has not been drafted. Against that, there is real activity: a 2023 joint mission with 17 recommendations, a three-phase framework proposed by Iraq for 2024-2026, an on-site management unit, preliminary condition assessments and conservation reports in preparation for Abu Dulaf, al-Ma'shuq and Qubbat al-Sulaybiyya, emergency works begun at al-Ma'shuq, and external support (UNESCO/Netherlands Fund-in-Trust). The evidence does not show active combat at the site and does not show a single documented imminent-loss event, which is why this is High rather than Critical. Confidence is Supported rather than Confirmed: the Danger List status and the Committee's concerns are directly confirmed by UNESCO decisions, but the account of present on-site condition rests largely on the State Party's own reports and UNESCO's summaries of them, the full January 2026 State Party report was not read, only a single mission (2023) has assessed the property in the last decade and it did not see all components, and no independent 2025-2026 site assessment was found. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_00",
+        "src_04",
+        "src_10",
+        "src_11",
+        "src_14",
+        "src_15",
+        "src_16",
+        "src_07",
+        "src_05",
+        "src_06",
+        "src_25"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 2 review summary, agreeing with the recommended status and confidence. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of five categories (photographic, academic/scholarly) have publicly viewable evidence, which gives the Moderate tier by the rubric (2-3 categories); it is the low end of that range. The photographic evidence is an institutional gallery on UNESCO's site (12 images on the first page, with further pages indicated; with credits including the Samarra Archaeological Survey/P. Fox, Editions Gelbart and Mahmoud Bendakir), nine of twelve captioned only with the property name. The scholarly evidence is Northedge's survey-based study of the city, whose 2008 volume is offered as a free PDF by the British Institute for the Study of Iraq; the Northedge survey fieldwork dates from 1982-1989, so it is historical rather than a record of current condition. Archival records are not counted: UNESCO's documents page lists the nomination dossier, mission reports and state-of-conservation reports, but these are UNESCO's own reports and no digitised archive of the site was opened. 3D documentation is not counted: the one 3D-related publication found concerns museum artefacts (Museum of Islamic Art, Berlin), not the site, and no publicly viewable site-level model was found. No virtual tour was found. This reflects what is publicly findable, not necessarily what exists in unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for Samarra: 12 images on the page read (with further pages indicated), including captioned interior and minaret views of the Abu Dulaf Mosque and an interior of House no. 5; credits on the page are Samarra Archaeological Survey/P. Fox (3 images), Editions Gelbart/Jean-Jacques Gelbart (8) and Mahmoud Bendakir (1).",
+        "url": "https://whc.unesco.org/en/list/276/gallery/",
+        "source_id": "src_03"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Alastair Northedge, Samarra I: The Historical Topography of Samarra (2008, BISI/BSAI, originally with the Max van Berchem Foundation), illustrated with aerial photographs, is offered by BISI as a free 'Download PDF'. BISI also lists a second volume, The Archaeological Atlas of Samarra (2015), which catalogues the remains; that volume was not opened.",
+        "url": "https://www.bisi.ac.uk/publication/samarra-i-the-historical-topography-of-samarra/",
+        "source_id": "src_24"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "The Fondation Max van Berchem project page describes Northedge's survey, which recorded about 57 km2 and about 5,500 buildings from the 3rd/9th century using aerial photogrammetry plus ground survey (the page cites seasons in 1983, 1987 and 1989; 1982 is when the opportunity for Western work arose); the page does not say the plans are online and says the plan archive was being prepared for publication.",
+        "url": "https://maxvanberchem.org/en/11-archeologie/53-survey-of-samarra",
+        "source_id": "src_21"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Catalogue entry for a 2016 peer-reviewed conference paper (EuroMed 2016, Springer LNCS 10058) on 3D acquisition and visualisation of the Samarra collection of the Museum of Islamic Art, Berlin; artefact-level, not site-level documentation.",
+        "url": "https://www.htw-berlin.de/forschung/online-forschungskatalog/publikationen/publikation?eid=9479",
+        "source_id": "src_22"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003",
+      "title": "Multinational forces occupy the archaeological area",
+      "description": "UNESCO's property page states that since 2003 the site has been occupied by multinational forces who use it for military operations, and that protective procedures have been in abeyance since 2003. ICOMOS's 2007 evaluation reports that they have at times occupied the Malwiya and that in August 2005 they excavated an earth mound across the site.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_00",
+        "src_18"
+      ]
+    },
+    {
+      "date": "2005-04-01",
+      "title": "Explosion damages the Malwiya minaret",
+      "description": "Al Jazeera reported that the top tier of the minaret was destroyed in an explosion on 1 April 2005; a police lieutenant colonel attributed it to 'fighters'. ICOMOS's later evaluation describes the minaret as slightly damaged by a small bomb in April 2005, so the reports differ on the extent of damage. The article notes US troops had been stationed in the tower until about two weeks earlier.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_19",
+        "src_18"
+      ]
+    },
+    {
+      "date": "2007",
+      "title": "Samarra inscribed on the World Heritage List and on the List in Danger",
+      "description": "The Committee's 31st session (decision 31 COM 8B.23) inscribed Samarra Archaeological City (criteria ii, iii, iv) and, in the same decision, placed it on the List of World Heritage in Danger; ICOMOS identified the main risk as the responsible authorities' inability to exercise control over the site's management and conservation. UNESCO's property page lists it as in Danger from 2007 to the present. ICOMOS had primarily recommended deferral but advised that, if inscribed, the property should immediately be inscribed on the Danger List. UNESCO's 2024 entry states the threat as a state of conflict in the country that does not allow the authorities to assure protection.",
+      "event_type": "political",
+      "source_ids": [
+        "src_00",
+        "src_23",
+        "src_11",
+        "src_18"
+      ]
+    },
+    {
+      "date": "2011-06",
+      "title": "Joint World Heritage Centre/ICOMOS reactive monitoring mission",
+      "description": "UNESCO's documents page lists a joint reactive monitoring mission on 5-9 June 2011; later state-of-conservation entries cite it as one of only two such missions (the other in 2023).",
+      "event_type": "other",
+      "source_ids": [
+        "src_01",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2014-07/2015-03",
+      "title": "Armed-group attacks and signs reported at Samarra",
+      "description": "UNESCO's 2015 entry records a State Party report that an ISIL attack partly damaged the 'Dome Crusade', that a July 2014 attack damaged fixed walls and that a car bomb partly damaged the Eshnass fence, with the rest of the property reported undamaged. The entry also records a black banner hung on the Spiral Minaret in November 2014 during clashes and black and red graffiti on part of it in March 2015; the Committee (39 COM 7A.26) asked Iraq to prevent ostentatious religious signs and to implement graffiti-treatment recommendations.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2015-07-29",
+      "title": "UNESCO and Iraq sign a Samarra conservation agreement",
+      "description": "UNESCO reported an agreement signed in Paris to conserve and manage Samarra, beginning with restoration of the Great Mosque and Al-Malwiyah Minaret, with an 18-month first phase funded by the Governorate of Salah-Al-Din at USD 853,000.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_17"
+      ]
+    },
+    {
+      "date": "2017",
+      "title": "Committee notes conflict reversed earlier corrective work and damage at Qubbat al-Sulaybiyya (41 COM 7A.35)",
+      "description": "UNESCO's 2017 entry says military operations and clashes with extremist armed groups undid corrective work on the Great Mosque begun in 2013, that warring parties occupied and damaged Qubbat al-Sulaybiyya, and that Iraqi army fortifications on Sur Ishnas made that site a target. In decision 41 COM 7A.35 the Committee commended the State Party for documenting the damage, expressed serious concern about the lack of information on the property's condition, and retained Samarra on the Danger List.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Committee asks for assessment once security allows (44 COM 7A.8)",
+      "description": "The Committee asked for a full assessment of damage as soon as security conditions permit and before remedial action, and for a joint mission once security allows, and retained Samarra on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2023-06",
+      "title": "Joint World Heritage Centre/ICOMOS reactive monitoring mission (10-16 June 2023)",
+      "description": "The mission did not visit all ten components, which it attributed to time constraints and the security context (it did not assess Abu Dulaf Mosque or al-Musharrahat Palace and saw Qubbat al-Sulaybiyya only in a quick overview). Its report states that several attributes are vulnerable to weathering and deterioration, that comprehensive conservation and management plans had not been started, that no on-site unit managed the whole property, and that the DSOCR process had not begun, and it made 17 recommendations. It records the State Party's statement (2022 report) that encroachment and bulldozing had increased over the past five years and had been stopped.",
+      "event_type": "other",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee decision 45 COM 7A.29 on Samarra",
+      "description": "The Committee expressed deep concern about damage from encroachment, urban sprawl, bulldozing and natural weathering, asked for a comprehensive damage report and conservation plan, and retained Samarra on the Danger List; a general decision (45 COM 7A.30) on Iraq's properties was adopted the same session.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.17 on Samarra",
+      "description": "After Iraq's 31 January 2024 report proposing a three-phase framework for 2024-2026, the Committee retained Samarra on the Danger List, noted damage and deterioration from encroachment, urban sprawl, bulldozing and natural weathering, asked Iraq to implement the 2023 mission recommendations using the three-phase strategy, and asked for a detailed report on bulldozed areas and encroachments. UNESCO's 2024 entry records that the Committee expressed appreciation for the framework. The updated report was requested by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06",
+        "src_16",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2024-11",
+      "title": "Iraq submits state of conservation report",
+      "description": "Iraq's State Party report, dated November 2024, says the current site management took over on 3 June 2024, lists 25 sites affected by encroachment, describes the condition of the Abu Dalf Mosque and Qubbat al-Sulaibiyya, and says it is 'too early' to define the desired state of conservation given encroachment and the volatile political situation.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.37 on Samarra",
+      "description": "The Committee welcomed some post-mission steps including an on-site management unit, regretted that several major restoration projects had not followed technical review findings, requested a moratorium on major interventions, asked Iraq to reconsider a proposed school construction project in the buffer zone, and retained Samarra on the Danger List. An updated report was requested by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2025-12",
+      "title": "World Heritage Centre learns of residential complexes within the property",
+      "description": "According to the Secretariat's 2026 working document, in December 2025 the World Heritage Centre learned of horizontal residential complexes being built within the property and requested information under paragraph 172 of the Operational Guidelines. The same document says an August 2025 archaeological investigation at the buffer-zone school site found Abbasid-period remains and that the project is suspended for lack of funding.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "title": "Iraq submits 2026 state of conservation report",
+      "description": "According to the Secretariat's 2026 working document, Iraq's report was submitted on 21 January 2026; it reports exploratory surveys, GIS mapping to identify deteriorated areas, preliminary assessments of al-Ma'shuq, Abu Dulaf Mosque and Qubbat al-Sulaybiyya, emergency works begun at al-Ma'shuq, temporary halts to works and warnings to encroachment violators, and an April/May 2025 training workshop on earthen architecture supported by the UNESCO/Netherlands Fund-in-Trust.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "Committee decision 48 COM 7A.3 on Samarra; property retained on Danger List",
+      "description": "At its 48th session (Busan, 19-29 July 2026) the Committee noted surveys, documentation and conservation planning, welcomed UNESCO/Netherlands Fund-in-Trust support, expressed continued concern about encroachment, urban sprawl, bulldozing and natural deterioration, reiterated its requests for a moratorium on major interventions and Heritage Impact Assessments (including for the proposed school), encouraged consultation on the DSOCR, requested an updated report by 1 February 2027 for its 49th session, and decided to retain Samarra on the List of World Heritage in Danger. Decision 48 COM 8C.2 lists Samarra among 52 properties retained on the List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_25"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Samarra Archaeological City",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/276",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Samarra Archaeological City: documents and decisions",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/276/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Samarra Archaeological City: maps",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/276/maps/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Samarra Archaeological City: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/276/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 48 COM 7A.3: Samarra Archaeological City (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8995",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page read through a summarising fetch tool rather than verbatim; the decision's requests and retention were consistent with the Secretariat draft in src_10.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 47 COM 7A.37: Samarra Archaeological City (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8704",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page read through a summarising fetch tool rather than verbatim.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 46 COM 7A.17: Samarra Archaeological City (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8486",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page read through a summarising fetch tool rather than verbatim.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 45 COM 7A.29: Samarra Archaeological City (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8177",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page read through a summarising fetch tool rather than verbatim.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 45 COM 7A.30: General Decision on the World Heritage properties of Iraq",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8180",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page read through a summarising fetch tool. Applies to Ashur, Hatra and Samarra generally; contains no Samarra-specific findings.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Decision 44 COM 7A.8: Samarra Archaeological City (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7644",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page read through a summarising fetch tool rather than verbatim.",
+      "published_date": "2021",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "State of conservation of properties inscribed on the List of World Heritage in Danger (WHC/26/48.COM/7A), Samarra section",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/226088",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Working document of the Secretariat and Advisory Bodies containing a draft decision; the adopted text is src_04. Read through a summarising fetch tool.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "State of Conservation: Samarra Archaeological City (2024 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4540",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "State of Conservation: Samarra Archaeological City (2015 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3215",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "State of Conservation: Samarra Archaeological City (2017 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3533",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Report on the Joint World Heritage Centre-ICOMOS Reactive Monitoring Mission to Samarra Archaeological City (10-16 June 2023)",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/205820",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The text read was truncated near the end (annexes not read). The mission could not visit all ten components because of time and security constraints.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "State of Conservation Report: Samarra Archaeological City (Republic of Iraq), November 2024",
+      "publisher": "Government of Iraq, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/219876",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party report (Republic of Iraq, November 2024); statements are the State Party's own and not independently verified.",
+      "published_date": "2024-11",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "State of conservation report by the State Party: Samarra Archaeological City (Iraq), January 2024",
+      "publisher": "Government of Iraq, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/205031",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party report (Republic of Iraq, January 2024); statements are the State Party's own and not independently verified.",
+      "published_date": "2024-01",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "UNESCO and Iraq launch project for conservation of World Heritage site of Samarra",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1330",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015-07-29",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Advisory Body Evaluation (ICOMOS), Samarra Archaeological City, 2007",
+      "publisher": "ICOMOS, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/153094",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "ICOMOS could not conduct an evaluation mission, so its assessment rested on the nomination dossier alone.",
+      "published_date": "2007",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Top of ancient Iraq minaret blown up",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2005/4/1/top-of-ancient-iraq-minaret-blown-up",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Early agency-based report; its description of the damage (top tier destroyed) is stronger than ICOMOS's later description (slightly damaged by a small bomb, src_18). Responsibility is attributed only to unnamed 'fighters' by a police officer.",
+      "published_date": "2005-04-01",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Will Great Mosque of Samarra and its minaret survive?",
+      "publisher": "Al-Monitor (Adnan Abu Zeed)",
+      "url": "https://www.al-monitor.com/originals/2018/02/samarra-mosque-reconstruction-unesco-world-heritage.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Publication date inferred from the URL (February 2018); the page shows no date and the article body is partly paywalled, so only the visible excerpt was used. Cites Iraqi media reports. Dated, not current.",
+      "published_date": "2018-02",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Survey of Samarra (project page, Alastair Northedge)",
+      "publisher": "Fondation Max van Berchem",
+      "url": "https://maxvanberchem.org/en/11-archeologie/53-survey-of-samarra",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Undated project page describing fieldwork seasons in 1983, 1987 and 1989; it does not say whether the plans or photographs are available online.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_22",
+      "title": "3D Acquisition, Processing and Visualization of Archaeological Artifacts: The Samarra Collection of the Museum of Islamic Art in Berlin (EuroMed 2016, Springer LNCS 10058)",
+      "publisher": "HTW Berlin research catalogue (Kai-Browne et al.)",
+      "url": "https://www.htw-berlin.de/forschung/online-forschungskatalog/publikationen/publikation?eid=9479",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Catalogue entry only (title, authors, venue); no abstract was read. Concerns museum artefacts from Samarra, not the site itself.",
+      "published_date": "2016",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Decision 31 COM 8B.23: Samarra Archaeological City (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1321",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page lists the 2007 decisions but does not itself state the reasons for inscription; reasons are taken from src_11 and src_18.",
+      "published_date": "2007",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_24",
+      "title": "Samarra I: The Historical Topography of Samarra (Alastair Northedge, 2008)",
+      "publisher": "British Institute for the Study of Iraq (BISI)",
+      "url": "https://www.bisi.ac.uk/publication/samarra-i-the-historical-topography-of-samarra/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Publication page offering a free PDF; the PDF itself was not opened.",
+      "published_date": "2008",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_25",
+      "title": "Decision 48 COM 8C.2: Update of the List of World Heritage in Danger (Retained Properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9208",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Draft dossier by Claude (re-verified and revised from an earlier 2026-10-12 draft). Proposed status High Concern / Supported; DPI Moderate (low end: photographic and academic only). Trigger: Danger List inscription since 2007 for a state of conflict preventing protection and management, retained in 2026 (48 COM 7A.3, 48 COM 8C.2), plus unresolved encroachment/bulldozing. Close call: nearest neighbour is Critical Concern (December 2025 report of residential complexes within the property; State Party's 'very poor' description of Abu Dulaf; no DSOCR drafted); Moderate would apply only on Danger List removal. Changes on re-verification: archival_records no longer counted (UNESCO's own documents are not a digitised archive); added BISI open-access Northedge volume as scholarly evidence; removed claims not re-confirmed from sources opened (details of 2023 mission weathering findings, a USD 100,000 Nordic fund grant that related to nomination-file training, 'inspectorate lawsuits'); corrected that the 2023 mission did not visit all components; reworded 2017, 2015, 2024 and 2026 events to match the sources; replaced the iraq-businessnews repost with the Al-Monitor URL. Known gaps: (1) The UNESCO decision pages were read through a summarising fetch tool, not verbatim; wording is paraphrased. (2) The 2025 SOC page (whc.unesco.org/en/soc/4703) and the 2026 SOC page were not read; the full Iraqi January 2026 report, the Advisory Bodies' 2026 analysis (beyond the Secretariat working document) and the 2011 mission report were not read. (3) No independent (non-State-Party, non-UNESCO) 2025-2026 report on site condition or security was found; the only journalism used is a 2005 report and a 2018 article. (4) The Qubbat al-Sulaibiyya barracks claim rests on the State Party's November 2024 report only. (5) Reports of the 2005 minaret damage differ (top tier destroyed per Al Jazeera; slightly damaged per ICOMOS); both are stated. (6) The 2006 al-Askari shrine bombing (reported outside the inscribed property) and 2016 graffiti cleaning were not sourced and are omitted. (7) The BISI PDF and The Archaeological Atlas of Samarra (2015) were not opened; no publicly viewable site-level 3D model or tour was found. (8) The UNESCO property page and some pages were fetched via an automated tool; the 2007 decision was read on 31 COM 8B.23 only. Wikipedia not used; metadata rests on UNESCO. Images omitted by design. Independent verification 2026-10-14: all sources re-fetched; 11 wording fixes. (1) ICOMOS 'largely intact urban plan' replaced with its actual wording (best preserved plan of an ancient large city; nomination-based). (2) Removed embellishment that the Qubbat al-Sulaibiyya barracks are used by 'the forces holding the area'. (3) Nov 2024 report: 'inaccessible, insecure and outside site management control' corrected to 'unreachable and insecure'; '25 encroachment cases across northern, central, southern regions' corrected to 25 sites; removed unverified authorship/issuer claim; Abu Dalf causes restated as in the report (sand-laden wind, rain, temperature swings, visitor damage, vehicles). (4) 2003 event: 'suspended under the Archaeological Law' corrected to UNESCO's 'in abeyance'. (5) 2007 event: reason attributed to ICOMOS's risk statement rather than to the Committee decision. (6) DPI: gallery credits no longer tied to specific images; Northedge fieldwork seasons corrected to 1983, 1987, 1989 (3rd/9th century). Verified OK: coordinates, component areas, 15,058/31,414 ha, 2011/2023 missions, all decision contents, 48th session dates (Busan, 19-29 July 2026), 52 retained properties, Al Jazeera, Al-Monitor, UNESCO news 1330.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

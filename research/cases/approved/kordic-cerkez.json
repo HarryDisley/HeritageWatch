@@ -1,0 +1,312 @@
+{
+  "schema_version": "case-v1",
+  "slug": "kordic-cerkez",
+  "title": "Prosecutor v. Dario Kordić and Mario Čerkez (Lašva Valley, Central Bosnia: destruction of mosques and other religious and educational institutions)",
+  "case_type": "TRIBUNAL",
+  "body": "International Criminal Tribunal for the former Yugoslavia (ICTY); Trial Chamber III and Appeals Chamber",
+  "case_reference": "IT-95-14/2 (IT-95-14/2-T trial; IT-95-14/2-A appeal)",
+  "summary": "Dario Kordić and Mario Čerkez, Bosnian Croat figures in the Lašva Valley region of Central Bosnia, were tried together at the ICTY. Among the 44 counts were two for \"destruction or damage to religious or educational institutions\", described by the Trial Chamber as violations of the laws or customs of war: Count 43 (Kordić) and Count 44 (Čerkez). In the Trial Judgement of 26 February 2001 the Chamber stated that \"the HVO deliberately targeted mosques and other religious and educational institutions\" as part of a common plan, found Kordić guilty on Count 43 and Čerkez guilty on Count 44, and sentenced them to 25 and 15 years. In the Appeals Judgement of 17 December 2004 the Appeals Chamber affirmed Kordić's Count 43 conviction for Ahmići and Han Ploča-Grahovci but reversed it for Stari Vitez, affirmed his 25-year sentence, and reversed Čerkez's convictions under Count 44, imposing a new sentence of 6 years. The written judgements were not read for this entry, so the entry does not say which buildings were found destroyed.",
+  "legal_basis": "The ICTY's case information sheet groups the charges of destroying religious or educational buildings under Article 3 of the Statute (violations of the laws or customs of war); the Trial Chamber's pronouncement describes Counts 43 and 44 as \"violations of the laws or customs of war (destruction or damage to religious or educational institutions)\". As reproduced in a University of Oslo copy of the Statute, Article 3(d) lists \"seizure of, destruction or wilful damage done to institutions dedicated to religion, charity and education, the arts and sciences, historic monuments and works of art and science\" and Article 3(b) lists \"wanton destruction of cities, towns or villages, or devastation not justified by military necessity\". The two accused were charged under Article 7(1) (individual responsibility, covering a person who \"planned, instigated, ordered, committed or otherwise aided and abetted\") and Article 7(3) (responsibility of a superior for acts of subordinates). The Trial Chamber found Kordić not liable under Article 7(3); it found Čerkez liable under Article 7(3) for offences arising from attacks on three locations (Vitez, Stari Vitez and Večeriska). The Appeals Chamber's disposition reversed all of Čerkez's Article 7(3) convictions. The exact Statute article under which Counts 43 and 44 were framed in the indictment and the elements the Chambers applied were not read.",
+  "outcome": "TRIAL (Trial Judgement, IT-95-14/2-T, 26 February 2001, as pronounced by Trial Chamber III): Count 43 (destruction or damage to religious or educational institutions): Dario Kordić guilty. Count 44 (same offence): Mario Čerkez guilty. The Chamber stated that \"the HVO deliberately targeted mosques and other religious and educational institutions\", that there was \"a pattern of destruction and plunder in all the places attacked by the HVO\", and that all this was part of the common plan. Overall sentences: Kordić 25 years' imprisonment, Čerkez 15 years' imprisonment, with time in custody from 6 October 1997 deducted. Kordić was found guilty on Counts 1, 3, 4, 7, 8, 10, 12, 21, 22, 38, 39 and 43 and not guilty on Counts 9, 11, 13, 23-28 and 37. Čerkez was found guilty on Counts 2, 5, 6, 14, 15, 17, 19, 29-31, 33, 35, 41, 42 and 44 and not guilty on Counts 16, 18, 20, 32, 34, 36 and 40 (the English transcript's reading of Counts 23-28 was ambiguous; the English press release and the French summary give not guilty). APPEAL (Appeals Judgement, IT-95-14/2-A, 17 December 2004, as pronounced): Kordić: Count 43, \"destruction or wilful damage to institutions dedicated to religion or education\", affirmed for Ahmići and for Han Ploča-Grahovci, and reversed for Stari Vitez; other convictions were reversed location by location, Count 1 (persecutions) affirmed in part, and the sentence of 25 years affirmed. Čerkez: convictions under Count 44 reversed (for Večeriska, Donja Večeriska and Stari Vitez, and for Vitez); the convictions the pronouncement affirms are under Article 7(1) only, for Counts 2 (persecutions), 29 and 30 relating to the Vitez cinema and SDK building; new sentence of 6 years, enforced immediately under Rule 118; the Appeals press release states that this was less than the time he had already served and that immediate release was ordered. The pronouncement and press releases do not name particular mosques or buildings, and the Appeals Chamber's reasoning on Counts 43 and 44 (including why the Stari Vitez and Čerkez convictions were reversed) was not read.",
+  "interpretation": null,
+  "start_date": "1995-11-10",
+  "start_date_display": "1995-11-10 (initial indictment)",
+  "end_date": "2004-12-17",
+  "end_date_display": "2004-12-17 (Appeals Judgement)",
+  "timeline": [
+    {
+      "date": "1995-11-10",
+      "date_display": "10 November 1995",
+      "title": "Initial indictment",
+      "description": "The ICTY case information sheet gives 10 November 1995 as the date of the initial indictment (IT-95-14/2, \"Lašva Valley\"). The amended indictment is dated 30 September 1998.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "1997-10-06",
+      "date_display": "6 October 1997",
+      "title": "Both accused transferred to the Tribunal",
+      "description": "The case information sheet records the arrest and transfer of both accused on 6 October 1997; they pleaded not guilty at their initial appearance on 8 October 1997.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "1998-09-30",
+      "date_display": "30 September 1998",
+      "title": "Amended indictment",
+      "description": "The case information sheet gives 30 September 1998 as the date of the amended indictment. The Trial Judgement press release states that the Indictment contains 44 counts; the counts relevant here are 43 (Kordić) and 44 (Čerkez), described in the Trial Chamber's pronouncement as violations of the laws or customs of war (destruction or damage to religious or educational institutions).",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02"
+      ]
+    },
+    {
+      "date": "1999-04-12",
+      "date_display": "12 April 1999",
+      "title": "Trial opens",
+      "description": "The trial opened on 12 April 1999; closing arguments were heard on 14 and 15 December 2000.",
+      "source_ids": [
+        "src_00",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2001-02-26",
+      "date_display": "26 February 2001",
+      "title": "Trial Judgement",
+      "description": "Trial Chamber III found Kordić guilty on Count 43 and Čerkez guilty on Count 44. It also stated that \"the HVO deliberately targeted mosques and other religious and educational institutions\". Sentences: Kordić 25 years, Čerkez 15 years. Judgement reference IT-95-14/2-T.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2001-03-12",
+      "date_display": "12-13 March 2001",
+      "title": "Notices of appeal filed",
+      "description": "The case information sheet gives 12 March 2001 (defence) and 13 March 2001 (Prosecution) as the dates of the notices of appeal.",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2004-05-17",
+      "date_display": "17-19 May 2004",
+      "title": "Appeal hearings",
+      "description": "The Appeals Chamber heard the appeals on 17, 18 and 19 May 2004. Final deliberations took place on 2 December 2004.",
+      "source_ids": [
+        "src_04",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2004-12-17",
+      "date_display": "17 December 2004",
+      "title": "Appeals Judgement",
+      "description": "For Kordić, the Appeals Chamber affirmed Count 43 for Ahmići and for Han Ploča-Grahovci, reversed Count 43 for Stari Vitez, and affirmed the 25-year sentence. For Čerkez, it reversed his convictions under Count 44 (for Veceriska, Donja Veceriska, Stari Vitez and for Vitez) and imposed a new sentence of 6 years. Judgement reference IT-95-14/2-A.",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2006-06-08",
+      "date_display": "8 June 2006",
+      "title": "Kordić transferred to Austria",
+      "description": "Kordić was transferred to Austria on 8 June 2006 to serve his 25-year sentence.",
+      "source_ids": [
+        "src_08"
+      ]
+    }
+  ],
+  "section_sources": {
+    "SUMMARY": [
+      "src_00",
+      "src_07",
+      "src_01",
+      "src_02",
+      "src_04",
+      "src_05",
+      "src_06"
+    ],
+    "LEGAL_BASIS": [
+      "src_00",
+      "src_01",
+      "src_02",
+      "src_04",
+      "src_11"
+    ],
+    "OUTCOME": [
+      "src_01",
+      "src_02",
+      "src_03",
+      "src_04",
+      "src_05",
+      "src_06"
+    ],
+    "INTERPRETATION": []
+  },
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Fiche d'information sur l'affaire (Case Information Sheet, French): Kordić & Čerkez, IT-95-14/2, \"Vallée de la Lašva\"",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://www.icty.org/x/cases/kordic_cerkez/cis/fr/cis_kordic_cerkez_fr.pdf",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Tribunal's own case summary, marked as not an official document; French version read (English version not opened). Used for procedural dates and the Article 3 charge categories. It does not number the counts; its table gives a release date for Čerkez of 2 December 2004 that it does not explain, and that date is not used here. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "",
+      "published_date_display": "undated",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Transcript of 26 February 2001 (Trial Judgement pronouncement), IT-95-14/2-T",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://icty.org/x/cases/kordic_cerkez/trans/en/010226it.htm",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Summary and disposition read out in court by the Trial Chamber (Judge May delivered the summary); not the written judgement. Source of the finding on mosques, the per-count verdicts and the sentences. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "2001-02-26",
+      "published_date_display": "26 February 2001",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Press release \"Judgement of Trial Chamber III in the Kordić and Čerkez Case\" (The Hague, 26 February 2001, JL/P.I.S./567-e)",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://www.icty.org/sid/8016",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Marked \"Exclusively for the use of the media. Not an official document\"; a media summary of the Trial Judgement. Used to cross-check the transcript. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "2001-02-26",
+      "published_date_display": "26 February 2001",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Press release summary of the Trial Judgement, 26 February 2001 (French version, \"Document non officiel\")",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://icty.org/x/cases/kordic_cerkez/tjug/fr/010226_Kordic_Cerkez_summary_fr.pdf",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "French-language media summary, marked as not an official document. Used only to cross-check the lists of counts of conviction and acquittal for each accused. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "2001-02-26",
+      "published_date_display": "26 February 2001",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Transcript of 17 December 2004 (Appeals Judgement pronouncement), IT-95-14/2-A, pp. 662-695",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://icty.org/x/cases/kordic_cerkez/trans/en/041217IT.htm",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Summary and disposition read out in court (Judge Schomburg read the summary); not the written Appeal Judgement. The disposition names Counts 43 and 44 and locations but does not itself explain the Chamber's reasoning on them. Other members of the bench were not identified in the text read. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "2004-12-17",
+      "published_date_display": "17 December 2004",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Press release: Appeals Chamber judgement in Prosecutor v. Dario Kordić and Mario Čerkez (CT/P.I.S./926e, 17 December 2004)",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://www.icty.org/en/node/3497",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Media summary of the Appeals Judgement; the page calls itself not official. Used for what remained of each accused's convictions and for the new sentence of 6 years. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "2004-12-17",
+      "published_date_display": "17 December 2004",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Appeals Judgement summary, Kordić and Čerkez, 17 December 2004 (PDF)",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://icty.org/x/cases/kordic_cerkez/acjug/en/040117_Kordi_erkez_summary_en.pdf",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Media summary, marked not an official document; says only the written English judgement is authoritative. File name carries a mistaken '0401' prefix but the release is dated 17 December 2004. Used to cross-check the transcript on Count 43 for Kordić. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "2004-12-17",
+      "published_date_display": "17 December 2004",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Kordić & Čerkez (IT-95-14/2): ICTY legacy case page",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://www.icty.org/en/node/11229",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Index page listing the case's press releases; used only to confirm the case name, number and the dates of the two judgements. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "",
+      "published_date_display": "index page",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Press release: Dario Kordić and Zoran Žigić transferred to Austria to serve their prison sentences (9 June 2006)",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (legacy site maintained by the IRMCT)",
+      "url": "https://www.icty.org/en/sid/8736",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Press release; states Kordić was transferred on 8 June 2006 and gives trial dates. Does not mention Čerkez. Not a judgement. Read through a fetch tool that summarises pages, so wording should be re-checked against the original before approval.",
+      "published_date": "2006-06-09",
+      "published_date_display": "9 June 2006",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Prosecutor v. Dario Kordić, Mario Čerkez (Trial Judgement), IT-95-14/2-T: Refworld catalogue entry",
+      "publisher": "UNHCR Refworld",
+      "url": "https://www.refworld.org/node/19636",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Catalogue page only: gives the case number IT-95-14/2-T and the date 26 February 2001 and links to the PDF. The written Trial Judgement itself could not be opened (PDF link blocked; archive copy behind a verification page), so no holding in this entry rests on it.",
+      "published_date": "2001-02-26",
+      "published_date_display": "26 February 2001",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Prosecutor v. Dario Kordić, Mario Čerkez (Appeal Judgement), IT-95-14/2-A: Refworld catalogue entry",
+      "publisher": "UNHCR Refworld",
+      "url": "https://www.refworld.org/node/91973",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Catalogue page only: gives the case number IT-95-14/2-A and the date 17 December 2004. The written Appeal Judgement itself could not be opened, so no holding in this entry rests on it.",
+      "published_date": "2004-12-17",
+      "published_date_display": "17 December 2004",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Statute of the International Criminal Tribunal for the Former Yugoslavia (reproduction, University of Oslo)",
+      "publisher": "University of Oslo, Faculty of Law (treaty library)",
+      "url": "https://www.jus.uio.no/english/services/library/treaties/04/4-06/ict-for-yugoslavia.xml",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Secondary reproduction of the Statute, not the UN or ICTY text. Articles 3(b), 3(d), 7(1) and 7(3) were checked against it at verification and the quoted wording matches this copy. The ICTY's own consolidated PDF could not be opened (blocked).",
+      "published_date": "",
+      "published_date_display": "reproduction of the Statute",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "site_slugs": [],
+  "country_links": [
+    {
+      "country_slug": "bosnia-and-herzegovina",
+      "role": "territory where the events in the Lašva Valley occurred"
+    }
+  ],
+  "review_status": "approved",
+  "approved_by": "Harry Disley",
+  "approved_date": "2026-10-15",
+  "approval_note": "Approved by Harry Disley in chat on 2026-10-15 after reviewing the casebook batch summary; independent verifier checked against official sources. Quotations were read through a summarising fetch tool and should be compared with the original documents before being cited.",
+  "last_verified_date": "2026-10-15",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft. Known gaps: (1) the written Trial Judgement and written Appeal Judgement were NOT read (refworld PDFs and unhcr archive copies were blocked or behind verification pages; curl to icty.org was blocked), so the entry rests on the Chambers' oral pronouncements/transcripts and ICTY press releases; consequently which mosques/buildings were found destroyed, the elements applied, and the Appeals Chamber's reasons for reversing Kordić's Stari Vitez conviction and Čerkez's Count 44 convictions are not stated; (2) the ICTY consolidated Statute PDF was blocked; Articles 3(b), 3(d), 7(1), 7(3) were seen only as truncated excerpts in a University of Oslo reproduction; (3) the English case information sheet was not opened (French one read); the exact Statute article of Counts 43/44 in the indictment was not seen; (4) all pages were read via a fetch tool that summarises content, so quotations and the lists of counts must be re-verified against the originals before approval; (5) the Appeals hearing transcript of 17 May 2004 was only partly read (first 100,000 characters) and is not cited; (6) a Frulli article (Italian Yearbook of International Law XV, 2005) was opened but says little about this case and is not cited; no attributable analysis was found, so interpretation is null; (7) Croatia is not linked as no read source states a state role; the Trial Chamber's finding concerned the Bosnian Croat leadership and HVO, and its wording on a common plan was taken only from the oral summary. Heritage relevance: the counts concern religious and educational buildings generally, not named World Heritage sites.",
+      "changed_by": "claude-draft"
+    },
+    {
+      "date": "2026-10-15",
+      "change": "Verification against the fetched sources. All counts of conviction/acquittal per accused, Counts 43 (Kordić) and 44 (Čerkez), sentences (trial 25/15 years; appeal 25 affirmed / new 6 years for Čerkez), appeal outcomes by location and trial/appeal separation were confirmed as stated. Fixes: (1) 1998-09-30 timeline event wrongly attributed the 44-count statement to an Appeals hearing transcript of 17 May 2004 (not a cited source) and to src_01; now attributed to the Trial Judgement press release (src_02); (2) removed src_08 (2006 transfer release) from the initial-indictment event, which it does not support; (3) appeal-hearing event: removed the unsupported 'transcript dated 17 May 2004 exists' and the incorrect statement that days came only from the press release, citing src_04 and src_05 for 17-19 May and 2 December 2004; (4) legal_basis: completed the truncated Article 3(d) quotation and removed the 'full text of Article 7(1)/(3) not read' gap, since the Oslo copy shows both articles in full. Not verified: written judgements not opened, so reasoning, named buildings and the exact indictment article for Counts 43/44 remain unstated; pages were read through a summarising fetch tool. Note the case information sheet's 2 December 2004 release date for Čerkez is unexplained and not used.",
+      "changed_by": "claude-verifier"
+    },
+    {
+      "date": "2026-10-15",
+      "change": "Approved by Harry Disley; copied to approved/ for import.",
+      "changed_by": "Harry Disley (via claude)"
+    }
+  ]
+}

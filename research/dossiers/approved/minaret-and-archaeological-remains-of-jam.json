@@ -1,0 +1,558 @@
+{
+  "slug": "minaret-and-archaeological-remains-of-jam",
+  "name": "Minaret and Archaeological Remains of Jam",
+  "alternate_names": [
+    "Minaret of Jam",
+    "Jam Minaret",
+    "Minaret et vestiges archéologiques de Djam"
+  ],
+  "country": "Afghanistan",
+  "region": "Central Asia (Ghor Province)",
+  "coordinates": {
+    "lat": 34.3964,
+    "lng": 64.5159
+  },
+  "coordinate_note": "Converted from UNESCO's coordinates for component 211-001, 'Valley of Hari River including Minaret of Jam' (N34 23 47.1, E64 30 57.2). UNESCO's maps page lists three further components (Jewish cemetery, Arabic inscriptions, water reservoir) without coordinates; this marker is a practical single-point reference at the Minaret.",
+  "unesco_id": "211",
+  "inscription_year": 2002,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": "UNESCO's maps page lists four elements under the inscription (the Valley of the Hari River including the Minaret, a Jewish cemetery, Arabic (Islamic) inscriptions and a water reservoir). This profile covers the whole inscribed property, with the Minaret as its reference point.",
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes a 65 m, 12th-century minaret with an octagonal base and tapering brick shafts, decorated with geometric relief and a turquoise-tile inscription, standing in a river valley near the Hari Rud and Jam rivers in Ghor Province. UNESCO's property page calls it one of the few well-preserved monuments of its era, and cites its influence on later Islamic architecture in South Asia, pointing to the Qutb Minar in Delhi. It was inscribed in 2002 under criteria (ii), (iii) and (iv) and has been on the List of World Heritage in Danger since the same year; the page gives the property as 70 ha with a 600 ha buffer zone.",
+  "metadata_sources": [
+    "src_00",
+    "src_01"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Seasonal flooding of the Hari Rud and Jam Rud rivers, with riverbank erosion and riverbed siltation beside the Minaret, is the threat UNESCO's recent documents stress most. UNESCO's 2023 page says sediment build-up reduces riverbed capacity, that crumbling gabion and concrete bank works worsen erosion and silting, and that floodwater is affecting the Minaret's base. The Secretariat and Advisory Bodies' 2025 analysis says seasonal floods continue to cause riverbank erosion, riverbed silting and failure of old retention structures and that climate change is worsening the risk, and that new gabion walls had collapsed several times under flood pressure. In 2026 the Secretariat and Advisory Bodies describe recurrent seasonal floods on the Hari and Jam rivers as worsened by climate change and urge an urgent hydraulic study and long-term prevention strategy; the Committee's 2026 decision likewise describes recurring seasonal flooding as remaining serious and worsened by climate change. Protective work is documented: UNESCO's 2026 page records a 200-metre gabion wall along the Djam River, while cautioning that the site 'reste tres vulnerable' to extreme weather and sudden seasonal floods (UNESCO's French wording).",
+      "first_identified_date": null,
+      "date_note": "Chronic, recurring seasonal hazard; UNESCO's pages list erosion, siltation and floods across many reporting cycles and no single start date applies.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_06",
+        "src_07",
+        "src_09"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Flood events are documented in the record: floods in May 2019 (AFP reported about 15 metres of protection wall destroyed, per a governor's spokesman; the State Party reported the guesthouse and office badly damaged) and an exceptionally strong flood in May 2024 recorded by UNESCO, which led to reprogramming of project activities. Seismic exposure is also documented: a 2004 peer-reviewed analysis (Menon, Lai and Macchi) describes the minaret as highly vulnerable to earthquakes, and the State Party's second-cycle periodic report (listed on UNESCO's documents page as 2012; its text refers to 2010-2011) says the site lies on the Herat fault and describes a major earthquake as overdue. After the 17 January 2022 earthquake, an ALIPH-funded analysis concluded, per UNESCO's 2023 page, that the Minaret was not in imminent danger of collapse. The sources read do not document unrepaired structural damage from the 2024 flood beyond UNESCO's references to erosion, siltation and floodwater affecting the base.",
+      "first_identified_date": null,
+      "date_note": "Recurring floods and seismic exposure are long-standing; the earliest dated event used in this dossier is the May 2019 flood.",
+      "source_ids": [
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_14",
+        "src_20",
+        "src_22"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Minaret is inclined and UNESCO lists the inclination as a factor affecting the property in every reporting cycle read (2018-2026); a monitoring system has been installed and the Committee in 2025 asked for regular collection of tilt data. The Committee has repeatedly requested emergency stabilisation of the wooden staircases (2023 per UNESCO's SOC page, 2024 and 2025 decisions) and the 2025 SOC page records that scaffolding to the first balcony was postponed indefinitely because of flood risk, high cost and potential damage. Property and buffer-zone boundaries remain undefined and the Committee asks for a minor boundary modification proposal. A management system/management plan remains a listed factor in UNESCO's 2018-2026 pages (the original 2002 danger-listing grounds were legal protection, a monuments protection agency, personnel and a management plan, per the 2023 SOC page); the Committee's 2026 decision asks for work on a data management strategy, inclination monitoring, soil investigations and a full inventory of decoration. Illegal activities (illicit excavation and looting) are listed factors; UNESCO's 2026 page says security staff ('Security Division 012') and coordination with local authorities have 'considerably' reduced human-caused threats. As early as 2003 the Committee recorded concern at the minaret's instability, continuing illegal excavation and absence of a management mechanism. UNESCO's 2018 state of conservation page records the Committee noting that no actual conservation work had been undertaken at the property since 2012; an ALIPH-funded project (Phase I, 2020-2025 per UNESCO's 2026 page) has since supported works.",
+      "first_identified_date": null,
+      "date_note": "Chronic; the earliest dated Committee action in this dossier is Decision 27 COM 7A.21 (2003), and the original 2002 danger-listing grounds concerned legal protection, a monuments protection agency, personnel and the lack of a management plan.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_11"
+      ]
+    },
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO lists 'civil unrest' among the factors affecting the property in its 2021-2026 state of conservation pages, and earlier cycles record political instability and security-related interruption of expert missions. The Committee in 2024 and 2025 calls on all parties to respect international humanitarian law and heritage protection instruments. No fighting at or adjacent to the property in 2024-2026 was found in the sources read, and UNESCO's 2025-2026 pages describe field work, a security presence and monitoring on site. Older, single-source reporting exists: Archaeology magazine reported that in spring 2019 fighting occurred close to Jam in which eighteen people were reportedly killed, and RFE/RL reported in November 2021 that the guarding teams had left the site after August 2021. This category reflects the security context rather than current combat at the property.",
+      "first_identified_date": null,
+      "date_note": "Civil unrest and political instability are recorded across many reporting cycles; no single start date applies.",
+      "source_ids": [
+        "src_03",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_10",
+        "src_17",
+        "src_21"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met on the evidence read. (1) No active combat at or adjacent to the property was found for 2024-2026; the only fighting report near Jam (Archaeology magazine, spring 2019) is single-source and old. (2) The property is not documented as inaccessible to monitoring: UNESCO's Kabul Office carries out field operations (commended in the 2026 decision), UNESCO's 2025 page records improved access since August 2021, and Pajhwok reported a restoration visit in July 2026. (3) Protection and monitoring have not effectively collapsed: UNESCO records Security Division 012 deployed at the Minaret, a full-time site manager appointed, a tilt-monitoring system operating and a 200-metre gabion wall built along the Djam River. (4) No authoritative source read states that severe damage or an ongoing severe threat is materially affecting the property's survival: UNESCO describes persistent vulnerability to floods, and an ALIPH-funded analysis after the January 2022 earthquake found no imminent danger of collapse. High Concern trigger matched: official inscription on UNESCO's List of World Heritage in Danger since 2002, retained by Decision 48 COM 7A.24 in 2026 after the Secretariat and Advisory Bodies concluded the desired state of conservation has not been achieved; the reasons are substantive (stability of the Minaret, flooding and erosion, boundaries, management system), not administrative. CLOSE CALL with Critical Concern: the Minaret is inclined, floods have repeatedly damaged its surroundings, UNESCO says new gabion walls collapsed several times under flood pressure (2025) and the site remains very vulnerable (2026), and a December 2025 news report relays residents' fears of collapse. A reviewer could read this as an ongoing severe threat. This draft does not call it Critical because no named authority states a near-term collapse timeframe, the December 2025 report is single-source, and UNESCO documents active stabilisation, security and monitoring work.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of a property that has been on the List of World Heritage in Danger since 2002 and that the Committee decided again in July 2026 to retain, with the Secretariat and Advisory Bodies concluding that the desired state of conservation for removal has not been achieved. The threats UNESCO stresses are structural and hydrological: the Minaret's inclination (still being monitored), seasonal flooding of the Hari Rud and Jam Rud worsened by climate change per UNESCO, riverbank erosion and siltation, flood-prone and sometimes failing protective structures (new gabion walls collapsed several times per the 2025 analysis), undefined property and buffer-zone boundaries, and an incomplete management system. Against that, the evidence shows real, current protection: an ALIPH-funded UNESCO project coordinated by UNESCO's Kabul Office with the World Heritage Centre and ICOMOS (USD 1,921,888 for Phase I), riverbed cleaning and gabion walls, security staff on site, a tilt-monitoring system, a 3D model, a full-time site manager and, per Pajhwok in July 2026, a restoration visit. Because UNESCO also records that an ALIPH-funded analysis found no imminent danger of collapse after the 2022 earthquake, and because no authoritative source read gives a near-term collapse timeframe, the call stays at High Concern rather than Critical. Confidence is Supported rather than Confirmed: Danger List status and the threat list are confirmed by primary UNESCO decisions, but the 2025 and 2026 state of conservation pages were read in French summaries rather than the underlying reports, UNESCO's information comes largely through its Kabul Office and the State Party report, independent on-the-ground reporting is limited, and the High/Critical boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_12",
+        "src_14",
+        "src_15",
+        "src_16",
+        "src_17",
+        "src_21"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 2 review summary, agreeing with the recommended status and confidence. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly viewable evidence, giving the moderate tier by the rubric (2-3 categories), but each is thin. UNESCO's photo gallery holds at least 13 images over two pages, credited mostly to a single photographer. The archival category rests on official documents hosted by UNESCO (nomination file, ICOMOS evaluation, mission and periodic reports); no digitised archive of the site was found, and UNESCO's state of conservation reports are not counted here. The scholarly category rests on a 2004 engineering article whose full text was not read. UNESCO reports that 3D models exist (a 2017 survey with ICONEM per the State Party report, and a 3D model by AEGIS Heritage and UNESCO per the 2026 SOC page, which also calls for a data strategy so the documentation remains accessible), but no publicly viewable 3D model was found, so 3D documentation is marked false. No virtual tour was found. A reviewer may wish to consider whether the tier should be Limited given how thin the three categories are. DPI reflects what is publicly findable, not what exists in unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (at least 13 photos across two pages; credits are Claudio Margottini for 11 images and Mario Santana Quintero for one, shown as UNESCO).",
+        "url": "https://whc.unesco.org/en/list/211/gallery/",
+        "source_id": "src_18"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 2002 nomination file 211rev, the 2002 ICOMOS evaluation, the 2002 map, mission reports from May 2010 and October 2014, and periodic reporting (cycle 2, listed as 2012; cycle 3, listed as 2023, not opened); the mission reports have no link on that page; the second-cycle periodic report was opened and describes surveys of August 2010 and the state of the site around 2011. These are official documents, not an independent digitised archive.",
+        "url": "https://whc.unesco.org/fr/list/211/documents/",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed article 'Seismic hazard assessment of the historical site of Jam in Afghanistan and stability analysis of the minaret' (Menon, Lai, Macchi, Journal of Earthquake Engineering, 2004); only the repository record and abstract were read.",
+        "url": "https://iris.unipv.it/handle/11571/20964",
+        "source_id": "src_20"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2002",
+      "title": "Inscribed on the World Heritage List and on the List of World Heritage in Danger",
+      "description": "UNESCO's pages record the property as inscribed in 2002 under criteria (ii), (iii) and (iv), and as on the List of World Heritage in Danger since 2002. UNESCO's 2023 state of conservation page gives the original grounds for danger listing as lack of legal protection, no effective monuments protection agency, insufficient protection and conservation personnel, and no comprehensive management plan. A 2019 UNESCO news item describes it as the first Afghan site inscribed on the World Heritage List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_00",
+        "src_09",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2007",
+      "title": "Corrective measures adopted (31 COM 7A.20)",
+      "description": "The Committee's 2025 and 2026 decisions refer to corrective measures adopted in 2007 by Decision 31 COM 7A.20 as the framework for the property's removal from the Danger List, and the 2026 decision asks that the next report be organised around them. The 2007 decision text itself was not opened in this pass.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2017-09",
+      "title": "First field mission in three years; 3D survey of the Minaret",
+      "description": "UNESCO's 2018 state of conservation page records a first field mission in three years in September 2017 and says it produced the first thorough survey since the 1970s. The State Party's report states that the September 2017 mission, involving Afghan officials, UNESCO experts and the firm ICONEM, produced a 3D model of the minaret and its surroundings. A 2019 UNESCO news item dates the 3D survey to October 2017; the month differs between sources.",
+      "event_type": "other",
+      "source_ids": [
+        "src_11",
+        "src_13",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2019-05",
+      "title": "Floods erode the Minaret's surroundings",
+      "description": "AFP reported that torrential rain sent floodwater down the valley and that hundreds of workers diverted the water; it quoted a spokesman for the Ghor governor as saying floods destroyed about 15 metres of protection wall, and said officials described the minaret as saved from imminent danger. UNESCO's 2021 state of conservation page records the State Party's report that, after the May 2019 floods, the Ministry of Information and Culture allocated USD 109,000 for sediment removal and retaining-wall repairs and that the site guesthouse and office were badly damaged.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_14",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2019-06-26",
+      "title": "UNESCO announces ALIPH-funded safeguarding project",
+      "description": "UNESCO's news item (published 26 June 2019, dateline 25 June) announced a safeguarding project funded by ALIPH with USD 1.9 million to develop a conservation plan and carry out urgent stability measures, alongside an expert mission funded by the UNESCO Heritage Emergency Fund. The announcement cited recent flooding and the security situation as the reasons for urgent action.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2021-08",
+      "title": "Changes of August 2021 affect administration and technical work",
+      "description": "UNESCO's 2023 state of conservation page states that major changes in August 2021 led to a change in the administrative and technical provisions in the field of heritage, creating new challenges for maintenance, monitoring, conservation and international cooperation. RFE/RL reported in November 2021 that the teams guarding the site had left since August 2021 and that a spokesman for the authorities said they had asked UNESCO to repair the tower; UNESCO had not responded to RFE/RL's request for comment, and UNESCO's own pages do not repeat the guard claim. UNESCO's 2025 page later records that access improved after August 2021, enabling conservation and monitoring missions.",
+      "event_type": "political",
+      "source_ids": [
+        "src_09",
+        "src_17",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2022-01-17",
+      "title": "Earthquake; ALIPH-funded analysis finds no imminent danger of collapse",
+      "description": "UNESCO's 2023 state of conservation page records that an ALIPH-funded analysis made after the 17 January 2022 earthquake concluded that the Minaret was not in imminent danger of collapse. The page gives no further detail on the earthquake's effects in the sources read.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2024-05",
+      "title": "Exceptionally strong flood; ALIPH project reprogrammed toward flood mitigation",
+      "description": "UNESCO's 2024 state of conservation page records that an exceptionally strong flood in May 2024 led to reprogramming of ALIPH project activities toward urgent flood mitigation.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2024-12",
+      "title": "Drone survey for boundary definition and 3D documentation",
+      "description": "UNESCO's 2025 state of conservation page refers to a topographic map, satellite imagery and drone surveys (December 2024) as the basis for delimiting the property and buffer zone (Decision 47 COM 7A.18 names a 2012 topographic map and a 2024 drone survey), and lists drone survey and 3D documentation with a precise 3D model completed in 2024 among actions contributing to the corrective measures.",
+      "event_type": "other",
+      "source_ids": [
+        "src_07",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "World Heritage Committee decision 47 COM 7A.18 retains Jam on the Danger List",
+      "description": "The 47th session (examined at 6-16 July 2025 per UNESCO's SOC page) expressed deep concern about Afghanistan's humanitarian, educational and cultural conditions, noted with appreciation the monitoring system installed at the Minaret, welcomed the deployment of security staff, repeated requests for emergency stabilisation of the wooden staircases, a suspended bridge over the Hari Rud and site-office rebuilding, and a hydraulic study, regretted that boundaries remain undefined, asked for a minor boundary modification proposal by 1 February 2026, and decided to keep the property on the List of World Heritage in Danger.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2025-12-18",
+      "title": "News report on collapse fears and winter rains",
+      "description": "Hasht-e Subh reported that residents said the minaret faces a greater risk of collapse than before as winter rains increase, that recent floods had destroyed parts of the retaining walls, and that a UNAMA deputy special representative had warned that failure to act would increase the collapse risk. The article is a single report relying on residents and cultural figures; the UNAMA statement was not corroborated elsewhere in this pass and is not relied on for the classification.",
+      "event_type": "other",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Restoration visit and planned first phase reported by Pajhwok",
+      "description": "Pajhwok Afghan News reported on 15 July 2026 that a joint team from the Ministry of Information and Culture and the Aga Khan Trust for Culture visited Jam and that, according to an Aga Khan Trust for Culture officer, a first phase of practical restoration work on the minaret's structure would follow, carried out in coordination with the Ministry of Information and Culture and UNESCO. Ghor's director of information and culture also thanked those bodies for their preservation efforts. The article does not state who is funding the work.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "World Heritage Committee decision 48 COM 7A.24 retains Jam on the Danger List",
+      "description": "At its 48th session (Busan, July 2026; UNESCO's decision page gives only the year) the Committee took note with appreciation of continued operational activities at the property, including on-site security staff, remote monitoring of the Minaret, durable gabion flood protection and a suspension bridge; described recurring seasonal flooding as remaining serious and worsened by climate change; called for a hydraulic study and a long-term prevention strategy; commended UNESCO for its field operations through its Kabul Office; asked that future reports be structured around the 2007 corrective measures and for an updated report by 1 February 2027; and decided to keep the property on the List of World Heritage in Danger. UNESCO's 2026 state of conservation page records the report as submitted on 31 January 2026, and records the Secretariat and Advisory Bodies' conclusion that the desired state of conservation has not yet been met.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_06"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Minaret and Archaeological Remains of Jam (property page, French-language version)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/list/211/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The English-language property page (whc.unesco.org/en/list/211/) could not be opened in this pass, so the French-language page was read. It states no coordinates; coordinates come from the maps page (src_01).",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Minaret and Archaeological Remains of Jam: maps and geographical data",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/211/maps/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.24: Minaret and Archaeological Remains of Jam (Afghanistan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9015",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.18: Minaret and Archaeological Remains of Jam (Afghanistan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8685",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.38: Minaret and Archaeological Remains of Jam (Afghanistan) (C 211 rev)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8507",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 27 COM 7A.21: Minaret and Archaeological Remains of Jam (Afghanistan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/574/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2003",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "State of Conservation (SOC 2026): Minaret and Archaeological Remains of Jam (French-language page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4969",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on UNESCO's French-language SOC page because the English page (whc.unesco.org/en/soc/4969) returned a fetch error. Reproduces the report summary, Secretariat/Advisory Bodies analysis and draft decision; the underlying report (submitted 31 January 2026 per the page) was not read directly.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation (SOC 2025): Minaret and Archaeological Remains of Jam (French-language page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4695",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on UNESCO's French-language SOC page because the English page returned a fetch error. The report summarised (submitted 14 February 2025 per the page) was not read directly.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "State of Conservation (SOC 2024): Minaret and Archaeological Remains of Jam",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4561",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "State of Conservation (SOC 2023): Minaret and Archaeological Remains of Jam (WHC/23/45.COM/7A.Add.3)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4311",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "State of Conservation (SOC 2021): Minaret and Archaeological Remains of Jam (WHC/21/44.COM/7A)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4034",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "State of Conservation (SOC 2018): Minaret and Archaeological Remains of Jam",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3767",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "UNESCO is mobilized for the protection of the Minaret of Jam (Afghanistan) with funding from ALIPH",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1993",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019-06-26",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Report on the State of Conservation: The Minaret and Archaeological Remains of Jam (Afghanistan)",
+      "publisher": "Ministry of Information and Culture of Afghanistan (State Party report hosted by UNESCO)",
+      "url": "https://whc.unesco.org/document/171732",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "A State Party report responding to Decision 43 COM 7A, so probably prepared in 2019. The page header shows 'May 2002', which the text itself contradicts (it describes events of 2017 and plans for 2019); the date is therefore not relied on. It is the State Party's own account.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "12th-century Afghan minaret saved from floodwaters (AFP report)",
+      "publisher": "Dawn (republishing AFP)",
+      "url": "https://www.dawn.com/news/amp/1484986",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2019-05-28",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Alarm Bells for a World Heritage Site: The Historic Minaret of Jam on the Brink of Collapse",
+      "publisher": "Hasht-e Subh (8AM Media)",
+      "url": "https://8am.media/eng/?p=45724",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single-source news article built mainly on statements by residents and cultural figures, with a quoted warning attributed to a UNAMA official that was not corroborated elsewhere in this pass; no UNESCO or official response is included. Used only as context and not as sole support for any claim of current condition.",
+      "published_date": "2025-12-18",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Restoration work begins on the Jam Minaret in Ghor",
+      "publisher": "Pajhwok Afghan News",
+      "url": "https://pajhwok.com/2026/07/15/restoration-work-begins-on-historic-jam-minaret-in-ghor/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single report relaying statements of the provincial Department of Information and Culture and an Aga Khan Trust for Culture officer; funding is not stated and the Aga Khan Trust for Culture role was not corroborated by another source.",
+      "published_date": "2026-07-15",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "In The Balance: Urgent Calls For Taliban, UNESCO To Safeguard Famed Minaret",
+      "publisher": "Radio Free Europe/Radio Liberty",
+      "url": "https://www.rferl.org/a/taliban-unesco-minaret-of-jam/31576929.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Based on Radio Azadi reporting and quotations from an archaeologist, locals and a spokesman; UNESCO had not responded to a request for comment when published. Used for the November 2021 reported situation only.",
+      "published_date": "2021-11-26",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Minaret and Archaeological Remains of Jam: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/211/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Minaret and Archaeological Remains of Jam: documents (French-language page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/list/211/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Seismic hazard assessment of the historical site of Jam in Afghanistan and stability analysis of the minaret (Menon, Lai, Macchi)",
+      "publisher": "Journal of Earthquake Engineering 8 (Special Issue 1), via University of Pavia IRIS repository record",
+      "url": "https://iris.unipv.it/handle/11571/20964",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Only the repository record and abstract were read; no full text was available there.",
+      "published_date": "2004",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Minaret in the Mountains",
+      "publisher": "Archaeology magazine (Archaeological Institute of America)",
+      "url": "https://archaeology.org/issues/september-october-2019/features/afghanistan-forgotten-islamic-empire/",
+      "source_type": "journalism",
+      "tier": 2,
+      "reliability_note": "Specialist magazine feature rather than a peer-reviewed paper. It reports Taliban/government fighting near Jam in spring 2019 on its own authority; that claim is single-source here.",
+      "published_date": "2019-09",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Periodic Report, Second Cycle, Section II: Minaret and Archaeological Remains of Jam",
+      "publisher": "Ministry of Information and Culture of Afghanistan (State Party periodic report hosted by UNESCO)",
+      "url": "https://whc.unesco.org/document/164496",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "UNESCO's documents page lists it as 2012; the text read is undated, refers to surveys of August 2010 and actions 'as at 7th June 2011', so it was probably completed around 2011. It is the State Party's own account and may be out of date.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. Danger List status checked directly: UNESCO's property page (French version) shows the property on the List of World Heritage in Danger from 2002 to present, and Decision 48 COM 7A.24 (2026) retains it. Known gaps: (1) The English-language UNESCO property page (whc.unesco.org/en/list/211/) could not be opened (the fetch request was not approved), so the French-language page was read; it gives no coordinates, which come from the maps page (N 34 23 47.1, E 64 30 57.2, component 211-001, converted to decimal). UNESCO's maps page also lists three further components without coordinates (Jewish cemetery, Arabic inscriptions, water reservoir), which this profile does not map separately. (2) The English SOC pages for 2025 and 2026 returned fetch errors (not a bot-check 403); the French-language pages were read. The underlying State Party reports (14 February 2025; 31 January 2026) were not read directly, and the decision texts were read through a summarising fetch, so quotations are paraphrase. (3) The 2007 decision 31 COM 7A.20 and the 2023 decision 45 COM 7A.52 were not opened; the 2023 draft decision text was read on the 2023 SOC page, which states it matches the adopted decision. The 2003 decision 27 COM 7A.21 was read. (4) 3D models reported by UNESCO (ICONEM 2017; AEGIS Heritage and UNESCO, 2024-2026) could not be confirmed as publicly viewable; a Sketchfab search page returned no content, so 3D documentation and virtual tour are marked false. Wikipedia was opened only to cross-check coordinates and not cited. (5) Construction date differs across sources (UNESCO's French page gives 1194; AFP and RFE/RL give 1190; Archaeology magazine gives 1174), so no construction date is stated in events. A Hyperallergic figure of 20-30% of the exterior lost (2014) was unsourced and omitted. (6) The December 2025 Hasht-e Subh report and the July 2026 Pajhwok report are single reports; the UNAMA statement and the Aga Khan Trust for Culture role were not corroborated. Pajhwok does not state funding. (7) The ICOMOS Open Archive record redirected, and the archived nomination file was rate-limited, so neither was opened; the nomination file's contents were not read. (8) Independent on-the-ground reporting since 2021 is limited; UNESCO information comes mainly through its Kabul Office and the State Party report. UNESCO's own wording ('State Party', 'major political changes of August 2021', 'Security Division 012') is used for the authorities and no further characterisation is made. (9) Gabion evidence differs by year: the 2025 analysis says new gabion walls collapsed several times, while the 2026 decision lists durable gabion flood protection as ongoing work; both are reported with their years. Images omitted by design. VERIFIER PASS (2026-10-14): re-fetched all listed sources; status and DPI tier left unchanged. Fixes: significance wording aligned to UNESCO ('one of the few well-preserved'; Qutb Minar influence wording); removed overstatement that 2002 danger-listing grounds remain current listed factors; 2018 'no conservation work since 2012' re-attributed to the Committee as recorded on the SOC page and unsupported 'works resumed from 2022' replaced with the ALIPH Phase I 2020-2025 wording; August 2021 wording corrected to the 2023 page's text (removed unsupported 'deep concern'); ALIPH news item dated 26 June 2019 (dateline 25 June); drone survey/2012 topographic map wording corrected; Decision 47 and 48 verbs corrected (noted with appreciation / commended UNESCO Kabul Office; added 2007 corrective-measures request); periodic report dating note (UNESCO lists 2012); Pajhwok event retitled and coordination wording corrected; 2026 events reordered (the 48th session reportedly opened 19 July 2026, per a search-result headline only, after the 15 July report). Not verified: exact session dates on UNESCO's own pages.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

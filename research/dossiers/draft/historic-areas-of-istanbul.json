@@ -1,0 +1,489 @@
+{
+  "slug": "historic-areas-of-istanbul",
+  "name": "Historic Areas of Istanbul",
+  "alternate_names": [
+    "Istanbul"
+  ],
+  "country": "Türkiye",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 41.0086,
+    "lng": 28.9802
+  },
+  "coordinate_note": "UNESCO's property page text read did not give coordinates. This marker is an approximate single-point reference near Hagia Sophia within the Archaeological Park component; the property comprises four separate areas and the point should be verified by the reviewer against UNESCO's map.",
+  "unesco_id": "356",
+  "inscription_year": 1985,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": "UNESCO describes this as a serial property (dossier 356bis) of four areas: the Archaeological Park, the Süleymaniye quarter, the Zeyrek area, and the Theodosian land walls with the former Blachernae Palace. This profile covers the whole inscribed property.",
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Istanbul, located between the Balkans and Anatolia and between the Black Sea and the Mediterranean, as having been associated with major political, religious and artistic events for more than 2,000 years. The inscribed property comprises four areas (the Archaeological Park, the Süleymaniye quarter, the Zeyrek area, and the Theodosian land walls with the former Blachernae Palace) covering 765.5 ha, and includes the Hippodrome of Constantine, Hagia Sophia and the Süleymaniye Mosque. UNESCO identifies its value in the blend of Byzantine and Ottoman architecture shaping the city's skyline. It is inscribed under criteria (i)-(iv).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Istanbul lies in a seismically active area of the Sea of Marmara. A peer-reviewed study (Parsons et al., Science, 2000) estimated a 62 +/- 15% probability of strong ground shaking in Istanbul over the 30 years following the study and 32 +/- 12% over the following decade; these are that study's estimates from 2000, not a current forecast. On 23 April 2025 an earthquake of preliminary magnitude 6.2 struck in the Sea of Marmara roughly 40 km south-west of Istanbul; the Associated Press reported no immediate serious damage, a partial collapse of a derelict building in Fatih district, and the article does not report damage to the district's landmarks (it notes Fatih houses the Blue Mosque and Hagia Sophia). UNESCO's 2025 state of conservation page notes that the State Party's report mentions a seismic performance analysis for Hagia Sophia with reinforcement projects being evaluated and a reinforcement project planned for the Bayezid II minaret and an Istanbul provincial disaster risk reduction plan, but does not discuss earthquakes in depth. The 2024 mission's mandate included disaster risk preparedness; in the mission report text as retrieved, earthquakes and seismic risk are not mentioned, but the retrieval was not a complete page-by-page reading so this is not conclusive. The sources reviewed document continuing exposure and some planning, not damage to the property from a seismic event.",
+      "first_identified_date": null,
+      "date_note": "Chronic seismic exposure with no single start date; the April 2025 earthquake is recorded in events[] and caused no reported damage to the property in the source reviewed.",
+      "source_ids": [
+        "src_14",
+        "src_13",
+        "src_08",
+        "src_11"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee has raised conservation and management concerns across successive sessions. (1) Timber housing: the 2024 joint mission report says vernacular (timber) housing around the major religious monuments in the Zeyrek and Süleymaniye quarters \"shows a concerning level of decay and loss\" that this housing \"has significantly declined in recent decades\" and \"is at risk of disappearing if more effective maintenance programmes are not implemented\", and that a long-term conservation strategy \"has not yet been developed\"; the State Party's 2025 report, as summarised on UNESCO's 2025 state of conservation page, describes urgent interventions on 258 registered abandoned structures in Fatih district and a strategic plan still in progress, and Decision 47 COM 7B.131 asks for regular updates. (2) Land Walls: the mission report says the condition of large portions of the Theodosian walls needs repair. (3) Hagia Sophia and Chora: the Committee has recorded regret about the lack of dialogue and information before the 2020 status changes and, in 2021, grave concern about their potential impact on the property's Outstanding Universal Value; Decision 45 COM 7B.58 noted with concern third-party reports of damage and degradation at Hagia Sophia; Decision 47 COM 7B.131 asks for a revised visitor management plan, a Master Plan, and an indoor humidity study of at least one year, and for confirmation that three Chora mosaics remain covered outside prayer times. The 2024 mission report also states it appreciated the extensive restoration works at the Chora. (4) Development projects and process: the Committee has repeatedly regretted that project documentation and Heritage Impact Assessments were submitted late or not at all (2018, 2023, 2024, 2025), asked for suspension of the Yenikapı cruise port until the Management Plan is finalised, and asked for complete Süleymaniye 2050 documentation to be reviewed before adoption. The mission report states there is no specific planning legislation in Türkiye to protect World Heritage properties. The Committee's decisions are requests and warnings; none states that attributes have been lost, and the property is not on the Danger List. The mission report describes the property's overall state of conservation as \"generally good\".",
+      "first_identified_date": null,
+      "date_note": "Chronic concerns raised by the Committee over many sessions (Decision 42 COM 7B.31 of 2018 already recalls 'long-standing concerns'); the 2020 status changes are recorded in events[]. No single start date applies.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_16"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no verified severe current damage, no active combat, the property is accessible to UNESCO/ICOMOS monitoring (a joint mission took place in June 2024 and another was requested for 2026), and protection has not collapsed. High Concern: considered and not mechanically triggered. (1) The property is not on the List of World Heritage in Danger (checked directly on UNESCO's Danger List page and the property page, 15 October 2026). (2) No specific damaging event within roughly five years, corroborated by two independent sources, was found as unrepaired physical damage: the 2025 earthquake produced no reported damage to the property in the AP report, the 2023 decision's 'third-party reports of damage and degradation at Hagia Sophia' are noted with concern but were not further documented in the sources read, and the 2020 status changes concern use and governance rather than reported structural damage. (3) No armed conflict. (4) The closest call is 'severe unresolved threat with a stated near-term timeframe from a named authority': the Committee in 2025 asked that the Yenikapı cruise port be suspended until the Management Plan is finalised and warned that non-compliance with review of the Süleymaniye 2050 project could jeopardise key attributes; but the dated items (draft roadmap by 1 February 2026, a 2026 mission, a report by 1 December 2026) are reporting and monitoring deadlines, not stated timeframes for harm, and the 2024 mission described the state of conservation as 'generally good'. (5) No significant historical damage with substantially incomplete site-wide repair was identified. Moderate Concern triggers matched: documented, chronic and monitored threats (decay and loss of timber housing, Land Walls repair needs, process and legal-framework gaps, seismic exposure) and conservation challenges described in official reports. This is a close call between Moderate and High; a reviewer may weigh the Committee's repeated regrets and the 2021 'grave concern' differently.",
+      "rationale": "Historical events are recorded in the site's timeline, but the current classification is based on present conditions and the most recent credible evidence. The most recent Committee decision (47 COM 7B.131, July 2025) and the June 2024 mission report together describe a property whose overall state of conservation is 'generally good' but which faces chronic, monitored pressures: decay and loss of timber housing without a finished long-term strategy, repair needs on large portions of the Land Walls, late or missing Heritage Impact Assessments for large projects, the absence of specific planning legislation to protect World Heritage properties (per the mission report), and continuing questions about conditions at Hagia Sophia (humidity, visitor management) and the Chora following their 2020 status changes. The Committee has recorded regret and, in 2021, grave concern, and has asked for suspension of a cruise-port project and review of the Süleymaniye 2050 documentation; it has not inscribed the property on the Danger List and its decisions are requests with reporting dates. Earthquake exposure is a long-term hazard; the April 2025 earthquake caused no reported damage to the property in the source reviewed, and the State Party reports seismic analysis and reinforcement planning for Hagia Sophia. Confidence is Supported rather than Confirmed: the main facts are drawn from UNESCO decisions, a joint UNESCO/ICOMOS mission report and State Party reporting, but the mission report was not read in full, no 2026 Committee decision on this property was found (the next report is due 1 December 2026 for the 49th session), the outcomes of the 2026 roadmap, mission and Management Plan revision were not verified, and the Moderate/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_05",
+        "src_08",
+        "src_11",
+        "src_13",
+        "src_14"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly viewable evidence, which meets the moderate tier (2-3 categories). Coverage is uneven: the scholarly literature found documents Hagia Sophia's subterranean structures by terrestrial laser scanning, but no publicly viewable 3D model was found, so 3D documentation is marked false; a publicly viewable official virtual tour was not verified (a commercial, non-official site presenting 360-degree views was seen but is not treated as evidence), so virtual tour is marked false. Evidence is concentrated on Hagia Sophia and not site-wide across the four component areas. The tier reflects what was publicly findable in this pass, not necessarily what exists in unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (39 images in the full gallery, including Hagia Sophia mosaics, the Süleymaniye Mosque, Sultanahmet Mosque, and timber houses in Zeyrek).",
+        "url": "https://whc.unesco.org/en/list/356/gallery/",
+        "source_id": "src_18"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists publicly downloadable records including ICOMOS evaluations (1985, 2017), the 2017 minor boundary modification nomination, maps, Periodic Reporting sections, advisory and reactive monitoring mission reports (e.g. the June 2024 joint mission report, document 220840) and State Party report summaries.",
+        "url": "https://whc.unesco.org/en/list/356/documents",
+        "source_id": "src_17"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "A scholarly article presenting a preliminary evaluation of a terrestrial laser scanning survey of Hagia Sophia's subterranean structures (fieldwork June-July 2020, per the article's acknowledgements).",
+        "url": "https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2021-0014/html",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "A 2023 study by H. F. Diker presenting digital documentation (terrestrial laser scanning point cloud, 2020 survey; more detailed hypogeum documentation in 2022) of Hagia Sophia's subterranean structures.",
+        "url": "https://ejournals.epublishing.ekt.gr/index.php/ta/article/view/36068",
+        "source_id": "src_20"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1985",
+      "title": "Inscribed on the World Heritage List",
+      "description": "UNESCO records the inscription year as 1985 under criteria (i), (ii), (iii) and (iv).",
+      "event_type": "other",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2017",
+      "title": "Minor boundary modification inscribed",
+      "description": "UNESCO's property page notes a minor boundary modification inscribed in 2017 (UNESCO's documents page lists Committee decision 41 COM 8B.48 and nomination 356bis).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2020-07-10",
+      "title": "Hagia Sophia's museum status is annulled and the building is transferred to the Presidency of Religious Affairs",
+      "description": "The Associated Press reported that Turkey's high administrative court annulled the 1934 Cabinet decision that had made Hagia Sophia a museum and that President Erdogan then signed a decree transferring it to the Religious Affairs Presidency. UNESCO's statement of the same day said: \"It is regrettable that the Turkish decision was made without any form of dialogue or prior notice,\" called on the Turkish authorities to \"initiate dialogue without delay,\" and said the property's state of conservation would be examined by the World Heritage Committee at its next session. UNESCO's 2021 state of conservation page records that the World Heritage Centre had written to Türkiye on 9 and 18 June 2020.",
+      "event_type": "political",
+      "source_ids": [
+        "src_15",
+        "src_07",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2020-08",
+      "title": "Chora Museum's museum status is revoked",
+      "description": "UNESCO's 2021 state of conservation page records that the Chora Museum's museum status was revoked by presidential decree in late August 2020. EWTN News gives the date of the decree as 21 August 2020.",
+      "event_type": "political",
+      "source_ids": [
+        "src_10",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2020-10",
+      "title": "First UNESCO Advisory mission on the status changes (a second followed 29 January-3 February 2021)",
+      "description": "UNESCO's documents page lists an Advisory mission of 5-9 October 2020 and a second of 29 January-3 February 2021. The 2021 state of conservation page summarises their findings, including recommendations for an international seminar on mosaic and fresco conservation and Master Plans for the Hagia Sophia and Chora areas.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "World Heritage Committee decision 44 COM 7B.58",
+      "description": "At its extended 44th session the Committee, in the wording of the decision, \"deeply regrets the lack of dialogue and information\" before the Hagia Sophia and Chora Museum status changes, expressed \"grave concern\" about their potential impact on the property's Outstanding Universal Value, and called on Türkiye to engage in international cooperation and dialogue before any further major changes. It also asked for a roadmap and impact assessments for large projects, and an updated report by 1 February 2022.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7B.58",
+      "description": "The Committee welcomed timber-house repair and the inventory digitisation and condition survey, regretted that documentation on many projects was not submitted in time and that some lacked a Heritage Impact Assessment, noted with concern third-party reports of damage and degradation at Hagia Sophia and asked for updates, and called for a joint Reactive Monitoring mission.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024-05-06",
+      "title": "Chora reopens for worship as a mosque",
+      "description": "UNESCO's 2024 state of conservation page records that the Chora reopened as a mosque on 6 May 2024 after about four years of restoration, and that the World Heritage Centre learned of this through the media. EWTN News reported that mosaics and paintings are covered by curtains in worship areas.",
+      "event_type": "other",
+      "source_ids": [
+        "src_09",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2024-06-24",
+      "title": "Joint World Heritage Centre/ICOMOS Reactive Monitoring mission",
+      "description": "The mission took place 24-27 June 2024. UNESCO's documents page lists its report (document 220840) under 2025; the report states that \"The state of conservation of the property is generally good\" and that vernacular (timber) housing around the major religious monuments \"shows a concerning level of decay and loss\".",
+      "event_type": "other",
+      "source_ids": [
+        "src_09",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2024-07",
+      "title": "World Heritage Committee decision 46 COM 7B.16",
+      "description": "At its 46th session (New Delhi) the Committee regretted that Hagia Sophia works (ticket office, entrance tunnel, ramps) were reported without technical details or Heritage Impact Assessments, regretted the lack of information before the Chora's change of status, requested Heritage Impact Assessments for the Yenikapı Cruise Port and a Basketball Development Centre, and asked for a comprehensive roadmap and an updated report by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025-04-23",
+      "title": "Magnitude 6.2 earthquake in the Sea of Marmara",
+      "description": "The Associated Press reported a preliminary magnitude 6.2 earthquake about 40 km south-west of Istanbul (per the USGS) with no immediate reports of serious damage; a derelict former residential building partly collapsed in Fatih district, and 151 people were reported injured jumping from heights. The article does not report damage to Hagia Sophia or the Blue Mosque.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "World Heritage Committee decision 47 COM 7B.131",
+      "description": "At its 47th session (6-16 July 2025) the Committee, among other points, was concerned that key processes are \"not being systematically followed,\" urged comprehensive national heritage legislation, asked for complete Süleymaniye 2050 documentation before adoption (warning that non-compliance could jeopardise key attributes), asked for suspension of the Yenikapı cruise port until the Management Plan is finalised, requested a draft roadmap by 1 February 2026, a joint Reactive Monitoring mission in 2026, and an updated report by 1 December 2026 for the 49th session.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_08"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Historic Areas of Istanbul",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/356/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "The List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on the access date: the page lists 58 properties (59 country entries because Mount Nimba is transboundary) and has no entry for Türkiye. A Danger List can change at each Committee session.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7B.131: Historic Areas of Istanbul (Türkiye)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8855",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7B.16: Historic Areas of Istanbul (Türkiye)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8542",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7B.58: Historic Areas of Istanbul (Türkiye)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8336",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 44 COM 7B.58: Historic Areas of Istanbul (Türkiye)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7775",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 42 COM 7B.31: Historic Areas of Istanbul (Türkiye)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7260",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "UNESCO statement on Hagia Sophia, Istanbul (news item dated 10 July 2020)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2156",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2020-07-10",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "State of conservation: Historic Areas of Istanbul, 2025 (French-language page URL; content read in English)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4718",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The English-language URL (whc.unesco.org/en/soc/4718) could not be fetched; the French-language URL for the same SOC record was read instead. Includes the State Party's report summary and the draft/adopted decision text.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "State of conservation: Historic Areas of Istanbul, 2024",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4594",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "State of conservation: Historic Areas of Istanbul, 2021",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4106",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Report on the joint World Heritage Centre/ICOMOS Reactive Monitoring mission to Historic Areas of Istanbul (mission 24-27 June 2024)",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/220840",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The report text was read through a fetch tool that returned extracted passages; a search of that text found no mention of earthquakes or seismic risk, but the mission's mandate does include disaster risk preparedness, and a complete page-by-page reading was not possible, so the absence is not conclusive. UNESCO's documents page lists the report only under 2025 (no exact publication date); the report refers to media reports of August 2024, so it was finalised after that month.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "State Party state of conservation report (document 219175; dated 2024 on its face, listed under 2025 on UNESCO's documents page)",
+      "publisher": "UNESCO World Heritage Centre (summary of State Party report)",
+      "url": "https://whc.unesco.org/document/219175",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Self-reported by the State Party and not independently verified. The document's own text is dated 2024 and responds to Decision 46 COM 7B.16 (it says projects for 258 derelict civil-architecture examples were completed, without naming Fatih); the Fatih figure of 258 comes from the 2025 state of conservation page (src_08). Used here only as background.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Earthquake of magnitude 6.2 strikes near Istanbul (Associated Press report)",
+      "publisher": "Associated Press, via NBC New York",
+      "url": "https://www.nbcnewyork.com/news/national-international/earthquake-turkey-instanbul-62-magnitude-strikes-coast/6235302/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Early report with preliminary magnitude; used only for the date and the reported absence of serious damage on that day, not for later damage assessments.",
+      "published_date": "2025-04-23",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Heightened odds of large earthquakes near Istanbul: an interaction-based probability calculation (Parsons, Toda, Stein, Barka, Dieterich), Science 288(5466): 661-665",
+      "publisher": "Science (via USGS Publications Warehouse record)",
+      "url": "https://pubs.usgs.gov/publication/70022614",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Published in 2000; the probabilities are that study's estimates for the periods following 2000 and are not a current forecast. More recent hazard studies were not reviewed.",
+      "published_date": "2000",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Turkish court rules to let Hagia Sophia return as mosque (Associated Press report)",
+      "publisher": "Associated Press, via Spectrum News 13",
+      "url": "https://mynews13.com/fl/orlando/ap-top-news/2020/07/10/turkish-court-rules-to-let-hagia-sophia-return-as-mosque",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2020-07-10",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Former Byzantine church converted to a mosque in Istanbul is reopened",
+      "publisher": "EWTN News (adapted from ACI Mena; reporter Nathalie Ritzmann)",
+      "url": "https://www.ewtnnews.com/world/europe/former-byzantine-church-converted-to-a-mosque-in-istanbul-is-reopened",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Religious-media outlet; used only for the 6 May 2024 reopening and the August 2020 decree, both also recorded in UNESCO's state of conservation pages (src_09, src_10). Page shows first publication 9 May 2024, updated 26 September 2025.",
+      "published_date": "2024-05-09",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Historic Areas of Istanbul: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/356/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Historic Areas of Istanbul: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/356/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Preliminary Evaluation of the Terrestrial Laser Scanning Survey of the Subterranean Structures at Hagia Sophia",
+      "publisher": "De Gruyter (journal volume 50, no. 2, 2021; journal title and authors not stated in the page text read)",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2021-0014/html",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Author list and journal name were not visible in the text read; identified by title, DOI and publisher page only.",
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Digital documentation of three largest subterranean structures of Hagia Sophia: The passage under the esonarthex, the vaults under the atrium and the hypogeum (H. F. Diker)",
+      "publisher": "ejournals.epublishing.ekt.gr (journal name not stated in page text read)",
+      "url": "https://ejournals.epublishing.ekt.gr/index.php/ta/article/view/36068",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Journal title was not visible in the text read; identified by author, title and publisher page.",
+      "published_date": "2023-07-28",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; Digital Preservation tier Moderate; close call vs High Concern flagged in decision_trigger. Not on the UNESCO Danger List (checked directly on the Danger List page). The Committee's formal reaction to the 2020 Hagia Sophia and Chora status changes is Decision 44 COM 7B.58 (2021), preceded by UNESCO's statement of 10 July 2020; the decision texts were read as summaries and only short phrases are quoted. Known gaps (not included because not verified): (1) No 2026 Committee decision, 2026 mission report, 2026 roadmap or Management Plan outcome was found; the property's documents page lists no 2026 items and UNESCO's SOC page lists reports only to 2025. (2) The June 2024 mission report was only partly read, and its findings on earthquake and disaster-risk preparedness were not read. (3) Hagia Sophia entry-fee changes and the exact current visitor arrangements were not verified from an authoritative source and are omitted. (4) Yenikapı, Haydarpaşa and the Golden Horn: Yenikapı cruise port is covered via Committee decisions; Haydarpaşa and Golden Horn specifics were not found in the decisions read (Decision 42 COM 7B.31 does not mention them) and are omitted. (5) No publicly viewable 3D model or verified official virtual tour found; DPI categories marked false accordingly. (6) The English SOC 2025 URL failed; the French-language URL for the same record was read. (7) UNESCO property page did not give coordinates; coordinates are approximate and need reviewer verification. (8) Seismic probabilities come from a 2000 study and were not updated with newer hazard assessments. (9) A web-search budget limit was reached before additional 3D/virtual-tour searches could be run. Images omitted by design. VERIFIER (2026-10-15): fixed 15 items: corrected significance wording to UNESCO's 'between the Balkans and Anatolia, the Black Sea and the Mediterranean'; 2021 'grave concern' now attributed to potential impact on OUV, not to lack of dialogue; 47 COM quote corrected ('key processes ... not being systematically followed'; 'national heritage legislation'); 45 COM 'damage and degradation'; src_12 re-identified (document is dated 2024, does not name Fatih) and removed from the 46 COM event; earthquake/Bayezid II minaret and mission-report earthquake wording corrected; AP article described as not reporting landmark damage rather than reporting none; mission-report timber housing wording aligned to 'around the major religious monuments' in Zeyrek and Süleymaniye. Not verified: 47th session dates (6-16 July 2025), coordinates, no 2026 outcomes. SECOND VERIFIER (2026-10-15, independent re-check of all 21 sources): fixed 6 items: removed the unverified '15 May 2025' publication date of the June 2024 mission report (UNESCO lists it only under 2025); updated the mission-report earthquake caveat; corrected the 2023 quote in decision_trigger to 'damage and degradation'; added the mission report's own 'at risk of disappearing' wording on timber housing for balance; removed a duplicated 2023 clause from the src_19 DPI description. Verified against sources: all decision contents and deadlines (44, 45, 46, 47 COM), 2020 statement quotes, Danger List (58 properties, no Turkiye), AP details, USGS probabilities, 258 structures (Fatih, 2025 SOC), EWTN 21 Aug 2020 decree, DPI evidence. Not verified: coordinates, 6-16 July 2025 session dates beyond the SOC page link, no 2026 outcomes.",
+      "changed_by": "claude"
+    }
+  ]
+}

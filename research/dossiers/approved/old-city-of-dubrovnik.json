@@ -1,0 +1,532 @@
+{
+  "slug": "old-city-of-dubrovnik",
+  "name": "Old City of Dubrovnik",
+  "alternate_names": [
+    "Dubrovnik",
+    "Dubrovnik Old Town",
+    "Stari grad Dubrovnik"
+  ],
+  "country": "Croatia",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 42.6414,
+    "lng": 18.1089
+  },
+  "coordinate_note": "Converted from the centre-point coordinates for the 'Old City of Dubrovnik' component on UNESCO's maps page (N42 38 29.1, E18 06 31.9; 24.7 ha). UNESCO lists a second component, Lokrum Island (N42 37 44.2, E18 07 05.0; 72 ha), so the two components sum to 96.7 ha; the 1,188.6 ha buffer zone is listed for the Old City component. This marker is a practical single-point reference for the Old City only.",
+  "unesco_id": "95",
+  "inscription_year": 1979,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Dubrovnik as a Mediterranean sea power from the 13th century that kept its Gothic, Renaissance and Baroque churches, monasteries, palaces and fountains despite severe earthquake damage in 1667. UNESCO also notes it was damaged again in the 1990s during armed conflict and became the focus of a UNESCO-coordinated restoration programme. It was inscribed in 1979 under cultural criteria (i), (iii) and (iv); UNESCO's property page lists a boundary modification in 1994 and a minor boundary modification inscribed in 2018.",
+  "metadata_sources": [
+    "src_00",
+    "src_22"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The documented pressures are management and visitor-related rather than acute damage. (1) Tourism and carrying capacity: the 2024 periodic report submitted by the State Party (Cycle 3, Section II) includes the comment 'High level of visitation is the major impact factor' (the sentence is left unfinished in the report); the Cycle 3 text does not itself tag tourism impacts as current or negative. The joint UNESCO/ICOMOS mission of November 2015 reported approximately one million cruise tourists a year, peak days of 8,000 visitors (up to 10,000 on some days), and recommended that daily cruise visitors 'should not exceed 8,000 tourists per day'. Since then the city has introduced measures: Reuters reported in August 2018 that the city's 2017 'Respect the City' plan aimed to limit cruise visitors in the Old Town to 4,000 at any given moment, and a European Commission page (undated) says the city 'limits the number of daily cruise visitors to 4,500 or two ships at a time'. The figures given by different sources are 8,000 cruise visitors per day (2015 mission recommendation), 4,000 cruise visitors at any one moment (2018 plan aim), 4,500 daily cruise visitors or two ships (undated EC page, wording ambiguous) and, reportedly, 8,000 people in the Old Town at one time (2025 Interreg summary). They appear to measure different things (per day versus at one moment; cruise visitors versus all visitors) and none of the sources explains how they relate, so this dossier does not treat any one of them as the current enforced limit. A 2025 article by the Interreg Europe TIB project summarising a presentation by Dr Tina Segota (University of Maribor) reportedly states that cameras at the city gates have tracked visitor numbers since 2017 (reportedly enforcing a cap of 8,000 people in the Old Town at one time) and that more than half of the Old Town population has left in recent years; that article is a secondary summary and its figures were not independently verified. (2) Planning documents still outstanding: in decisions 44 COM 7B.42 (2021) and 45 COM 7B.180 (2023) the Committee asked for a Conservation Plan for the Historic Core and a sustainable tourism and carrying capacity study, and in decision 47 COM 7B.102 (2025) the Committee reiterated its request for the forthcoming Conservation Plan and the Strategy for Integrated Sustainable Tourism Management, asked for the final draft of the Preparedness and Risk Management Plan before adoption, and encouraged submission of the final two-phased Carrying Capacity Assessment. The UNESCO document WHC/25/47.COM/7B.Add.2.Corr.2 states that the first phase of the Carrying Capacity Assessment is complete and that Conservation Plan preparation began in September 2023 with completion expected by March 2026; whether that plan has since been submitted was not established. (3) Physical fabric and projects: the Committee acknowledged ongoing cleaning and restoration of the sewage channels (2025). In 2016 (40 COM 7B.50) the Committee expressed concern about inappropriate conservation works on all parts of the City Walls, following the 2015 mission's finding that new pointing and capping used cement rather than lime mortar; in 2018 (42 COM 7B.20) it noted positive steps, including an action plan for repairing the inappropriate interventions to the walls. The 2025 decision requests updates on an airport bypass road and a structure in the buffer zone, the Pustijerna archaeological site and the Bosanka 2 project, which UNESCO's document describes as on hold with no change since 2022. The sources read for this pass do not show the current state of the City Walls repairs. The 2025 decision and its working document do not describe any acute damage event.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year concerns raised across successive Committee decisions. The earliest dated item in this dossier is the UNESCO/ICOMOS mission of 27 October to 1 November 2015; no single start date is claimed.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_12",
+        "src_16",
+        "src_17",
+        "src_18"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Earthquake exposure is documented as a background hazard, not as a current unresolved problem. The 2015 UNESCO/ICOMOS mission report says strong earthquakes occurred in 1979, 1994 and 1995 and that strong earthquakes are expected on average about every 28 years; it found restored monuments had been made earthquake-resistant but recommended a Risk-Preparedness Action Plan including evacuation procedures. UNESCO's 2025 working document marks the September 1996 earthquake as resolved and reports no new physical damage, while the Committee noted progress on the Preparedness and Risk Management Plan. In the State Party's periodic report, earthquake is tagged 'Potential, Negative' only in the earlier Cycle 2 answers (3 October 2014); the Cycle 3 text shows no selection for it but lists anti-seismic strengthening of historic buildings in the core zone as an ongoing management action. Academic work documents building-level vulnerability: a 2023 open-access study in Buildings (Uzair et al.) of the 18th-century Jesuit College found that retrofitting is needed in several zones, with out-of-plane bending of vulnerable walls at low peak ground acceleration; this is one building, not the whole property. A Bauhaus-Universitat Weimar-led project (SeisRICHerCRO, 2021-2025) reports an urban-scale seismic-risk assessment of the Old City with a higher-risk zone in the middle of the city linked to soil conditions. No earthquake damage to the property since 1996 was found in the sources read.",
+      "first_identified_date": null,
+      "date_note": "Chronic seismic exposure; the dated earthquakes cited (1979, 1994, 1995, September 1996) are historical and are not treated as a current damage event.",
+      "source_ids": [
+        "src_03",
+        "src_08",
+        "src_12",
+        "src_13",
+        "src_19",
+        "src_20",
+        "src_02"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Evidence is limited. The State Party's 2024 periodic report (Cycle 3) states that occasional heavy rainfall events have a negative impact, being addressed through sewerage restoration. Storms and wildfire appear as 'Potential, Negative' (outside the property) only in the earlier Cycle 2 answers of 3 October 2014; the Cycle 3 text shows no selection for them but lists a disaster risk management plan for cultural heritage as a management action. The sources read do not attribute any of these to climate change or document damage from them, and no climate-change assessment of the property was found; UNESCO's 2025 working document, as read, does not address climate. This category is included because documented hazards exist (heavy rainfall impacts reported; storms and wildfire only as potential hazards in 2014 answers), and carries low weight in the status.",
+      "first_identified_date": null,
+      "date_note": "Hazards listed in the 2014 and 2024 periodic reports; no start date applies.",
+      "source_ids": [
+        "src_12",
+        "src_03"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no active combat, no extended loss of monitoring access, no collapse of protection, and no severe verified current damage was found. High Concern: considered and not triggered. (1) The property is not on the List of World Heritage in Danger; UNESCO's danger-list page, opened 2026-10-14, lists 58 properties and Dubrovnik is not among them (it was on the list from 1991 to 1998). (2) No specific damaging event within roughly the last five years, corroborated by two independent sources and still unrepaired, was found. (3) No armed conflict affects the site. (4) No named authority was found stating a severe unresolved threat with a near-term timeframe: the 2025 Committee decision requests documents and an updated report by 1 December 2026, which is a reporting deadline, and the sources read do not contain danger-listing language for Dubrovnik. (5) The significant historical damage (1991-92) was addressed by a UNESCO-coordinated restoration programme and the Committee removed the property from the Danger List in 1998; the sources read do not show substantially incomplete site-wide repair. Moderate triggers matched: credible documented chronic and monitored threats (visitor pressure and carrying capacity, still-outstanding Conservation Plan and tourism strategy, risk-preparedness planning, background earthquake exposure) recorded in official reports, plus conservation challenges typical of an old city. Closest neighbour: Safe is not available because credible documented threats exist in official reports and the Committee is still asking for core management documents; High Concern is the neighbour on the upside if the City Walls repairs or the Bosanka and bypass projects were found to be unresolved and damaging, but the evidence read does not show that. This is a clear Moderate call rather than a close one, with the main uncertainty being gaps in current evidence (see changelog).",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 6 December 1991 shelling, found by the ICTY Trial Chamber to have caused damage to 52 of 116 specified buildings and structures in the Old Town (six destroyed), and the 1991-1998 Danger List period belong in the timeline. The present picture is of a heavily visited, actively managed World Heritage property. The Committee's 2025 decision (47 COM 7B.102) welcomes the State Party's commitment and acknowledges progress in management systems, sustainability and public awareness, while still asking for outstanding documents (Conservation Plan, tourism strategy, final Carrying Capacity Assessment, risk plan) and project updates. The State Party's own 2024 periodic report names high visitor numbers as the major impact factor and concludes that authenticity and integrity are preserved and Outstanding Universal Value maintained. Visitor management measures exist (city-gate counting, cruise limits, Respect the City), but sources differ on the cruise cap and the Committee has not said they are sufficient. Seismic exposure is documented by academic studies but UNESCO marks the 1996 earthquake as resolved. These are chronic, monitored pressures rather than an acute emergency, which is what Moderate Concern describes. Confidence is Supported rather than Confirmed: the Committee decision and UNESCO working document corroborate each other, but the 2026 state-of-conservation position is unknown (no 2026 Dubrovnik decision was found, the next report is due 1 December 2026), visitor and cruise figures come from sources of varying date and scope, and the current condition of the City Walls was not established. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_08",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_16",
+        "src_17",
+        "src_19",
+        "src_20",
+        "src_23"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 2 review summary, agreeing with the recommended status and confidence. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of five categories have publicly viewable evidence that was opened in this pass, which gives the moderate tier. Photographic: UNESCO's gallery (institutional photos). Academic: open-access peer-reviewed work and a university-led research project on the Old City's seismic risk. Not marked: archival_records (UNESCO's documents page lists maps, ICOMOS evaluations and mission reports, but those are UNESCO's own reporting documents rather than a digitised archive of the site; the State Archives in Dubrovnik hold records of the Dubrovnik Republic, but public digitised access was not confirmed), 3d_documentation (no viewable 3D model of the Old City was found), and virtual_tour (only a single third-party 360-degree panorama of the Rector's Palace was seen, which is not a tour of the property and is not counted). Coverage may be higher than found; this reflects what was publicly findable in this pass.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a public photo gallery for the property (three pages in its standard view), with images credited to Tim Schnarr (Limes.Media) and Francesco Bandarin (UNESCO).",
+        "url": "https://whc.unesco.org/en/list/95/gallery/",
+        "source_id": "src_21"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Open-access, peer-reviewed study 'Seismic Performance Assessment of the 18th Century Jesuit College in Dubrovnik's Old City' (Uzair et al., Buildings, 2023), plus the SeisRICHerCRO research project page listing journal articles, conference papers and theses on the Old City's seismic risk.",
+        "url": "https://www.mdpi.com/2075-5309/13/8/1904",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Project page for SeisRICHerCRO (Bauhaus-Universitat Weimar, funded by the Croatian Science Foundation, 2021-2025) describing an urban-scale seismic-risk assessment of the Old City and listing its published outputs.",
+        "url": "https://www.uni-weimar.de/en/civil-and-environmental-engineering/chairs/advanced-structures/research/finished-projects/seisrichercro/",
+        "source_id": "src_20"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1991",
+      "title": "Old City of Dubrovnik placed on the List of World Heritage in Danger",
+      "description": "At its 15th session (decision 15 COM XV.F) the Committee inscribed the property on the Danger List, citing a 'state of exceptional emergency caused by the armed conflict'. The exact session date within 1991 was not retrieved.",
+      "event_type": "political",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "1991-12-06",
+      "title": "Shelling of the Old Town of Dubrovnik",
+      "description": "The ICTY Trial Chamber in the Strugar case found that the Old Town was subjected to extensive, deliberate and indiscriminate shelling by JNA forces on 6 December 1991, from about 5:50 a.m. until a little after 4:30 p.m., with no military objectives there targeted. Of 116 specified buildings and structures, 52 were damaged and six of those destroyed. The Chamber noted the Old Town had been entered on the World Heritage List in its entirety in 1979.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "1996-09",
+      "title": "Earthquake affects Dubrovnik",
+      "description": "UNESCO's state-of-conservation page lists an earthquake of September 1996 among factors identified in previous reports, marked as resolved, and records a UNESCO fact-finding mission in November 1996. Separately, the page records a postwar major restoration programme coordinated by UNESCO totalling USD 80 million (not specifically linked to the earthquake). The sources read do not give damage details for the 1996 earthquake.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_13",
+        "src_03"
+      ]
+    },
+    {
+      "date": "1998-12-01",
+      "title": "Property removed from the List of World Heritage in Danger",
+      "description": "At the 22nd session (decision 22 COM VIII.2), announced in Kyoto, the Committee deleted the Old City of Dubrovnik from the Danger List. UNESCO's decisions page records that Croatia had submitted a substantive state-of-conservation report and that ICOMOS had given positive advice on the restoration works; UNESCO's news item cites the success of measures for restoration and preservation, and says the Croatian government had restored cloister facades, repaired roofs and rebuilt palaces, with a UNESCO contribution of US$300,000.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_10",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2005-01-31",
+      "title": "ICTY Trial Chamber judgement in Prosecutor v. Strugar",
+      "description": "The Trial Chamber found Pavle Strugar guilty under Article 7(3) of two counts, attacks on civilians and destruction or wilful damage done to institutions dedicated to religion, charity and education (as the ICTY information sheet words it), and sentenced him to 8 years' imprisonment. It found he was not guilty of ordering or aiding and abetting the shelling; he was held liable as a superior under Article 7(3).",
+      "event_type": "other",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2008-07-17",
+      "title": "ICTY Appeals Chamber judgement in Strugar",
+      "description": "The Appeals Chamber accepted two Prosecution grounds and entered new convictions for devastation not justified by military necessity and unlawful attacks on civilian objects, dismissed several of Strugar's arguments and his fifth ground of appeal, and reduced the sentence to seven and a half years, citing his deteriorating health, per the ICTY case information sheet.",
+      "event_type": "other",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2015-10-27/2015-11-01",
+      "title": "Joint UNESCO/ICOMOS reactive monitoring mission",
+      "description": "The mission (report dated November 2015) reported approximately one million cruise tourists a year, peak days of 8,000 visitors, cement used in new pointing and capping on the City Walls contrary to best practice, cracks in the base of the Orlando Column, an urgent need for sewer repairs, no Management Plan yet in place, and strong earthquakes expected on average about every 28 years. It recommended that daily cruise visitors not exceed 8,000 and that the Bosanka 2 project not proceed.",
+      "event_type": "other",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2016",
+      "title": "World Heritage Committee decision 40 COM 7B.50 on Dubrovnik",
+      "description": "The Committee expressed concern about inappropriate conservation works on all parts of the City Walls and asked Croatia to repair damage, develop best-practice guidelines and monitor the walls. It endorsed the 2015 mission recommendations, including a management plan with a tourism strategy, cruise ship regulations and carrying-capacity assessment, and asked that the Bosanka 2 project and the Lazaretto quay not proceed. It judged that the Mount Srd and Bosanka resort proposals, could have an acceptable impact on Outstanding Universal Value, subject to design refinements and conditions.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7B.180 on Dubrovnik",
+      "description": "At its extended 45th session the Committee welcomed completion of the Buffer Zone part of the Conservation Plan and the property's Management Plan, asked for a Conservation Plan for the Historic Core, a Sustainable Tourism Development and Carrying Capacity study, a Disaster Risk Management Plan and an Interpretation Strategy, and noted reported actions under memoranda of understanding with the Cruise Lines International Association and the Global Sustainable Tourism Council.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "World Heritage Committee decision 47 COM 7B.102 on Dubrovnik",
+      "description": "At its 47th session (6-16 July 2025, per UNESCO's working document) the Committee welcomed the State Party's commitment, noted progress, reiterated its request for the Conservation Plan and the Strategy for Integrated Sustainable Tourism Management, requested the final draft of the Preparedness and Risk Management Plan before adoption, acknowledged ongoing sewage-channel restoration, requested updates on the airport bypass, Pustijerna and Bosanka 2, and asked for an updated state-of-conservation report by 1 December 2026 for the 49th session. The decision text as read does not warn of danger listing.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Retrospective Statement of Outstanding Universal Value adopted",
+      "description": "In decision 48 COM 8E (2026) the Committee adopted retrospective Statements of Outstanding Universal Value for four properties, including the Old City of Dubrovnik. No Dubrovnik state-of-conservation decision for 2026 appears on UNESCO's documents page for the property.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_15",
+        "src_23"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Old City of Dubrovnik",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/95/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page is undated; it showed 58 properties. Opened 2026-10-14; Dubrovnik/Croatia does not appear.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7B.102: Old City of Dubrovnik (Croatia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8826",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "State of conservation of properties inscribed on the World Heritage List: Corrigendum 2, Old City of Dubrovnik section (WHC/25/47.COM/7B.Add.2.Corr.2)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/221465",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Identified as Corrigendum 2 to WHC/25/47.COM/7B.Add.2, dated 4 July 2025, a state-of-conservation document (not an advisory working document).",
+      "published_date": "2025-07-04",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7B.180: Old City of Dubrovnik (Croatia) (C 95ter)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8120/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 44 COM 7B.42: Old City of Dubrovnik (Croatia) (C 95ter)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7760/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 42 COM 7B.20: Old City of Dubrovnik (Croatia) (C 95bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7249/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 40 COM 7B.50: Old City of Dubrovnik (Croatia) (C 95bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6715",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Report on the UNESCO-ICOMOS Reactive Monitoring Mission to Old City of Dubrovnik, Croatia, from 27 October to 1 November 2015",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/141053",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Dated November 2015; figures and findings are as of 2015 and may no longer describe current conditions.",
+      "published_date": "2015-11",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Decision 15 COM XV.F: Inscription of the Old City of Dubrovnik on the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/3546/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "1991",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Decision 22 COM VIII.2: Removals from the List of World Heritage in Danger: Old City of Dubrovnik (Croatia) & Wieliczka Salt Mines (Poland)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1235/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "1998",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "World Heritage Committee Removes Old City of Dubrovnik and Wieliczka Salt Mine from its List of Endangered Sites",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/147",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "1998-12-01",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Old City of Dubrovnik: Periodic Reporting Cycle 3, Section II (State Party report)",
+      "publisher": "UNESCO World Heritage Centre (report submitted by the State Party, Croatia)",
+      "url": "https://whc.unesco.org/document/216101",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Hosted by UNESCO but authored by the State Party; its statements (including that authenticity, integrity and OUV are preserved) are the State Party's own assessment, not the Committee's. The document itself states no date; UNESCO's documents page lists it as Periodic Reporting 2024. Several hazard tags on the page (tourism, storms, earthquake, wildfire) are Cycle 2 answers dated 3 October 2014; Cycle 3 shows no selected tags for them.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Old City of Dubrovnik: State of conservation (Decision 44 COM 7B.42 summary page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4096",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page summarises the 2021 decision; its factors and timeline entries for earlier years are as listed there.",
+      "published_date": "2021",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Case Information Sheet: Pavle Strugar (IT-01-42), 'Shelling of Dubrovnik'",
+      "publisher": "International Criminal Tribunal for the former Yugoslavia (ICTY)",
+      "url": "https://icty.org/x/cases/strugar/cis/en/cis_strugar_en.pdf",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Summary document of the tribunal; the written judgments themselves were not read in full in this pass.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Decision 48 COM 8E: Adoption of retrospective Statements of Outstanding Universal Value",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9210",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Concerns four properties; it says nothing about the state of conservation of Dubrovnik.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Croatia's Adriatic gem limits number of tourists to fight overcrowding (Reuters report)",
+      "publisher": "Euronews (republishing Reuters)",
+      "url": "https://www.euronews.com/2018/08/04/croatias-adriatic-gem-limits-number-of-tourists-to-fight-overcrowding",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Published 4 August 2018; figures are as of 2018. The report's separate statement that UNESCO warned in 2017 was not checked against UNESCO records and is not used.",
+      "published_date": "2018-08-04",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Dubrovnik: 2026 European Green Pioneer of Smart Tourism",
+      "publisher": "European Commission (Smart Tourism Capital initiative)",
+      "url": "https://smart-tourism-capital.ec.europa.eu/winners-and-finalists/cities-2026/dubrovnik-2026-european-green-pioneer-smart-tourism_en",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Promotional award page describing the city's own measures; the cruise cap is not dated on the page.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Managing Dubrovnik's tourism: insights from Dr Tina Segota",
+      "publisher": "Interreg Europe, Tourism in Balance (TIB) project",
+      "url": "https://www.interregeurope.eu/tib/news-and-events/news/managing-dubrovniks-tourism-insights-from-dr-tina-segota",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Secondary summary of a workshop presentation with no independent citation for its figures. One figure in it (over 9 million overnight stays a year) conflicts in scale with other figures seen and is not used. Corroboration only; not sole support for any claim.",
+      "published_date": "2025-02-14",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Seismic Performance Assessment of the 18th Century Jesuit College in Dubrovnik's Old City",
+      "publisher": "Buildings (MDPI), Uzair, Abrahamczyk, Vrban and Penava",
+      "url": "https://www.mdpi.com/2075-5309/13/8/1904",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2023-07-26",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_20",
+      "title": "SeisRICHerCRO: Seismic Risk Assessment of Cultural Heritage in Croatia",
+      "publisher": "Bauhaus-Universitat Weimar, Chair of Advanced Structures",
+      "url": "https://www.uni-weimar.de/en/civil-and-environmental-engineering/chairs/advanced-structures/research/finished-projects/seisrichercro/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Project description page; individual outputs were not opened.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Old City of Dubrovnik: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/95/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Old City of Dubrovnik: maps and geographical data",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/95/maps",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Old City of Dubrovnik: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/95/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; DPI moderate (2 of 5 categories). Danger List checked directly on UNESCO's list page (58 properties; Dubrovnik not included). Known gaps (not included because not verified): (1) No 2026 Dubrovnik state-of-conservation decision was found; the 2025 decision (47 COM 7B.102) is the latest, with a report due 1 December 2026, so 2026 conditions are not documented. (2) Whether the Conservation Plan (expected by March 2026 per the 2025 UNESCO document) and the Preparedness and Risk Management Plan have since been submitted/adopted is unknown. (3) The current condition of the City Walls repairs after the 2015-2018 concerns was not established. (4) The ICTY written judgments were not read; the shelling and conviction facts rest on the ICTY case information sheet, and damage to 52 of 116 specified structures is the Trial Chamber's finding as summarised there. (5) Cruise and visitor figures differ by source and year (2015 mission, 2018 Reuters, undated European Commission page, 2025 Interreg summary); they were not reconciled and the Interreg summary's overnight-stay figure was omitted. Reuters' 2018 statement that UNESCO warned in 2017 that Dubrovnik's status was at risk was not verified in UNESCO records and was omitted. (6) The 2017 minor-boundary and other boundary decisions were seen only as titles on UNESCO's documents page. (7) UNESCO's property page describes boundary modifications in 1994 and 2018 and the maps page lists two components (Old City and Lokrum Island); how this relates to the 'serial' flag the page may carry was not confirmed, so is_serial_component is left false. (8) A damage report about Onofrio's Fountain (August 2025, HRT) gave no extent of damage and was not used. (9) DPI: no 3D model, official virtual tour or digitised archive was verified; the State Archives in Dubrovnik hold UNESCO Memory of the World fonds but public digitised access was not confirmed. (10) Wikipedia was not used; coordinates and metadata rest on UNESCO. Images omitted by design. VERIFIER PASS (2026-10-14, independent): re-checked all sources; 16 edits. Fixes: (a) removed the claim that the 2024 periodic report rates tourism impacts 'current and negative' and that it flags earthquake, storms and wildfire as 'potential' hazards, because those tags are Cycle 2 (2014) answers, not Cycle 3 selections; (b) reconciled the cruise-cap figures (8,000/day 2015; 4,000 at once 2018; 4,500 or two ships undated EC; reportedly 8,000 in Old Town at once 2025) as differing metrics, none treated as the current enforced limit; (c) corrected ICTY count wording, Article 7(3) liability and appeal-ground wording to match the information sheet; (d) 40 COM 7B.50 'would have' changed to 'could have', 42 COM 7B.20 'welcomed' changed to 'noted', 47 COM 'welcomed commitment, noted progress'; (e) removed unverified 'entries inscribed in 2026' and 'Breda University' attributions; (f) clarified 96.7 ha is a sum. Not verified: UNESCO property page flags the property as serial (is_serial_component left false pending editor decision); exact 1991 session date; gallery pages 2-3 credits.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: moderate_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

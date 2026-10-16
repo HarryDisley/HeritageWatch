@@ -1,0 +1,481 @@
+{
+  "slug": "old-bridge-area-of-the-old-city-of-mostar",
+  "name": "Old Bridge Area of the Old City of Mostar",
+  "alternate_names": [
+    "Mostar Old Bridge",
+    "Stari Most",
+    "Old City of Mostar",
+    "Stari Grad Mostar"
+  ],
+  "country": "Bosnia and Herzegovina",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 43.3373,
+    "lng": 17.815
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N43 20 14.3, E17 48 54). The inscribed property is a small urban area (7.6 ha, with a 47.6 ha buffer zone per the same page); the marker is a practical single-point reference near the Old Bridge.",
+  "unesco_id": "946",
+  "inscription_year": 2005,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Mostar as a historic town set in a deep valley of the Neretva River, which grew in the 15th and 16th centuries as an Ottoman frontier town and expanded further under Austro-Hungarian rule in the 19th and 20th centuries. Its Old Bridge, designed by the architect Sinan, and much of the old town were destroyed in the 1990s conflict; the bridge was rebuilt in 2004 and many buildings were restored or rebuilt with the help of an international scientific committee set up by UNESCO. UNESCO presents the property as a symbol of reconciliation and coexistence of diverse communities, and its property page lists criterion (vi).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The principal documented structural issue is cracking of the rebuilt Old Bridge. A 2019 professional paper by Glibic, Sunjic and Mikulic (University of Mostar engineering faculty journal e-Zbornik) states that the first cracks were observed in 2007, three years after the bridge was restored in mid-2004, and that the cracking process has been ongoing since; it discusses possible causes but the abstract identifies none definitively. The World Heritage Committee's 2008 decision (32 COM 7B.85) expressed concern about cracks in the bridge structure and asked the State Party to continue monitoring them with precise indicators and to take measures to keep the bridge's width and grade stable; decision 34 COM 7B.80 (2010) and 35 COM 7B.86 (2011) noted that the Municipality of Mostar was carrying out structural monitoring. In its January 2011 report the State Party reported a visual survey, a 3D laser-scan comparison and a new reference-point system, with preliminary 2010 results showing 'the overall deformation of the bridge is minor'. The most recent UNESCO document found, Periodic Reporting Cycle 3 (listed by UNESCO under 2024, and compiled from questionnaire responses by site-level bodies, not an independent assessment), records that authenticity has been preserved, integrity is intact and Outstanding Universal Value maintained, while other important values are being partially degraded (the same section says the property's state of conservation 'has not been significantly impacted'). The same report states that existing funding sources 'are not secure', that human resources only partly meet needs, that monitoring is considerable but not directed towards management needs, and recommends improving coordination, long-term financing planning and visitor management. It also records geodetic monitoring of bridge benchmarks twice a year. Tourism pressure is documented at a general level: a UNESCO project page says rapid tourism growth strained the town's infrastructure before the pandemic, with many one-day visitors, and cites the city's 'estimated annual 1.5 million visitors' (undated page, estimate); a FENA item of 11 October 2024 is headlined 'over one million visitors' and quotes the Mostar Tourism Board director calling the past summer season 'one of the most successful to date', but its visible text does not show who gave the one-million figure or for what period (paywalled); and the Periodic Reporting document lists five visitor-number values (166129 / 120000 / 100000 / 270000 / 245000) with no year or counting-method labels. These figures use different, mostly unstated, definitions and periods and cannot be reconciled; they are read only as indications that visitation is high, and none is used to set the status. RFE/RL reported thousands of tourists at the July 2024 diving event; none of these sources documents physical damage from visitor numbers. No source reviewed documents new damage or unrepaired acute damage to the property in the last five years.",
+      "first_identified_date": "2007",
+      "date_note": "First cracks in the rebuilt bridge were observed in 2007 according to the 2019 e-Zbornik paper; the Committee referred to the cracks in 2008. Funding and visitor-management concerns are chronic, with no single start date established in the sources reviewed.",
+      "source_ids": [
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_11",
+        "src_12",
+        "src_17",
+        "src_19"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "The Periodic Reporting Cycle 3 document (section 4.7.3 as retrieved) states that temperature dynamics lead to deformations of the bridge structure and that geodetic monitoring of benchmarks is carried out twice a year. The same report shows flooding as relevant, negative and potential in the earlier Cycle 2 answers (15/08/2014); the current-cycle selections for flooding were not legible in the text retrieved, so no current assessment is reported here. The only flood item found for the area is a FENA report of 6 January 2026 on the Buna and Bunica rivers overflowing near Blagaj and in Malo Polje (several buildings flooded in Malo Polje); the visible text does not mention the Old Town or Old Bridge, and the property is not shown to have been affected. This category therefore reflects a chronic, monitored thermal effect on the bridge and a flood exposure that is noted but not documented as damaging the property.",
+      "first_identified_date": null,
+      "date_note": "Chronic factor recorded in UNESCO Periodic Reporting; no single start date applies.",
+      "source_ids": [
+        "src_03",
+        "src_18"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Earthquake risk is described in UNESCO's Periodic Reporting Cycle 3 document (section 4.11.2 as retrieved) as a 'potential earthquake hazard' for which 'no adequate action' is recorded. The Committee's 2008 decision (32 COM 7B.85) refers to cracks in the Old Bridge structure appearing after earthquakes, as retrieved; the sources reviewed do not give details of those earthquakes. This is a potential-hazard entry in a State Party-compiled report, not documentation of a recent damaging event.",
+      "first_identified_date": null,
+      "date_note": "Potential hazard recorded in periodic reporting; the 2008 Committee decision refers to earlier earthquakes without dates in the text reviewed.",
+      "source_ids": [
+        "src_03",
+        "src_04"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no active combat at or near the site was found, no extended loss of monitoring access (the State Party reports twice-yearly geodetic monitoring of the bridge), no collapse of protection, and no severe verified current damage in the sources reviewed. High Concern: considered and not triggered. (1) The property is not on the List of World Heritage in Danger: UNESCO's 'List of World Heritage in Danger' page (58 properties, undated page, read 2026-10-14) does not list Bosnia and Herzegovina, and the property page does not flag it as in danger. (2) No specific damaging event in roughly the last five years was found from two independent sources; the only recent flood item (FENA, January 2026) concerns other parts of Mostar municipality and does not mention the property. (3) No armed conflict affecting the site. (4) The 'severe unresolved threat with a stated near-term timeframe from a named authority' trigger is not met: the bridge cracking documented since 2007 is chronic and monitored, the State Party's 2011 report called overall deformation minor, and no named authority was found stating a near-term timeframe for harm. (5) Significant historical damage with substantially incomplete repair: the bridge was rebuilt in 2004 and the most recent UNESCO periodic report found says integrity is intact and authenticity preserved; no evidence was found of substantially incomplete site-wide repair, although no current building-condition statistic was found (ICOMOS reported about 79% of buildings in good condition in 2005). Moderate Concern triggers matched: a credible documented chronic, monitored threat (bridge cracking and thermal deformation, with the Committee having raised the cracks in 2008) and conservation challenges described in an official report (insecure funding, partly adequate human resources, visitor-management deficiencies). This is a close call between Moderate and Safe: Safe requires no credible documented threat, and a documented threat does exist, but the threats are modest, the Committee's last property-specific decision found in the documents list dates from 2011 (apart from the 2014 retrospective statement adoption), and the recent report is broadly positive. High Concern is the more distant neighbour but cannot be excluded on current independent evidence, because the latest assessment found is State Party-compiled and the 2019 crack paper is seven years old.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The Old Bridge was destroyed in 1993 and rebuilt by 2004; that history sits in the timeline. On present conditions, UNESCO's most recent periodic report found (Cycle 3, listed under 2024) records authenticity preserved, integrity intact and Outstanding Universal Value maintained, with other important values partially degraded (the report adds that the state of conservation 'has not been significantly impacted'). The Committee has not reviewed the property's state of conservation in any decision found since 2011 (the documents page lists only the 2014 retrospective statement adoption after that), and the property is not on the Danger List. Against that, there are real, documented, long-running concerns: cracks in the rebuilt bridge reported since 2007 and described as ongoing in a 2019 engineering paper, thermal deformation of the bridge noted in the periodic report, insecure funding and limited human resources, deficiencies in visitor-management implementation, and a UNESCO project page describing tourism-related strain on town infrastructure before the pandemic. These are chronic, monitored issues rather than an acute emergency, which is what Moderate Concern describes. Confidence is Supported rather than Confirmed: the facts are traceable to UNESCO documents and a professional engineering paper, but the most recent UNESCO assessment is compiled from questionnaire responses by State Party bodies rather than independently verified, no 2020s independent report on the bridge cracks was found, and several UNESCO state-of-conservation pages for recent years were not available. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_11",
+        "src_12",
+        "src_18"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 2 review summary, agreeing with the recommended status and confidence. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly viewable evidence, which meets the moderate tier (2-3 categories). Photographic: UNESCO's own gallery (at least 12 images on the first page, with more apparently on further pages; credited to Sinisa Sesum, Yvon Fruneau and Silvan Rehfeld). Archival: a 2004 Aga Khan Trust for Culture / World Monuments Fund brochure on the conservation of historic Mostar is downloadable and contains plans, drawings, photographs and a survey of 21 priority buildings; this is a published project record rather than a digitised archive, and a catalogue record of a c.1895-1920 photograph of the bridge from an Austrian museum collection was also found. 3D documentation is not counted: the State Party's 2011 report says 3D laser scanning was used to monitor the bridge, but no publicly viewable model was found; hobbyist 3D models appeared in search results but could not be verified and are not counted. Virtual tour is not counted: only a single user-uploaded 360 panorama from 2012 on a commercial panorama site was found, which is not an official or substantive tour. Academic: peer-reviewed radiocarbon and dendrochronological dating of the bridge, and an engineering paper on its cracks. Coverage is uneven and bridge-focused; no whole-area digital model or official virtual tour was found in this pass. UNESCO state-of-conservation and periodic reports are not counted as archival records.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre photo gallery for the property: at least 12 images on its first page (captioned 'Old Bridge of Mostar' or 'Old Bridge Area of the Old City of Mostar'), with pagination suggesting further pages; photographer credits include Sinisa Sesum (UNESCO), Yvon Fruneau and Silvan Rehfeld.",
+        "url": "https://whc.unesco.org/en/list/946/gallery/",
+        "source_id": "src_15"
+      },
+      {
+        "category": "archival_records",
+        "description": "Aga Khan Trust for Culture / World Monuments Fund brochure 'Conservation and Revitalisation of Historic Mostar' (2004), downloadable as a PDF, containing historic plans (including an 1881 plan), drawings, pre-war and post-war photographs and a list of 21 priority buildings recorded and analysed for conservation.",
+        "url": "https://static.the.akdn/53832/1641850759-2004_aktc_mostar.pdf",
+        "source_id": "src_14"
+      },
+      {
+        "category": "archival_records",
+        "description": "A catalogue record, with a Creative Commons licence, of a historic photograph of the Old Bridge dated between 1895 and 1920 by Stjepan Tomlinovic, held by the Osterreichisches Museum fur Volkskunde.",
+        "url": "https://gams.uni-graz.at/o:vase.2714",
+        "source_id": "src_16"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed article in Radiocarbon (2007) by Obelic and colleagues dating wood and charcoal samples from the bridge reconstruction, and a 2019 engineering paper in e-Zbornik (University of Mostar) on the cracks in the Old Bridge.",
+        "url": "https://www.cambridge.org/core/journals/radiocarbon/article/dating-of-the-old-bridge-in-mostar-bosnia-and-herzegovina/E7816F0535012D779C40A3D29E75129C",
+        "source_id": "src_13"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "'The Cracks on the Old Bridge in Mostar' by Glibic, Sunjic and Mikulic, e-Zbornik No. 17, June 2019.",
+        "url": "https://e-zbornik.gf.sum.ba/25-no-17-june-2019-vol-9/223-the-cracks-on-the-old-bridge-in-mostar",
+        "source_id": "src_12"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1993-11-09",
+      "title": "Old Bridge collapses after shelling",
+      "description": "UNESCO's World Heritage magazine story states the bridge was completely destroyed in the 1990s conflict and, after relentless shelling, collapsed into the Neretva River on 9 November 1993.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2004",
+      "title": "Old Bridge reconstruction completed; Old City declared a National Monument",
+      "description": "UNESCO states that work began in 1999 and continued until 2004, as a project of UNESCO, the World Bank and the city of Mostar, using stone from the same local quarry as the 16th-century bridge and 16th-century building methods (a photo caption in the same story says work on the foundations started in June 2001 and the reconstruction was finalized in 2002). ICOMOS recorded that the bridge reopened in summer 2004 and that the Old City was designated a National Monument in July 2004.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_10",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2005-07",
+      "title": "Inscribed on the World Heritage List",
+      "description": "The property was inscribed in 2005 (UNESCO's story gives July 2005; its property page gives the year). ICOMOS had noted reservations about authenticity under the earlier test but judged the Old Bridge reconstruction to have a 'kind of truthfulness' under the 2005 guidelines, and named avoiding further alteration of the townscape as its main integrity concern.",
+      "event_type": "political",
+      "source_ids": [
+        "src_00",
+        "src_09",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2007",
+      "title": "First cracks observed in the rebuilt bridge",
+      "description": "A 2019 paper in e-Zbornik (University of Mostar) states that the first cracks were observed in 2007 and that the cracking process has been ongoing since then.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2008",
+      "title": "Committee decision 32 COM 7B.85 raises bridge cracks and Hotel Ruza redesign",
+      "description": "The Committee expressed concern about cracks in the Old Bridge structure, asked the State Party to keep monitoring them and take measures to keep the bridge's width and grade stable, and urged a redesign of the hotel under construction in the buffer area, with an update due by 1 February 2009.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2010",
+      "title": "Committee decision 34 COM 7B.80: hotel height limit and structural monitoring",
+      "description": "The Committee noted that the Municipality of Mostar was monitoring the bridge's structural stability and asked that the revised hotel design allow no construction above the fifth storey, with a progress report due 1 February 2011.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2011",
+      "title": "Committee decision 35 COM 7B.86; State Party reports on bridge monitoring",
+      "description": "The Committee noted ongoing structural monitoring and found the hotel redesign conformed to its 2010 decision, asking for a further report by 1 February 2013. The State Party's report of 31 January 2011 described a visual survey, a 3D laser-scan comparison, a new reference-point system and preliminary 2010 results showing minor overall deformation.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2014",
+      "title": "Retrospective Statement of Outstanding Universal Value adopted",
+      "description": "Decision 38 COM 8E lists the property among those whose Retrospective Statements of Outstanding Universal Value were adopted. The documents page lists no later Committee decision on the property.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_08",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2019-06",
+      "title": "Engineering paper reports ongoing cracking of the Old Bridge",
+      "description": "Glibic, Sunjic and Mikulic's paper in e-Zbornik No. 17 (June 2019) describes the development of the cracks and measured vertical deflection since the bridge was rebuilt, and discusses possible causes without identifying one definitively in its abstract.",
+      "event_type": "other",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Periodic Reporting Cycle 3, Section II, lodged for the property",
+      "description": "UNESCO lists the Cycle 3 Section II report under 2024. It records authenticity preserved, integrity intact and Outstanding Universal Value maintained, other important values partially degraded (state of conservation 'not significantly impacted'), insecure funding, and recommendations on coordination, financing and visitor management. The document itself gives no submission date and does not name its submitter.",
+      "event_type": "other",
+      "source_ids": [
+        "src_03",
+        "src_02"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Old Bridge Area of the Old City of Mostar",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/946",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "The List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page shows no last-updated date; read as listing 58 properties with no entry for Bosnia and Herzegovina.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Old Bridge Area of the Old City of Mostar: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/946/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Old Bridge Area of the Old City of Mostar: Periodic Reporting Cycle 3, Section II",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/217502",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "A periodic report compiled from questionnaire responses by State Party and site-level bodies, not an independent UNESCO or Advisory Body assessment. Listed by UNESCO under 2024; the document gives no submission date and does not name its submitter.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 32 COM 7B.85: Old Bridge Area of the Old City of Mostar (Bosnia and Herzegovina)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1692",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2008",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 34 COM 7B.80: Old Bridge Area of the Old City of Mostar (Bosnia and Herzegovina)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4188",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2010",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 35 COM 7B.86: Old Bridge Area of the Old City of Mostar (Bosnia and Herzegovina)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4494",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2011",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation: Old Bridge Area of the Old City of Mostar (State Party report, 2011)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/409",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Summarises a State Party report submitted 31 January 2011; the monitoring results are the State Party's own preliminary findings.",
+      "published_date": "2011-01-31",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 38 COM 8E: Adoption of Retrospective Statements of Outstanding Universal Value",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6149",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The statement text itself (an annex) was not reproduced on the page and was not read.",
+      "published_date": "2014",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Advisory Body Evaluation (ICOMOS): The Old City of Mostar",
+      "publisher": "ICOMOS (via UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/154662",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2005",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "The Old Bridge in Mostar (World Heritage review n. 103 extract)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/story-mostar-bridge",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2022-11",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Supporting local tourism in the Old City of Mostar, Bosnia and Herzegovina",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/sustainable-tourism-covid-Bosnia/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Project page without a stated date; figures (including the 1.5 million visitors a year estimate) are given as estimates on the page.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "The Cracks on the Old Bridge in Mostar",
+      "publisher": "e-Zbornik, Faculty of Civil Engineering, University of Mostar (Glibic, Sunjic, Mikulic)",
+      "url": "https://e-zbornik.gf.sum.ba/25-no-17-june-2019-vol-9/223-the-cracks-on-the-old-bridge-in-mostar",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Professional paper; only the abstract page was read, not the full text.",
+      "published_date": "2019-06",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Dating of the Old Bridge in Mostar, Bosnia and Herzegovina",
+      "publisher": "Radiocarbon (Cambridge University Press), Obelic et al.",
+      "url": "https://www.cambridge.org/core/journals/radiocarbon/article/dating-of-the-old-bridge-in-mostar-bosnia-and-herzegovina/E7816F0535012D779C40A3D29E75129C",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2007",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Conservation and Revitalisation of Historic Mostar (Historic Cities Support Programme brochure)",
+      "publisher": "Aga Khan Trust for Culture / World Monuments Fund",
+      "url": "https://static.the.akdn/53832/1641850759-2004_aktc_mostar.pdf",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Project publicity brochure by the organisations that carried out the work; used as evidence of documentation, not of present condition. Only the visible portion of the PDF was read.",
+      "published_date": "2004",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Old Bridge Area of the Old City of Mostar: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/946/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Old Bridge (Stari Most) - photograph record",
+      "publisher": "Osterreichisches Museum fur Volkskunde (collection), hosted at gams.uni-graz.at",
+      "url": "https://gams.uni-graz.at/o:vase.2714",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "The page does not name its operator; the University of Graz hosting is inferred from the domain. Evidences that a catalogued historic photograph exists, not the size of any archive.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Daredevil Divers And Tourists Defy Heat To Mark 20th Anniversary Of Mostar Bridge Rebuilding",
+      "publisher": "RFE/RL (with Reuters)",
+      "url": "https://rferl.org/a/mostar-bridge-458th-annual-diving-bosnia/33054798.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Photo-led report; the crowd description ('thousands of tourists') is unattributed and gives no figures.",
+      "published_date": "2024-07-29",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Bunica river overflows in Malo Polje, several buildings flooded in Mostar area",
+      "publisher": "FENA (Federal News Agency)",
+      "url": "https://www.fena.ba/article/1659940/bunica-river-overflows-in-malo-polje-several-buildings-flooded-in-mostar-area",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Paywalled after the opening paragraph; only the visible text was read, which does not mention the Old Town or Old Bridge.",
+      "published_date": "2026-01-06",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "With over one million visitors, Mostar is experiencing a tourism boom",
+      "publisher": "FENA (Federal News Agency)",
+      "url": "https://fena.ba/article/1598222/with-over-one-million-visitors-mostar-is-experiencing-a-tourism-boom",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Paywalled after the first paragraph; the one-million figure appears in the headline only, and the visible text does not state who gave it or for what period.",
+      "published_date": "2024-10-11",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; close call vs Safe flagged in decision_trigger (High Concern is the more distant neighbour). Danger List status checked directly on UNESCO's list page: not listed. Known gaps (not included because not verified): (1) No UNESCO state-of-conservation report or Committee decision after 2011 was found on the property's documents page, other than the 2014 retrospective statement decision; the 2024 Periodic Reporting Cycle 3 document is State Party-compiled and gives no submission date. (2) The retrospective Statement of OUV text (annex to 38 COM 8E) was not read. (3) The 2005 inscription decision (29 COM 8B.49), the 2008 mission report and the nomination dossier were not read; the criteria stated rely on UNESCO's property page (criterion vi). (4) The full 2019 crack paper was not read, only its abstract page; no post-2019 independent assessment of the crack monitoring was found. (5) The 2008 decision's reference to earthquakes was read via a page summary and the earthquake details are not sourced. (6) Tourism figures differ in scope and source (UNESCO project page estimate of 1.5 million a year; a 2024 FENA headline of over one million visitors from a paywalled article) and were not reconciled; no source reviewed documents physical damage from visitor numbers. (7) No current building-condition statistics for the Old City were found (ICOMOS's 2005 figure of about 79% of buildings in good condition is historical). (8) No 3D model or official virtual tour was verified as publicly viewable; a user-uploaded 2012 360 panorama and unverified hobbyist 3D models were found and not counted. (9) CIN, N1 and Aga Khan 1970s-project pages were read but not used. (10) Wikipedia and Wikimedia were not used; images omitted by design. | Verifier pass 2026-10-14: (1) tourism figures reconciled as far as sources allow: stated that 1.5M (UNESCO project page estimate), 'over one million' (FENA 2024 headline, unattributed) and the unlabelled Periodic Report visitor values are not comparable, and added the latter; (2) corrected periodic-report wording: 'not significantly impacted' refers to the property's state of conservation, not to the other values; (3) 2008 decision 'urged' (not 'required') the hotel redesign; (4) 2004 event now matches UNESCO story text (work began 1999, continued to 2004; June 2001/2002 are caption dates); (5) flooding: Cycle 2 answer dated 15/08/2014, current selections not legible in retrieved text; (6) AKTC brochure photographs described as pre-war/post-war views; (7) 'peer-adjacent' replaced with 'professional'. Status Moderate Concern and DPI moderate tier checked and left unchanged.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: moderate_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

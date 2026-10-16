@@ -1,0 +1,533 @@
+{
+  "slug": "virunga-national-park",
+  "name": "Virunga National Park",
+  "alternate_names": [
+    "Parc national des Virunga"
+  ],
+  "country": "Democratic Republic of the Congo",
+  "region": "Africa",
+  "coordinates": {
+    "lat": -0.9167,
+    "lng": 29.1667
+  },
+  "coordinate_note": "UNESCO's property page (French version; the English property page and Maps page also give N0 55 0, E29 10 0) gives N0 55 0, E29 10 0, which would place the point north of the equator; Wikipedia gives 0 55 S, 29 10 E. The park's central areas (for example the south shore of Lake Edward and the Virunga volcanoes near Goma) lie south of the equator, so the south latitude is used here; this should be verified on the map. The inscribed property is a large area (UNESCO gives 790,000 ha in its description and 800,000 ha in its data table), not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "63",
+  "inscription_year": 1979,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "natural",
+  "significance_summary": "Virunga National Park, in eastern Democratic Republic of the Congo, was inscribed on the World Heritage List in 1979 under natural criteria (vii), (viii) and (x). UNESCO's description (read in French) highlights a chain of active volcanoes and a range of habitats, from steppes, savannahs and lava plains to Afromontane forest belts and the afro-alpine vegetation of the Rwenzori peaks above 5,000 m. It says this habitat diversity supports exceptional biodiversity, including endemic and endangered species such as the mountain gorilla. The property has been on the List of World Heritage in Danger since 1994.",
+  "metadata_sources": [
+    "src_00",
+    "src_01"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO's Danger List page states that all five DRC World Heritage sites have been on the List of World Heritage in Danger since 1994 because of war and civil conflict in the Great Lakes region. The Committee has since repeatedly expressed concern about security at Virunga. In 2023 and 2024 it expressed 'utmost concern' about a sharp decline in security, stating that armed groups administer large parts of the property and that park authorities had to abandon the gorilla sector (45 COM 7A.8; 46 COM 7A.50). UNESCO's 2023 state-of-conservation page records that four rangers and one civilian staff member were killed on 18 May 2023. UNESCO's 2025 state-of-conservation page states that the M23 armed group took Goma in January 2025, worsening insecurity and limiting access to the central and southern sectors; in 2025 the Committee again expressed deep concern about ongoing instability in eastern DRC and its effects on access, conservation work and encroachment (47 COM 7A.12). In 2026 the Committee again expressed deep concern about ongoing insecurity in northeast DRC and noted a fall of almost 50% in illegal armed activities in priority zones after joint ICCN-FARDC operations, while remaining concerned about pockets of instability; it also states that ICCN is operational in about 65% of the property's boundaries (48 COM 7A.51). Mongabay reported that two rangers were killed at a control post on the southern shore of Lake Edward on 21 May 2026 by a 'heavily armed group', whose identity park officials had not established, and that more than 200 rangers have been killed in Virunga over the last century. In an NPR interview published 6 June 2026, the park's director described further staff deaths and injuries in the preceding weeks and called the recent rise in violence unprecedented for the park (his account; not independently verified). Human Rights Watch (20 August 2025) documented killings of civilians in July 2025 in villages in the Binza area, which it says borders the park and was under M23 control at the time; HRW records that Rwanda and M23 have rejected or denied parts of the allegations. Mongabay (April 2025) reportedly cited an anonymous civil-society source saying eco-guards have left several patrol posts since April 2024 under M23 threat. This single-source account is treated as corroboration only.",
+      "first_identified_date": null,
+      "date_note": "War and civil conflict in the region were the stated basis for the 1994 Danger List inscription (UNESCO Danger List page); no single start date for the threat to the property was established from the sources read.",
+      "source_ids": [
+        "src_11",
+        "src_05",
+        "src_04",
+        "src_09",
+        "src_07",
+        "src_03",
+        "src_02",
+        "src_13",
+        "src_16",
+        "src_20",
+        "src_14"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Sources read document illegal resource use and extractive pressure rather than climate effects; no climate-change threat evidence was found in the sources read. (1) Oil and gas: the Committee has reiterated since 2023 that oil and gas exploration and exploitation are incompatible with World Heritage status. In 2024 it noted with utmost concern that two oil blocks overlapping the property were included in the 2022 public auction; in 2025 it noted that the 2022 tender had not been cancelled; and in 2026 it noted the State Party's reaffirmed commitment not to grant oil concessions in the property while regretting the lack of updates on the 2022 tender, which it says does not appear to have been withdrawn (48 COM 7A.51). Africanews reported in October 2024 that the DRC government announced the cancellation of an auction of 27 oil blocks launched in July 2022, some of which overlapped protected areas including Virunga, citing late bids and a lack of competition and saying a new auction would follow; IUCN NL commented that the cancellation may reflect administrative delays rather than a commitment to conservation. How this report relates to the Committee's 2025 and 2026 statements is unresolved in the sources read. (2) Poaching, fishing and forest use: the 2026 decision states that improved surveillance has reduced poaching by about 25% and illegal fishing by 20%, especially at Lake Edward, while recording 41 poaching cases in 2025. The 2025 decision describes progress on illegal charcoal production (fewer arrests, kiln destruction and reforestation of 1,500 hectares). UNESCO's 2024 state-of-conservation page states that tree cover has fallen by 13% since 2000. The 2023 and 2024 decisions note reported deforestation for firewood around camps for internally displaced people. Mongabay (April 2025) reportedly cites park officials describing wildlife declines and widespread poaching in areas affected by insecurity; its figures are inconsistent and unverified. (3) Wildlife context: in 2026 the Committee welcomed the birth of twin mountain gorillas as a sign of ecosystem resilience; in 2025 it noted reported rises in elephant and hippo populations between 2014 and 2023. Separate from the four threat categories, an Ebola outbreak in the region in 2026 is reported (see events and the status rationale).",
+      "first_identified_date": null,
+      "date_note": "Poaching, forest loss and the other Danger List threats listed on UNESCO's 2024 state-of-conservation page are chronic; the oil-block issue is dated to the 2022 tender by the Committee. No single start date applies to the category as a whole.",
+      "source_ids": [
+        "src_05",
+        "src_04",
+        "src_03",
+        "src_02",
+        "src_08",
+        "src_18",
+        "src_19",
+        "src_14"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee's 2025 decision states that human encroachment rose from 12% in 2021 to 14.2% in 2024, with pressure on natural resources including from armed groups, which it says seriously threatens the property's integrity and Outstanding Universal Value (47 COM 7A.12); the 2026 decision repeats the figures and asks for updated information (48 COM 7A.51). The Committee earlier welcomed a reduction in encroachment from more than 20% in 2018 to 12% in 2021 and said restoring territorial integrity is a key requirement for removal from the Danger List (45 COM 7A.8). Management and monitoring gaps are recorded: the 2025 decision regrets that the 2021-2025 Development and Management Plan update was not submitted; the 2026 decision says the State Party has not responded to earlier requests and that the lack of updated information prevents the Committee from monitoring the property's conservation state and progress on serious threats, and lists unanswered requests on infrastructure (including hydropower and roads), the management plan, flagship-species monitoring and the October 2024 gorilla reintroduction. A joint World Heritage Centre/IUCN Reactive Monitoring mission has been requested since 2023 'as soon as security allows' and the 2026 decision refers to it as still to be prepared. The Committee has noted the lack of updated information on a reported road and military infrastructure within the property (46 COM 7A.50). The Committee has also noted funding constraints (47 COM 7A.12) and appealed for greater international support and sustainable funding (48 COM 7A.51). Gorilla trekking has reportedly come to a standstill (Mail & Guardian, March 2025, in the reporter's own narrative) and the park's director said in June 2026 that tourism has been closed (NPR interview), which bears on park revenue. Positive measures are documented: the 2023 decision notes that park authorities continue gorilla monitoring through community trackers; the 2026 decision reports a fall in poaching and illegal fishing and cooperation with Uganda (about a 40% decrease in transboundary elephant poaching) and refers to the corrective measures updated during the 2018 mission.",
+      "first_identified_date": null,
+      "date_note": "Encroachment and management concerns are chronic and appear across successive Committee cycles; the earliest dated figure in this dossier is the 2018 encroachment level cited in the 2023 decision.",
+      "source_ids": [
+        "src_05",
+        "src_04",
+        "src_03",
+        "src_02",
+        "src_15",
+        "src_16"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern was considered and not mechanically triggered, but this is a genuinely close call. (1) Ongoing severe threat materially affecting integrity: the Committee describes encroachment, pressure including from armed groups, and insecurity as seriously threatening integrity and Outstanding Universal Value (2025) and expresses deep concern about ongoing insecurity (2026), but it also records measurable gains in 2026 (almost 50% fall in illegal armed activity in priority zones, ICCN operational in about 65% of the boundaries, poaching down about 25%), so a verified severe current loss of a significant part of the property is not established from the sources read. (2) Active combat zone: armed attacks on rangers inside the park in May 2026 are reported by Mongabay and, in the director's account, by NPR, and UNESCO's 2025 page records M23's January 2025 takeover of Goma limiting access to the central and southern sectors; however, no source read documents active fighting between armed forces at the property in 2026, the Mongabay report does not attribute the attack to a named group, and the Committee's 2026 wording refers to 'pockets of instability'. (3) Inaccessible to monitoring for roughly 6+ months for safety reasons: the Reactive Monitoring mission requested since 2023 has been pending 'once security allows', and the 2026 decision says missing State Party information prevents monitoring, which comes close; but ICCN operates in most boundaries, community trackers were continuing gorilla monitoring as of the 2023 decision, so this trigger is not clearly met. (4) Collapse of protection: not met; ICCN and partners continue to operate and the Committee notes progress. High Concern triggers matched: the property is on the List of World Heritage in Danger for substantive reasons (since 1994; retained in 2026 by 48 COM 8C.2 and 48 COM 7A.51), and the region is under active armed conflict with credible reporting on the risk to the property. The neighbouring status is Critical Concern; a reviewer could weigh the 2026 ranger killings, the pending monitoring mission and the missing State Party reporting differently.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The historical record (1994 Danger List inscription, armed conflict, ranger deaths, the loss of the gorilla sector for patrols reported in 2023-2024) is kept in the events timeline. On present conditions, the most recent Committee decision (48 COM 7A.51, 2026) retains the property on the Danger List and expresses deep concern about ongoing insecurity, unanswered requests, human encroachment (12% in 2021 to 14.2% in 2024) and the unresolved status of oil blocks from the 2022 tender that overlap the property. Violence against park staff was reported again in May-June 2026 (Mongabay; the director's account to NPR), and a regional Ebola outbreak in 2026 is adding a further burden on the park's resources (director's and Al Jazeera's account). Against that, the same 2026 decision records improvement: an almost 50% fall in illegal armed activities in priority zones after joint operations, ICCN operational in about 65% of the boundaries, reductions of about 25% in poaching and 20% in illegal fishing, the birth of twin mountain gorillas, and cross-border cooperation with Uganda. These indicate a property under serious, documented, unresolved pressure but with functioning, if partial, protection and monitoring, which is why the call is High Concern rather than Critical Concern. Confidence is Supported rather than Confirmed: the Committee's findings are Tier 1 and consistent across 2023-2026, but the 2026 state-of-conservation material and State Party reports could not be read in full, several 2026 security claims rest on single journalistic or interview sources, the oil-tender status is described differently by the Committee and by media, and the Critical boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_11",
+        "src_02",
+        "src_06",
+        "src_03",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_13",
+        "src_16",
+        "src_17",
+        "src_18"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of the five categories have publicly viewable evidence, which meets the moderate tier by the rubric (2-3 categories). The UNESCO gallery was read as a page of captioned thumbnails (12 on the first page, with pagination suggesting up to about 23 in total; the exact count was not stated). Archival records are not counted: UNESCO's documents page lists state-of-conservation reports, mission reports and a 1979 IUCN evaluation, but these are administrative or evaluation documents, and no digitised archive of the park itself was found. No 3D model or virtual tour was found: the park's visitor page carries no virtual tour, and a third-party Meta Quest app listing (an early-access narrative VR experience of one sector) was seen but not opened or verified as publicly viewable, so it is not counted. Scholarly coverage is evidenced by one peer-reviewed article whose repository record was read; the wider literature on the park was not surveyed. Findable coverage may understate what exists in park or partner archives, particularly given the security situation.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property, with captioned images credited to named photographers (12 shown on the first page, including a caption about a ranger rescuing a poached Grauer's gorilla).",
+        "url": "https://whc.unesco.org/en/list/63/gallery/",
+        "source_id": "src_12"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed scholarship on the park: Verweijen and Marijnen, Journal of Peasant Studies 45(2), on the overlap of counterinsurgency and conservation in Virunga National Park (repository record and abstract read).",
+        "url": "https://eprints.whiterose.ac.uk/id/eprint/113501/",
+        "source_id": "src_21"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1979",
+      "title": "Virunga National Park inscribed on the World Heritage List",
+      "description": "UNESCO's documents page for the property records the inscription in 1979 (Committee decision 03COM XII.46 and an IUCN evaluation). UNESCO lists it under natural criteria (vii), (viii) and (x).",
+      "event_type": "designation",
+      "source_ids": [
+        "src_10",
+        "src_00"
+      ]
+    },
+    {
+      "date": "1994",
+      "title": "Placed on the List of World Heritage in Danger",
+      "description": "The Committee placed Virunga on the Danger List in 1994 (decision 18COM XI). UNESCO states that all five DRC World Heritage sites were inscribed on the Danger List from 1994 because of war and civil conflict in the Great Lakes region. UNESCO's 2024 state-of-conservation page lists these Danger List threats: increased poaching, inability of staff to patrol the 650 km boundary, an influx of about 1 million refugees into adjacent parts of the park, and widespread lowland forest loss.",
+      "event_type": "designation",
+      "source_ids": [
+        "src_10",
+        "src_11",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2018-04",
+      "title": "Joint World Heritage Centre/IUCN Reactive Monitoring mission",
+      "description": "UNESCO's documents page lists a joint Reactive Monitoring mission on 23-28 April 2018. UNESCO's 2025 state-of-conservation page states that the corrective measures were first adopted in 2006 and updated in 2011, 2014 and 2018, and that the desired state of conservation for removal from the Danger List dates from 2011. The Committee has since requested a further mission once security allows.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_10",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2022-07",
+      "title": "DRC launches licensing round for 27 oil blocks, including blocks overlapping protected areas",
+      "description": "Africanews reported that the DRC launched the sale of 27 oil blocks in July 2022 and that more than a dozen of the plots overlap protected rainforest and peatland areas, including Virunga National Park. The Committee later stated that the 2022 tender includes two blocks overlapping the property.",
+      "event_type": "political",
+      "source_ids": [
+        "src_18",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2023-05-18",
+      "title": "Four rangers and a civilian staff member killed",
+      "description": "UNESCO's 2023 state-of-conservation page records that four rangers and one civilian staff member were killed on 18 May 2023, and lists further ranger deaths reported on 28 May 2023.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee decision 45 COM 7A.8 on Virunga (extended 45th session, Riyadh)",
+      "description": "The Committee deplored continued armed conflict and further deaths of protected-area staff and local communities, expressed 'utmost concern' about the sharp decline in security (armed groups administering large parts of the property and the gorilla sector abandoned by park authorities), reiterated that oil and gas activity is incompatible with World Heritage status, welcomed a reduction in encroachment from more than 20% (2018) to 12% (2021), continued Reinforced Monitoring and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.50 on Virunga (46th session, New Delhi)",
+      "description": "The Committee regretted that the State Party had submitted no report on its four DRC properties on the Danger List, again expressed 'utmost concern' about deteriorating security, noted with utmost concern that two overlapping oil blocks had been included in the 2022 public auction, continued Reinforced Monitoring and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2024-10",
+      "title": "Four female gorillas reintroduced at Mount Tshiaberimu",
+      "description": "The Committee's 2025 decision takes note of the reintroduction of four female gorillas at Mount Tshiaberimu in October 2024 and reminds the State Party that reintroductions must meet international standards; the 2026 decision asks for details and measures for long-term success.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_03",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2024-10",
+      "title": "DRC reportedly cancels auction of 27 oil blocks",
+      "description": "Africanews reported that the DRC government announced the cancellation of the 27-block auction launched in July 2022, citing late bids and a lack of competition, and said a new auction would follow. IUCN NL called it a 'momentary victory' and said the outcome was uncertain. The Committee stated in 2025 and 2026 that the 2022 tender did not appear to have been cancelled or withdrawn; how the two accounts relate was not resolved from the sources read. Month shown is taken from the Africanews URL date.",
+      "event_type": "political",
+      "source_ids": [
+        "src_18",
+        "src_19",
+        "src_03",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2025-01",
+      "title": "M23 takes Goma",
+      "description": "UNESCO's 2025 state-of-conservation page states that the M23 armed group took Goma in January 2025, worsening insecurity and limiting access to the central and southern sectors of the property.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "Committee decision 47 COM 7A.12 on Virunga (47th session)",
+      "description": "The Committee again expressed deep concern about ongoing instability in eastern DRC, noted that human encroachment rose from 12% in 2021 to 14.2% in 2024 and said this seriously threatens the property's integrity and OUV, regretted that the updated management plan was not submitted, noted that the 2022 oil tender had not been cancelled, repeated its request for a Reactive Monitoring mission once security allows, asked for a report by 1 February 2026 and retained the property on the Danger List. Month taken from UNESCO's state-of-conservation page, which places the 47th session in July 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "title": "Two rangers killed at Kamuhororo control post",
+      "description": "Mongabay reported that two rangers were killed early on 21 May 2026 when a 'heavily armed group' opened fire on a control post at Kamuhororo on the southern shore of Lake Edward, inside the park. Park officials had not identified the attackers. In an NPR interview published 6 June 2026, the park's director described further staff deaths and injuries in the following weeks (staff killed about 10 days before the 3 June interview, five injured, and two more killed on the morning of the interview) (his account; not independently verified).",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_13",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2026-06",
+      "title": "Park sets up Ebola screening posts amid regional outbreak",
+      "description": "Al Jazeera reported that the WHO declared the Ebola outbreak in the DRC and Uganda a Public Health Emergency of International Concern in May 2026 and that the park has set up health checkpoints and deployed paramedics and rangers; NPR reported the park's director saying the park is funding screening posts and that tourism has been closed. These are the director's statements as reported.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "Committee decision 48 COM 7A.51 on Virunga (48th session, Busan) retains Danger List status",
+      "description": "The Committee expressed concern that the State Party had not responded to earlier requests, expressed deep concern about ongoing insecurity, noted a fall of almost 50% in illegal armed activities in priority zones, ICCN operational in about 65% of the boundaries and reduced poaching and illegal fishing, welcomed the birth of twin mountain gorillas, urged clarification that no incompatible oil activity will be authorized, asked for a report by 1 February 2027 and retained the property on the Danger List (also listed as retained in 48 COM 8C.2). Month shown reflects the 48th session being held in July 2026 as recorded for the same session elsewhere in this project; the Virunga decision page itself gives only the year.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_06"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Parc national des Virunga (World Heritage List, property page, French version)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/list/00063/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read in French. The page lists the coordinates as N0 55 0, E29 10 0 and gives two area figures (790,000 ha in the description, 800,000 ha in the data table). The north latitude is inconsistent with the park's location (see coordinate_note).",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Virunga National Park",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Virunga_National_Park",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference source, used only for basic metadata (coordinates south of the equator, establishment year, general geography), never for a status, threat or DPI claim.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.51: Virunga National Park (Democratic Republic of the Congo)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9037",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.12: Virunga National Park (Democratic Republic of the Congo)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8679",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.50: Virunga National Park (Democratic Republic of the Congo)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8519",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7A.8: Virunga National Park (Democratic Republic of the Congo)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8098",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 48 COM 8C.2: Update of the List of World Heritage in Danger (Retained Properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9208",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Virunga National Park: State of Conservation, 2025 (47th session page, French version)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4664",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "UNESCO state-of-conservation web page (a summary of the State Party report, Secretariat information and the Committee decisions), read in French. It is not itself a Committee decision; figures on it should be attributed to 'UNESCO's state-of-conservation page' rather than to the Committee.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Virunga National Park: State of Conservation, 2024 (46th session page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4574",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "UNESCO state-of-conservation web page, not a Committee decision. The page records that the State Party submitted no report for 2024.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Virunga National Park: State of Conservation, 2023 (45th session page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4272",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "UNESCO state-of-conservation web page, not a Committee decision.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Virunga National Park: documents (reports, missions, decisions)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/63/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Virunga National Park: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/63/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Gunmen kill two rangers in latest deadly attack in DRC's Virunga National Park",
+      "publisher": "Mongabay (David Akana)",
+      "url": "https://news.mongabay.com/short-article/2026/05/gunmen-kill-two-rangers-in-latest-deadly-attack-in-drcs-virunga-national-park/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports the attack from park sources; the attackers had not been identified at the time of writing.",
+      "published_date": "2026-05-22",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Poaching intensifies in M23-occupied areas of Virunga National Park",
+      "publisher": "Mongabay",
+      "url": "https://news.mongabay.com/2025/04/poaching-intensifies-in-m23-occupied-areas-of-virunga-national-park/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Relies partly on anonymous sources and on figures that are not independently verified; two different periods are given for the same reported 50% wildlife decline (since 2021 and since 2022). Used only as corroboration with 'reportedly' wording, never as sole support for a status-determining claim.",
+      "published_date": "2025-04-15",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "War and wildlife: Congo park rangers risk lives to protect endangered species",
+      "publisher": "Mail & Guardian",
+      "url": "https://mg.co.za/news/africa/2025-03-10-war-and-wildlife-congo-park-rangers-risk-lives-to-protect-endangered-species/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Article is based on a newsletter of the Game Rangers Association of Africa; claims are largely unattributed or from single named officials without independent verification. Used only for the reported halt to gorilla tourism, with 'reportedly' wording.",
+      "published_date": "2025-03-10",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "A park famed for rare gorillas gears up to fight Ebola and protect its primates (interview with Emmanuel de Merode)",
+      "publisher": "NPR (republished by Oregon Public Broadcasting)",
+      "url": "https://www.opb.org/article/2026/06/06/fighting-ebola-in-a-park-that-s-home-to-rare-gorillas/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Security and funding statements are those of the park's director in an interview, not independently verified by the outlet.",
+      "published_date": "2026-06-06",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "How Virunga Park protects people and gorillas from Ebola in eastern DRC",
+      "publisher": "Al Jazeera (Prosper Heri Ngorora)",
+      "url": "https://aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Park-response details are largely statements by the park's director-general.",
+      "published_date": "2026-08-02",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "DRC cancels auction of 27 oil blocks",
+      "publisher": "Africanews",
+      "url": "https://www.africanews.com/amp/2024/10/15/drc-cancels-auction-of-27-oil-blocks/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The article text read does not give its own publication date; the date shown is taken from the URL path. The cancellation announcement date was not independently confirmed.",
+      "published_date": "2024-10-15",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "A respite for nature and people: the DRC cancels controversial oil block auction",
+      "publisher": "IUCN National Committee of the Netherlands (IUCN NL)",
+      "url": "https://www.iucn.nl/en/?p=203884",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Advocacy organisation commentary; used for corroboration of the cancellation report and for IUCN NL's own stated view, which is attributed to it.",
+      "published_date": "2024-11-05",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_20",
+      "title": "RD Congo : Le M23 a commis des massacres près du parc national des Virunga",
+      "publisher": "Human Rights Watch",
+      "url": "https://www.hrw.org/fr/news/2025/08/20/rd-congo-le-m23-a-commis-des-massacres-pres-du-parc-national-des-virunga",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Read in French. HRW's findings are its own; the parties named in it have denied or rejected allegations, as the release itself records. Concerns civilians in an area bordering the park, not damage to the property.",
+      "published_date": "2025-08-20",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_21",
+      "title": "The counterinsurgency/conservation nexus: guerrilla livelihoods and the dynamics of conflict and violence in the Virunga National Park, Democratic Republic of the Congo (Verweijen and Marijnen)",
+      "publisher": "Journal of Peasant Studies 45(2), via White Rose Research Online",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/113501/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Only the repository record and abstract were read, not the full text.",
+      "published_date": "2018",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-14",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude, replacing an earlier draft of 2026-10-12. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. Known gaps (not included because not verified): (1) UNESCO's English property page (whc.unesco.org/en/list/63/) could not be fetched in this pass; metadata rests on the French property page and the Maps page, and the Danger List page. (2) The UNESCO 2026 state-of-conservation report and the State Party reports (2024 document 219293 and others) were not read; only Committee decisions and UNESCO state-of-conservation web pages were. (3) Coordinate conflict: UNESCO's page gives N0 55 0, which appears inconsistent with the park's location; south latitude used and flagged for map check. (4) Oil tender: media report a cancellation (Oct 2024) while the Committee in 2025 and 2026 says the 2022 tender does not appear cancelled or withdrawn; unresolved. (5) Month of the 2023, 2024 and 2026 Committee sessions was not stated on the decision pages; year-only dates used for 2023 and 2024, and July 2026 inferred from the same session recorded elsewhere in this project. (6) No primary or wire-service source was found for current (2026) control of park sectors by armed groups; 2026 security claims rest on Mongabay and an NPR interview with the park director. (7) The Ebola outbreak is a health emergency outside the four threat categories; it is recorded as an event and mentioned in the rationale only. (8) No evidence was found or used for natural-disaster (for example volcanic) or climate-change threats, so those categories are omitted. (9) A commercial VR app and a promotional video on the park's visitor page were not counted toward DPI. (10) The Mail & Guardian claim that eight rangers were killed was not used because its period is unclear and it differs in scope from other figures. Images omitted by design. VERIFIER PASS 2026-10-14: re-fetched all UNESCO decision, state-of-conservation, documents, gallery, Danger List and map pages and the journalism/NGO/academic sources. Fixes: removed 'again' from ICCN 65% (decision says 'has operational presence'); community-tracker monitoring re-attributed to the 2023 decision (2026 decision does not mention it; 'commends' changed to 'notes'); 'welcomes continued application of 2018 corrective measures' softened to the 2026 decision's reference; Mail & Guardian tourism claim narrowed to gorilla trekking (Nyiragongo not mentioned) and NPR's closure statement attributed to the director; Mongabay 'chased from patrol posts' corrected to 'left several posts since April 2024 under M23 threat'; 1994 threats re-attributed to UNESCO's 2024 SOC page (page does not explicitly tie them to the 1994 listing); 2018 corrective-measures dating corrected (first adopted 2006, updated 2011/2014/2018; desired state dates from 2011); NPR staff-death details added to the May 2026 event; coordinate note extended (English property and Maps pages also give N0 55 0). Coordinates: south latitude retained (Wikipedia -0.917, 29.167); UNESCO N sign appears to be an error but unconfirmed. Oil-tender discrepancy: Africanews (undated text; announced by Oil Minister, URL date 2024-10-15) and IUCN NL (5 Nov 2024) both confirm the cancellation report; Committee 2025/2026 still say the tender does not appear cancelled or withdrawn; left unresolved and flagged. Not verified: Busan session month (decision page gives only 2026); UNESCO 2026 SOC report; 'armed groups administering' wording.",
+      "changed_by": "claude"
+    }
+  ]
+}

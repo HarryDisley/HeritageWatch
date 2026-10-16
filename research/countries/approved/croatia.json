@@ -126,7 +126,9 @@
       "accessed_date": "2026-10-11"
     }
   ],
-  "site_slugs": [],
+  "site_slugs": [
+    "old-city-of-dubrovnik"
+  ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
   "approved_date": "2026-10-11",
@@ -143,6 +145,11 @@
       "date": "2026-10-11",
       "changed_by": "Harry Disley",
       "change": "Approved for publication."
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "claude",
+      "change": "Linked approved site profiles: old-city-of-dubrovnik."
     }
   ]
 }

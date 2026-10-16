@@ -1,0 +1,572 @@
+{
+  "slug": "paris-banks-of-the-seine",
+  "name": "Paris, Banks of the Seine",
+  "alternate_names": [
+    "Paris, rives de la Seine",
+    "Banks of the Seine, Paris"
+  ],
+  "country": "France",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 48.8655,
+    "lng": 2.3211
+  },
+  "coordinate_note": "Converted from the coordinates shown on UNESCO's property page (N48 51 55.8, E2 19 16.1). The inscribed property is a stretch of the Seine and its banks from the Pont de Sully to the Pont d'Iena including the Ile de la Cite and Ile Saint-Louis, not a single point; this marker is a practical single-point reference. A 2024 minor boundary modification (No 600bis; ICOMOS evaluation of 13 March 2024) proposed enlarging the property from 365 ha to 531 ha with a buffer zone of about 3,194 ha; UNESCO's property page now states that the boundary was minor-modified in 2024 and shows 538 ha for the property and 3,194 ha for the buffer zone (the 531 vs 538 ha difference was not reconciled). The Committee decision on it (46 COM 8B.39, recalled in 47 COM 7B.105) was not read.",
+  "unesco_id": "600",
+  "inscription_year": 1991,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Inscribed in 1991 under criteria (i), (ii) and (iv), the property covers the historic stretch of the Seine in Paris between the Pont de Sully and the Pont d'Iena, with the Ile de la Cite and Ile Saint-Louis. UNESCO describes the riverbanks as a view of the city's evolution and history, from the Louvre to the Eiffel Tower and from the Place de la Concorde to the Grand and Petit Palais, names Notre-Dame and the Sainte-Chapelle as architectural masterpieces, and credits Haussmann's wide squares and boulevards with influencing city planning worldwide.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The 15 April 2019 fire at Notre-Dame is listed by UNESCO as a factor affecting the property, and 'fire' is the 'other threat' listed in the 2024 and 2025 state-of-conservation entries (the 2025 entry also lists 'impacts of visitor tourism and leisure activities'). The cathedral reopened in December 2024. The Committee's 2025 decision (47 COM 7B.105) commends the reopening, and its 2026 decision (48 COM 7B.35) welcomes the completion in 2025 of the second phase of restoration and the development of a Master Plan. Work is not finished: the restoration body's Master Plan page describes 11 operations between 2026 and 2031, while journalists report twelve phases running 2026-2033 and a programme costed at about 150 million euros, with about 20 million reported as secured (EWTN, July 2026) and about 130 million still to be raised (Finestre sull'Arte, July 2026). UNESCO's Advisory Bodies assessed the cathedral's fire-protection arrangements positively in both the 2024 and 2025 cycles (as summarised on the SOC pages). The main open conservation question in the Committee's record is the project to replace six 19th-century stained-glass windows in the south side of the cathedral with contemporary windows: in 2024 the Committee said the project should undergo a Heritage Impact Assessment, in 2025 it noted the project had advanced despite an unfavourable opinion from France's National Commission for Heritage and Architecture and asked for a 'thorough and independent' assessment, and in 2026 (48 COM 7B.35, as summarised from the decision text) it expressed concern that the assessment may rely on an interpretation of Outstanding Universal Value that does not fully recognise the cathedral as a key attribute and asked the State Party to suspend the project and reconsider replacing the historic windows. A Paris administrative court judge refused on 19 May 2026 to suspend the authorisation (urgency condition not met; the merits are reported as still pending), and press reports in July 2026 expect the new windows to be completed by the end of 2026. Beyond the cathedral, the Committee has repeatedly asked for impact assessments and early notification for projects across the property (Place de la Concorde, the cathedral surroundings on the Ile de la Cite, the Louvre 'Nouvelle Renaissance' project, a proposed National Assembly visitor centre) and regretted in 2025 that detailed documentation for the Ile de la Cite and cathedral-grounds redevelopment was not submitted before administrative authorisation. The 2022 joint mission noted the property had no overall management plan; in 2025 and 2026 the Committee welcomed/asked for work on an integrated management plan including a risk prevention plan. This is a monitored set of conservation and governance issues in an actively managed property, not an unresolved acute damage event.",
+      "first_identified_date": "2019-04-15",
+      "date_note": "Date is that of the Notre-Dame fire, the earliest dated event in the sources reviewed for this category; development-review and management-plan concerns are ongoing and have no single start date.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_14",
+        "src_15",
+        "src_16",
+        "src_17",
+        "src_18"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The property lies along the Seine and is exposed to river flooding. In June 2016 Reuters reported the Seine reached about 6 metres in central Paris, its highest level in 30 years, with the Louvre and Musee d'Orsay closed and artworks moved to safety (the Reuters report notes the 1910 record of 8.6 metres was not approached); PBS NewsHour reported the river crested near 20 feet. In February 2026 Le Bonbon reported the Seine overflowing for several days, peaking at about 3.70 metres on 17 February (compared in the same article with about 6.10 m in 2016), with a list of quays, ports and tunnels closed to traffic and a deputy mayor calling it a controlled situation. None of the sources reviewed document structural damage to the property's monuments from the 2026 rise, and none of the UNESCO decisions or state-of-conservation entries read lists flooding as a factor affecting the property. This category therefore records documented exposure and past events, not a currently documented unrepaired disaster.",
+      "first_identified_date": "2016-06-03",
+      "date_note": "Date is that of the June 2016 flood reported by Reuters; flood exposure itself is long-standing (the 1910 flood is referenced in the sources but is not separately documented here).",
+      "source_ids": [
+        "src_20",
+        "src_21",
+        "src_22"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no armed conflict, no loss of monitoring access (UNESCO, ICOMOS and ICCROM visited in 2022 and the State Party reports annually), no collapse of protection. High Concern: considered and not mechanically triggered. (1) The property is not on the List of World Heritage in Danger; this was checked directly on UNESCO's danger-list page (src_01), which lists no property for France. (2) The one damaging event in the last roughly five years that applies here is not documented as unrepaired: the April 2019 fire is more than five years ago and the cathedral reopened in December 2024; the February 2026 Seine rise is documented for road and port closures only. (3) No armed conflict. (4) The closest trigger is 'a documented unresolved structural threat with a stated near-term timeframe from a named authority': the Committee's July 2026 decision (as summarised from its text) asks France to suspend the stained-glass replacement, but the concern is about the process and the interpretation of the cathedral's attributes rather than a forecast of damage, the decision sets no harm timeframe (its only dated item is a 1 February 2027 reporting deadline), and the work is reported to be going ahead (a Paris administrative court judge declined to suspend the permit in May 2026; the merits are pending). (5) 'Significant historical damage whose site-wide repair remains substantially incomplete' is the other close call: the cathedral has reopened and the Committee welcomed completion of the second restoration phase in 2025, but a further programme reported at about 150 million euros and running to 2031-2033 remains, with only a small share of the money reported as secured. The damage was to one component of a large urban property, and the remaining work is described as restoration of fire damage and older conservation needs, so it is judged to be follow-on conservation rather than substantially incomplete repair. Moderate Concern triggers matched: documented, chronic and monitored threats (fire risk and post-fire restoration, development projects under Committee review, an unresolved disagreement over the windows, flood exposure) in an actively managed property. This is a close call between Moderate and High, and a reviewer may weigh the windows dispute or the remaining restoration funding gap differently.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The fire of April 2019 belongs in the timeline; the present picture is of a reopened cathedral (December 2024) whose fire protection UNESCO's Advisory Bodies assessed positively in 2024 and 2025, a Committee that in 2025 commended the reopening and in 2026 welcomed completion of the second restoration phase and a Master Plan, an annual State of Conservation cycle with a next report due 1 February 2027, and no placement on the Danger List. Against that, real issues remain open: a multi-year restoration programme still to be completed and mostly unfunded according to press reports; a contested replacement of six historic windows that the Committee has asked France to suspend, which press reports say is going ahead after a Paris court judge declined to suspend the permit (the merits are pending); a Committee record of asking for impact assessments before irreversible decisions on several projects and regretting in 2025 that documentation for the cathedral-surroundings redevelopment came after authorisation; and an integrated management plan still being developed. Flooding is documented as exposure and past disruption (2016, February 2026) without reported damage to monuments. Together these are chronic, monitored threats rather than an acute emergency, which is what Moderate Concern describes. Confidence is Supported rather than Confirmed: the facts come from UNESCO decisions and state-of-conservation pages and are corroborated by independent reporting, but the 2026 state-of-conservation report itself (document 224588) could not be retrieved, the 2026 decision was read through a summarised rendering rather than verbatim, the outcome of the windows dispute is open, and the Moderate/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_06",
+        "src_07",
+        "src_14",
+        "src_15",
+        "src_17",
+        "src_18",
+        "src_19",
+        "src_20",
+        "src_22"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": false
+    },
+    "coverage_note": "Three of five categories are marked on evidence opened in this pass, which gives the moderate tier by the rubric (2-3 categories). Coverage is uneven and building-level: the 3D evidence concerns Notre-Dame only. Andrew Tallon's 2010 laser scan (reported at roughly one billion points) is the pre-fire record reported to have guided the restoration (GPS World, January 2025), but what is publicly viewable is limited: Geo Week News (May 2019) reported a public viewer with 41 scan positions that Leica's Michael Harvey described as only a subset, and said the full dataset was not described as publicly viewable. The viewer link itself could not be loaded in the research pass or the independent verification pass (access blocked both times), so its current availability rests on the Hexagon announcement (2019) and GPS World (2025); a reviewer should click it before accepting the 3D category. No whole-property 3D model was found. Not counted: a virtual tour of Notre-Dame (a fundraising charity's page describes a panorama tour hosted by Columbia University from the Mapping Gothic project; the tour itself was not opened), and academic scholarship (no peer-reviewed article could be opened in this pass; the Tallon-related and Mapping Gothic literature exists but was not verified). The tier therefore reflects what was verified, and may understate real coverage for a property this heavily studied.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (the French-language gallery page displays 12 images and its pagination indicates roughly 88 in total, with captions such as Notre-Dame, the Conciergerie, the Sainte-Chapelle, the Samaritaine and the Seine banks, each with a copyright and author credit).",
+        "url": "https://whc.unesco.org/fr/list/600/gallery/",
+        "source_id": "src_13"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists official records including the 1991 ICOMOS evaluation, the 2024 ICOMOS evaluation of the minor boundary modification, the March 2022 joint mission report, State Party conservation reports for 2019, 2022, 2024, 2025 and 2026, and Periodic Reporting cycle documents.",
+        "url": "https://whc.unesco.org/en/list/600/documents",
+        "source_id": "src_12"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO hosts the 2024 ICOMOS evaluation of the minor boundary modification (No 600bis, approved 13 March 2024), which describes the proposed change from 365 ha to 531 ha and a buffer zone of about 3,194 ha.",
+        "url": "https://whc.unesco.org/document/208527",
+        "source_id": "src_11"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Hexagon Geosystems announced on 19 April 2019 that it had opened Andrew Tallon's Notre-Dame laser-scan data to the public in its online viewing platform (link given in the post at notredame.truview-cloud.com; not loadable in either research or verification pass, proxy 403).",
+        "url": "https://blog.hexagongeosystems.com/notre-dame/",
+        "source_id": "src_23"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "GPS World (January 2025) reports that Tallon's 2010 scan, described as a cloud of 1 billion points from a Leica terrestrial laser scanner, informed the restoration (for example the design of wooden centering for the vaults and flying buttresses) and links to a Leica TruView viewer of the data ('available to view here'); the article states no access restrictions. The article also says the digital twin was 'created in 2015', which conflicts with its own 2010 scan date.",
+        "url": "https://www.gpsworld.com/3d-point-cloud-guides-restoration-of-notre-dame-cathedral/",
+        "source_id": "src_24"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "Geo Week News (May 2019) reported that the public viewer had 41 scan positions, which a Leica representative described as only a subset of the data; the full dataset's location was described as uncertain. This limits what the public can actually view.",
+        "url": "https://www.geoweeknews.com/articles/restoring-notre-dame-how-that-3d-data-might-actually-be-used/",
+        "source_id": "src_25"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1991",
+      "title": "Paris, Banks of the Seine inscribed on the World Heritage List",
+      "description": "UNESCO's property page records inscription in 1991 under criteria (i), (ii) and (iv). The 1991 ICOMOS evaluation (observations dated May 1991) recommended inscription under criteria I and II and asked that strict development control cover the profile and height of visible background skylines, not only adjacent zones.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2016-06",
+      "title": "Seine flood closes the Louvre and Musee d'Orsay",
+      "description": "Reuters reported the Seine reached about 6 metres in central Paris on 3 June 2016, its highest level in 30 years, with the Louvre and Musee d'Orsay closed and artworks moved to safety, riverside roads submerged and an underground line shut. PBS NewsHour reported the river cresting near 20 feet early on 4 June and the Louvre closed until the following Tuesday. Neither source reports damage to the monuments in the property.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_20",
+        "src_21"
+      ]
+    },
+    {
+      "date": "2019-04-15",
+      "title": "Fire at Notre-Dame de Paris",
+      "description": "UNESCO's state-of-conservation entries and advisory-mission announcement record the fire at Notre-Dame on 15 April 2019 as a factor affecting the property. UNESCO's 2024 SOC entry describes the subsequent reconstruction work, including completion of the spire framework and installation of the cross and rooster in 2023, with reconstruction of the nave and choir roof structure under way.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_06",
+        "src_07",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2022-03-28",
+      "title": "Joint World Heritage Centre / ICOMOS / ICCROM advisory mission to Notre-Dame",
+      "description": "A joint advisory mission visited on 28-29 March 2022, at France's invitation, to review the restoration and redevelopment programme. According to the mission report, the experts judged that rebuilding the roof framing and spire to their 1855-1864 state could restore the Outstanding Universal Value damaged by the fire, noted that fire-prevention studies were still in progress and that the property had no overall management plan, and recommended a restoration timeline, facade technical information and a risk prevention plan.",
+      "event_type": "other",
+      "source_ids": [
+        "src_08",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7B.53 on Paris, Banks of the Seine",
+      "description": "At its extended 45th session the Committee praised France's work to safeguard Notre-Dame and complete security and consolidation work, welcomed the fire defence and safety project, found the planned exterior restoration, liturgical layout and surroundings projects compatible with Outstanding Universal Value (as summarised from the decision text), endorsed the 2022 mission's recommendations, recommended an integrated management plan, and asked for an updated report by 1 February 2024.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7B.7 on Paris, Banks of the Seine",
+      "description": "At its 46th session (New Delhi) the Committee welcomed progress on the reconstruction ahead of a planned December 2024 reopening, noted plans for contemporary stained glass in six south aisle chapels to replace 19th-century windows and said this should undergo a Heritage Impact Assessment, asked for detailed information and an assessment on the Place de la Concorde redevelopment before any hard-to-reverse decisions, and asked for an updated report by 1 February 2025. UNESCO's SOC entry records the Advisory Bodies finding the fire-protection arrangements adequate.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024-12-07",
+      "title": "Notre-Dame de Paris reopens after the 2019 fire",
+      "description": "AFAR reported that Notre-Dame reopened on 7 December 2024. UNESCO's 2025 SOC entry, records the reopening on 7-8 December 2024, with worshippers and visitors returning from 15 December, and that the public body responsible for the restoration was extended to 2028. The Committee's 2025 decision commends the reopening.",
+      "event_type": "other",
+      "source_ids": [
+        "src_07",
+        "src_03",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7B.105 on Paris, Banks of the Seine",
+      "description": "The Committee commended the reopening of Notre-Dame, noted the stained-glass project had progressed despite an unfavourable opinion from the National Commission for Heritage and Architecture and asked for a thorough and independent Heritage Impact Assessment, welcomed the start of work on the management plan, regretted that detailed documentation for the Ile de la Cite and cathedral-grounds redevelopment was not submitted before administrative authorisation, noted that Olympic Games installations were dismantled in late 2024 with no adverse effects, and asked for an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "title": "Seine overflows in Paris, quays and ports closed",
+      "description": "Le Bonbon reported the Seine had been overflowing in Paris for several days and peaked at about 3.70 metres on 17 February 2026, with a list of quays, ports and tunnels closed to traffic; a deputy mayor was quoted calling it a controlled situation typical of winter, and the article attributes the rise to Storm Pedro and 35 consecutive rainy days reported by Meteo-France. Single-source; the article reports no damage to monuments.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_22"
+      ]
+    },
+    {
+      "date": "2026-03",
+      "title": "Notre-Dame Restoration Master Plan reportedly formalised",
+      "description": "Finestre sull'Arte reported that the conservation master plan was formalised in March 2026, with twelve phases running from 2026 to 2033. The restoration body's own Master Plan page describes 11 operations between 2026 and 2031. EWTN News (July 2026) reported a final phase running 2027-2033 and an investment of 150 million euros, of which about 20 million was reported as secured. Sources differ on the span and phase count; the March 2026 date rests on one source.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_14",
+        "src_15",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "title": "Paris court declines to suspend replacement of Notre-Dame stained-glass windows",
+      "description": "Actu-Juridique reported that on 19 May 2026 the Paris administrative court's urgent-matters judge rejected a request by the associations Sites et Monuments and SOS Paris to suspend the prefectural authorisation to remove the Viollet-le-Duc windows and install windows by Claire Tabouret, finding the urgency condition not met (the article also reports the judge accepted the argument that the work is reversible). The article reports that a challenge on the merits and an appeal on the related contract remain pending, and that removal was scheduled to begin on 22 June with installation due in mid-October; Euronews (24 July 2026) reported the windows are expected to be installed by the end of 2026 and shown to the public in December. Whether removal has actually taken place was not confirmed.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17",
+        "src_18"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "World Heritage Committee decision 48 COM 7B.35 on Paris, Banks of the Seine",
+      "description": "The Committee welcomed the completion in 2025 of the second phase of restoring Notre-Dame and the development of a Master Plan; and, as summarised from the decision text, expressed concern that the Heritage Impact Assessment for the stained-glass project may rely on an interpretation of Outstanding Universal Value that does not fully recognise the cathedral as a key attribute and asked the State Party to suspend the project and reconsider replacing the historic windows. It also noted the initiative to establish a Remarkable Heritage Site covering the property and its setting, asked for an integrated management plan including a risk prevention plan, asked for regular updates on the Place de la Concorde redevelopment, and for detailed information including impact assessments on the Louvre 'Nouvelle Renaissance' and proposed National Assembly visitor-centre projects, and requested an updated report by 1 February 2027. The decision text does not mention the Danger List; the property is not on UNESCO's Danger List page (src_01). The decision page read shows no month; July 2026 is inferred from the 48th session's timing as recorded in the HeritageWatch Venice dossier and should be confirmed.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_01"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Paris, rives de la Seine (French-language property page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/list/600/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page states 'The 58 properties' and shows no entry for France or for Paris; the page carries no explicit date, but its entries include 2026 additions and its footer reads 1992-2026.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7B.35: Paris, Banks of the Seine (France)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9091",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7B.105: Paris, Banks of the Seine (France)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8829",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7B.7: Paris, Banks of the Seine (France)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8533",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7B.53: Paris, Banks of the Seine (France)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8350",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "State of Conservation (SOC 2024): Paris, Banks of the Seine",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4586",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation (SOC 2025): Paris, rives de la Seine (France)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4748",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "UNESCO to conduct an Advisory mission to Notre Dame Cathedral in Paris",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2421",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2022-03-25",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Rapport de mission de conseil conjointe Centre du patrimoine mondial/ICOMOS/ICCROM (Notre-Dame de Paris, 28-29 March 2022)",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS / ICCROM",
+      "url": "https://whc.unesco.org/document/196683",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Document is in French and carries no publication date on the copy read; the mission dates (28-29 March 2022) are given in the document and in the UNESCO news item (src_08).",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "ICOMOS evaluation, World Heritage List No. 600, 'The banks of the Seine in Paris'",
+      "publisher": "ICOMOS (hosted by UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/153853",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "1991-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "ICOMOS evaluation, Paris, Banks of the Seine (No 600bis), minor boundary modification",
+      "publisher": "ICOMOS (hosted by UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/208527",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024-03-13",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Paris, Banks of the Seine: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/600/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Paris, rives de la Seine: galerie de photos",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/list/600/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Restoration Master Plan",
+      "publisher": "Rebâtir Notre-Dame de Paris (public establishment)",
+      "url": "https://rebatirnotredamedeparis.fr/en/support-projects/restoration-master-plan",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The restoration body's own page on its fundraising site; undated on the copy read (appears to be from 2026). Describes 11 operations between 2026 and 2031, which differs from the 2026-2033 span reported by journalists (src_15, src_16). Used for the existence and scope of the plan, not as an independent assessment.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Notre-Dame Cathedral enters final stage of restoration following 2019 fire",
+      "publisher": "EWTN News",
+      "url": "https://www.ewtnnews.com/world/europe/notre-dame-cathedral-enters-final-stage-of-restoration-following-2019-fire",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Faith-based news outlet; the cost and funding figures are reported without a named official source in the copy read, so they are treated as reported figures.",
+      "published_date": "2026-07-07",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Notre-Dame: Restoration of the Western Rose Window and the North Facade Begins",
+      "publisher": "Finestre sull'Arte",
+      "url": "https://www.finestresullarte.info/en/news/notre-dame-restoration-of-the-western-rose-window-and-the-north-facade-begins",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Italian art-news outlet; single source for the statement that the master plan was formalised in March 2026.",
+      "published_date": "2026-07-06",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Vitraux de Notre-Dame : le tribunal administratif de Paris ne suspend pas l'autorisation de proceder aux travaux",
+      "publisher": "Actu-Juridique",
+      "url": "https://www.actu-juridique.fr/administratif/vitraux-de-notre-dame-le-tribunal-administratif-de-paris-ne-suspend-pas-lautorisation-de-proceder-aux-travaux/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Legal news outlet; the order's own text appears only as images in the article, so the court's reasoning is taken from the journalist's summary.",
+      "published_date": "2026-05-19",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Nouveaux vitraux controverses de Notre-Dame de Paris seront devoiles en decembre",
+      "publisher": "Euronews (French edition)",
+      "url": "https://fr.euronews.com/culture/2026/07/24/nouveaux-vitraux-controverses-de-notre-dame-de-paris-seront-devoiles-en-decembre",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-07-24",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Notre-Dame Cathedral Has Finally Reopened",
+      "publisher": "AFAR (Lyndsey Matthews)",
+      "url": "https://www.afar.com/magazine/what-will-it-take-to-rebuild-notre-dame-cathedral",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Travel magazine; used only to corroborate the reopening date. Its statement that full restoration would finish in 2026 is superseded by later reporting and is not used.",
+      "published_date": "2024-12-09",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Seine floods Paris, Louvre and Musee d'Orsay closed (Reuters report)",
+      "publisher": "The Gazette (Cedar Rapids, republishing Reuters)",
+      "url": "https://www.thegazette.com/?p=151129",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2016-06-03",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Louvre shuttered to protect art as historic flooding begins to recede",
+      "publisher": "PBS NewsHour (Michael D. Regan)",
+      "url": "https://www.pbs.org/newshour/world/louvre-shuttered-to-protect-art-as-historic-flooding-begins-to-recede",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2016-06-04",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Crue de la Seine : nombreuses voies fermees",
+      "publisher": "Le Bonbon",
+      "url": "https://en.lebonbon.fr/paris/news/crue-seine-nombreuses-voies-fermees",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "City lifestyle outlet; single source in this dossier for the February 2026 river level and closures. Not relied on for any status-determining claim.",
+      "published_date": "2026-02-19",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Supporting efforts to rebuild Notre Dame",
+      "publisher": "Hexagon Geosystems (blog)",
+      "url": "https://blog.hexagongeosystems.com/notre-dame/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Vendor's own announcement. The scan-viewer link it gives could not be loaded in this research pass (access blocked), so what is viewable was confirmed only through press reports (src_24, src_25).",
+      "published_date": "2019-04-19",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_24",
+      "title": "3D point cloud guides restoration of Notre Dame cathedral",
+      "publisher": "GPS World",
+      "url": "https://www.gpsworld.com/3d-point-cloud-guides-restoration-of-notre-dame-cathedral/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Trade publication.",
+      "published_date": "2025-01-08",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_25",
+      "title": "Restoring Notre Dame: How that 3D data might actually be used",
+      "publisher": "Geo Week News (Sam Pfeifle)",
+      "url": "https://www.geoweeknews.com/articles/restoring-notre-dame-how-that-3d-data-might-actually-be-used/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Trade publication; written within weeks of the fire, so describes what was viewable in 2019.",
+      "published_date": "2019-05-07",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "changed_by": "claude",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; close calls vs High Concern flagged in decision_trigger (stained-glass dispute; remaining restoration funded only in small part). Danger List checked directly on UNESCO's danger-list page: Paris is not listed. Known gaps (not included because not verified): (1) The 2026 State of Conservation report and the Secretariat/Advisory Body analysis for 2026 were not read: document 224588 returned a fetch error and UNESCO's SOC/curl access was blocked in places; only the Committee decision 48 COM 7B.35 was read, and it was read through a summarised rendering, not verbatim. (2) The English property page whc.unesco.org/en/list/600/ and its English gallery were blocked in this pass; metadata and the photo gallery rest on the French-language pages. (3) Decision 46 COM 8B.39 (boundary modification and buffer zone) was not read, so the outcome of the 2024 boundary request is not stated. (4) The month of the 48th session decision is inferred (see event note). (5) Andrew Tallon scan: the Leica TruView viewer link could not be loaded; viewability rests on Hexagon (2019), GPS World (2025) and Geo Week (2019, subset of 41 scan positions); reviewer should click the link before accepting the 3D category. (6) Virtual tour: a fundraising charity page describes a Columbia-hosted Mapping Gothic panorama tour; the tour and the mappinggothic.org site were not opened, so virtual_tour is false. (7) No peer-reviewed scholarship could be opened, so academic_scholarly is false; the DPI tier probably understates real coverage. (8) Tourism pressure is listed by UNESCO among factors in the 2025 SOC entry but the decisions read give no detail, so it is mentioned only briefly. (9) Environmental/climate threat category omitted: no documented evidence specific to this property was found in sources opened. (10) Seine flood evidence is limited to the 2016 and February 2026 episodes; no flood-risk plan or official hydrological source was read. (11) Whether the stained-glass windows have actually been removed or installed as of October 2026 was not confirmed. (12) Sources differ on the master-plan span (2026-2031 vs 2026-2033) and phase count (11 vs 12); both are stated. Wikipedia not used. Images omitted by design. Web search budget was exhausted partway through the pass. VERIFIER (2026-10-15, second pass; fetch quota ran out part-way): re-read 48 COM 7B.35 (confirms the request to 'suspend implementation of the project' and reconsider replacing the historic windows, concern about HIA/OUV interpretation, Master Plan, Remarkable Heritage Site, 1 Feb 2027 deadline, no Danger List mention; page gives session as Busan 2026 but no month, so July remains unconfirmed), 47 COM 7B.105, Actu-Juridique, Euronews, Hexagon, GPS World, Geo Week. Edits: GPS World entry reworded (article links a viewer and states no restrictions; it does not say 'publicly accessible' and contains an internal 2010/2015 date inconsistency); Hexagon entry given exact date and viewer-unloadable note; court event adds reversibility finding. 3D category kept but unverified by direct load: reviewer must click the viewer link. Not re-checked due to quota: 46 COM 7B.7, 45 COM 7B.53, SOC 2024/2025 pages, danger-list page, news 2421, documents/gallery pages, mission report, ICOMOS docs, Master Plan page, EWTN, Finestre, AFAR, Reuters/PBS/Le Bonbon. VERIFIER (2026-10-15, first independent check of the draft, all UNESCO pages, Rebatir master plan, EWTN, Finestre, AFAR, Gazette/Reuters, PBS, Le Bonbon, Actu-Juridique, Euronews re-read): coordinates confirmed; criteria/year confirmed. Fixes: (1) coordinate note corrected, since UNESCO's page now shows the 2024 minor modification (538 ha, buffer 3,194 ha) rather than the 1991 boundary; (2) 48 COM 7B.35 summary corrected: Place de la Concorde item is regular updates, not an impact assessment request; Danger List statement re-attributed to the danger-list page; (3) 'court approval' of the windows permit corrected to a judge declining to suspend it, and 'State Party allowed work' softened to 'reported to be going ahead'; (4) HIA sentence in conservation category separated by year (unfavourable CNPA opinion noted in 2025, not 2024); (5) removed unverified '31 January 2025' report date from the reopening event; (6) fire event wording on roof reconstruction aligned to SOC 2024; (7) photo gallery count qualified (12 shown, ~88 inferred from pagination). Still unverified: month of the 48th session decision; the Tallon scan viewer; SOC 2026 report."
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: moderate_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

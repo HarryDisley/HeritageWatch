@@ -1,0 +1,488 @@
+{
+  "slug": "selous-game-reserve",
+  "name": "Selous Game Reserve",
+  "alternate_names": [
+    "Selous",
+    "Nyerere-Selous-Mikumi ecosystem (wider landscape)"
+  ],
+  "country": "United Republic of Tanzania",
+  "region": "Africa",
+  "coordinates": {
+    "lat": -9.0,
+    "lng": 37.4
+  },
+  "coordinate_note": "Converted from the coordinates displayed on UNESCO's property page (S9 0 0 E37 23 60, i.e. 9 degrees 0'0\" S, 37 degrees 23'60\" E, which equals 37 degrees 24' E). The seconds value of 60 is not a standard notation and was read as 24 minutes. The inscribed property is very large (UNESCO gives 5,120,000 ha), so this marker is a practical single-point reference only.",
+  "unesco_id": "199",
+  "inscription_year": 1982,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "natural",
+  "significance_summary": "UNESCO describes the Selous Game Reserve as an immense sanctuary measuring 50,000 square kilometres. It was inscribed in 1982 under natural criteria (ix) and (x), and UNESCO lists large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles among its wildlife. The inscribed property is listed by UNESCO as 5,120,000 ha with a 21,492 ha buffer zone.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Large water infrastructure on the Rufiji basin is the main environmental threat in the Committee's recent decisions. The Julius Nyerere Hydropower Project (JNHPP, formerly Stiegler's Gorge / Rufiji) lies inside the property. In 2019 the Committee expressed utmost concern about the decision to develop it, noted that the environmental impact assessment fell considerably short of acceptable standards, and noted that clearing of about 91,400 ha had started (43 COM 7A.16). UNESCO's 2025 working document (WHC/25/47.COM/7A.Add.3) reports a reservoir of about 32.8 billion m3 and that all nine turbines reportedly began operating in April 2025 (2,115 MW), and states that the World Heritage Centre and IUCN consider the project's degree of impact on Outstanding Universal Value to be 'far greater than its physical footprint', affecting river hydrology and upstream and downstream ecosystems; the State Party says the dam regulates floods. The Committee's 2025 decision (47 COM 7A.16) expresses utmost concern that the project is fully operational and regrets the lack of information on downstream flooding, including reported loss of life and crops. The 2024 decision (46 COM 7A.55) had already asked the State Party to urgently provide more information on reported downstream flooding and its impacts on communities, including loss of life. The 2026 decision (48 COM 7A.54) expresses utmost concern over the cumulative and irreversible impacts of the hydropower project, Kidunda Dam and Mkuju uranium project, and again expresses utmost concern about the dam's irreversible impact given the absence of an adequate environmental and social impact assessment, referring to the Committee's position that dams with large reservoirs inside World Heritage properties are incompatible with World Heritage status (a position recalled in 44 COM 7A.51, 2021, itself citing 40 COM 7). The proposed Kidunda Dam (outside the property boundary) is a related concern: the 2025 working document reports a redesign reducing the inundation area inside the property by 58%, from 13.2 km2 to 5.6 km2, with the World Heritage Centre and IUCN still concerned about migratory species, wetlands and the Selous-Wami Mbiki corridor; the 2025 and 2026 decisions say construction reportedly started/continues despite requests to wait for a new impact assessment (2025: utmost concern; 2026 notes construction reportedly continues despite the request and asks for dialogue on a revised assessment before project activities resume). IUCN's 2025 World Heritage Outlook rates the JNHPP, Mkuju uranium project and Kidunda dam each as a Very High Threat and rates the property's values Critical with a deteriorating trend (IUCN's own scale, separate from HeritageWatch statuses). The State Party's 2026 report summary says the project occupies a relatively minor portion of the reserve and follows an environmental and social impact assessment and management plan; these are State Party statements.",
+      "first_identified_date": "2014-06",
+      "date_note": "Month reflects the 2014 Committee session in which the Committee asked for impact assessments of the Stiegler's Gorge and Kidunda projects (38 COM 7B.95); the exact session date within June 2014 was not confirmed from the decision page read. Concern has continued and intensified in each decision since.",
+      "source_ids": [
+        "src_02",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_17"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Four documented conservation pressures. (1) Poaching: the Committee inscribed the property on the Danger List in 2014 after noting poaching and dramatic declines in elephant populations from a recent aerial survey (38 COM 7B.95). The trend since is described as improving but not fully resolved: the 2019 Committee decision noted a reported reduction in poaching (43 COM 7A.16); IUCN's 2025 Outlook rates commercial poaching a Low Threat that appears to have been reduced while calling for continued anti-poaching efforts; and Tanzania's wildlife institute (TAWIRI) 2022 aerial survey of the wider Nyerere-Selous-Mikumi ecosystem estimated 20,006 elephants (+/- 1,793 SE) against 15,501 (+/- 1,819 SE) in 2018, a difference the report itself says is not statistically significant. IUCN's Outlook states the carcass ratio fell from 16% in 2018 to 0.8% in 2022 (the TAWIRI report gives 0.8% in its main text but a different mortality figure of about 0.02% in its executive summary, an internal inconsistency), and that the current elephant estimate is roughly a fifth of the roughly 106,300 present at inscription. The survey covers the wider ecosystem, not only the inscribed property. (2) Mining and extractives: a Mkuju River uranium area was excised from the property by a 2012 boundary modification approved by the Committee in an exceptional and unique manner (36 COM 8B.43). The 2025 working document and 2025/2026 decisions report that a drilling contract was awarded and drilling reportedly began without the new impact assessment the Committee had requested; the 2025 decision urgently requests that all operations be suspended immediately and the 2026 decision reiterates its urgent request that operations be suspended until impacts are rigorously assessed. IUCN's Outlook also lists oil, gas and uranium exploration (e.g. Kito-1, described as dormant) as a High Threat. (3) Boundary and governance: in 2019 the government announced a split of the reserve, with a large part becoming Nyerere National Park (Africa Geographic reports 30,893 km2 for the park and about 20,155 km2 for the remaining reserve); the Committee's 2023 decision listed the new park's implications for legal status, governance and funding mechanisms as a topic for the requested Reactive Monitoring mission (45 COM 7A.14), and IUCN's Outlook says clarity is still needed on governance, laws and allowable activities. UNESCO's 2025 working document lists the need for a buffer zone among previously identified factors but describes no current buffer zone proposal. (4) Monitoring access: the Committee has asked since 2018 for a joint World Heritage Centre / IUCN Reactive Monitoring mission (45 COM 7A.14); the State Party's own 2026 report says it has invited one, and the 2025 and 2026 decisions urge it be organized urgently. The sources reviewed do not say that the mission has taken place.",
+      "first_identified_date": "2014-06",
+      "date_note": "Date of the Committee's decision to inscribe the property on the Danger List because of poaching (38 COM 7B.95, 38th session, Doha); the exact day in June 2014 was not confirmed from the decision page read. Boundary and mining concerns date from 2011-2012 and are recorded in events.",
+      "source_ids": [
+        "src_03",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_10",
+        "src_11",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_16"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern was considered and is the closest neighbour. Critical triggers: (a) no active combat zone; (b) the property is not reported as inaccessible to monitoring bodies (the State Party says it has invited a Reactive Monitoring mission and submits annual reports, although the mission has not been confirmed as carried out; note that the Committee recorded in 2023 that the mission requested since 2018 had still not been invited, and the 2026 decision still requests it with utmost urgency, so this trigger is also close); (c) protection and monitoring have not collapsed (the State Party continues to report and anti-poaching indicators are described by IUCN as improved); (d) the 'ongoing severe threat materially affecting survival, integrity or accessibility' trigger is the genuinely close one: the Committee has expressed 'utmost concern' about the irreversible impact of an operational large-reservoir dam inside the property, and IUCN's 2025 Outlook rates the property's values Critical and deteriorating. However, the extent of verified damage to the property's values is not quantified in the sources read (the Committee itself says the impact assessment was inadequate and a monitoring mission is still pending), so verified severe damage to a significant part of the property is not established on this evidence. High Concern triggers matched: (1) the property is officially inscribed on UNESCO's List of World Heritage in Danger (since 2014 and retained in 2026 by 48 COM 8C.2 and 48 COM 7A.54) for substantive reasons; (4) documented, unresolved environmental threats (an operational dam inside the property, Kidunda dam construction, Mkuju drilling) where a named authority (the Committee) has urgently requested suspension of operations and a mission; the only dated items are reporting deadlines (1 February 2027), not a stated timeframe for harm. This is a close call between High and Critical, and a reviewer may weigh the dam's operation and the IUCN 'Critical' outlook differently. Note that IUCN's 'Critical' outlook rating is IUCN's own scale and is not a HeritageWatch status.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The property was placed on the Danger List in 2014 because of poaching and elephant decline. That original reason has eased by several indicators (the Committee noted a reported poaching reduction in 2019, IUCN rates commercial poaching a Low Threat in 2025, and the 2022 TAWIRI survey estimated about 20,006 elephants in the wider ecosystem, although the report itself says the change from 2018 is not statistically significant and numbers remain far below those at inscription as reported by IUCN). The present, dominant concern is different in kind: the Julius Nyerere Hydropower Project, with its reservoir inside the property, became fully operational in April 2025, and in 2025 and 2026 the Committee referred to its position that large-reservoir dams in World Heritage properties are incompatible with World Heritage status, and in 2026 expressed utmost concern about irreversible effects given the absence of an adequate impact assessment. Kidunda Dam construction and Mkuju uranium drilling are reported to be proceeding despite Committee requests to wait for new assessments, and the 2019 boundary change creating Nyerere National Park has not been fully clarified. Against this, the property is still managed and reported on by the State Party, is subject to annual Committee review (a joint Reactive Monitoring mission has been requested but is not confirmed as carried out), and no active combat, access loss or collapse of protection is documented. These facts point to a property under serious, actively contested pressure and officially at risk, which is what High Concern describes, rather than one where verified, severe loss of a significant part of the property has been established, which would be Critical. Confidence is Supported rather than Confirmed: the Committee decisions and IUCN Outlook corroborate each other, but the 2026 Secretariat/IUCN working document was not retrieved, the Reactive Monitoring mission has not been confirmed as carried out, and the extent of downstream and ecological damage is not quantified in the sources reviewed. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_13",
+        "src_14"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": false,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of five categories have publicly accessible evidence, which gives the moderate tier by the rubric. Photographic is marked false because UNESCO's gallery for the property held only four images (all credited '© Evergreen' and carrying the same generic caption) when opened, which is thin rather than a meaningful body of professional or archival-quality images; a reviewer may weigh this differently. Archival records are strong in the sense of the World Heritage record (Advisory Body evaluations, mission reports, state of conservation reports and periodic reports are publicly listed on UNESCO's documents page), but that is administrative and monitoring documentation rather than digitisation of the site itself. No 3D scan or photogrammetry model and no virtual tour were found in one web search; absence reflects what was publicly findable, not necessarily what exists. The peer-reviewed article cited is a 1988 study of the proposed Stiegler's Gorge project, so scholarly coverage found is limited in this pass.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's gallery for the property held four images, all credited '© Evergreen' and carrying the same generic caption when opened. This was judged too thin to count as a meaningful body of documentation, so the category is marked false.",
+        "url": "https://whc.unesco.org/en/list/199/gallery/",
+        "source_id": "src_19"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists, among others, IUCN Advisory Body evaluations (1982, 2012), Reactive Monitoring mission reports (2007, 2008, 2013, 2017), state of conservation reports and summaries (2014-2026), Periodic Reporting Cycle 1 and 3 documents, and Committee decisions back to 1982.",
+        "url": "https://whc.unesco.org/en/list/199/documents/",
+        "source_id": "src_18"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed article by R. B. B. Mwalyosi, 'Environmental Impacts of the Proposed Stiegler's Gorge Hydropower Project, Tanzania', Environmental Conservation 15(3), 1988 (abstract opened). IUCN's World Heritage Outlook assessment for the property, with its reference list, is also publicly viewable.",
+        "url": "https://www.cambridge.org/core/journals/environmental-conservation/article/environmental-impacts-of-the-proposed-stieglers-gorge-hydropower-project-tanzania/5C06F6165883FAA72BC6538B8D35DEE2",
+        "source_id": "src_20"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1982",
+      "title": "Selous Game Reserve inscribed on the World Heritage List",
+      "description": "UNESCO records the inscription of the Selous Game Reserve in 1982 under natural criteria (ix) and (x).",
+      "event_type": "other",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2012",
+      "title": "Committee approves exclusion of the Mkuju River uranium mining area",
+      "description": "In decision 36 COM 8B.43 the Committee approved the exclusion of the Mkuju River Mining site from the property, accepting it 'in an exceptional and unique manner' noting that a completed environmental impact assessment demonstrated, in the Committee's words, that the mining project's impact on Outstanding Universal Value is limited and can be mitigated. It regretted that the change was submitted as a minor modification and asked the State Party to add compensating area to the property, protect the Selous-Niassa corridor and undertake no further mining in the reserve. The size of the excised area was not given in the decision page read; IUCN's later Outlook gives about 40,000 ha.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2014",
+      "title": "Property inscribed on the List of World Heritage in Danger",
+      "description": "At its 38th session in Doha the Committee decided (38 COM 7B.95) to inscribe the property on the List of World Heritage in Danger, noting poaching and dramatic declines in elephant populations shown by a recent aerial survey and judging poaching a clear, ascertained danger to Outstanding Universal Value. It also stated that mining and oil and gas exploration and exploitation are incompatible with World Heritage status and asked for impact assessments of the Stiegler's Gorge and Kidunda dam projects. UNESCO's Danger List page shows the listing year as 2014.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2019",
+      "title": "Committee decision 43 COM 7A.16 expresses utmost concern about the Rufiji hydropower project",
+      "description": "The Committee kept the property on the Danger List, expressed utmost concern about the decision to develop the Rufiji (now Julius Nyerere) hydropower project inside the property, said the environmental impact assessment fell considerably short of acceptable standards and noted that clearing of about 91,400 ha had started before a Strategic Environmental Assessment was complete. It also noted a reported reduction in poaching. The decision page read gives the year and session (43rd, Baku); the month was not confirmed from the sources read.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2019-07",
+      "title": "President announces plan to split the reserve and create Nyerere National Park",
+      "description": "Tourism Update reported on 30 July 2019 that President John Magufuli had directed the Ministry of Natural Resources and Tourism to begin dividing the reserve in two, with more than half becoming a new Nyerere National Park and the rest a hunting reserve; the announcement was made at the inauguration of the hydropower project. It quoted IUCN's Peter Shadie as saying that dividing the reserve 'would not be in the interest' of the site's ecological functions (among other things). Africa Geographic (2023) later reported that the split left Nyerere National Park at 30,893 km2 and the remaining reserve at about 20,155 km2. The date and legal instrument of formal gazettement were not verified.",
+      "event_type": "political",
+      "source_ids": [
+        "src_15",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2022-10/2022-11",
+      "title": "TAWIRI aerial survey of the Nyerere-Selous-Mikumi ecosystem",
+      "description": "TAWIRI's dry-season 2022 census (14 October to 24 November 2022, 101,537 km2) estimated 20,006 elephants (+/- 1,793 SE) against 15,501 (+/- 1,819 SE) in 2018, a difference the report says is not statistically significant. The survey covers the wider ecosystem, not only the inscribed property.",
+      "event_type": "other",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee decision 45 COM 7A.14 lists Nyerere National Park implications for the requested mission",
+      "description": "The Committee kept the property on the Danger List, expressed utmost concern about the irreversible impact of the then still-under-construction Julius Nyerere Hydropower Project, listed the implications of creating Nyerere National Park for legal status, governance and funding mechanisms among the topics for the requested Reactive Monitoring mission, and expressed serious concern that the Reactive Monitoring mission requested since 2018 had still not been invited, urging the State Party to invite it as a matter of utmost priority.",
+      "event_type": "political",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2025-04",
+      "title": "All nine turbines of the Julius Nyerere Hydropower Project reported operating",
+      "description": "The Citizen (Tanzania) reported on 5 April 2025 that all nine turbines had been turned on, with a capacity of 2,115 MW. UNESCO's 2025 working document likewise reports that all nine turbines reportedly began operating in April 2025.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "World Heritage Committee decision 47 COM 7A.16 on Selous",
+      "description": "At its 47th session (6-16 July 2025) the Committee expressed utmost concern that the hydropower project was fully operational, regretted the lack of information on downstream flooding including reported loss of life and crops, expressed utmost concern that Kidunda Dam construction reportedly started before a new impact assessment, expressed deep concern about Mkuju drilling reportedly begun without a new impact assessment, urged a joint Reactive Monitoring mission and retained the property on the Danger List. It requested an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2025-10",
+      "title": "IUCN World Heritage Outlook assessment rates the property's outlook Critical",
+      "description": "IUCN's Outlook page for the property gives an overall 2025 outlook of Critical (finalised 11 October 2025 according to the page), with values Critical and deteriorating, threats Very High and protection and management a Serious Concern. It rates commercial poaching a Low Threat. This is IUCN's own scale and not a UNESCO decision.",
+      "event_type": "other",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2026-02-01",
+      "title": "State Party submits 2026 state of conservation report",
+      "description": "Tanzania submitted 'A Report on State of Conservation of Selous Game Reserve World Heritage Property (N 199)' on 1 February 2026. The summary says the hydropower project occupies a relatively minor portion of the reserve and will help control downstream flooding, that revised modelling reduced the potentially flooded area inside the property from Kidunda Dam to about 5.6 km2, that the Mkuju environmental management plan had been updated and a new impact assessment was near completion, and that a Reactive Monitoring mission was invited. These are the State Party's own statements.",
+      "event_type": "other",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decisions 48 COM 7A.54 and 48 COM 8C.2 retain Selous on the Danger List",
+      "description": "At its 48th session in Busan the Committee (48 COM 7A.54) expressed utmost concern over the cumulative and irreversible impacts of the hydropower, Kidunda Dam and Mkuju uranium projects on Outstanding Universal Value, expressed utmost concern again that the hydropower project is fully operational without an adequate impact assessment, expressed concern that Kidunda Dam construction reportedly continues despite its request, and asked for continued dialogue on revising the impact assessment before project activities resume, reiterated its urgent request that Mkuju operations be suspended until impacts are rigorously assessed, requested that the joint UNESCO/IUCN Reactive Monitoring mission (including key species and the State Party's draft plan for removal from the Danger List) be undertaken with utmost urgency, and requested an updated report by 1 February 2027. Decision 48 COM 8C.2 retained 52 properties on the Danger List, including Selous.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_03"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Selous Game Reserve",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/199/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The coordinate string displayed on the page uses a seconds value of 60, which is non-standard; see coordinate_note.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.54: Selous Game Reserve (United Republic of Tanzania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9038",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 48 COM 8C.2: Update of the List of World Heritage in Danger (Retained Properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9208",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 47 COM 7A.16: Selous Game Reserve (United Republic of Tanzania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8683",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "State of conservation of properties inscribed on the List of World Heritage in Danger: Selous Game Reserve section (WHC/25/47.COM/7A.Add.3)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/221410",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Identified as WHC/25/47.COM/7A.Add.3, an addendum to Item 7A dated 2 July 2025, a state-of-conservation document containing a draft decision (not the adopted decision).",
+      "published_date": "2025-07-02",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 38 COM 7B.95: Selous Game Reserve (United Republic of Tanzania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6081",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2014",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 36 COM 8B.43: Selous Game Reserve (United Republic of Tanzania), minor boundary modification",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4814",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2012",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 43 COM 7A.16: Selous Game Reserve (United Republic of Tanzania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7503",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Decision 44 COM 7A.51: Selous Game Reserve (United Republic of Tanzania) (N 199bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7713",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Decision 45 COM 7A.14: Selous Game Reserve (United Republic of Tanzania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8127",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Decision 46 COM 7A.55: Selous Game Reserve (United Republic of Tanzania) (N 199bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8524",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "A Report on State of Conservation of Selous Game Reserve World Heritage Property (N 199) (summary), submitted by the United Republic of Tanzania",
+      "publisher": "United Republic of Tanzania (State Party), hosted by UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/224586",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The State Party's own report on a project it is carrying out; statements about the hydropower project, Kidunda and Mkuju are self-reported and are contested by the Committee and IUCN. Only the executive summary was read.",
+      "published_date": "2026-02-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Selous Game Reserve (IUCN World Heritage Outlook)",
+      "publisher": "IUCN",
+      "url": "https://worldheritageoutlook.iucn.org/node/994",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "IUCN is the Advisory Body to the World Heritage Committee for natural heritage, and its Outlook ratings are IUCN's own assessment, separate from Committee decisions. Elephant and carcass-ratio figures are quoted as presented by IUCN (the latter drawn from the TAWIRI census); the page did not give a single named author or assessment date beyond the October 2025 finalisation date.",
+      "published_date": "2025-10-11",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Aerial Wildlife Survey of Large Animals and Human Activities in the Nyerere-Selous-Mikumi Ecosystem, Dry Season 2022 (SL29 final report)",
+      "publisher": "Tanzania Wildlife Research Institute (TAWIRI)",
+      "url": "https://www.tawiri.or.tz/wp-content/uploads/2024/04/SL29-FINAL-REPORT-.pdf",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Covers the wider ecosystem, not only the inscribed property. The report's main text gives a carcass ratio of 0.8% in 2022 while its executive summary gives a mortality rate of about 0.02%, an internal inconsistency; elephant numbers are therefore cited with the report's own statistical caveat.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Tanzania to split Selous Game Reserve and establish new national park",
+      "publisher": "Tourism Update",
+      "url": "https://www.tourismupdate.com/article/tanzania-to-split-selous-game-reserve-and-establish-new-national-park",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Trade publication; used for the July 2019 announcement. A separate article from The Citizen (Tanzania) on the same announcement could not be loaded.",
+      "published_date": "2019-07-30",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Nyerere National Park: Selous rebranded",
+      "publisher": "Africa Geographic",
+      "url": "https://africageographic.com/stories/nyerere-national-park-selous-rebranded/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Safari and travel publication; used only for the post-split area figures, which were not independently confirmed against an official gazette notice.",
+      "published_date": "2023-09-14",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Julius Nyerere Hydropower Project reaches major milestone with full turbine activation",
+      "publisher": "The Citizen (Tanzania)",
+      "url": "https://thecitizen.co.tz/tanzania/news/national/julius-nyerere-hydropower-project-reaches-major-milestone-with-full-turbine-activation-4991572",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Article body did not load when checked; the turbine and capacity claims rest on the headline, photo caption and summary only. Corroborated by UNESCO's 2025 working document (src_05).",
+      "published_date": "2025-04-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Selous Game Reserve: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/199/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The listing page was read; most of the individual documents it links to were not opened.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Selous Game Reserve: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/199/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Environmental Impacts of the Proposed Stiegler's Gorge Hydropower Project, Tanzania",
+      "publisher": "Environmental Conservation (Cambridge University Press), R. B. B. Mwalyosi",
+      "url": "https://www.cambridge.org/core/journals/environmental-conservation/article/environmental-impacts-of-the-proposed-stieglers-gorge-hydropower-project-tanzania/5C06F6165883FAA72BC6538B8D35DEE2",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "1988 article assessing a proposal, not the dam as built; cited only as evidence of peer-reviewed scholarship, not for current conditions.",
+      "published_date": "1988",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. Correction to the research brief: the brief said the property was removed from the Danger List in 2014; UNESCO's property page and Danger List page show the opposite, that it was inscribed on the Danger List in 2014 (38 COM 7B.95) and remains there, retained by 48 COM 8C.2 (2026). Known gaps (not included because not verified): (1) UNESCO state of conservation pages for 2025 and 2026 (whc.unesco.org/en/soc/4692 and /soc/4998) could not be loaded, so the 2026 Secretariat/IUCN working document and draft decision were not read; the 2026 decisions 48 COM 7A.54 and 48 COM 8C.2 were read via the decisions pages, which the fetch tool returned only in summarised form, so exact wording is paraphrased and should be verified by the reviewer; the 2025 State Party report summary (document 219281) was an unreadable scan. (2) Only the executive summary of the State Party's 2026 report was read. (3) IUCN's Outlook elephant figures (about 13,000 low in 2013, about 106,300 at inscription) were not checked against primary survey reports; only the 2022 and 2018 TAWIRI figures were. (4) The date and legal instrument for formal gazettement of Nyerere National Park were not found; The Citizen's July 2019 article could not be loaded. (5) 44 COM 7A.51 (2021) and 46 COM 7A.55 (2024) were read via summaries; they are listed as sources but contribute only background. (6) No Reactive Monitoring mission report after 2017 was found; whether the requested mission has taken place is unverified. (7) Downstream flooding impacts (including the reported loss of life and crops) are recorded only as the Committee's regret at the lack of information; no independent quantification was found. (8) No armed-conflict or natural-disaster threat evidence was gathered or found, so only two threat categories are recorded; Selous has other documented pressures (e.g. settlements, fire, tourism) not examined here. (9) DPI: one web search for 3D or virtual-tour documentation found nothing relevant; the UNESCO gallery held four images. (10) Wikipedia and Wikimedia were not used; metadata rests on UNESCO. Images omitted by design. VERIFIER (2026-10-15): checked against fetched sources; about 20 wording edits. (1) Concern levels corrected: 47 COM 7A.16 expresses utmost (not serious) concern that the dam is fully operational and utmost concern on Kidunda; 48 COM 7A.54 uses utmost (not high) concern over cumulative irreversible impacts, and its suspension request for Mkuju is 'urges' not 'urgently'. (2) 45 COM 7A.14 lists Nyerere National Park implications as a topic for the requested mission; it does not itself ask the State Party to clarify them. (3) 'Incompatible' dam position traced to 40 COM 7 as recalled in 44 COM 7A.51; 48 COM 7A.54 refers to 'the clear Committee position' without citing a decision. (4) UNESCO 2025 working document wording aligned ('far greater than its physical footprint'; no buffer zone proposal described). (5) Removed unsourced 'among the largest protected areas in Africa' and 'Paris'; IUCN Shadie quote trimmed to the words in the source; gallery images all share one generic caption and the credit '© Evergreen'. (6) Rationale no longer says the property is 'monitored through the Reactive Monitoring Mechanism' (last mission report listed is 2017); decision_trigger now notes that the mission requested since 2018 was still outstanding. Verified: Danger List inscription 2014 and continuous presence ('2014 - Present'); dam, Kidunda (13.2 to 5.6 km2, 58%) and Mkuju claims; TAWIRI and IUCN figures; State Party report statements; 1 February 2027 deadline. SECOND VERIFIER (2026-10-15, independent re-check against fetched sources): confirmed Danger List status directly (property page and Danger List page: inscribed 2014, listed '2014 to present'; 48 COM 8C.2 retains Selous among 52 properties; no removal and no UNESCO rename: UNESCO still lists it as 'Selous Game Reserve', decisions carry reference N 199bis). Fixes: (1) 45 COM 7A.14 expresses serious (not utmost) concern that the mission requested since 2018 was not invited; added its 'utmost priority' urging. (2) 43 COM 7A.16 event date changed from 2019-07 to 2019 because the month was attributed to press coverage that does not state it; removed src_15 from that event. (3) 48 COM 7A.54: Mkuju wording corrected to 'reiterates its urgent request' to suspend; Kidunda wording corrected (concern that construction continues, asks for dialogue and a revised assessment before activities resume; it does not itself say 'halt'). (4) 'State Party has invited a mission' re-attributed as the State Party's own claim. (5) 36 COM 8B.43 EIA finding attributed to the Committee's wording. (6) 46 COM 7A.55 flooding wording aligned ('reported flooding and its impacts on communities, including loss of life'). (7) src_17 reliability note added (only headline/caption read); decision titles for src_09 and src_11 given the N 199bis reference. Not verified: IUCN Outlook final ~9,600 characters unread; the 2026 working document; 48 COM 7A.54 wording came via summarised fetch with short quotes. DPI: moderate tier is borderline because the academic_scholarly category rests on a 1988 forecast study of a proposed dam plus IUCN's assessment; left as drafted.",
+      "changed_by": "claude"
+    }
+  ]
+}

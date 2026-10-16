@@ -1,0 +1,471 @@
+{
+  "slug": "dresden-elbe-valley",
+  "name": "Dresden Elbe Valley",
+  "alternate_names": [
+    "Dresdner Elbtal"
+  ],
+  "country": "Germany",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 51.04,
+    "lng": 13.8211
+  },
+  "coordinate_note": "Converted from the centre-point coordinates given on UNESCO's property page (N 51 2' 24\", E 13 49' 16\"). The former property was an elongated landscape stretching about 18 km along the Elbe, not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "1156",
+  "inscription_year": 2004,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "NOT CURRENTLY A WORLD HERITAGE SITE: the Dresden Elbe Valley was inscribed on the UNESCO World Heritage List in 2004 (criteria ii, iii, iv, v), placed on the List of World Heritage in Danger in 2006, and deleted from the World Heritage List by the Committee in June 2009 (decision 33 COM 7A.26) while the Waldschlosschen Bridge was under construction in the property (the bridge opened in 2013). This profile therefore describes a former World Heritage cultural landscape. UNESCO's property page describes it as an 18th- and 19th-century cultural landscape stretching about 18 km along the Elbe, from Ubigau Palace and the Ostragehege fields in the northwest to Pillnitz Palace and an Elbe river island in the southeast, and including Dresden's historic centre, parks, suburban villas, terraced vineyards and industrial-era structures such as a steel bridge (1891-93), a suspension cable railway and a funicular. The inscribed property covered 1,930 ha with a 1,240 ha buffer zone. Authorities and commentators disagree about the deletion: the Committee found in 2008 that the bridge project would irreversibly damage the property's Outstanding Universal Value and in 2009 regretted that the damage already caused had not been reversed, while the Saxon State Government supported the bridge (UNESCO's 2007 report records the Land asking that approval continue in line with the public vote; the Saxon Government's 2013 release also backs the bridge) and, per the City of Dresden's account in UNESCO's 2006 report, a citizens' referendum had approved it; residents' views on the bridge and the lost title have been reported as mixed (see events).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The documented heritage-integrity concern is the Waldschlosschen Bridge, a four-lane Elbe crossing built within the former property. The World Heritage Committee's decisions record, in 2006 (30 COM 7B.77), that it judged the planned bridge would 'irreversibly damage the values and integrity of the property'; in 2008 (32 COM 7A.26), citing a February 2008 reinforced monitoring mission, that the project would cause irreversible damage to the property's Outstanding Universal Value and integrity, and it asked that construction halt and the property be restored to its former state of conservation; and in 2009 (33 COM 7A.26) it regretted that the project was not halted and the damage not reversed, and deleted the property. The Committee suggested a new nomination for Dresden's heritage could be considered. The bridge was opened in August 2013 (Saxon State Government release; AFP). Other parties hold different positions: the City of Dresden, per UNESCO's 2006 report, said the bridge followed an international architectural competition and a citizen referendum and that traffic studies showed a need for another crossing; the Saxon Minister-President Stanislaw Tillich said in 2013 that the project had divided supporters and opponents; and Holger Zastrow, head of Saxony's Free Democrats, was quoted by AFP as saying the Elbe Valley 'is not disturbed and more than ever not destroyed'. An academic article (Schoch, 2014; abstract only read) says in its abstract that, despite the bridge, Dresden 'supposedly maintains World Heritage worthiness, even if it no longer enjoys that title'; the abstract does not say whose view that is, and also notes that German court decisions and local polls supported the bridge. The bridge is a completed, permanent structure; no source reviewed describes further construction or active deterioration since 2013, and no authoritative post-2009 assessment of the wider landscape's condition was found (see changelog gaps). The meadows along the Elbe are, per the City of Dresden, a landscape protection area (Landschaftsschutzgebiet LSG 6) under an ordinance set in 1996 and last updated in 2015; that page does not mention any heritage designation.",
+      "first_identified_date": null,
+      "date_note": "No single start date asserted. The earliest dated item in this dossier is ICOMOS's January 2006 conclusion on the then-planned bridge, as recorded in UNESCO's 2006 state of conservation report.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_15"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The valley is exposed to major Elbe floods. The City of Dresden records a record flood in August 2002 with a level of 940 cm at the Dresden gauge, and a peak on 6 June 2013 at the Dresden gauge, which its page gives as 876 cm and later corrects to 878 cm; the page says this matched the winter flood of 1845 (877 cm) and classes it as a 50-year event (HQ50). The Saxon State Office for Environment, Agriculture and Geology (LfULG), in a June 2023 retrospective, also gives 878 cm for 2013 (against 940 cm in 2002, with a normal level of about 150 cm), says the Free State invested roughly EUR 1 billion in flood protection between 2002 and 2013, and credits this with reducing the 2013 damage. The sources reviewed give statewide figures only (about EUR 2 billion damage in Saxony in 2013 versus about EUR 9 billion in 2002) and do not document flood damage to the heritage landscape itself. This category records continuing exposure, not documented unrepaired heritage damage.",
+      "first_identified_date": null,
+      "date_note": "Flood exposure is long-standing; the earliest flood documented in this dossier is the August 2002 record flood (City of Dresden).",
+      "source_ids": [
+        "src_13",
+        "src_14"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "developing",
+      "decision_trigger": "IMPORTANT CONTEXT: the Dresden Elbe Valley is no longer on the UNESCO World Heritage List (deleted June 2009, decision 33 COM 7A.26) and is not on the List of World Heritage in Danger (removed from the Danger List as part of that deletion, decision 33 COM 8C.3). The High Concern trigger based on 'official inscription on the Danger List' therefore does not apply, and the status below classifies the heritage landscape's CURRENT condition under the methodology, not its former listing status. Applying the tree top-down: Critical: not met on the evidence reviewed. The Committee's 2008-2009 findings of irreversible damage to Outstanding Universal Value and integrity are authoritative, but they concern a completed, permanent alteration at one location along an approximately 18 km landscape; no source reviewed shows ongoing destruction, a combat zone, loss of access or monitoring for safety reasons, or collapse of protection. High Concern: considered and not mechanically triggered. (1) No Danger List inscription. (2) No damaging event within roughly the last five years was found. (3) No armed conflict. (4) No severe unresolved environmental or structural threat with a stated near-term timeframe from a named authority was found. (5) The trigger 'significant historical damage whose site-wide repair remains substantially incomplete' is the closest call: the Committee recorded in 2009 that the damage was not reversed, and the bridge remains in place. However, that trigger is framed around repair work that is incomplete, whereas here the damaging element is a finished structure with no repair or removal underway or proposed in any source reviewed, and the Saxon Government supports it (per its 2013 release) and a citizens' referendum had approved it (per the City of Dresden as recorded in UNESCO's 2006 report), although the Dresden City Council halted the project in 2006 until a 2007 court ruling required the public vote to be implemented. A reviewer could reasonably classify this as High Concern under trigger (5); that is the neighbouring status. Moderate Concern: matched by a documented chronic exposure (Elbe flooding, per City of Dresden and LfULG) managed with flood protection, and by a heritage-integrity change that is settled rather than acute. The Moderate trigger about historical damage that has been 'substantially repaired/stabilized' does not strictly fit and is not relied on. Confidence is Developing because no authoritative post-2009 assessment of the wider landscape's condition was found (UNESCO no longer monitors the area), so the current-condition judgment rests on the absence of reported ongoing threats rather than on a recent condition survey.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The historical record is unusually clear: UNESCO's Committee concluded in 2006, 2008 and 2009 that the Waldschlosschen Bridge would, and then did, damage the property's Outstanding Universal Value and integrity, and deleted the property from the World Heritage List in 2009 (only the second property ever deleted, after Oman's Arabian Oryx Sanctuary in 2007, per UNESCO's news item and UN News). That decision is preserved permanently in events[] and is stated prominently in the significance summary. The present picture differs from an active threat: the bridge opened in August 2013 and is a finished structure; the Elbe meadows are protected as a landscape protection area under a City of Dresden ordinance; flood exposure is long-standing and has been met with substantial flood-protection investment according to the Saxon State Office; and Saxony's 2021 list of World Heritage candidates, as described in the Saxon ministry's release, names a Dresden candidate (Hellerau) and that release does not mention an Elbe landscape, so no new Elbe nomination was identified. Against that, the Committee's finding of irreversible damage to integrity stands as the last authoritative assessment of the property, no later authoritative assessment of the wider landscape was found, and the question of whether the landscape retains heritage value is itself contested: the Saxon Government supported the bridge and a referendum approved it, while residents' views on the lost title were reported as mixed (a Sachsische Zeitung poll of 501 residents reported by The Local in June 2009 found an average of 64 percent wanted to regain the title, while a week-earlier survey found half considered the title dispensable; neither poll is a measure of support for the bridge itself), Holger Zastrow said in 2013 the valley 'is not disturbed and more than ever not destroyed', Thomas Loeser of the Green party called it a 'bitter loss of a one-of-a-kind landscape', and the abstract of Schoch (2014; full text not read) says Dresden 'supposedly maintains World Heritage worthiness, even if it no longer enjoys that title' without saying whose view that is. These positions are reported as attributed, not adjudicated by HeritageWatch. Overall: no active or acute threat found, one settled and contested integrity change, and chronic flood exposure, which is Moderate Concern, with a close call against High Concern. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_16"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories are supported by evidence opened in this pass, which meets the moderate tier by the rubric. The evidence is general to the property or to Dresden rather than a dedicated whole-landscape programme: UNESCO's gallery is small, the archival evidence is a single digitised item from a large library collection, and the scholarly evidence is an abstract-only article plus UNESCO reports. 3D documentation and virtual tour are marked false because no viewable item was verified: sources in this pass mention a 2007 Google Earth city model of Dresden (a 2007 news item, not opened as a live viewer), a TU Dresden/University of Wurzburg 4D city browser, and museum panoramic tours, but the viewers themselves could not be opened here (access to the 4D browser, the museum tour page and the Deutsche Fotothek portal was blocked in this session), and none of these is specific to the Elbe landscape. The archival item is a single 1553 engraving of the city centre and is a weak, borderline example; the tier would still be moderate (2 of 5 categories) without it. A reviewer who can open them may be able to upgrade the 3D and virtual-tour categories and the tier. Verifier note: the academic_scholarly item is an abstract about the delisting dispute, so it is a thin example of scholarly documentation of the landscape; the moderate tier would drop to limited if both the archival and scholarly items were discounted, so a human reviewer should weigh them.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre still hosts a public photo gallery page for the Dresden Elbe Valley; the page shows two pages of thumbnails (the second starting at image 13, with a 'See All' option capped at 24), so the gallery holds somewhere between 13 and 24 images, with the images on the first page credited to one photographer.",
+        "url": "https://whc.unesco.org/en/list/1156/gallery/",
+        "source_id": "src_18"
+      },
+      {
+        "category": "archival_records",
+        "description": "The Deutsche Digitale Bibliothek publicly displays a digitised photograph of a 1553 copperplate engraving of Dresden seen from the Neustadt bank, held by the Saxon State and University Library Dresden (SLUB) and digitised by the Deutsche Fotothek, licensed CC BY-SA 4.0. This is one item illustrating that historical records of the city and its river views are digitised and openly viewable; it is not a catalogue of the whole property.",
+        "url": "https://www.deutsche-digitale-bibliothek.de/item/2EQEZQGUDTOHT2SSXEDIZH5CFEP3ZXRR?lang=en",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Douglas Schoch, 'Whose World Heritage? Dresden's Waldschlosschen Bridge and UNESCO's Delisting of the Dresden Elbe Valley', International Journal of Cultural Property 21(2), 2014, pp. 199-223; only the abstract and bibliographic details were visible (full text behind subscription).",
+        "url": "https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/whose-world-heritage-dresdens-waldschlosschen-bridge-and-unescos-delisting-of-the-dresden-elbe-valley1/BB76C25FAC815AAB5862F70D53A7A212",
+        "source_id": "src_12"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2002-08",
+      "title": "Record Elbe flood in Dresden",
+      "description": "The City of Dresden records a record flood in August 2002 with a level of 940 cm at the Dresden gauge. The source reviewed does not document damage to the heritage landscape itself.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2004-07",
+      "title": "Dresden Elbe Valley inscribed on the World Heritage List",
+      "description": "UNESCO lists the property as inscribed in 2004 under criteria (ii), (iii), (iv) and (v). A Saxon State Ministry of Finance release dated 2 July 2004 states that on the same day the Committee also decided to include 'das Dresdner Elbtal' in the World Heritage List. The month is taken from that release.",
+      "event_type": "other",
+      "source_ids": [
+        "src_00",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2006",
+      "title": "Committee places Dresden Elbe Valley on the Danger List over the planned Waldschlosschen Bridge",
+      "description": "UNESCO's 2006 state of conservation report records that ICOMOS concluded in January 2006 that the bridge would function more like a motorway than an urban bridge and would considerably disturb the site; a visual impact study by RWTH Aachen found the bridge clashes with Dresden's other bridges, blocks important views and splits the river-bend landscape in two; and the City of Dresden said the bridge followed an international architectural competition and a citizen referendum and that traffic studies showed a need for another crossing. In decision 30 COM 7B.77 (30th session, Vilnius) the Committee judged the bridge would 'irreversibly damage the values and integrity of the property', urgently asked for the construction project to be halted, and placed the property on the List of World Heritage in Danger, with possible deletion to be considered in 2007 if the plans went ahead. Only the year is shown because the decision pages reviewed give the session year.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2007",
+      "title": "Court rules the public vote for the bridge must be implemented; Committee keeps property on Danger List (31 COM 7A.27)",
+      "description": "UNESCO's 2007 state of conservation report (WHC-07/31.COM/7A) records that on 13 March 2007 a court ruled that the public vote for the bridge must be implemented, after the Dresden City Council had halted the project and the Land of Saxony wanted it continued. In decision 31 COM 7A.27 the Committee asked the State Party to find an alternative solution and submit it by 1 October 2007, applied reinforced monitoring, kept the property on the Danger List and decided it would be deleted if the bridge irreversibly affected its Outstanding Universal Value.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2008",
+      "title": "Reinforced monitoring mission and decision 32 COM 7A.26",
+      "description": "In decision 32 COM 7A.26 (32nd session, Quebec City) the Committee noted the February 2008 reinforced monitoring mission report, which found the bridge project would cause irreversible damage to the property's Outstanding Universal Value and integrity. It regretted that construction had been allowed to proceed, requested that construction halt immediately and the property be restored to its former state of conservation, urged the State Party to reconsider the tunnel alternative, kept the property on the Danger List, and warned that it would be deleted at the 33rd session in 2009 if works continued and the damage was not reversed.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2009-06-25",
+      "title": "Committee deletes Dresden Elbe Valley from the World Heritage List",
+      "description": "At its 33rd session in Seville the Committee adopted decision 33 COM 7A.26: 'Decides to delete the Dresden Elbe Valley (Germany) from the World Heritage List.' It recalled the earlier concerns of the 30th to 32nd sessions, regretted that Germany did not meet its Convention obligations and that the project was not halted and the damage not reversed, noted Germany's commitment to explore all options for preserving the property's Outstanding Universal Value, and suggested a new nomination for Dresden's heritage could be considered. UNESCO's news item (25 June 2009) says the property lost its 'outstanding universal value as inscribed' after a four-lane bridge was built in the heart of the cultural landscape (UNESCO's phrasing; the decisions of 2008-2009 show construction was still under way, and the bridge opened in 2013), and that Germany could submit a new nomination for parts of the site using different criteria and boundaries. Decision 33 COM 8C.3 removed it from the Danger List in the same session. UNESCO and UN News describe it as only the second property ever deleted, after Oman's Arabian Oryx Sanctuary in 2007.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2009-06-29",
+      "title": "Poll of Dresden residents after the deletion",
+      "description": "The Local (DDP) reported on 29 June 2009 that a Sachsische Zeitung telephone poll of 501 residents found an average of 64 percent in favour of the city trying to regain World Heritage status (74 percent among 18- to 29-year-olds), and that a survey a week earlier had found half of residents considered the title dispensable. Poll methodology was not reviewed.",
+      "event_type": "political",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2013-06-06",
+      "title": "June 2013 Elbe flood peaks at 878 cm in Dresden",
+      "description": "The City of Dresden records the peak on 6 June 2013 at the Dresden gauge, giving 876 cm and later correcting to 878 cm, and classes it as a 50-year event. LfULG's 2023 retrospective gives 878 cm and says Saxony recorded about EUR 2 billion damage statewide, with no deaths, compared with about EUR 9 billion and 21 deaths in 2002. The sources reviewed give statewide, not heritage-specific, damage figures.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_13",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2013-08-24",
+      "title": "Waldschlosschen Bridge officially opened",
+      "description": "A Saxon State Government press release dated 24 August 2013 announced the bridge's official opening that weekend (the release gives no exact day; Wikipedia gives the official opening as 24 August 2013), in which Minister-President Stanislaw Tillich said the project, which had divided supporters and opponents, would now connect the city; the release states that 82% of Dresden residents considered the bridge the right decision and gives its length as 636 m and the estimated total cost as EUR 151.6 million. AFP (Gulf Times, 25 August 2013) reported the bridge as opening to traffic on 25 August, gave its span as 635 m and its cost as about EUR 180 million, and quoted Thomas Loeser of the Green party lamenting the 'bitter loss of a one-of-a-kind landscape and the de-recognition of the Unesco World Heritage title' and Holger Zastrow, head of Saxony's Free Democrats, asking the Committee to visit and stating the Elbe Valley 'is not disturbed and more than ever not destroyed'. Sources differ on the cost figure and the date traffic began; Wikipedia gives 26 August for vehicles and is used only as a flagged cross-reference.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10",
+        "src_11",
+        "src_20"
+      ]
+    },
+    {
+      "date": "2021-09-28",
+      "title": "Saxony's cabinet names World Heritage candidates; no Elbe landscape mentioned",
+      "description": "A press release from Saxony's State Ministry for Infrastructure and Regional Development dated 28 September 2021 ('Kabinett: Welterbekandidaten stehen fest') names the Garden City and Festspielhaus ensemble Hellerau as the Dresden candidate on Saxony's list. The release as read does not mention the Elbe or an Elbe landscape. This records what that release says; it is not evidence on whether other nomination plans exist.",
+      "event_type": "political",
+      "source_ids": [
+        "src_16"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Dresden Elbe Valley",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1156",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 30 COM 7B.77: Dresden Elbe Valley (Germany)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1163",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page content was obtained as a summary from the fetch tool, not read verbatim; quoted phrase 'irreversibly damage the values and integrity of the property' is as returned by the tool and should be checked against the decision text.",
+      "published_date": "2006",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "State of Conservation (Dresden Elbe Valley), 30th session, 2006",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/1196",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via a tool-generated summary rather than verbatim; ICOMOS and RWTH Aachen findings are as reported in this UNESCO document, not read from the originals.",
+      "published_date": "2006",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "State of Conservation report WHC-07/31.COM/7A, Dresden Elbe Valley, with decision 31 COM 7A.27",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/955",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via a tool-generated summary rather than verbatim.",
+      "published_date": "2007",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 32 COM 7A.26: Dresden Elbe Valley (Germany)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1599",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via a tool-generated summary rather than verbatim.",
+      "published_date": "2008",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 33 COM 7A.26: Dresden Elbe Valley (Germany)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1786",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via a tool-generated summary rather than verbatim; the operative sentence 'Decides to delete the Dresden Elbe Valley (Germany) from the World Heritage List' is as returned by the tool.",
+      "published_date": "2009",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 33 COM 8C.3: Update of the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1985",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via a tool-generated summary rather than verbatim.",
+      "published_date": "2009",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Dresden is deleted from UNESCO's World Heritage List",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/522/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via a tool-generated summary rather than verbatim.",
+      "published_date": "2009-06-25",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Dresden dropped from UN World Heritage List owing to new bridge",
+      "publisher": "UN News",
+      "url": "https://news.un.org/en/node/304632",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": "Page gave no publication date; late June 2009 is inferred from the article's reference to the Seville session running until 30 June.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Dresden dwellers want UNESCO title back",
+      "publisher": "The Local (DDP)",
+      "url": "https://www.thelocal.com/20090629/20255",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports a newspaper telephone poll (Sachsische Zeitung, 501 residents) second-hand; poll methodology not reviewed.",
+      "published_date": "2009-06-29",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Waldschlossschenbrucke feierlich eroffnet (Medieninformation)",
+      "publisher": "Saxon State Government (Sachsische Staatsregierung)",
+      "url": "https://www.medienservice.sachsen.de/medien/news/186789/download_pdf",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Press release from a party to the dispute; used only for the Saxon Government's own statements and figures, which are attributed to it.",
+      "published_date": "2013-08-24",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Bridge that doomed Dresden's World Heritage status to open (AFP)",
+      "publisher": "Gulf Times (AFP)",
+      "url": "https://www.gulf-times.com/story/363782/bridge-that-doomed-dresdens-world-heritage-status-to-open/amp",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2013-08-25",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Whose World Heritage? Dresden's Waldschlosschen Bridge and UNESCO's Delisting of the Dresden Elbe Valley",
+      "publisher": "International Journal of Cultural Property (Cambridge University Press), Douglas Schoch",
+      "url": "https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/whose-world-heritage-dresdens-waldschlosschen-bridge-and-unescos-delisting-of-the-dresden-elbe-valley1/BB76C25FAC815AAB5862F70D53A7A212",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Only the abstract and bibliographic details were visible; the full text was not read.",
+      "published_date": "2014-06-26",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Hochwasser in der Vergangenheit",
+      "publisher": "Landeshauptstadt Dresden",
+      "url": "https://www.dresden.de/de/stadtraum/umwelt/umwelt/hochwasser/vergangenheit.php",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Page gives 876 cm for 6 June 2013 and a later correction to 878 cm; read via a tool-generated summary.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Zehn Jahre nach dem verheerenden Junihochwasser 2013: Landeshochwasserzentrum Sachsen zieht Bilanz",
+      "publisher": "Leipziger Zeitung (L-IZ), carrying a press release of the Saxon State Office for Environment, Agriculture and Geology (LfULG)",
+      "url": "https://www.l-iz.de/melder/wortmelder/2023/06/zehn-jahre-nach-dem-verheerenden-junihochwasser-2013-landeshochwasserzentrum-sachsen-zieht-bilanz-539194",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The page is third-party press-release material in the paper's 'Melder' section, which the paper states it has not edited or fact-checked; figures are LfULG's own and are attributed to it.",
+      "published_date": "2023-06-07",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Schutze, was du liebst (Elbwiesen)",
+      "publisher": "Landeshauptstadt Dresden",
+      "url": "https://www.dresden.de/de/stadtraum/umwelt/elbwiesen/schuetze-was-du-liebst.php",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Covers only the Elbe meadows (landscape protection areas LSG 5 and LSG 6), not the whole former property; mentions no heritage designation. The page shows two unlabelled dates (23.03.2021 and 03.03.2024); publication date is uncertain.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Kabinett: Welterbekandidaten stehen fest",
+      "publisher": "Saxon State Ministry for Infrastructure and Regional Development (Sachsisches Staatsministerium fur Infrastruktur und Landesentwicklung)",
+      "url": "https://www.medienservice.sachsen.de/medien/news/992740/download_pdf",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021-09-28",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Muskauer Park ist ab heute Welterbestatte der UNESCO",
+      "publisher": "Saxon State Ministry of Finance (Sachsisches Staatsministerium der Finanzen)",
+      "url": "https://www.medienservice.sachsen.de/medien/news/148282/download_pdf",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Mentions the Dresden Elbe Valley in a single sentence; used only for the inscription date.",
+      "published_date": "2004-07-02",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Dresden Elbe Valley: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1156/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Image count is a range (13-24) inferred from pagination; image content could not be viewed.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Dresda (Dresden vom Neustadter Ufer), digitised copperplate engraving",
+      "publisher": "Deutsche Digitale Bibliothek (item from SLUB Dresden / Deutsche Fotothek)",
+      "url": "https://www.deutsche-digitale-bibliothek.de/item/2EQEZQGUDTOHT2SSXEDIZH5CFEP3ZXRR?lang=en",
+      "source_type": "museum",
+      "tier": 2,
+      "reliability_note": "A single item; evidences that archival material is digitised and public, not the extent of coverage.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Waldschlosschen Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Waldschl%C3%B6sschen_Bridge",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference source; used only as a cross-reference for the traffic-opening date (26 August 2013) and never as sole support for a claim.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude for a FORMER World Heritage site (deleted from the List in 2009). Proposed status Moderate Concern / Developing; close call vs High Concern (trigger: significant historical damage not reversed) flagged in decision_trigger, and the Committee's irreversible-damage finding is the main reason a reviewer might choose High. DPI proposed Moderate (3 of 5). Known gaps (not included because not verified): (1) UNESCO decision pages and state-of-conservation pages were read via tool summaries, not verbatim; quoted phrases should be checked against the decision text. (2) UNESCO's decisions index page for the property (whc.unesco.org/en/decisions/1156), the Deutsche Fotothek portal, the UrbanHistory4D 4D browser, the SKD panoramic tours page and the BTU thesis record (opus4.kobv.de) were blocked or unavailable in this session, so the 3D and virtual-tour DPI categories are marked false pending a manual check; the Heidelberg ICOMOS-Hefte article was blocked by a bot check. (3) Schoch (2014) was read as an abstract only. (4) No authoritative post-2009 assessment of the wider landscape's condition was found; UNESCO no longer monitors it. (5) The 2005 Dresden referendum and the 2007-2008 court proceedings are described only in UNESCO's 2006/2007 reports (the referendum date and result were available only from Wikipedia and omitted); German court rulings and city/state records were not read. (6) The 2013 'Mut zur Bruecke' release's 82% and 77% resident-approval figures are the Saxon Government's own, with no underlying poll identified, and were reported only as the release's statements (77% not included). (7) Bridge cost differs between sources (EUR 151.6 million estimate in the Saxon release vs about EUR 180 million in AFP); traffic opening date differs (25 August in AFP vs 26 August in Wikipedia); unresolved. (8) UNESCO's 2006 and 2008 news items were not opened directly. (9) Elbe low-water reporting for 2025 (L-IZ, 22 January 2026) and the September 2024 Carola Bridge partial collapse in Dresden were found but not included, because no source reviewed ties them to the condition of the former heritage landscape. (10) Flood sources give statewide damage figures, not heritage-specific damage. (11) No images included by design. Wording on the dispute is kept neutral and positions are attributed to their holders. VERIFIER PASS 2026-10-15 (independent): re-fetched UNESCO list/1156 (ID 1156 correct; 1,930 ha, 1,240 ha buffer, criteria ii-v confirmed), decisions 1163/1599/1786/1985, news/522, SoC 1196 and 955, UN News, The Local, Saxon releases, Gulf Times, City of Dresden and LfULG pages, Schoch abstract, DDB item; all quoted decision text, dates, figures and the Loeser (Greens) and Zastrow (FDP, Saxony) attributions matched. Fixes: (1) removed 'City of Dresden ... support it' and 'Dresden officials' support: the City Council halted the project in 2006 and a 2007 court ruled the public vote must be implemented; the referendum approval is the City's own account in UNESCO's 2006 report. (2) Stopped presenting the Local polls as support for the bridge (they concern regaining the title). (3) Softened Schoch's argument to 'may still merit' (only abstract read; the 'seems to keep' wording could not be confirmed). (4) Removed 'alternatives explored' from the 2006 decision summary (not confirmed in the page read). (5) Gallery photographer credit limited to first page; DPI archival item flagged as borderline. Tillich named at first mention. Reviewer note: High Concern is a genuinely close alternative, since the Committee recorded in 2009 that the damage was not reversed. || INDEPENDENT VERIFIER PASS 2026-10-15 (first independent check, Sonnet; the earlier 'VERIFIER PASS' text above was already present in the draft before this check and is not relied on). Re-fetched all cited sources. Verified: UNESCO page 1156 (2004, criteria ii-v, 1,930/1,240 ha, 18 km, coordinates, delisted 2009, Danger List 2006-2009), decisions 30 COM 7B.77, 32 COM 7A.26, 33 COM 7A.26, 33 COM 8C.3, SoC 2006/2007, UNESCO news and UN News (second deletion after Oman 2007), The Local poll figures, Saxon releases, AFP quotes/attributions, City of Dresden and LfULG flood figures, gallery, DDB item. Fixes: (1) significance summary said the property was deleted 'after the bridge was built'; corrected to deleted while the bridge was under construction (opened 2013). (2) Significance summary attributed Saxon State support to UNESCO's 2006 report, which does not mention the Saxon State; re-sourced to the 2007 report and the 2013 release, and corrected 'found the bridge had damaged' to the 2008 and 2009 wording. (3) Schoch abstract says Dresden 'supposedly maintains World Heritage worthiness'; the draft's 'argues ... may still merit' overstated it (changed in two places) and the abstract's note that German courts and local polls supported the bridge was added. (4) 2009 event: flagged that UNESCO's 'was built' phrasing predates completion. (5) 2013 event: Saxon release gives no exact opening day; AFP wording aligned; (6) City of Dresden 'Elbwiesen' page publication date made blank (two unlabelled dates 2021/2024). (7) DPI note adds weakness of the archival/scholarly items. Not verified: verbatim decision text (fetch tool paraphrases; quote fragments matched), Ostragehege wording confirmed only via summary, poll methodology, 82% claim origin. Status Moderate Concern left unchanged, but see report: High Concern is at least as defensible.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: moderate_concern / developing; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

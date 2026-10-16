@@ -1,0 +1,403 @@
+{
+  "slug": "nan-madol-ceremonial-centre-of-eastern-micronesia",
+  "name": "Nan Madol: Ceremonial Centre of Eastern Micronesia",
+  "alternate_names": [
+    "Nan Madol"
+  ],
+  "country": "Federated States of Micronesia",
+  "region": "Oceania",
+  "coordinates": {
+    "lat": 6.8397,
+    "lng": 158.3308
+  },
+  "coordinate_note": "Converted from the coordinates on UNESCO's property page (N6 50 23, E158 19 51). The inscribed property covers more than 100 islets off the south-east coast of Pohnpei; this marker is a practical single-point reference.",
+  "unesco_id": "1503",
+  "inscription_year": 2016,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Nan Madol as a series of more than 100 islets off the south-east coast of Pohnpei, built with basalt and coral boulder walls and containing stone palaces, temples, mortuaries and residential domains built between roughly 1200 and 1500 CE, the ceremonial centre of the Saudeleur dynasty. Its value is tied to megalithic architecture, evidence of chiefly societies and a continuing link to the Nahnmwarki system. It is inscribed under criteria (i), (iii), (iv) and (vi) and has been on the List of World Heritage in Danger since its inscription in 2016.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Siltation of waterways and unchecked mangrove growth are the main stated cause of the property's Danger listing on UNESCO's property page ('siltation of waterways ... promotes unchecked mangrove growth and undermines the structures'). ICOMOS's 2016 evaluation says sediment from Temwen Island and climate change have made many canals unnavigable except at very high tide. The 2018 mission report says the canal blockage appears mainly due to reduced seawater circulation after the Temwen causeway was built, and that sea-level rise, storm surge and waves threaten the outer sea walls in places while wave action is not a major issue across most of the site. ICOMOS did not name sea-level rise itself as a threat, mentioning climate change mainly in relation to silting. The State Party's January 2026 report names sea-level rise and stronger wave action as concerns, says a climate impact strategy is still planned and that it is requesting technical support, and says that in September 2025 it consulted the World Heritage Centre and ICCROM about using Nan Madol as a pilot site for the Climate Action Toolkit. The 2025 DSOCR includes a climate change strategy covering sea-level rise and wave action as one of its conditions.",
+      "first_identified_date": "2016",
+      "date_note": "Year only; month and day not confirmed by the sources read. 2016 is the year of the inscription decision and ICOMOS evaluation that first documented siltation and climate-related concerns in the sources reviewed. Silting itself is chronic.",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_06",
+        "src_08",
+        "src_09",
+        "src_11"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The 2016 decision describes the condition of the stone structures as 'of extreme concern' and names overgrowth of vegetation and some stonework collapse; ICOMOS reported over 80% of monuments with conservation problems. The 2018 mission report says large trees damage structures through roots, falls and decay, and that nearly all stone collapses trace to fallen trees or roots. Governance gaps have persisted: the 2024 decision found limited progress on essential issues despite earlier assurances, and the 2026 decision records that the Pohnpei State Government will not adopt the existing Site Management Plan, that efforts are under way to secure funding for a dedicated Site Manager, and that a Heritage Impact Assessment is requested before any resumption of resort construction in the buffer zone. According to the State Party's January 2026 report, major intrusive trees have not yet been removed or stabilised, long-term silt management and retaining wall repairs have not started, and 10 of the 18 DSOCR items are answered 'This has not yet been initiated'. The 2026 decision also welcomes progress, notably further vegetation removal and canal reopening.",
+      "first_identified_date": "2016",
+      "date_note": "Year only; month and day not confirmed by the sources read. 2016 is the year of the inscription decision and ICOMOS evaluation.",
+      "source_ids": [
+        "src_02",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_11"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Storm surge is named as a danger in the 2016 inscription decision and again in the 2024 decision, which lists storm surges among the actual and potential dangers. ICOMOS's 2016 evaluation says storm surge leads to stonework collapse, that exposed reef-side islets are vulnerable to waves and wind, and that typhoons pass at approximately three-year intervals. UNESCO's November 2018 news item (on the US grant) mentions roots and trees felled in storms dislodging stones. None of the sources read documents a specific recent storm event or unrepaired storm damage; the State Party's January 2026 report does not describe any specific storm or damage event. This category therefore reflects documented exposure, not a documented recent disaster.",
+      "first_identified_date": "2016",
+      "date_note": "Year only; month and day not confirmed by the sources read. 2016 is the year storm surge was first recorded in the sources reviewed as a danger to the property. Exposure is long-standing.",
+      "source_ids": [
+        "src_02",
+        "src_05",
+        "src_08",
+        "src_13",
+        "src_11"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: not met on the evidence reviewed. There is no active combat. No source reports that the site is inaccessible to monitoring (UNESCO decisions through 2026 and State Party reports from February 2024 and January 2026 show continuing reporting and an ICOMOS/World Heritage Centre involvement), and protection has not collapsed: vegetation clearance and canal maintenance are reported as ongoing. The nearest Critical trigger is 'an ongoing severe threat materially affecting survival or integrity': the 2016 decision called the stone structures 'of extreme concern' and the State Party's January 2026 report answers 10 of the 18 DSOCR items as not yet initiated (the rest report activity, pending processes or partial progress), but the 2026 Committee decision also welcomes progress and no current-condition assessment of severe verified damage was retrieved, so Critical is not mechanically triggered. High Concern trigger matched: official inscription on UNESCO's List of World Heritage in Danger for substantive (not administrative) reasons. UNESCO's Danger List page shows Nan Madol (2016), and the 2026 decision 48 COM 7A.25 retained it. This is a close call between High and Critical only in the sense described above; a reviewer may weigh the slow DSOCR implementation differently. Moderate Concern is not available as the Danger listing trigger is met.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Nan Madol has been on the List of World Heritage in Danger continuously since its inscription in 2016, and the Committee retained it again in 2026 (48 COM 7A.25). The reasons recorded in the sources are overgrowth of vegetation and unchecked mangrove growth, siltation of canals, stonework collapse, storm surge exposure, and gaps in legal protection and management. Against that, the Committee in 2026 welcomed further vegetation removal, reopened canal routes and efforts to fund a Site Manager; adopted in 2025 a Desired State of Conservation for removal with eight corrective-measure areas and a five-year timeframe; and noted that resort construction in the buffer zone has ceased. The State Party's own January 2026 report, however, answers 10 of the 18 DSOCR items 'This has not yet been initiated' (the remainder report ongoing work, items under discussion or review, or partial progress) and says that major intrusive trees have not yet been removed or stabilised. Climate-related threats (sea-level rise, wave action) are named by the State Party and by the mission report but are not documented as having caused a specific recent damage event. Confidence is Supported rather than Confirmed: the Committee decisions are primary and consistent, but the Secretariat's and ICOMOS's 2026 assessment documents and UNESCO's 2025 and 2026 state-of-conservation web pages could not be retrieved, so the picture of current physical condition rests on the State Party's own report and on Committee decisions. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_11"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly accessible evidence that was opened, which gives the moderate tier. Photography is UNESCO's public gallery only (12 images were visible on the page read, with more on further pages; 10 of the 12 credited to one photographer). Archival records are UNESCO's online nomination, ICOMOS evaluation, mission report and state-of-conservation documents. Scholarly coverage found is a 2015 full-coverage field survey of the islets, read via a bibliographic record. No publicly viewable 3D model or virtual tour was found: the undated airborne LiDAR presentation by the CSRM Foundation (hosted on doi.gov) shows that LiDAR imagery exists but does not state that the data are public, and the Google Arts & Culture page for Nan Madol was read as an overview with image assets and no tour, so neither was counted. Coverage is therefore thin on technical and immersive documentation.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre public photo gallery for the property, showing islet walls, breakwaters, stone alignments, collapse of a perimeter wall and a blocked channel (12 images on the page read, with further pages; credits are mainly Osamu Kataoka).",
+        "url": "https://whc.unesco.org/en/list/1503/gallery/",
+        "source_id": "src_14"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's ICOMOS evaluation of the 2016 nomination, available online with the nomination file and the January 2018 mission report on the property's UNESCO documents page.",
+        "url": "https://whc.unesco.org/document/152815",
+        "source_id": "src_08"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "McCoy, Alderson and Thompson (2015), 'A New Archaeological Field Survey of the Site of Nan Madol, Pohnpei', Rapa Nui Journal 29(1), described as the first full-coverage field survey of the islets using high-precision GPS, with a GIS layer reported on tDAR (dataset not opened).",
+        "url": "https://habeleinstitute.org/wiki/Zotero_reference:LEAN9PJD",
+        "source_id": "src_15"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016",
+      "title": "Nan Madol inscribed on the World Heritage List and simultaneously on the List of World Heritage in Danger",
+      "description": "By Decision 40 COM 8B.22 (Istanbul) the Committee inscribed the property under criteria (i), (iii), (iv) and (vi) and placed it on the Danger List. The decision names overgrowth of vegetation, storm surge effects and some stonework collapse, and describes the condition of the stone structures as 'of extreme concern'. ICOMOS's evaluation had recommended inscription on the Danger List at the same time.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2017",
+      "title": "Committee retains Nan Madol on the Danger List (41 COM 7A.56)",
+      "description": "The Committee welcomed offers of expert support from France, Japan and the United States, noted that work on legislation LB 392 (which would establish the Nan Madol Historic Preservation Trust) had been delayed, and urged progress, urged appointment of a property manager, and noted the State Party's invitation of a joint World Heritage Centre/ICOMOS Reactive Monitoring mission.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2018-01",
+      "title": "Joint World Heritage Centre/ICOMOS Reactive Monitoring mission",
+      "description": "The mission, led by archaeologist Ian Lilley, reported that large trees and other vegetation damage structures, that canals are largely blocked (it said the main cause appears to be reduced seawater circulation after the causeway linking Temwen Island to Pohnpei was built, with mangroves trapping sediment), and that sea-level rise, storm surge and waves threaten the outer sea walls in places. It concluded that a full Desired State of Conservation for removal could not yet be defined. UNESCO's news item of 23 February 2018 describes the mission as having been held in January 2018.",
+      "event_type": "other",
+      "source_ids": [
+        "src_09",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2018-09",
+      "title": "US Ambassador's Fund for Cultural Preservation grant of US$375,000",
+      "description": "UNESCO's news item of 9 November 2018 reports a September 2018 grant of US$375,000 from the US Ambassador's Fund for Cultural Preservation, and describes vegetation, silt in the canals and rising sea levels as risks to the site.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee retains Nan Madol on the Danger List (45 COM 7A.53)",
+      "description": "At its extended 45th session (Riyadh) the Committee said progress on a management and protection system had been slowed by COVID-19 restrictions, welcomed US Department of State Ambassadors Fund support for a two-year implementation programme, and was concerned that conservation problems had not yet been effectively resolved. It asked again for vegetation management and mangrove clearing in the main canals, a long-term Property Manager, legislation LB392, three plans, Heritage Impact Assessment (HIA) processes and a draft Desired State of Conservation for removal (DSOCR). It also expressed concern that a tourism resort on Nahnningi Island in the buffer zone had continued without a prior HIA.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee retains Nan Madol on the Danger List (46 COM 7A.39)",
+      "description": "The Committee credited vegetation removal, a completed Visitor Centre and draft plans, but said progress on essential issues had been limited despite earlier assurances. It said the property faces actual and potential danger from weak protection and management, overgrowth and stonework collapse, storm surges, erosion and siltation, and visitor impacts, and that resort work on Nahnningi Island had continued and expanded without an HIA. It asked for the DSOCR to be developed remotely for the 47th session. The State Party's report of 14 February 2024 had said Visitor Centre construction was complete but the centre was not yet open.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "DSOCR, corrective measures and five-year timeframe adopted (47 COM 7A.19)",
+      "description": "The Committee adopted a Desired State of Conservation for removal from the Danger List comprising 18 conditions (for example vegetation cleared from access canals to five target islets, silted waterways cleared, retaining walls repaired, a climate change strategy, a permanent Site Manager, a revised Pohnpei State Code), together with eight areas of corrective measures to be completed within five years. It retained the property on the Danger List and called on the international community to support implementation.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2026-01-31",
+      "title": "State Party submits state of conservation report",
+      "description": "The report, signed by the FSM National Commission for UNESCO and dated 31 January 2026, describes ongoing vegetation clearance and canal maintenance, says canal routes have reopened between Nan Dowas, Pan Kadira and Para Nuii, and says that of the 18 DSOCR items, 10 are answered 'This has not yet been initiated' (including removal or stabilisation of major intrusive trees, a long-term silt plan, retaining wall repairs and opening the Visitor Centre). The report has no formal status column; the other items report daily vegetation and silt work, a completed and ongoing recognition of the Nahnmwarki, items under discussion or review, or partial progress. It names sea-level rise and stronger wave action as concerns and says the State Party is requesting technical support for a climate impact strategy. It does not describe any specific storm or damage event.",
+      "event_type": "other",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee retains Nan Madol on the Danger List (48 COM 7A.25)",
+      "description": "At its 48th session (Busan) the Committee welcomed progress on corrective measures, including further removal of intrusive vegetation, reopening of key canal routes and efforts to fund a dedicated Site/Property Manager. It noted that the Pohnpei State Government will not adopt the existing Site Management Plan and that a new one is to be prepared, and noted that construction of a tourism resort in the buffer zone has ceased, requesting an HIA before any decision on resuming work. It requested an updated state of conservation report by 1 February 2027 and decided to retain the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Nan Madol: Ceremonial Centre of Eastern Micronesia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1503/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 40 COM 8B.22: Nan Madol (Federated States of Micronesia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6800",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 41 COM 7A.56: Nan Madol: Ceremonial Centre of Eastern Micronesia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7002/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7A.53: Nan Madol: Ceremonial Centre of Eastern Micronesia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8252/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 46 COM 7A.39: Nan Madol: Ceremonial Centre of Eastern Micronesia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8508/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 47 COM 7A.19: Nan Madol: Ceremonial Centre of Eastern Micronesia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8686/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 48 COM 7A.25: Nan Madol: Ceremonial Centre of Eastern Micronesia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9016/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "ICOMOS Evaluation of Nan Madol: Ceremonial Center of Eastern Micronesia (ID 1503)",
+      "publisher": "ICOMOS (published on UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/152815",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Date is the approval date stated in the document (11 March 2016) as summarised from the page; this is the advisory-body evaluation for the 2016 inscription, which predates current conditions.",
+      "published_date": "2016-03-11",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Report of the joint World Heritage Centre/ICOMOS Reactive Monitoring mission to Nan Madol (January 2018)",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/168115",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The text available when read was truncated partway through the stone-conservation annex; mission dates appear as 16-25 January in the text and 15-25 January on UNESCO's documents listing.",
+      "published_date": "2018",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "State of Conservation Report for Nan Madol (response to Decision 45 COM 7A.53), signed 14 February 2024",
+      "publisher": "Federated States of Micronesia National Commission for UNESCO (hosted by UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/205389",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party's own report; presents the State Party's account and is not an independent assessment.",
+      "published_date": "2024-02-14",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "State of Conservation Report for Nan Madol (response to Decision 47 COM 7A.19), dated 31 January 2026",
+      "publisher": "Federated States of Micronesia National Commission for UNESCO (hosted by UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/224559",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party's own report; presents the State Party's account and is not an independent assessment. The report's own internal references to deadlines and a Para Nuii HIA are not fully consistent, so only its progress and climate statements are used.",
+      "published_date": "2026-01-31",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Nan Madol news item on the January 2018 Reactive Monitoring mission",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1787",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018-02-23",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Nan Madol news item on a US Ambassador's Fund for Cultural Preservation grant",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1899",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018-11-09",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Nan Madol: Ceremonial Centre of Eastern Micronesia, photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1503/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "A New Archaeological Field Survey of the Site of Nan Madol, Pohnpei (McCoy, Alderson and Thompson), Rapa Nui Journal 29(1), 2015",
+      "publisher": "Habele Institute bibliographic record of a Rapa Nui Journal article",
+      "url": "https://habeleinstitute.org/wiki/Zotero_reference:LEAN9PJD",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Read through a third-party bibliographic record with abstract; the article itself and the tDAR dataset it mentions were not opened.",
+      "published_date": "2015",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; Danger List status checked directly on UNESCO's list page (Nan Madol shown, 2016) and confirmed by decision 48 COM 7A.25. Close call vs Critical flagged in decision_trigger. Known gaps (not included because not verified): (1) UNESCO state-of-conservation web pages soc/4970 (2026) and soc/4852 (2025) could not be fetched, so the Secretariat's and ICOMOS's 2026 assessment and the full WHC/26/48.COM/7A document were not read; the 2026 and 2025 decisions were read via UNESCO decision pages, the January 2026 State Party report via document 224559. (2) The 2019 ICOMOS Technical Review (cited in the decisions) and the nomination file PDF were not opened. (3) The 2025 State Party report and the 2017-2021 decisions other than 2017 were not read. (4) The 2023 SOC report was not read; the 2024 State Party report was. (5) No independent journalism on current conditions was found; no specific recent storm or damage event is documented in the sources read, so natural_disaster reflects exposure only. (6) Exact month of the 2016 inscription and exact session dates for 2017-2026 decisions were not confirmed from the pages read, so decision events are dated by year. (7) The doi.org link for the 2015 McCoy et al. article was blocked; the article is cited through a bibliographic record and the tDAR dataset was not opened. (8) Spellings of Nahnhingi/Nahnningi Island differ between decisions and are reproduced as in each. (9) An undated CSRM Foundation LiDAR presentation (doi.gov) and a Google Arts & Culture entity page were read but not counted in the Digital Preservation Index. (10) The 2026 State Party report contains internal inconsistencies on deadlines and an HIA name; only its progress and climate statements are used. Images omitted by design. VERIFIER (2026-10-15): corrected the State Party January 2026 report characterisation: the report has no status column; 10 of 18 DSOCR items literally answer 'This has not yet been initiated' and the rest report activity, pending review or partial progress (previously 'only a few marked done or in progress'), in four places; softened ICOMOS storm-surge wording (exposed islet link not stated; now reef-side islets vulnerable to waves and wind, typhoons at approx. three-year intervals); reworded 2026 decision on Site Manager funding to 'efforts to secure funding'. VERIFIER 2 (2026-10-15, independent check): Danger List status re-confirmed directly (UNESCO danger-list page shows Nan Madol, 2016; 48 COM 7A.25 retains it). Fixed: 'tombs' -> 'mortuaries' and 'residential areas' -> 'residential domains' (UNESCO wording); 2017 decision 'regretted the delay' -> 'noted the delay and urged progress' (decision does not say regretted); natural_disaster storm-tree sentence now correctly attributed to the November 2018 news item (the February 2018 item does not mention it). All other checked figures, dates, quotes, coordinates (6.8397, 158.3308), 10-of-18 DSOCR count, 18 conditions / 8 areas / 5 years, and DPI evidence confirmed. Not verifiable from sources: 'Riyadh' for the 45th extended session (true but not stated on the decision page).",
+      "changed_by": "claude"
+    }
+  ]
+}

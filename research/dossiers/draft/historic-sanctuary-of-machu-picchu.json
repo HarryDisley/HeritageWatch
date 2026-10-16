@@ -1,0 +1,526 @@
+{
+  "slug": "historic-sanctuary-of-machu-picchu",
+  "name": "Historic Sanctuary of Machu Picchu",
+  "alternate_names": [
+    "Machu Picchu",
+    "Machupicchu"
+  ],
+  "country": "Peru",
+  "region": "South America",
+  "coordinates": {
+    "lat": -13.1849,
+    "lng": -72.5334
+  },
+  "coordinate_note": "Converted from the centre-point coordinates on UNESCO's property page (S13 11 5.762, W72 32 0.395). The inscribed sanctuary is a large area (UNESCO's page gives 38,160.87 ha in one place and 32,592 ha in the Outstanding Universal Value synthesis), so this marker is a practical single-point reference.",
+  "unesco_id": "274",
+  "inscription_year": 1983,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "mixed",
+  "significance_summary": "UNESCO describes Machu Picchu as an Inca city that stands at 2,430 m above sea level in tropical mountain forest on the eastern slopes of the Andes, known for its terraces, walls and ramps, within a biodiverse transition zone between the high Andes and the Amazon Basin. It is inscribed as a mixed property under cultural criteria (i) and (iii) and natural criteria (vii) and (ix).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The World Heritage Committee has repeated, across several sessions, concerns about pressures on the property other than natural hazards. Visitor numbers: in 2025 (47 COM 7B.57) the Committee was concerned that daily visitor numbers exceed the limits set by the 2015 carrying capacity study; in 2026 (48 COM 7B.65) it remained concerned, said the conditions for increasing visitation are still not met, and asked that the new carrying capacity study be submitted for review before final decisions on visitation. UNESCO's 2025 state-of-conservation page states that the daily cap is now 4,500 (5,600 in peak season), more than double the 2020 limit of 2,244, and reports the advisers' view that the absence of an independent technical review raises questions. Peru's Ministry of Culture set 2026 caps of 4,500 per day, rising to 5,600 on listed date ranges (including 19 June to 2 November) (El Peruano, 2 November 2025), and Peru's own January 2026 report describes the same 4,500/5,600 figures. Land use and development: in 2023 (45 COM 7B.100) the Committee noted reported increases in site invasion, looting and illegal land-use changes, especially along entrance routes; in 2025 it noted a new technical committee on rural land use (which UNESCO's 2025 page says was created by SERNANP and the district municipality) to address them; Peru's 2026 report says a Technical Committee led by the District Municipality is consolidating rural construction parameters to prevent unplanned growth. Infrastructure: in 2026 the Committee noted that the Heritage Impact Assessment for Chinchero International Airport (Cusco) identified significant impacts and requested an Action Plan with mitigation measures, to be submitted urgently and implemented before airport operations begin; the Visitor Centre Heritage Impact Assessment is reported by Peru as still pending. Governance: in 2025 the Committee was concerned about reported governance problems in the Machu Picchu Management Unit and the loss of site-level financial retention. Positive measures are also recorded: the Committee welcomed progress on the 2026-2030 Master Plan update (2026) and Law No. 31770 requiring Heritage Impact Assessments (2025). Access to the site has also been disrupted by disputes over transport arrangements (see events for September 2025); the sources read do not report damage to the heritage fabric from these disruptions. The Committee has not, in any decision read, recommended inscription on the Danger List.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year management concerns raised by the Committee across successive cycles (decisions read go back to 2021 in this dossier); no single start date established from the sources reviewed.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_17",
+        "src_15",
+        "src_14"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The property sits on steep, wet Andean slopes with documented landslide and flood exposure. UNESCO's 2025 state-of-conservation page lists avalanche/landslide and floods among the issues for the 2025 cycle (the Llaqta is the Inca citadel); it also states that earlier reports flagged the absence of a natural-disaster risk management plan, which is not among the threats it lists for 2025 (the plan's current status was not established in this pass). In 2023 (45 COM 7B.100) the Committee stated that admission limits should match the resources available for, among other things, monitoring erosion and geological stability on the Llaqta and its access routes. A 2005 conference abstract (Casagli and colleagues) assesses debris-flow and shallow-landslide hazard in the Machu Picchu area and refers to debris flows that damaged the access road in 1995-1996 and a channelized debris flow the day after Easter 2004 that, in the abstract's words, produced eleven casualties in nearby Aguas Calientes. In January 2010 heavy rains and landslides blocked the railway and stranded tourists; UNESCO reported on 28 January that the Citadel had not been impacted by the rainfall, and on 12 February described a planned emergency mission to address geological and geomorphological impacts on built heritage (see events). These hazards are chronic and monitored; the sources read do not document unrepaired damage from a recent event. The State Party's January 2026 report excerpt read does not address natural hazards.",
+      "first_identified_date": null,
+      "date_note": "Chronic natural exposure; no single start date applies. Earliest dated event in this dossier is the 1995-1996 road-damaging debris flows and the 2004 debris flow reported in a 2005 abstract (the abstract gives no precise dates beyond these).",
+      "source_ids": [
+        "src_06",
+        "src_04",
+        "src_13",
+        "src_10",
+        "src_11",
+        "src_12"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no severe verified current damage to the site was found, no active combat, no loss of monitoring access, and protection has not collapsed (state management, national regulation and UNESCO monitoring continue). High Concern: considered and not mechanically triggered. (1) Danger List: checked directly on UNESCO's List of World Heritage in Danger page (58 properties); Peru's only listed property there is Chan Chan Archaeological Zone, and Historic Sanctuary of Machu Picchu does not appear. The Committee decisions read (2021, 2023, 2025, 2026) request reporting and actions but none, as read, recommends danger listing. (2) No specific damaging event within roughly the last five years was found, corroborated by two independent sources, as unrepaired; the September 2025 rail and bus dispute disrupted access and stranded visitors but the sources read do not report damage to the heritage fabric. (3) Armed conflict: none. The 'serious civil unrest' trigger was considered because of the September 2025 strike and rail blockade; the sources read describe a transport-concession dispute and a 72-hour strike suspension from 17 September 2025 (the later outcome was not read) and do not report a documented risk to cultural property, so it is treated as an access issue, not a High trigger. (4) 'Severe unresolved threat with a stated near-term timeframe from a named authority' is the closest call: in 2026 (48 COM 7B.65) the Committee asked for the Chinchero airport mitigation Action Plan urgently and for implementation before airport operations begin, and asked for an updated state-of-conservation report by 1 December 2027; this is a conditional request tied to an opening date that was not established, and the Committee, as read, did not describe the effect on the property as severe damage. (5) No significant historical damage with substantially incomplete site-wide repair was identified. A statement on UNESCO's 2025 state-of-conservation page, seen only in a summarised fetch, says the Chinchero airport impact assessment indicates affected sites should be listed as in danger if mitigation measures are not put in place; its exact wording and whose statement it is were not established, so it is not relied on, but a reviewer should read it at the page because it bears on the Moderate/High boundary. Moderate Concern triggers matched: credible documented threats that are chronic and monitored (visitor pressure above the 2015 carrying-capacity study limits per the Committee, landslide and flood exposure with ongoing monitoring, land-use pressure and infrastructure impacts) recorded in official conservation reports without a documented imminent-damage finding. This is a close call between Moderate and High, and a reviewer may weigh the Committee's repeated concern about visitor numbers and the Chinchero airport differently.",
+      "rationale": "Historical damage and past disruptions (the 2004 debris flow, the January 2010 rains, the 2024 and 2025 rail blockades) are documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture, as of 15 October 2026 (the Committee and UNESCO wording below is paraphrased): the property is not on the Danger List; the Committee's most recent decision read (48 COM 7B.65, 2026) remains concerned that daily visitor numbers still exceed the 2015 carrying capacity study levels, says the conditions for increasing visitation are still not met, asks that the new carrying capacity study be submitted for review before final decisions, and asks for urgent mitigation planning for the Chinchero airport; it also welcomes progress on the 2026-2030 Master Plan and notes progress toward the Machu Picchu-Choquequirao Biosphere Reserve. Peru reports a Master Plan validated by the Machupicchu Management Unit, caps of 4,500 and 5,600 daily visitors and a rural-land-use committee. UNESCO's 2025 page lists landslide and flood risk among the issues for that cycle, and the Committee's 2023 decision refers to monitoring erosion and geological stability. Against this, the sources read show an actively functioning management and monitoring system, a Committee that has repeatedly asked for information rather than recommending danger listing, no documented unrepaired acute damage, and an access dispute (September 2025) that was reported as disruptive to visitors rather than damaging to the fabric. These are chronic, monitored threats rather than an acute emergency, which is what Moderate Concern describes. Confidence is Supported rather than Confirmed: the Committee decisions were read through a summarising tool, the 2026 Secretariat/Advisory Body assessment (WHC/26/48.COM/7B.Add) and UNESCO's 2026 state-of-conservation page were not read, Peru's own reports are not independent, the Chinchero airport timeline is unknown, and the Moderate/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_06",
+        "src_07",
+        "src_17",
+        "src_04",
+        "src_14",
+        "src_16"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "All five categories have publicly findable evidence, which reaches the extensive tier by the rubric (at least four, including a visual and a scholarly category). Evidence opened directly: UNESCO's photo gallery (12 images on the first page, about 42 in total by the 'See All' link, mixing site photographs and wildlife images), UNESCO's documents page, the University of Arkansas CAST page offering downloadable 3D laser-scan data, the 2005 conference abstract, and the Yale news story on the 2021 Antiquity study (the article itself was not opened). The virtual-tour category rests on news reports only: Peru's Ministry of Culture announcing a Google Street View agreement in 2015 (AFP via El Universo) and Andina in 2020 describing a Google Arts & Culture presentation; the Google pages themselves could not be opened, so the tours' current availability was not checked. The tier would still be extensive (four of five categories, including visual and scholarly) if the virtual-tour category were dropped. The CAST data licence is non-commercial, and its coverage of the whole sanctuary was not established.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a photo gallery for the property; pagination suggests roughly 42 images, mixing views of the citadel and sanctuary with wildlife photographs (credits include UNESCO, the Ministry of Culture and SERNANP).",
+        "url": "https://whc.unesco.org/en/list/274/gallery/",
+        "source_id": "src_09"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists Committee decisions from 1983 to 2026, State Party reports (2014, 2015, 2016, 2019, 2020, 2022, 2024, 2026), state-of-conservation pages from 1987 to 2026 and Periodic Reporting Cycle 3 Section II (2023).",
+        "url": "https://whc.unesco.org/en/list/274/documents/",
+        "source_id": "src_08"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Reportedly, Google Street View imagery of the citadel (announced by Peru's Ministry of Culture, December 2015, per AFP via El Universo). Not opened directly.",
+        "url": "https://www.eluniverso.com/vida-estilo/2015/12/03/nota/5276934/machu-picchu-podra-verse-google-street-view",
+        "source_id": "src_21"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "University of Arkansas CAST (Center for Advanced Spatial Technologies) data page for Machu Picchu offers downloadable laser-scan point clouds and meshes (scans made in 2005 and 2009 with an Optech ILRIS-3D scanner, with Peru's Instituto Nacional de Cultura and the UCLA Cotsen Institute field school credited), distributed under a Creative Commons non-commercial licence (the page text and metadata name different variants: BY-NC and BY-NC-SA).",
+        "url": "https://gmv.cast.uark.edu/scanning-2/data/machu-picchu-3d-data/",
+        "source_id": "src_22"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Andina (Peru's state news agency, November 2020) reports an online Google Arts & Culture tour (opening with a 1911 photograph of the citadel) with five panoramic photos, 3D locations and 360-degree Street View imagery of the Sacred Rock, Temple of the Sun, Intihuatana and Temple of the Condor. Not opened directly.",
+        "url": "https://andina.pe/ingles/noticia-machu-picchu-reabre-sus-puertas-al-turismo-y-google-te-invita-a-explorarlo-819800.aspx",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed scholarship on the site: a 2021 Antiquity article led by Yale archaeologist Richard Burger, using accelerator mass spectrometry radiocarbon dating of human remains from 26 individuals excavated in 1912, as reported by Yale University.",
+        "url": "https://macmillan.yale.edu/stories/machu-picchu-older-expected-study-reveals",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "2005 conference abstract (Geophysical Research Abstracts vol. 7) on debris-flow hazard assessment in the Machu Picchu area, combining field survey and Quickbird satellite imagery (2002, 2004).",
+        "url": "https://flore.unifi.it/handle/2158/384466",
+        "source_id": "src_13"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2004",
+      "title": "Debris flow in Aguas Calientes produces eleven casualties",
+      "description": "A 2005 conference abstract (Casagli and colleagues) states that a channelized debris flow the day after Easter 2004 produced eleven casualties in Aguas Calientes, the town near the site; it also refers to debris flows in 1995-1996 that damaged the access road. The abstract is a preliminary conference piece and gives no further detail.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2010-01-25",
+      "title": "Landslides block railway; tourists stranded near Machu Picchu",
+      "description": "UNESCO reported on 28 January 2010 that on 25 January about 2,000 tourists were stranded after landslides blocked the railway between Aguas Calientes and Ollantaytambo, and that the Citadel had not been impacted by the heavy rainfall (while noting it is a small part of the protected area). NASA Earth Observatory reported about 4,000 tourists trapped for two days and that rail track and bridges were damaged, and also that the citadel was not damaged; the figures differ between the two sources.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_10",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2010-02",
+      "title": "UNESCO plans emergency mission after the rains",
+      "description": "UNESCO reported on 12 February 2010 that its staff held a technical visit with Peruvian officials in Lima from 6 to 10 February and that an emergency mission with the Advisory Bodies and international experts was planned to address geological and geomorphological impacts on built heritage. It said it was concerned that the flooding had affected the water-carrying capacity of soils, which could cause future landslides and fatalities in the core zone.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Committee decision 44 COM 7B.172 on Machu Picchu",
+      "description": "At its extended 44th session (Fuzhou/online, per UNESCO's 2025 state-of-conservation page) the Committee welcomed the review of the 2015 carrying capacity study and the setting of visitor limits based on it, asked that visitation be managed in line with that capacity, noted the Chinchero-Cusco International Airport (about 60 km away) and asked that its direct, indirect and cumulative impacts be assessed, and requested an updated report by 1 December 2022.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee decision 45 COM 7B.100 on Machu Picchu",
+      "description": "At its extended 45th session (Riyadh, per UNESCO's 2025 state-of-conservation page) the Committee welcomed progress on protecting original surfaces, the initiation of a video surveillance system project and improvements to visitation management, asked Peru to confirm visitor numbers had dropped in line with the carrying capacity study after a temporary capacity increase ended on 31 December 2022, noted reported increases in site invasion, looting and illegal land-use changes, and requested a report by 1 December 2024. Exact session month not captured.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024-01",
+      "title": "Rail line to Aguas Calientes reportedly blocked by protest over ticketing",
+      "description": "PAX News, citing the Associated Press, reported that locals blocked the Cusco-Aguas Calientes rail line for more than a week in protest at a new electronic ticketing platform, with train service suspended on 26 January and resuming on 31 January 2024 after the government reversed its plans. Single secondary source; not opened at the AP original.",
+      "event_type": "political",
+      "source_ids": [
+        "src_18"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "Committee decision 47 COM 7B.57 on Machu Picchu",
+      "description": "At its 47th session (6-16 July 2025, per UNESCO's state-of-conservation page) the Committee welcomed progress in visitor-flow management, was concerned that daily visitor numbers exceed the limits set by the 2015 carrying capacity study, welcomed Law No. 31770 requiring Heritage Impact Assessments, welcomed the completed Heritage Impact Assessment for Chinchero International Airport, expressed concern about reported governance problems in the Machu Picchu Management Unit, and requested an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "title": "Rail service suspended and visitors stranded amid transport-concession protests",
+      "description": "Reuters (via The New Daily) reported protests after bus operator Consettur lost its concession, with PeruRail reporting rocks on the track, about 1,400 tourists evacuated on Monday (15 September) and some 900 still stranded in Aguas Calientes per the tourism minister (the Art Newspaper dates the 900 figure to 16 September). The Art Newspaper (citing AFP) additionally reported 14 police officers injured in clashes while trying to clear tracks. The sources read do not report damage to the heritage site itself.",
+      "event_type": "political",
+      "source_ids": [
+        "src_14",
+        "src_15"
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "title": "Communities agree to suspend strike for 72 hours",
+      "description": "Andina reported that communities of Machu Picchu district agreed to suspend their indefinite strike (which it said had lasted 72 hours) from 11:00 on 17 September for 72 hours to allow mediation by the Ombudsman's Office, and asked rail operators to resume service. The later outcome was not read.",
+      "event_type": "political",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2025-11-02",
+      "title": "Ministry of Culture sets 2026 daily visitor caps",
+      "description": "El Peruano reported a Ministry of Culture resolution setting 2026 daily caps of 5,600 visitors on listed dates (1 January, 2-5 April, 19 June to 2 November, and 30-31 December) and 4,500 on all other days, with tickets sold only through the ministry's online portal and the stated purpose of protecting and conserving the archaeological heritage.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_17"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "title": "Peru submits annual state-of-conservation report",
+      "description": "Peru's report (Cusco, January 2026), published on UNESCO's site, states a carrying capacity of 4,500 visitors per day (temporarily up to 5,600 in high season), that the Master Plan 2026-2030 was validated by the Machupicchu Management Unit, that the Heritage Impact Assessment for the Machupicchu Visitor Centre is still pending, and that nomination of a Machupicchu-Choquequirao Biosphere Reserve is targeted for late 2026. These are the State Party's statements.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7B.65 on Machu Picchu",
+      "description": "At its 48th session (Busan, 2026) the Committee remained concerned that daily visitor numbers still exceed the 2015 carrying capacity study levels and that the conditions for increasing visitation are not met; welcomed progress on the 2026-2030 Master Plan update; noted the Chinchero airport assessment identified significant potential impacts on Outstanding Universal Value and requested that the mitigation Action Plan be finalised, submitted urgently for Advisory Body review and implemented before airport operations begin; asked Peru to submit a technical assessment with quantitative data showing that the conditions for increased visitation are met; asked that the new carrying capacity study be submitted for review before final decisions; welcomed the intention to strengthen decision-making and institutional coordination within the Machu Picchu Management Unit; noted positive progress toward the Machu Picchu-Choquequirao Biosphere Reserve; and requested an updated report by 1 December 2027. The decision text does not mention the Danger List, and the property does not appear on UNESCO's Danger List page.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_01"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Historic Sanctuary of Machu Picchu",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/274/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on the access date; the page states it lists 58 properties. Peru's only entry on that page is Chan Chan Archaeological Zone; Historic Sanctuary of Machu Picchu does not appear.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7B.65: Historic Sanctuary of Machu Picchu (Peru)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9104",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Retrieved through a summarising fetch tool, so the decision's content is paraphrased in this dossier rather than quoted; the exact session month was not captured.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7B.57: Historic Sanctuary of Machu Picchu (Peru)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8781",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Retrieved through a summarising fetch tool, so content is paraphrased rather than quoted.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7B.100: Historic Sanctuary of Machu Picchu (Peru)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8234",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Retrieved through a summarising fetch tool, so content is paraphrased rather than quoted.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 44 COM 7B.172: Historic Sanctuary of Machu Picchu (Peru)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7888",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Retrieved through a summarising fetch tool, so content is paraphrased rather than quoted.",
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Historic Sanctuary of Machu Picchu: State of Conservation 2025",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4702",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "This is UNESCO's state-of-conservation page for the 2025 cycle (French-language URL, English content as retrieved); it is a page summarising the cycle, not the underlying Secretariat document WHC/25/47.COM/7B.Add.2, which was not opened. Figures from it are attributed to 'the page'.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Annual Report on the State of Conservation of World Heritage: Historic Sanctuary of Machu Picchu (Peru's report, cover reads 'Annual Report on the Conservation of World Heritage 2025', Cusco, January 2026)",
+      "publisher": "Republic of Peru (State Party), hosted by UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/224549",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "This is the State Party's own report (it is published on UNESCO's site as 'Summary of the State of conservation report by the State Party'); statements in it are Peru's, not UNESCO's assessment.",
+      "published_date": "2026-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Historic Sanctuary of Machu Picchu: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/274/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Historic Sanctuary of Machu Picchu: gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/274/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Torrential rains cause death and damage at Peruvian World Heritage sites",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/580",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2010-01-28",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Damage evaluated at Machu Picchu after torrential rains",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/587",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2010-02-12",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Flooding near Machu Picchu, Peru",
+      "publisher": "NASA Earth Observatory",
+      "url": "https://science.nasa.gov/earth/earth-observatory/flooding-near-machu-picchu-peru-42501/",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Page dated 1 February 2010 (satellite image date); the page was last updated 24 October 2025. Figures such as casualty estimates are given as estimates in the source.",
+      "published_date": "2010-02-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Integration of field survey and VHR satellite data analysis for the debris-flow hazard assessment in the Machu Picchu area (Casagli, Fanti, Nocentini, Righini)",
+      "publisher": "Geophysical Research Abstracts vol. 7 (EGU General Assembly 2005), via University of Florence repository",
+      "url": "https://flore.unifi.it/handle/2158/384466",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "A conference abstract (preliminary work), read via a repository record; not a full peer-reviewed article.",
+      "published_date": "2005",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Peru: tourists stranded near Machu Picchu amid protests (Reuters byline)",
+      "publisher": "The New Daily",
+      "url": "https://www.thenewdaily.com.au/news/world/2025/09/17/tourists-stranded-machu-picchu",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-09-17",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Machu Picchu visitors stranded by protests",
+      "publisher": "The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2025/09/26/machu-picchu-visitors-stranded-protests",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Page text gave a publication date of 27 September 2025 while the URL carries 26 September; only the month is recorded here. The AFP-attributed police-injury sentence in the page is garbled; treat the figure of 14 as reported.",
+      "published_date": "2025-09",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Peru: Machu Picchu communities agree to suspend strike for 72 hours",
+      "publisher": "Andina (Peru state news agency)",
+      "url": "https://andina.pe/ingles/noticia-peru-machu-picchu-communities-agree-to-suspend-strike-for-72-hours-1045119.aspx",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "State news agency; the report relays the communities' statement. The outcome after the 72-hour suspension was not read.",
+      "published_date": "2025-09-17",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Machu Picchu: Ministerio de Cultura fija aforo maximo de 5600 visitantes diarios para 2026",
+      "publisher": "El Peruano (Peru's official gazette newspaper)",
+      "url": "https://elperuano.pe/noticia/282176-machu-picchu-ministerio-de-cultura-fija-aforo-maximo-de-5600-visitantes-diarios-para-2026",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "News item reporting a Ministry of Culture ministerial resolution; the resolution text itself was not opened.",
+      "published_date": "2025-11-02",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Machu Picchu train line reopens after protesters, authorities strike deal",
+      "publisher": "PAX News (Pax Global Media)",
+      "url": "https://www.paxnews.com/news/other/machu-picchu-train-line-reopens-after-protesters-authorities-strike-deal",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Secondary aggregator that itself cites the Associated Press; the original AP report was not opened. The byline reads '02-01-2024' (read as 1 February 2024, day-month). Single-source for the January 2024 events and used only as context, not for status.",
+      "published_date": "2024-02-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Machu Picchu is older than expected, study reveals",
+      "publisher": "Yale University (MacMillan Center), reporting a study in Antiquity",
+      "url": "https://macmillan.yale.edu/stories/machu-picchu-older-expected-study-reveals",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "University news story about a peer-reviewed article (Antiquity, DOI 10.15184/aqy.2021.99); the article itself was not opened.",
+      "published_date": "2021-08-16",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Machu Picchu reabre sus puertas al turismo y Google te invita a explorarlo (English edition)",
+      "publisher": "Andina (Peru state news agency)",
+      "url": "https://andina.pe/ingles/noticia-machu-picchu-reabre-sus-puertas-al-turismo-y-google-te-invita-a-explorarlo-819800.aspx",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports that a Google Arts & Culture presentation exists; the Google Arts & Culture page itself could not be opened by the research tool, so the tour's current availability was not directly checked.",
+      "published_date": "2020-11-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Machu Picchu podra verse en Google Street View",
+      "publisher": "El Universo (AFP credit)",
+      "url": "https://www.eluniverso.com/vida-estilo/2015/12/03/nota/5276934/machu-picchu-podra-verse-google-street-view",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports a Ministry of Culture announcement of a Google Street View agreement (2015); the Street View imagery itself was not opened by the research tool.",
+      "published_date": "2015-12-03",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Machu Picchu, Peru (3D data)",
+      "publisher": "Center for Advanced Spatial Technologies (CAST), University of Arkansas",
+      "url": "https://gmv.cast.uark.edu/scanning-2/data/machu-picchu-3d-data/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "University research-centre data page; found via web search and opened directly. It offers downloadable point-cloud and mesh files; the files themselves were not downloaded or inspected, and the page's licence wording is internally inconsistent (BY-NC in text, BY-NC-SA in metadata).",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude (replaces an earlier same-day draft, kept as prev-draft-historic-sanctuary-of-machu-picchu.json.bak in the scratchpad). Proposed status Moderate Concern / Supported; close call vs High Concern flagged in decision_trigger. DPI recommendation: extensive but marginal (virtual tour rests on news reports; 3D not counted) - see coverage_note. Danger List checked directly on UNESCO's list page: not on it (58 properties; Peru's only entry is Chan Chan). Known gaps: (1) The four Committee decision pages were read through a summarising fetch tool, so wording is paraphrased, not quoted; exact session months of 2021, 2023 and 2026 decisions not captured. (2) UNESCO's 2026 state-of-conservation page (whc.unesco.org/en/soc/5030) returned a fetch error; the Secretariat/Advisory Body documents WHC/25/47.COM/7B.Add.2 and WHC/26/48.COM/7B.Add and the 2015 carrying capacity study were not read, so the 2015 daily limit is not stated and is not equated with the 4,500/5,600 national figures. (3) Peru's January 2026 report (document 224549) was read only as extracted by the tool; its extract did not address natural hazards. (4) No mission report was found on UNESCO's documents page after the February 2017 joint reactive monitoring mission (per the 2025 state-of-conservation page); the 2017 report was not read. (5) SERNANP and Ministry of Culture primary pages were not read directly; Ministry material is via El Peruano news and Peru's State Party report. (6) A claim on the 2025 state-of-conservation page's analysis of the Chinchero assessment about danger listing if mitigation is not implemented was seen only in summary and is NOT used; reviewer may wish to verify it at the page. Likewise its statement that experts say bus traffic may increase landslide risk was not used. (7) Chinchero airport opening date and the Visitor Centre HIA outcome not established. (8) The outcome of the September 2025 strike after the 72-hour suspension, and any 2026 closures or rail/road disruptions, were not found in sources read; no 2026 landslide or flood event was found. (9) The January 2024 rail blockade rests on one aggregator citing AP. (10) No source read documents climate-change attribution for the property, so environmental_climate is not included as a threat category; omitted rather than guessed. (11) 3D: University of Arkansas CAST laser-scan data (2005, 2009) is reported by a 2011 University of Arkansas news story but the data page could not be opened; not counted. (12) Google Arts & Culture / Street View pages were not opened; virtual tour is supported by two news reports. (13) A systematic sweep of Spanish-language Peruvian press for 2026 events (for example audits or closures) was not completed. Images omitted by design. Wikipedia was not used. VERIFIER PASS (2026-10-15, independent): 26 text fixes. Corrected: 2004 event (abstract says eleven killed the day after Easter 2004; road damage was 1995-96); January vs February 2010 UNESCO items (12 Feb, not 'later that month') and softened 'damaged the Sanctuary' to UNESCO's 'geological and geomorphological impacts on built heritage'; removed unverified 2026 'quantitative technical assessment' and 'welcomed institutional coordination' (not seen in 48 COM 7B.65 as re-read; replaced with the new carrying capacity study request); El Peruano caps apply to listed date ranges incl. 19 June-2 Nov, not only festive dates; Consettur 'lost' (not 'expired') concession; 'about 2,430 m' -> UNESCO states 2,430 m; documents-page and gallery counts corrected; Decision 45 wording tightened; session locations added from UNESCO 2025 page. Not verifiable (session limit hit): 48 COM 7B.65 exact paragraphs on institutional coordination, and the Google Arts & Culture/Street View pages themselves (Andina 2020 and El Universo 2015 do support the reports). Checklist booleans left false for Harry. SECOND VERIFIER PASS (2026-10-15, independent): 12 further fixes. Re-opened all cited pages. Corrected: 2004 'killed eleven' to the abstract's 'eleven casualties'; NASA says rail track and bridges were 'damaged', not 'destroyed'; Andina's 72-hour suspension is not 'a further' 72 hours; 2025 state-of-conservation page attributes the independent-review remark to the advisers and does not itself record erosion monitoring (that is from 45 COM 7B.100) and lists the natural-disaster risk plan gap as not among 2025 threats. Reinstated in 48 COM 7B.65 the request for a quantitative technical assessment (para 3) and the welcome of institutional coordination in the Management Unit (para 11), which the fetch now shows (the earlier pass could not see them; fetch tool is summarising, so wording is still paraphrased). Added to decision_trigger a hedged note on the 2025 state-of-conservation page statement about danger listing if Chinchero mitigation is not in place (seen only in summary). DPI: the CAST page was opened and offers downloadable 3D laser-scan data, so 3D documentation is now true (src_22); tier remains extensive (virtual tour still rests on news reports only). Item (11) above is superseded. Status, confidence and DPI tier unchanged.",
+      "changed_by": "claude"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "slug": "acropolis-athens",
+  "name": "Acropolis, Athens",
+  "alternate_names": [
+    "Acropolis of Athens"
+  ],
+  "country": "Greece",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 37.9709,
+    "lng": 23.7262
+  },
+  "coordinate_note": "Converted from the coordinates on UNESCO's property page (N37 58 15.132, E23 43 34.248), read directly on 2026-10-15; rounded to four decimals.",
+  "unesco_id": "404",
+  "inscription_year": 1987,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "The Acropolis, Athens (UNESCO ID 404, Greece) was inscribed on the World Heritage List in 1987 under cultural criteria (i), (ii), (iii), (iv) and (vi). The monuments on the rock that Greece's Ministry of Culture lists in its restoration programme include the Parthenon, the Propylaia, the Erechtheion and the Temple of Athena Nike.",
+  "metadata_sources": [
+    "src_00",
+    "src_01",
+    "src_22"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The monuments are the subject of a long-running state conservation programme. Greece's Ministry of Culture describes it as beginning on 23 June 1975 as an urgent rescue effort for structural damage and surface decay, run by the Acropolis Restoration Service (YSMA) under scientific oversight from the Committee for the Conservation of the Acropolis Monuments (ESMA) and co-funded by Greece and the European Union. YSMA's timeline of interventions lists work from 1975 to 2022 across the Parthenon, Propylaia, Erechtheion, Athena Nike temple and circuit walls. A 2007 conference paper by a YSMA author lists as aims conserving the structure, replacing earlier concrete completions with marble and replacing corroded iron connectors with titanium. The Jerusalem Post reported in July 2026 that scaffolding was taken down from the Parthenon's western face in early June 2026 after the back wall was completed; this is a single-source news report. In 2021 new reinforced-concrete pavements on the rock became the subject of a public dispute. ICOMOS said it was 'deeply concerned' about the materials and irreversibility and that the works jeopardised the property's Outstanding Universal Value; Greece's culture minister defended them and the Central Archaeological Council had approved them (Reuters), while the project architect Manolis Korres described the changes as 'reversible' (as relayed by the Greek Herald, citing the Guardian). a UNESCO Section II state-of-conservation report on European properties (data to 2004) lists visitor wear to the rock as a factor and says paths were created and are maintained annually. Neos Kosmos, relaying a PBS report, says UNESCO officials were reportedly unhappy about how the works were handled. A joint World Heritage Centre / ICOMOS advisory mission visited in April 2022, but its report could not be opened here, so its findings are not described. Visitor numbers add pressure: a news report states the Acropolis drew about 4.5 million visitors in 2024, up more than 15% from 2023, and another report gives up to 23,000 visitors a day. The sources read do not document unrepaired structural damage to the monuments from these pressures, and UNESCO's most recent state-of-conservation material that could be read is from 2004.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-term conservation need addressed by a restoration programme running since 1975; the 2021 pathway dispute and rising visitor numbers are dated separately in events[]. No single start date applies.",
+      "source_ids": [
+        "src_01",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_16",
+        "src_18",
+        "src_19"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Heat and air pollution are the two documented pressures in this category. Heat: Greece's culture ministry has closed the site in the hottest part of the day on safety grounds. Reports state a closure from 12 noon to 5 p.m. on 17 July 2024 because of forecast high temperatures (Protothema, citing a Ministry of Culture announcement); a partial closure until 5 p.m. on 8 July 2025 'for the safety of workers and visitors', with a forecast of 42C (Gulf News; Oman Observer reports officials had ordered similar closures in the previous two years); and a closure from midday to 5 p.m. on 22 and 23 July 2025 'for the safety of employees and visitors' (eNCA). These are operational safety closures of the visitor site; the reports do not describe heat damaging the monuments, and none of the sources read links the closures to long-term climate change. Air pollution: a UNESCO Section II state-of-conservation report on European properties (data to 2004) says atmospheric pollution damages the monument surfaces and records a response of moving original sculptures to the Acropolis Museum and replacing them with copies; the 2007 YSMA conference paper lists protecting sculptures from pollution and cleaning and protecting the exterior marble as project aims. No current (post-2007) air-quality or pollution-damage assessment was found in the sources read, so present-day pollution levels are not characterised here.",
+      "first_identified_date": null,
+      "date_note": "Heat closures are documented here for 2024 and 2025 only; pollution is documented as a long-standing concern in a 2006 UNESCO report. No single start date applies.",
+      "source_ids": [
+        "src_07",
+        "src_11",
+        "src_17",
+        "src_18",
+        "src_19",
+        "src_20"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The Acropolis is in an earthquake-prone region and has earthquake history. A 2007 conference paper by a YSMA author states that the Parthenon's solid rock foundation and construction quality are among the reasons it has survived the region's many earthquakes, and that a 1981 earthquake damaged its east corners. YSMA's timeline of interventions records the installation of seismic monitoring instruments on the Acropolis in the 2000s. The same UNESCO Section II report lists 'natural disasters' among general threat categories without naming earthquakes. No current seismic risk assessment or recent earthquake damage was found in the sources read, so this category records continuing exposure and monitoring, not a documented present problem.",
+      "first_identified_date": null,
+      "date_note": "Chronic regional exposure; the only dated earthquake in the sources read is 1981. No single start date applies.",
+      "source_ids": [
+        "src_07",
+        "src_09",
+        "src_11"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "developing",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no active combat or armed conflict, no severe verified current damage in the sources read, no loss of monitoring access, and management is functioning (Ministry of Culture / YSMA programme running, site open to visitors). High Concern: considered and not mechanically triggered. (1) Danger List: not met. UNESCO's own danger-list page (58 properties at the time of reading, which lists no property in Greece) and the Acropolis property page (which carries no danger-list statement) were read directly on 2026-10-15; this is consistent with Wikipedia's list (Tier 4, current to May 2026) and with the absence of any Danger List decision on UNESCO's Greece documents page. (2) A specific damaging event within roughly five years: the nearest candidate is the 2021 concrete pathway works. They opened in March 2021, about five and a half years before this review, so they sit just outside the window; they are also a contested intervention rather than documented damage, with ICOMOS expressing concern about irreversibility, while the culture minister defended the works, the project architect described them as reversible (as relayed by the Greek Herald) and the Central Archaeological Council had approved them. Whether the later (April 2022) joint World Heritage Centre / ICOMOS advisory mission resolved or sustained that concern could not be established because the mission report could not be opened. (3) No armed conflict. (4) No documented severe, unresolved threat with a stated near-term timeframe from a named authority was found. (5) 'Significant historical damage whose site-wide repair remains substantially incomplete': the Acropolis has historic damage and a restoration programme still under way, but the sources read present that programme as planned, continuing conservation (and the UNESCO Committee commended Greece's long-term conservation plan in 2004), not as an unmet repair backlog; this is the judgment a reviewer may weigh differently. Moderate Concern triggers matched: documented chronic or monitored threats (visitor wear and atmospheric pollution recorded in a UNESCO Section II report with data to 2004; heat-related closures in 2024 and 2025; earthquake exposure) and typical conservation challenges of an ancient site under active restoration, plus a contested 2021 intervention. This is a close call between Moderate and High, mainly because the most recent UNESCO and ICOMOS assessment documents (2022 mission report, 2024 Periodic Report) could not be read; Safe is ruled out because credible threats are documented.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of a heavily visited, actively conserved site. A state restoration programme has run since 1975 and is still producing results (the Jerusalem Post reported scaffolding coming off the Parthenon's west face in June 2026). The pressures documented are chronic and managed rather than acute: heavy visitor numbers (about 4.5 million in 2024 according to a news report), heat-related midday closures in 2024 and 2025 ordered by the culture ministry for the safety of workers and visitors, atmospheric pollution and visitor wear recorded in a UNESCO Section II report with data to 2004, and earthquake exposure with seismic monitoring installed. The 2021 concrete pathway dispute is the main source of heritage-integrity concern: ICOMOS stated it was deeply concerned and that the works could jeopardise Outstanding Universal Value, while the culture minister defended them as an accessibility improvement and the project architect described them as reversible (as relayed by the Greek Herald). That dispute is recorded in events[] and treated here as a contested, not-fully-resolved intervention, not as documented ongoing damage. The Acropolis is not on UNESCO's List of World Heritage in Danger (checked on UNESCO's danger-list page). Confidence is Developing, not because a crisis is unfolding but because the evidence on current official assessment is incomplete: the 2022 advisory mission report and the 2024 Periodic Report (Cycle 3) could not be opened, and the latest UNESCO state-of-conservation material read dates from 2004. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_15",
+        "src_17",
+        "src_18",
+        "src_21",
+        "src_22"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": false,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Only one category could be marked true on evidence that was opened and is publicly viewable: a 2007 conference paper on the Parthenon restoration project's documentation methods (photogrammetry of the west elevation, measurement and a per-member database of stone positions). This gives the limited tier by the rubric, and it very likely understates real coverage. Greece's Ministry of Culture page states that the restoration programme includes geometric recording and 3D scanning of the monuments, systematic documentation and a project for archiving and digitally managing restoration documents (Ministry page), but those pages describe activity and do not link to viewable models or archives, so they were not counted. UNESCO's photo gallery, the Acropolis Museum and Google Arts & Culture pages, and the UNESCO 1987 ICOMOS evaluation could not be opened in this pass (fetches were refused or the item was only seen in a listing), so photographic, archival, 3D and virtual-tour evidence is unverified rather than absent. UNESCO state-of-conservation and periodic reports are not counted as archival records. A reviewer should check these sources directly before accepting the tier.",
+    "tier_recommendation": "limited",
+    "evidence": [
+      {
+        "category": "academic_scholarly",
+        "description": "Parthenon Restoration Project, a paper by N. Toganidis of the Greek Ministry of Culture's Acropolis Restoration Service presented at the XXI International CIPA Symposium, Athens, 1-6 October 2007, describing photogrammetry of the west elevation, topographical measurement and a database of 52 criteria per architectural member, within a restoration divided into 12 programmes covering about 1,871 architectural members. Publicly available in the ISPRS proceedings.",
+        "url": "https://www.isprs.org/proceedings/XXXVI/5-C53/papers/FP139.pdf",
+        "source_id": "src_11"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1975",
+      "title": "Committee for the Conservation of the Acropolis Monuments (ESMA) established",
+      "description": "YSMA's timeline of interventions records the establishment of ESMA in 1975. Greece's Ministry of Culture lists the start of the restoration project as 23 June 1975, describing it as an urgent rescue effort for structural damage and surface decay.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_08",
+        "src_09"
+      ]
+    },
+    {
+      "date": "1981",
+      "title": "Earthquake damages the Parthenon's east corners",
+      "description": "A 2007 conference paper by a YSMA author states that a 1981 earthquake damaged the Parthenon's east corners and prompted the third major restoration effort on the building. The paper does not give a date within the year in the portions read.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "1987",
+      "title": "Acropolis, Athens inscribed on the World Heritage List",
+      "description": "The property was inscribed at the 11th session of the World Heritage Committee (decision 11 COM VII.A). UNESCO's decision page lists the criteria as (i), (ii), (iii), (iv) and (vi).",
+      "event_type": "designation",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2002/2004",
+      "title": "World Heritage Committee decisions on the buffer zone and visual impact of nearby construction",
+      "description": "In 2002 (26 COM 21B.49) the Committee took note of a construction project outside the site and asked Greece to give urgent consideration to redefining the buffer zone, carry out a visual impact study and report on development projects affecting visual integrity. In 2003 (27 COM 7B.67) it regretted that Greece's report, requested for 1 February 2003, arrived on 2 July 2003, and urged the State Party to prevent irreversible damage to the property's Outstanding Universal Value. In 2004 (28 COM 15B.71) it commended Greece's 'Unification of the Archaeological Sites of Athens' project and long-term conservation plan and strongly urged a coherent buffer zone with Zone 3 extended to cover the area of a proposed high-rise building. These are the most recent Acropolis-specific Committee decisions on UNESCO's Greece documents page.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2021-03",
+      "title": "New concrete pathway opens on the Acropolis",
+      "description": "Reuters reported that a new grey concrete walkway, laid over a synthetic membrane meant to protect the ancient stones beneath, opened to the public in March 2021, replacing a 1970s walkway that had deteriorated. The Central Archaeological Council had approved it. The project was presented as improving wheelchair access.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2021-06-09",
+      "title": "Public dispute over the pathway works",
+      "description": "Reuters reported that opposition leader Alexis Tsipras said the government should 'stop abusing our cultural heritage', while Culture Minister Lina Mendoni defended the project after seeing wheelchair users reach the site. The Greek Herald, relaying Guardian reporting, quoted Manolis Korres saying the changes are 'reversible' and former Propylaia restoration director Tasos Tanoulas criticising the covering of the rock with reinforced concrete; it also reported an open letter signed by more than 3,500 people calling for removal of the pathways.",
+      "event_type": "political",
+      "source_ids": [
+        "src_13",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2021-06-27",
+      "title": "ICOMOS issues statement of concern on Acropolis interventions",
+      "description": "ICOMOS said it was 'deeply concerned' about reinforced concrete pavements on the site, citing experts' doubts about materials and irreversibility and saying the interventions jeopardised the property's Outstanding Universal Value, and said it was following the situation closely. It cited the President of the Acropolis conservation committee describing the works as 'only the first phase of a more extensive transformation'. ICOMOS's page gives 27 June 2021 as first publication and notes an update on 2 July 2025; a Greek republication of the statement cites 2 August 2021, so the exact original date is uncertain.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2021-07-28",
+      "title": "Reported UNESCO displeasure over how the works were handled",
+      "description": "Neos Kosmos (1 August 2021), relaying a PBS report dated 28 July 2021, reported that UNESCO officials were reportedly unhappy with how Greek authorities acted and wanted work stopped until proper consultation, and that Culture Minister Mendoni said UNESCO had known about the works since 2002 and that Greece was not obliged to notify it. This is a single relayed news account, not a UNESCO statement.",
+      "event_type": "political",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2022-04-26/2022-04-29",
+      "title": "Joint World Heritage Centre / ICOMOS advisory mission to the Acropolis",
+      "description": "UNESCO's documents page for the property lists a joint World Heritage Centre / ICOMOS advisory mission report on a mission to the Acropolis, Athens on 26-29 April 2022 (listed under 2023). The report could not be opened in this pass, so its findings are not described, and nothing here links it to the pathway dispute.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2024-07-17",
+      "title": "Acropolis closed 12 noon to 5 p.m. for heat",
+      "description": "Protothema reported a Ministry of Culture announcement that the Acropolis Archaeological Site would close from 12 noon to 5 p.m. because of forecast high temperatures.",
+      "event_type": "other",
+      "source_ids": [
+        "src_20"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "Further midday heat closures",
+      "description": "Gulf News reported a partial closure until 5 p.m. on 8 July 2025 ordered by the culture ministry 'for the safety of workers and visitors', with a forecast of 42C; Oman Observer's report of the same day said officials had ordered similar shutdowns in the previous two years. eNCA reported a closure from midday to 5 p.m. on 22 and 23 July 2025 'for the safety of employees and visitors'.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17",
+        "src_18",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2026-06",
+      "title": "Scaffolding removed from the Parthenon's western face",
+      "description": "The Jerusalem Post reported on 2 July 2026 that external scaffolding covering the Parthenon's western face was taken down in early June 2026 after the back wall was completed, and that YSMA led the work with funding from Greece's Recovery and Resilience Fund. The Culture Minister was quoted saying the pediment had regained its architectural unity. Single-source news report; the month is as reported.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_12"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Inscription: The Acropolis, Athens (Greece), decision 11 COM VII.A",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/3727/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The decision page gave the criteria and session (11th session, 11 COM VII.A, year 1987) but not the full 1987 decision text.",
+      "published_date": "1987",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Acropolis, Athens: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/404/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "A listing page only; it evidences the existence of the 2022 mission report (listed under 2023) and the 2024 Periodic Report, neither of which could be opened. It also lists Periodic Reporting Cycle 2 (2014), not read. It carries no Danger List information.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 26 COM 21B.49: Acropolis, Athens (Greece)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/891",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2002",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "State of conservation: Acropolis, Athens (2003), including decision 27 COM 7B.67",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/2759",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2003",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 28 COM 15B.71: Acropolis, Athens (Greece)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/243/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2004",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Greece: documents (States Parties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/statesparties/gr/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Listing page; used only to show that the most recent Acropolis-specific Committee decision listed there is 28 COM 15B.71 (2004) and that it lists no Danger List decision for the property.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "List of World Heritage in Danger (Wikipedia, marked current to May 2026)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_in_Danger",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference source (current to May 2026; it counts 53 properties, whereas UNESCO's own page now shows 58, apparently reflecting later inscriptions). Used only as corroboration that no Greek property appears on the Danger List; the direct confirmation is UNESCO's danger-list page (src_21).",
+      "published_date": "2026-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation of World Heritage Properties in Europe, Section II: Acropolis, Athens (Greece)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/162787",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "UNESCO document whose running header is 'State of Conservation of World Heritage Properties in Europe, Section II'. It does not itself say 'Periodic Report' or give a date; its latest dated data are from 2004. It is probably the 'Periodic Reporting Cycle 1, Section II (Summary)' (2006) listed on UNESCO's documents page, but that identification could not be confirmed from the document. It describes factors and responses of the early 2000s and is not evidence of present condition. The Cycle 2 (2014) and Cycle 3 (2024) reports were not read.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "The Acropolis Restoration Project",
+      "publisher": "Hellenic Ministry of Culture",
+      "url": "https://www.culture.gov.gr/en/service/SitePages/view.aspx?iID=2580",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The State Party's own description of its programme; undated, with no visitor figures.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Timeline of interventions",
+      "publisher": "Acropolis Restoration Service (YSMA), Hellenic Ministry of Culture",
+      "url": "https://www.ysma.gr/en/the-service/timeline-of-interventions/",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Runs from 1975 to 2022 and does not say which projects are finished; the page's modification metadata is from 2021, so later work may be missing.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Organizational structure",
+      "publisher": "Acropolis Restoration Service (YSMA), Hellenic Ministry of Culture",
+      "url": "https://www.ysma.gr/en/the-service/organizational-structure/",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The 2025-06-05 date is the page's last-modified metadata, not a publication date.",
+      "published_date": "2025-06-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Parthenon Restoration Project (N. Toganidis), XXI International CIPA Symposium",
+      "publisher": "ISPRS / CIPA proceedings; author at the Hellenic Ministry of Culture, Acropolis Restoration Service",
+      "url": "https://www.isprs.org/proceedings/XXXVI/5-C53/papers/FP139.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "A 2007 conference paper written by a member of the restoration service itself; progress figures in it are as of 2006-2007 and are not repeated here as current.",
+      "published_date": "2007-10",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Greece unveils restored Parthenon western pediment",
+      "publisher": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-901206",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single-source report of the 2026 scaffolding removal and the YSMA statement; the article's other historical statements (for example a restoration start date of 1983) differ from Ministry of Culture sources and were not used.",
+      "published_date": "2026-07-02",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Greece faces row over wheelchair pathway at Acropolis (Reuters report)",
+      "publisher": "Cyprus Mail (republishing Reuters)",
+      "url": "https://cyprus-mail.com/2021/06/09/greece-faces-row-over-wheelchair-pathway-at-acropolis",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2021-06-09",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "'Abuse of cultural heritage': Greeks outraged at concreting of the Acropolis",
+      "publisher": "The Greek Herald",
+      "url": "https://greekherald.com.au/?p=37753",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Appears to relay Guardian reporting (it quotes people as speaking to The Guardian); the original Guardian article was not read, so quotes are attributed as relayed and the item is corroboration only.",
+      "published_date": "2021-06-10",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "ICOMOS' Statement of concern regarding interventions at the Acropolis, Athens",
+      "publisher": "ICOMOS",
+      "url": "https://www.icomos.org/news/icomos-statement-of-concern-regarding-interventions-at-the-acropolis-athens/",
+      "source_type": "ngo",
+      "tier": 1,
+      "reliability_note": "ICOMOS is the Advisory Body to the World Heritage Committee, and this is a public statement, not an official Committee decision. The page gives 27 June 2021 as first publication (updated 2 July 2025); a Greek republication cites 2 August 2021.",
+      "published_date": "2021-06-27",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Acropolis concrete pathway saga: new report on UNESCO's role causes stir",
+      "publisher": "Neos Kosmos",
+      "url": "https://neoskosmos.com/en/2021/08/01/news/acropolis-concrete-pathway-saga-new-report-on-unescos-role-causes-stir/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Relays a PBS report dated 28 July 2021 that cites unnamed UNESCO sources; the PBS report was not read, and no UNESCO statement was found. Treat as reportedly and not as UNESCO's position.",
+      "published_date": "2021-08-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Acropolis shuts, outdoor work halted as heatwave scorches Greece",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/world/europe/acropolis-shuts-outdoor-work-halted-as-heatwave-scorches-greece-1.500190847",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-07-08",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Acropolis shuts as heatwave scorches Greece (headline inferred from page URL)",
+      "publisher": "Oman Observer",
+      "url": "https://www.omanobserver.om/article/1173151/world/europe/acropolis-shuts-heatwave-scorches-greece",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Wire-style report; the 4.5 million visitors figure for 2024 is stated in the article without a named source and is attributed here only as reported.",
+      "published_date": "2025-07-08",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Heat forces new Acropolis closure amid fiery temperatures",
+      "publisher": "eNCA",
+      "url": "https://www.enca.com/opinion/heat-forces-new-acropolis-closure-amid-fiery-temperatures",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The 'up to 23,000 visitors a day' figure is stated in the article without a named source and its scope is unclear. The article is dated 22 July 2025 and states the closure covers 22 and 23 July 2025 (checked).",
+      "published_date": "2025-07-22",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Acropolis closed today from 12:00 to 17:00 due to high temperatures",
+      "publisher": "Protothema (English edition)",
+      "url": "https://en.protothema.gr/?p=391102",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The article body shows only '17 July'; the year (2024) comes from the URL/metadata.",
+      "published_date": "2024-07-17",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_21",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page shows 58 properties with no property in Greece; it gives no 'last updated' date, but includes 2026 entries, so it appears current for 2026.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Acropolis, Athens (property page, ID 404)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/404",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Gives official coordinates (N37 58 15.132, E23 43 34.248), inscription year 1987, criteria (i)-(iv) and (vi); carries no danger-list statement.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Developing; DPI Limited. Close call vs High Concern flagged in decision_trigger; Safe ruled out because credible threats are documented. Known gaps (omitted rather than guessed): (1) UNESCO's property page https://whc.unesco.org/en/list/404 was refused for provenance reasons, so the Danger List status, official coordinates and UNESCO's own description could not be read there; Danger List status rests on Wikipedia's list (Tier 4, May 2026) plus the absence of any Danger List decision on UNESCO's documents pages, and UNESCO's danger-filtered list page did not enumerate properties. Please confirm directly. (2) UNESCO document/199557 (joint WHC/ICOMOS advisory mission report, 26-29 April 2022) and document/216680 (Periodic Report Cycle 3, 2024) were refused, so the most recent UNESCO/ICOMOS assessment of the pathway works, visitor pressure and conservation is unread; these are the main reason for Developing confidence and the Moderate/High close call. (3) Wikipedia's Acropolis page, the UNESCO photo gallery, Acropolis Museum and Google Arts & Culture pages were refused, so photographic, archival, 3D and virtual-tour DPI categories are unverified, not absent; the Limited tier probably understates coverage. (4) The web-search budget ran out part-way, so these were not researched: current visitor management measures (daily caps or timed entry), any Committee decisions after 2004, current air-quality or pollution data, any current seismic assessment, the Guardian and PBS originals behind the 2021 pathway reporting, and the Greek Ministry of Culture's own announcements on closures. (5) The 2021 pathway works were not described as proven damage; reversibility is disputed between ICOMOS/critics and the project architect, and no independent assessment was read. (6) The date of the ICOMOS statement differs between sources (27 June 2021 on icomos.org vs 2 August 2021 on a Greek republication). (7) Several heat-closure articles without a stated year (Protothema, Yahoo/UPI) were not used. (8) Coordinates are approximate and not taken from a cited source. (9) The Parthenon Marbles dispute is deliberately not covered; no source read tied it to conservation. Images omitted by design. The current date in this run moved from 2026-10-14 to 2026-10-15, so dates of access and effect are recorded as 2026-10-15. || Independent verification pass 1 (2026-10-15): (a) Danger List status now confirmed directly from UNESCO's danger-list page (58 properties, none in Greece) and property page; added src_21, src_22; Wikipedia kept as Tier 4 corroboration. (b) Coordinates replaced with UNESCO's official values (37.9709, 23.7262). (c) src_07 re-described: document is titled 'State of Conservation of World Heritage Properties in Europe, Section II' and does not itself say Periodic Report/2006; all '2006 Periodic Report' wording softened. (d) Removed 'documentation centre' (not on the Ministry page); 3D scanning/archiving wording tied to the Ministry page only. (e) 'Reversible' remark re-attributed from Reuters to the Greek Herald relaying the Guardian (architect Korres). (f) Source titles/notes corrected for src_12, src_20, src_19, src_10 (dates checked). Verified without change: 1987 inscription, 2002/2003/2004 decisions, 1975 start date, 1981 earthquake, ICOMOS quotes, Neos Kosmos/PBS account, heat closures, visitor figures, JPost scaffolding report, DPI limited tier. Not verified: the 2022 mission report, 2024 Periodic Report and Cycle 2 (2014) report; Guardian and PBS originals; the 1987 ICOMOS evaluation (listed on UNESCO documents page, not read).",
+      "changed_by": "claude"
+    }
+  ]
+}

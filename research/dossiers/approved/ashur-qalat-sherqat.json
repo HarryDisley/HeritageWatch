@@ -1,0 +1,655 @@
+{
+  "slug": "ashur-qalat-sherqat",
+  "name": "Ashur (Qal'at Sherqat)",
+  "alternate_names": [
+    "Assur",
+    "Asur (Qal'at Sherqat)",
+    "Qal'at Sherqat",
+    "Qal'at Shergat"
+  ],
+  "country": "Iraq",
+  "region": "Western Asia (Mesopotamia / northern Iraq, Salah ad-Din governorate)",
+  "coordinates": {
+    "lat": 35.4567,
+    "lng": 43.2611
+  },
+  "coordinate_note": "Converted from the coordinates on UNESCO's maps page (N35 27 24, E43 15 40); the page does not label them as a centre point. The property has a 70 ha core zone and a 100 ha buffer zone, so this marker is a single-point reference.",
+  "unesco_id": "1130",
+  "inscription_year": 2003,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Ashur as an ancient city on the Tigris in northern Mesopotamia, dating to the 3rd millennium BC, which was the first capital of the Assyrian Empire from the 14th to the 9th centuries BC and its religious capital, linked to the god Ashur; it was destroyed by the Babylonians and revived in the Parthian period. The Committee inscribed it in 2003 under criteria (iii) and (iv): criterion (iii) on its role as capital where Assyrian kings were crowned and buried, and criterion (iv) on excavated buildings recording the evolution of building practice from the Sumerian and Akkadian periods through the Assyrian period. It was inscribed on the List of World Heritage in Danger in the same session.",
+  "metadata_sources": [
+    "src_00",
+    "src_01",
+    "src_04"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Ashur is built largely of sun-dried mudbrick, which Iraq's November 2024 report says is harmed mainly by rain, wind and humidity. The 2026 Committee decision (48 COM 7A.1) notes with concern that the property continues to be severely affected by water seepage, humidity and environmental degradation. The June 2026 working document records that Tigris erosion, after the river breached protective embankments, caused significant structural loss and a deep vertical cliff, that erosion still threatens the property, and that the 2022 mission's recommended investigations are still needed to find a suitable solution; the Secretariat and Advisory Bodies' analysis describes overall condition as remaining of considerable concern, particularly the eastern cliff along the Tigris. The 2022 joint mission reported significant current erosion of the Tigris riverbank, an almost completely eroded gabion retaining wall, and the eastern side of the Walter Andrae Residence about 7 metres from a cliff over the river. UNESCO's 2023 entry reports the State Party's statement that collapse of the cliff on the eastern riverbank poses an imminent threat to the property (the State Party's assessment; the entry says the Centre and Advisory Bodies' analysis did not address the cliff). Iraq's November 2024 report describes a vertical cliff 12-14 metres high about 7 metres from the Walter Andrae palace (State Party figures). The proposed Makhool Dam, whose reservoir would have partly flooded the site, was among the reasons for the 2003 Danger List inscription; the Committee deeply regretted its renewed proposal in 2021, commended the halt of construction in 2023, and in 2026 welcomed confirmation of its permanent cancellation (the State Party's November 2024 report cites an Economic Ministerial Council letter dated 2 October 2024 recommending approval of removing the project, which the report describes as permanent).",
+      "first_identified_date": null,
+      "date_note": "Chronic seepage, erosion and flood-related pressures documented across successive UNESCO reports; no single start date. The dam threat was identified at the time of the 2003 inscription.",
+      "source_ids": [
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_16",
+        "src_18",
+        "src_20",
+        "src_21"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The June 2026 working document says the property lacks a management plan (a preliminary framework has been started) and that the Conservation Plan remains a priority; the 2026 decision asks for a Conservation Plan and a finalised Management Plan framework and for results of the Ziggurat pilot-area monitoring. The 2022 mission found no management system, management plan or conservation plan, estimated a minimum of 25% material loss from the Ziggurat (which it said is losing its shape), recorded that part of the Tabira Gate had collapsed, and reported five employees covering Salah-Addin province's 173 archaeological sites. UNESCO's 2023 entry reports that iron supports were added to the second arch of the Tabira Gate and that the other arches are also near collapse. Iraq's November 2024 report states that no maintenance work was carried out in the previous period because of weak funding. Positive developments are also documented: the 2025 Committee decision commends the State Party for controlling access and installing a protective fence, and emergency works on the Ziggurat (22 October-16 November 2025, funded by the World Heritage Fund and led by CRAterre with the State Board of Antiquities and Heritage) are welcomed in the 2026 decision.",
+      "first_identified_date": null,
+      "date_note": "Management and conservation gaps recorded since the 2003 ICOMOS evaluation, which noted no management plan; no single start date.",
+      "source_ids": [
+        "src_07",
+        "src_13",
+        "src_14",
+        "src_18",
+        "src_19",
+        "src_20",
+        "src_21",
+        "src_23",
+        "src_24"
+      ]
+    },
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO's 2015 entry records that armed groups occupied the German and new Iraqi mission houses, the ziggurat and the ancient palace area, and that air strikes on 27 and 29 August 2014 targeting their positions damaged the German mission house and a wall of Ashur and destroyed the glass cover over the Royal Cemetery. UNESCO's 2017 entry says the property was fully liberated in mid-December 2016 after about two years of occupation and that conflict-related damage included intentional destruction, without a full inventory. The 2018 entry records the State Party's report of explosion damage to the Tabira Gate stacks and Summer Palace and of looting in the northern section. The 2022 mission listed conflict-related damage; it said no direct damage to archaeological remains was reported and that this can only be properly analysed with comparative photographs, as damage might not be obvious on visual inspection. This is a legacy condition: no fighting at or near the site since December 2016 was found in the sources reviewed, and the June 2026 working document's Ashur section contains no specific statement on security measures. The sources reviewed do not describe current security conditions.",
+      "first_identified_date": "2014-08",
+      "date_note": "Earliest dated conflict-related event in the UNESCO entries reviewed: air strikes of 27 and 29 August 2014 (2015 entry). The start of the occupation is not dated in the sources reviewed.",
+      "source_ids": [
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_13",
+        "src_20",
+        "src_21"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met, but this is the close call. (1) Active combat: the property was fully liberated in mid-December 2016 (UNESCO 2017 entry); no fighting at or adjacent to the site since then was found in the sources reviewed. (2) Inaccessible to monitoring for 6+ months: not met; a joint UNESCO/ICOMOS mission visited in March-April 2022, university excavation teams have worked at Assur since 2023 (LMU project page), and CRAterre carried out emergency works on the Ziggurat from 22 October to 16 November 2025 (UNESCO news). (3) Collapse of protection: not met; the 2025 Committee decision commends controlled access and the protective fence, and the State Board of Antiquities and Heritage is engaged. (4) Severe damage or ongoing severe threat materially affecting survival, integrity or accessibility: weighed most carefully. The 2026 decision notes with concern that the property continues to be severely affected by water seepage, humidity and environmental degradation; the June 2026 working document calls overall condition of considerable concern, especially the eastern Tigris cliff, and records significant structural loss from river erosion that still threatens the property; the 2022 mission estimated a minimum 25% material loss from the Ziggurat. Against this, none of the sources reviewed reports an acute loss event in 2025-2026, the Ziggurat emergency works were welcomed by the Committee, a pilot area is being monitored, the Makhool Dam is confirmed cancelled, and the Secretariat/Advisory Body conclusion is that the property remains subject to ascertained and potential threats and should stay on the Danger List, not that loss is imminent. I did not treat this limb as met, but a reviewer could weigh the eastern-cliff and 'severely affected' language differently. High Concern trigger matched: official inscription on the List of World Heritage in Danger (since 2003; retained in 48 COM 7A.1 in 2026) for substantive reasons (the 2003 listing concerned the dam threat and armed conflict; later documents also cite seepage, flooding, fragile mudbrick, damage from armed conflict, absence of a management plan and inadequate resources). A second High limb, a documented severe unresolved environmental or structural threat, is plausibly also met, but the only near-term wording found is the State Party's own 2023 statement that collapse of the eastern riverbank cliff poses an imminent threat (and its 2024 report that the cliff threatens the Walter Andrae palace with collapse); no independent or UNESCO body adopts that timeframe, so the status rests mainly on the Danger List trigger. Nearest neighbours: Critical (if the cliff or Ziggurat were reported to be undergoing active loss, or access were lost) and Moderate (only if the property were removed from the Danger List; the Committee has encouraged work on a Desired State of Conservation, and in the working document the corrective measures, DSOCR and timeframe are marked as in progress).",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2014-2016 occupation, the August 2014 air-strike damage and the conflict damage later reported at the Tabira Gate and other structures are recorded in events[] permanently. The present picture is of a property on the List of World Heritage in Danger since 2003 whose Committee, in July 2026, noted with concern that it continues to be severely affected by water seepage, humidity and environmental degradation; whose Secretariat and Advisory Bodies describe the overall condition as of considerable concern, particularly the eastern cliff along the Tigris; and for which a Conservation Plan and a finalised Management Plan are still requested. Against that, there is real and recent activity: World Heritage Fund-supported emergency works on the Ziggurat in late 2025 by CRAterre with the State Board of Antiquities and Heritage, a monitored pilot area, a fence and controlled access commended by the Committee in 2025, the confirmed permanent cancellation of the Makhool Dam, and ongoing excavation and conservation work by university teams. These indicate a fragile property under active management and international monitoring, not an emergency with lost access, which is why this is High rather than Critical. Confidence is Supported rather than Confirmed: the Danger List status and the Committee's concerns are directly confirmed in UNESCO decision pages and the working document, but the account of present on-site condition rests on UNESCO's summaries, the State Party's own reports and the implementer's account, the 2026 State Party report and the 2025 and 2026 state-of-conservation pages could not be read, and no independent (non-UNESCO, non-State-Party) 2025-2026 assessment, satellite analysis or security reporting was found. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_05",
+        "src_08",
+        "src_12",
+        "src_13",
+        "src_18",
+        "src_19",
+        "src_20",
+        "src_21",
+        "src_22",
+        "src_23",
+        "src_24",
+        "src_25"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 2 review summary, agreeing with the recommended status and confidence. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories (photographic, archival records, academic/scholarly) have publicly findable evidence, which gives the Moderate tier by the rubric. Coverage is uneven. The photographic evidence is a small institutional set: the first page of UNESCO's gallery shows 12 images (four credited to UNESCO / Veronique Dauge, seven to Editions Gelbart / Jean-Jacques Gelbart and one to Mahmoud Bendakir), each captioned only with the property name; the page indicates a larger set that was not opened. Archival records are counted because UNESCO hosts the scanned 2002-2003 nomination form and the 2003 ICOMOS evaluation as viewable documents; UNESCO's own state-of-conservation reports and Committee decisions are not counted for this category. The nomination form describes photographs, slides and a film and says site records are held by the State Board of Antiquities and Heritage in Baghdad; those holdings were not seen online. Academic documentation found is concentrated on the New Town excavation (2023-2025), not the whole property. No publicly viewable 3D model or photogrammetric record of the site and no virtual tour were found; a Google Arts & Culture entity page for Assur lists objects and a timeline but no tour or 3D content was seen on it. CRAterre says its 2025 report, photographs and a video are online; the report was not read and the media were not opened as evidence, so they are not counted. The 2022 mission report found no management system or conservation plan, and UNESCO's 2026 working document says no comprehensive conservation or management plan yet exists. Reflects what is publicly findable, not necessarily what exists in unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public gallery of Ashur images by several credited photographers and a publisher (12 shown on the first page).",
+        "url": "https://whc.unesco.org/en/list/1130/gallery/",
+        "source_id": "src_03"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO hosts the scanned nomination form for Ashur (State Party of Iraq, September 2002, revised 21 January 2003), with its description of the site, plans cited and documentation list.",
+        "url": "https://whc.unesco.org/document/168850",
+        "source_id": "src_06"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for Ashur catalogues the 2003 nomination text, annexes, maps and management plan, the 2003 ICOMOS evaluation and the 2002, 2011 and 2022 mission reports.",
+        "url": "https://whc.unesco.org/en/list/1130/documents",
+        "source_id": "src_02"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO hosts the March 2003 ICOMOS Advisory Body evaluation of the nomination, which comments on documentation, management and threats.",
+        "url": "https://whc.unesco.org/document/151822",
+        "source_id": "src_07"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "The Assur Excavation Project (LMU Munich with WWU Münster) reports 2023-2025 fieldwork, including excavation, magnetometer and electrical resistivity tomography surveys, and says its Exploring Assur volumes are open access.",
+        "url": "https://www.en.ag.geschichte.uni-muenchen.de/research/assur1/index.html",
+        "source_id": "src_25"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Exploring Assur vol. 2 (Assur 2024, eds Radner and Squitieri, PeWe Verlag, 1 July 2025) is catalogued on UCL Discovery as green open access (CC BY-NC-ND 4.0); its abstract covers excavation, radiocarbon dates, coring in the Ishtar and Ashur temples and studies on erosion and geophysical prospecting.",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10210629",
+        "source_id": "src_26"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Not counted toward the tier: Google Arts & Culture has an entity page for Assur listing 21 objects and a timeline link; no tour, story or 3D content was seen on it.",
+        "url": "https://artsandculture.google.com/entity/m02wkmf",
+        "source_id": "src_27"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003",
+      "title": "Ashur inscribed on the World Heritage List and, in the same session, on the List of World Heritage in Danger",
+      "description": "At its 27th session the Committee inscribed Ashur under criteria (iii) and (iv) (27 COM 8C.45) and decided to inscribe it on the List of World Heritage in Danger (27 COM 8C.46; the decision page states no reasons). UNESCO's later entries give the threats cited at inscription as nearby dam construction causing partial flooding and seepage, and armed conflict. The March 2003 ICOMOS evaluation had recommended inscription despite the lack of management systems and suggested considering Danger List inscription.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_20"
+      ]
+    },
+    {
+      "date": "2014-08",
+      "title": "Air strikes on armed groups' positions damage buildings at Ashur",
+      "description": "UNESCO's 2015 state-of-conservation entry records that air strikes on 27 and 29 August 2014 targeted positions of armed groups that had occupied the German and new Iraqi mission houses, the ziggurat and the ancient palace; they damaged the German mission house and a wall of Ashur and destroyed the glass cover protecting the Royal Cemetery. The entry says accurate information on the site's condition was very difficult to obtain because it lay in territory controlled by armed groups.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2015-06",
+      "title": "Reports of deliberate destruction at Ashur",
+      "description": "UNESCO's 2016 state-of-conservation entry says extremist armed groups were reported to have deliberately destroyed parts of the property on 2 and 9 June 2015, and that other sources reported destruction and looting of several sites around the property between 23 December 2015 and 5 January 2016. The State Party reported having almost no information on the situation at the site, and the entry does not establish the extent of the damage.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2016-12",
+      "title": "Property fully liberated",
+      "description": "UNESCO's 2017 state-of-conservation entry says the property was fully liberated in mid-December 2016 after about two years of occupation by extremist armed groups, and that the State Board of Antiquities and Heritage soon carried out a rapid preliminary damage assessment and began cleaning the site.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2017-02",
+      "title": "UNESCO site assessment and international coordination conference",
+      "description": "According to UNESCO's 2017 entry, on 3 February 2017 UNESCO confirmed the reported damage, found the site unfenced but guarded against looting and stressed the urgent need for a shelter over the royal tombs; UNESCO and the Iraqi Government co-organised an International Coordination Conference on 23-24 February 2017 that laid the groundwork for emergency, medium- and long-term action plans and a joint UNESCO-Iraq Steering Committee.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2018-03-30",
+      "title": "State Party reports explosion damage and looting",
+      "description": "UNESCO's 2018 entry records that on 30 March 2018 the State Party reported that explosions had damaged the stacks of the Tabira Gate (large cracks visible) and severely damaged the Summer Palace and the northern section along the Tigris, and that the northern section, previously excavated by a German mission, had been looted. The date of the explosions is not stated. The entry also says no significant restoration or conservation work had been undertaken at Ashur and that the State Party considered the security situation stable enough for conservation work to begin.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Committee deeply regrets renewed Makhool Dam proposal (44 COM 7A.6)",
+      "description": "The Committee retained Ashur on the Danger List, deeply regretted that construction of the dam had again been proposed, asked Iraq to relocate or cancel it, asked Iraq to suspend any work toward construction pending review, and reiterated the need for a joint Reactive Monitoring mission once conditions permit.",
+      "event_type": "political",
+      "source_ids": [
+        "src_12"
+      ]
+    },
+    {
+      "date": "2022-03/2022-04",
+      "title": "Joint World Heritage Centre-ICOMOS Reactive Monitoring mission",
+      "description": "The mission (28 March-1 April 2022) estimated a minimum of 25% material loss from the Ziggurat, reported significant current erosion of the Tigris riverbank with the Walter Andrae Residence about 7 metres from a cliff, recorded conflict-related damage (including to the Farhan Palace, the Royal Cemetery shelter and the Tabira Gate) and found no management system, management plan or conservation plan. It concluded that the dam protection measures proposed would not be sufficient and recommended relocating or cancelling the dam, a conservation plan, regular maintenance with pilot-area testing, fencing and a management system.",
+      "event_type": "other",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2022-09/2023-01",
+      "title": "Walter Andrae house restored by the Assur Excavation Project",
+      "description": "LMU Munich's project page says the Andrae house, built from 1903, was damaged in late 2016 during the ISIS occupation and its recapture, and that its restoration ran from September 2022 to January 2023, after which excavations began in 2023. This is the project's own account.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_25"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee retains Ashur on the Danger List (45 COM 7A.27)",
+      "description": "The Committee commended Iraq's decision to halt construction of the Makhool Dam, asked for its permanent cancellation or relocation, asked Iraq to implement the 2022 mission recommendations (a conservation plan, regular maintenance tested in a pilot area, site protection, a management system and plan) and asked it to initiate a Desired State of Conservation for removal. UNESCO's 2023 entry reports that decayed cavities on the Ziggurat continued to expand, that Tabira Gate arches remained near collapse despite new temporary iron supports on the second arch, that the State Party stated that collapse of the cliff on the eastern riverbank poses an imminent threat (the State Party's assessment), and that on 4 March 2023 the State Party confirmed that dam works had stopped.",
+      "event_type": "political",
+      "source_ids": [
+        "src_15",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee retains Ashur on the Danger List (46 COM 7A.15)",
+      "description": "At its 46th session the Committee acknowledged Iraq's efforts to set up a partnership to prepare the Conservation and Site Management Plans, urged prioritising urgent maintenance and stabilisation (emergency stabilisation only where collapse or further damage is imminent), asked again for the dam's permanent cancellation or relocation, and retained the property on the List. UNESCO's 2024 entry records that no activities took place after the 2023 report apart from maintenance of the Walter Andrae house.",
+      "event_type": "political",
+      "source_ids": [
+        "src_17",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2024-11",
+      "title": "Iraq submits state of conservation report",
+      "description": "Iraq's State Board of Antiquities and Heritage report (November 2024) attributes the dominant threats to rain, wind and humidity, describes a 3,300-metre fence around the city on three sides (river approaches on the north and south sides left unfenced), states that uncontrolled access has ended, says no maintenance was carried out in the previous period because of weak funding, and cites an Economic Ministerial Council letter dated 2 October 2024 recommending approval of removing the Makhool Dam project (the report describes this as permanent; the letter itself does not use that word). These are the State Party's own statements.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_18"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee retains Ashur on the Danger List (47 COM 7A.35)",
+      "description": "The Committee commended the State Party for controlling access and installing a protective fence, urged Conservation and Management Plans, encouraged priority maintenance and stabilisation, asked Iraq to confirm that the Makhool Dam is permanently cancelled, encouraged work on a Desired State of Conservation and requested an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_19"
+      ]
+    },
+    {
+      "date": "2025-10/2025-11",
+      "title": "Emergency conservation works on the Ziggurat of Ashur",
+      "description": "UNESCO reports that works from 22 October to 16 November 2025, funded by the World Heritage Fund and led by CRAterre with Iraq's State Board of Antiquities and Heritage, combined on-site diagnosis, preventive conservation and emergency interventions focused on reducing water's impact and stabilising the monument, with training for four State Board archaeologists and four local community workers. CRAterre says its team treated 16 cavities. The June 2026 working document records the World Heritage Fund contribution as USD 51,144 and the works as mudbrick repair, improved drainage and documentation.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_23",
+        "src_24",
+        "src_20"
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "title": "Iraq submits 2026 state of conservation report",
+      "description": "According to UNESCO's working document WHC/26/48.COM/7A, the report was submitted on 21 January 2026 and confirmed that the Makhool Dam project is permanently cancelled, with related infrastructure transferred to entities unrelated to dam construction; the report text itself was not read.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_20"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "Committee retains Ashur on the Danger List (48 COM 7A.1)",
+      "description": "At its 48th session (Busan) the Committee noted with concern that the property continues to be severely affected by water seepage, humidity and environmental degradation, welcomed the Ziggurat emergency works and the confirmation that the Makhool Dam is permanently cancelled, asked for results of the pilot-area monitoring, a Conservation Plan and a finalised Management Plan framework, encouraged boundary clarification and work on a Desired State of Conservation, and requested an updated report by 1 February 2027. Month reflects the session's scheduled 19-29 July 2026 dates per the working document; a draft decision 48 COM 8C.2 also proposed retaining the property on the List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_21",
+        "src_20",
+        "src_22"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Asur (Qal'at Sherqat) (property page, Spanish-language version)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/ES/list/1130",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via the Spanish-language URL; the description was read in English on that page. Coordinates are not on this page (see src_01) and it does not state Danger List status (see src_14, src_20).",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Ashur (Qal'at Sherqat): maps",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1130/maps/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Ashur (Qal'at Sherqat): documents and decisions",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1130/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Ashur (Qal'at Sherqat): photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1130/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 27 COM 8C.45: Ashur (Qal'at Sherqat) (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/739",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2003",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 27 COM 8C.46: Ashur (Qal'at Sherqat) (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/740",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2003",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Nomination form (scanned): Ashur (Qal'at Sherqat), State Party of Iraq, 2002, revised 21 January 2003",
+      "publisher": "State Board of Antiquities and Heritage, Iraq, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/168850",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party's own nomination document; self-reported. Only the scanned nomination text was opened, not its annexes, management plan or map documents.",
+      "published_date": "2003",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Advisory Body Evaluation (ICOMOS): Ashur (Qal'at Shergat), March 2003",
+      "publisher": "ICOMOS, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/151822",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2003-03",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "State of Conservation: Ashur (Qal'at Sherqat) (2015 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3187",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "State of Conservation: Ashur (Qal'at Sherqat) (2016 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3339",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "State of Conservation: Ashur (Qal'at Sherqat) (2017 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3531",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "State of Conservation: Ashur (Qal'at Sherqat) (2018 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3783",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Decision 44 COM 7A.6: Ashur (Qal'at Sherqat) (Iraq) (C 1130)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7642",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Report on the Joint World Heritage Centre-ICOMOS Reactive Monitoring Mission to Ashur (Qal'at Sherqat), Iraq, 28 March-1 April 2022",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/200999",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2022",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "State of Conservation: Ashur (Qal'at Sherqat) (2023 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4290",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Decision 45 COM 7A.27: Ashur (Qal'at Sherqat) (Iraq) (C 1130)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8153",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "State of Conservation: Ashur (Qal'at Sherqat) (2024 entry)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4538",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Decision 46 COM 7A.15: Ashur (Qal'at Sherqat) (Iraq) (C 1130)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8484",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "State of Conservation Report: Ashur (Qal'at Sherqat) (Republic of Iraq, State Board of Antiquities and Heritage), November 2024",
+      "publisher": "Government of Iraq, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/219877",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party's own report on its site; self-reported. Cliff height, distance and fence length are the State Party's figures and were not independently verified. The report spells the dam 'Makhoul'.",
+      "published_date": "2024-11",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Decision 47 COM 7A.35: Ashur (Qal'at Sherqat) (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8702",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_20",
+      "title": "State of conservation of properties inscribed on the List of World Heritage in Danger (WHC/26/48.COM/7A), Ashur (Qal'at Sherqat) section",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/226088",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Working document dated Paris, 5 June 2026, for the 48th session; contains the Secretariat/Advisory Body analysis and a draft decision. The adopted text is src_21. Only the Ashur section was summarised.",
+      "published_date": "2026-06-05",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Decision 48 COM 7A.1: Ashur (Qal'at Sherqat) (Iraq)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8993",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The decision page gives the year only; no adoption date appears on it.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Draft decision 48 COM 8C.2, Update of the List of World Heritage in Danger (WHC/26/48.COM/8C)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/226913",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Draft decision text, not the adopted text; used only to corroborate that the Ashur entry was proposed for retention on the Danger List alongside the adopted 48 COM 7A.1.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Protecting the Ziggurat of Ashur (UNESCO news, 16 November 2025)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/actualites/2861",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via the French-language news page.",
+      "published_date": "2025-11-16",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_24",
+      "title": "Ashur ziggurat conservation project, 2025",
+      "publisher": "CRAterre (International Centre for Earthen Architecture)",
+      "url": "https://craterre.org/en/?p=6261",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Implementer's own account of its project; not independently reviewed. The page says a detailed activity report is available in English and Arabic, but no working link to it was seen, so the report was not read.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_25",
+      "title": "Assur Excavation Project (New Town, Assur)",
+      "publisher": "LMU Munich, Ancient History (with WWU Münster)",
+      "url": "https://www.en.ag.geschichte.uni-muenchen.de/research/assur1/index.html",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "University project's own account of its work.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_26",
+      "title": "Assur 2024: Continuing the excavations in the New Town and other research across the site (Exploring Assur, vol. 2), UCL Discovery record",
+      "publisher": "UCL Discovery / PeWe-Verlag (eds K. Radner, A. Squitieri)",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10210629",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2025-07-01",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_27",
+      "title": "Assur / Ashur (entity page)",
+      "publisher": "Google Arts & Culture",
+      "url": "https://artsandculture.google.com/entity/m02wkmf",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Aggregator page; used only to record that no tour or 3D content was seen on it. Not used for any status claim.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude (fresh research pass; a separate earlier draft under slug ashur-qal-at-sherqat exists and was used only as a lead, not as a source). Proposed status High Concern / Supported / DPI Moderate. Trigger: Danger List inscription (since 2003, retained 48 COM 7A.1 in 2026) with ongoing severe seepage/erosion concerns. Close call vs Critical flagged in decision_trigger (Committee wording on severe effects of seepage, humidity and degradation; Secretariat/Advisory Body concern about the eastern Tigris cliff); nearest lower neighbour Moderate only if removed from the Danger List. Known gaps: (1) UNESCO's main site and some pages were reachable only via URLs surfaced by search; the English property page was not fetched and coordinates, area (70 ha core, 100 ha buffer) and inscription year come from the maps page and Spanish-language property page; the Danger List page whc.unesco.org/en/danger/ did not list properties, so Danger List status rests on 48 COM 7A.1, the working document, the 2023/2024 state-of-conservation entries and the draft 48 COM 8C.2, not on the list page itself. (2) The 2025 and 2026 state-of-conservation pages (soc/4811, soc/4947) returned fetch errors; 2025-2026 findings rest on decisions 47 COM 7A.35 and 48 COM 7A.1 and the working document. (3) Iraq's January 2026 report, the 2011 mission report, the second 2024 State Party report (document 205029) and the nomination annexes/management plan were not read. (4) No independent (non-UNESCO, non-State-Party) 2025-2026 report on condition or security, and no satellite damage assessment, was found; the working document's Ashur section has no statement on current security measures. (5) 2003 inscription session date and exact dates of 2023-2025 decisions not confirmed (years only; the 2026 month follows the working document). (6) Reported 2015 destruction rests only on UNESCO's 2016 entry ('reported'); extent not established; news items on it (IBTimes, Arkansas Democrat-Gazette) could not be fetched in this pass and were not cited. A May 2025 SyriacPress item on excavation finds relays Shafaq News and was not used. (7) The 25% Ziggurat material loss, 7 m distance and staffing figures come from the 2022 mission report as summarised on fetch; spot-check against the PDF. (8) UNESCO's gallery: only the first 12 images were read. (9) No 3D documentation or virtual tour found; CRAterre's report and media not opened. (10) The 2026 Committee 'severely affected' wording is paraphrased from the decision page as fetched, not quoted. Images omitted by design. Independent verification 2026-10-14: fixed attribution of the 'imminent' eastern-cliff collapse statement (State Party's own assessment in the 2023 entry, not UNESCO's); softened the Economic Ministerial Council letter (recommends approval of removal; 'permanent' is the report's wording); corrected 44 COM 7A.6 (Committee asked Iraq to suspend dam work, did not itself decide suspension); corrected 2014 occupation wording (ziggurat and palace occupied, not 'areas near'); restated the 2022 mission's comparative-photograph point accurately; attributed 'considerable concern, particularly the eastern cliff' to the Secretariat/Advisory Bodies; revised decision_trigger on the near-term-timeframe limb to acknowledge the State Party's 2023 'imminent' statement.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

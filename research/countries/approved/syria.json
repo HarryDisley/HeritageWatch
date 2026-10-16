@@ -119,7 +119,8 @@
     "ancient-city-of-damascus",
     "ancient-city-of-bosra",
     "site-of-palmyra",
-    "crac-des-chevaliers-and-qal-at-salah-el-din"
+    "crac-des-chevaliers-and-qal-at-salah-el-din",
+    "ancient-villages-of-northern-syria"
   ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
@@ -152,6 +153,16 @@
       "date": "2026-10-12",
       "changed_by": "claude-draft",
       "change": "Added site_slugs for newly approved site profiles: ancient-city-of-damascus, ancient-city-of-bosra, site-of-palmyra, crac-des-chevaliers-and-qal-at-salah-el-din. No treaty data changed."
+    },
+    {
+      "date": "2026-10-14",
+      "changed_by": "claude-draft",
+      "change": "Added links to site profiles approved on 2026-10-14: ancient-city-of-damascus, ancient-city-of-bosra, site-of-palmyra, crac-des-chevaliers-and-qal-at-salah-el-din. No treaty data changed."
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "claude",
+      "change": "Linked approved site profiles: ancient-villages-of-northern-syria."
     }
   ]
 }

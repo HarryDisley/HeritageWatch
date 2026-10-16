@@ -1,0 +1,496 @@
+{
+  "slug": "liverpool-maritime-mercantile-city",
+  "name": "Liverpool – Maritime Mercantile City",
+  "alternate_names": [
+    "Liverpool Maritime Mercantile City",
+    "Liverpool waterfront"
+  ],
+  "country": "United Kingdom",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 53.4067,
+    "lng": -2.9944
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N53 24 24, W2 59 40). The former property comprised six separate areas of the historic centre and docklands, so this marker is a practical single-point reference.",
+  "unesco_id": "1150",
+  "inscription_year": 2004,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "NOT CURRENTLY ON THE WORLD HERITAGE LIST: the World Heritage Committee deleted this property from the List on 21 July 2021 (decision 44 COM 7A.34), citing in the Committee's words an irreversible loss of attributes conveying its outstanding universal value (a finding the UK State Party and the city disputed), having placed it on the List of World Heritage in Danger in 2012. It is only the third property to have been deleted, after the Arabian Oryx Sanctuary (Oman) and the Dresden Elbe Valley (Germany). It was inscribed in 2004 under criteria (ii), (iii) and (iv) as six areas in Liverpool's historic centre and docklands (136 ha, with a 750.5 ha buffer zone, per UNESCO's property page) that reflect the city's growth as a major 18th- to early 20th-century trading port, central to the British Empire's trade and to mass migration (including the trans-Atlantic slave trade and emigration to America), and its pioneering of dock technology, transport systems and port management. This profile classifies the heritage's present condition, not its former UNESCO status.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "In decision 44 COM 7A.34 (2021) the Committee said development, in particular the Liverpool Waters project under the Outline Planning Consent (2013-2042), had caused serious deterioration and irreversible loss of attributes, authenticity and integrity, and that the approved stadium at Bramley-Moore Dock 'within the property' increased the threat. UNESCO's 2021 State of Conservation page reports that ICOMOS advised that the stadium proposal would have a 'completely unacceptable major adverse impact on the authenticity and integrity' of the property, and ITV News reported that a planning officer's report acknowledged substantial harm to the property's outstanding universal value. These are the Committee's and its advisory body's positions; the UK State Party disagreed with parts of them. The Boston Globe reported that the British government expressed disappointment and said it still believed Liverpool deserved the status; the State Party's 2018 report said the physical condition had improved substantially and that developments within Liverpool Waters to date had not caused harm to OUV; and Liverpool's mayor said the site had 'never been in better condition'. A post-2021 peer-reviewed study (Hole and Alsalloum, Discover Cities, 2024) concluded that the Everton stadium overall 'has had a minor impact on the heritage values'; within its heritage impact assessment, the infilling of Bramley-Moore Dock was argued to have a moderate effect on OUV and the loss of the transit sheds that were on the site a moderate effect on the integrity of the area's heritage. It also found that adaptive reuse projects (Albert Dock, Stanley Dock Tobacco Warehouse) had negligible or no impact on heritage values, while noting that changes to the Tobacco Warehouse affected its integrity and authenticity, and states that after delisting local authorities are no longer required to consider impacts on OUV and rely on local and national heritage policy (no legal source is given for this in the study). The Premier League's 2025/26 preview page scheduled the stadium's first Premier League match for 24 August (2025/26 season). A revised Liverpool Waters masterplan was submitted to the city council in July 2024 (developer's account; outcome not found). On the protection side, heritage designations remain in national planning data, for example the Stanley Dock conservation area (CA029) is listed in the national planning dataset (data from Liverpool City Council, entry dated 2025-09-24, start date 2003) with no end date recorded. State Party reports (2018, 2020, so pre-deletion) described buildings at risk falling to under about 3% of stock; those figures were not re-verified for 2026. No post-2021 authoritative assessment (UNESCO, ICOMOS, Historic England) of the overall present condition of the former property was found.",
+      "first_identified_date": null,
+      "date_note": "The Committee first raised Liverpool Waters as a danger in decision 36 COM 7B.93 (2012); the pressures are multi-year and no single start date applies to the present-tense concern.",
+      "source_ids": [
+        "src_01",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_13",
+        "src_15",
+        "src_18",
+        "src_19",
+        "src_20",
+        "src_22"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "developing",
+      "decision_trigger": "High Concern, applying the methodology top-down, as a CLOSE CALL against Moderate Concern. The property is no longer on the World Heritage List or the Danger List (deleted 21 July 2021, 44 COM 7A.34), so the status below classifies the heritage's present condition, not its UNESCO status. Critical: considered and not met. The Committee's 2021 finding of 'irreversible loss of attributes' is the last authoritative assessment, but it is disputed by the UK State Party and city, the Committee did not quantify how much of the property was affected, no post-2021 authoritative assessment of overall condition was found, the area is accessible, there is no combat, and national protection and planning continue. High Concern: the closest-matching trigger is a specific damaging event within roughly the last five years, reported by at least two independent sources, with damage not repaired. The Bramley-Moore Dock stadium (approved 2021, first Premier League match scheduled for August 2025) fits only loosely: the Committee (src_01) said it added to the ascertained threat, ICOMOS (src_03) advised the proposal would have a 'completely unacceptable major adverse impact', ITV News (src_15) reported a planning officer's report acknowledging substantial harm to OUV, and the infilling of the dock is physically irreversible rather than repairable. This is applied with care, and the independent evidence is more mixed than the Committee's: the 2024 academic study (src_10) concluded the stadium overall 'has had a minor impact on the heritage values', while arguing the dock infill and the loss of the transit sheds had moderate effects on OUV and integrity. The trigger is written for damage 'not yet fully assessed or repaired', whereas this damage has been assessed but cannot be reversed, and the sources differ on how large the stadium's impact is. The danger-list trigger is not met (not on the Danger List). The trigger for a severe unresolved threat with a stated near-term timeframe from a named authority is not met (no timeframe was found). The 2013-2042 Outline Planning Consent and the July 2024 revised masterplan are continuing development pressure, but their outcome and heritage impact were not established. Moderate Concern is the neighbouring status: a reviewer could reasonably find that one completed, irreversible loss within an otherwise intact, protected and actively reused historic waterfront (src_10, src_20) is better described as a chronic, managed pressure.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The most recent authoritative assessment, the Committee's July 2021 decision, found irreversible loss of attributes conveying the property's Outstanding Universal Value because of inadequate governance of new development and added the Bramley-Moore Dock stadium to the threat. The British government (as reported by the Boston Globe) expressed disappointment, and the city council and a local taskforce disagreed with the Committee, arguing the heritage was in good condition; the decision itself records the State Party's statement that it lacked legal and other means to meet the Committee's requests. Since then, the Premier League's 2025/26 preview schedules the stadium's first Premier League match for 24 August 2025, and a peer-reviewed study (2024) argued the dock infill and the loss of the transit sheds had moderate effects on OUV and integrity (concluding overall that the stadium 'has had a minor impact on the heritage values') while finding that adaptive reuse projects had negligible or no impact on heritage values, and a revised large-scale masterplan was submitted in 2024 with no outcome found. Against this, the historic fabric is largely still standing and used, national heritage protections such as conservation areas continue, and no post-2021 assessment saying the remainder is deteriorating was found. Confidence is Developing rather than Supported: the 2021 findings are well documented, but they are contested, the property is outside UNESCO monitoring, there is no recent authoritative condition assessment, and the 2024 masterplan's outcome is unknown. Confidence does not alter the status. The Moderate/High boundary is a judgment call that a reviewer may weigh differently.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_01",
+        "src_03",
+        "src_08",
+        "src_10",
+        "src_11",
+        "src_13",
+        "src_15",
+        "src_18",
+        "src_19",
+        "src_20",
+        "src_22"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly viewable evidence, which meets the moderate tier (2-3 categories). Coverage is thin or uneven: UNESCO's gallery holds only six images; the Historic England Archive volume found covers one area (Stanley Dock) rather than the whole former property; UNESCO's document list (nomination file, ICOMOS evaluation, mission and State Party reports) is archival documentation of the listing rather than a digitised record of the buildings. No publicly viewable 3D model or virtual tour of the former property was found in this pass; this reflects limited searching, not proof that none exists.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre photo gallery for the property (six images, credited to the OUR PLACE World Heritage Collection, photographer Geoff Mason).",
+        "url": "https://whc.unesco.org/en/list/1150/gallery/",
+        "source_id": "src_07"
+      },
+      {
+        "category": "photographic",
+        "description": "A Historic England Archive volume on Stanley Dock, Liverpool: 69 photographic prints (1989-2008, RCHME photographers) covering warehouses, entrances, a bascule bridge and a hydraulic tower. Covers one dock area only.",
+        "url": "https://historicengland.org.uk/images-books/photos/volume/BF095723",
+        "source_id": "src_21"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 2004 nomination file, the 2004 ICOMOS evaluation, maps, mission reports (2006, 2011, 2015), periodic reporting (2013) and State Party state of conservation reports (annually 2014-2020).",
+        "url": "https://whc.unesco.org/en/list/1150/documents/",
+        "source_id": "src_06"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed study of the heritage and development of Liverpool's waterfront over 40 years (Hole and Alsalloum, Discover Cities vol. 1, article 11, published online 3 July 2024).",
+        "url": "https://link.springer.com/article/10.1007/s44327-024-00012-8",
+        "source_id": "src_10"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2004",
+      "title": "Inscribed on the World Heritage List",
+      "description": "UNESCO's property page records inscription in 2004 under criteria (ii), (iii) and (iv), as six areas in Liverpool's historic centre and docklands.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2012",
+      "title": "Placed on the List of World Heritage in Danger",
+      "description": "In decision 36 COM 7B.93 the Committee expressed serious concern that Liverpool City Council was inclined to approve the developer's application for the Liverpool Waters project, which it judged a potential danger to the property's Outstanding Universal Value, and decided to place the property on the Danger List. The decision stated that the property could be removed from the World Heritage List if the project was approved and implemented.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2013",
+      "title": "Outline Planning Consent for Liverpool Waters (2013-2042)",
+      "description": "The Committee's 2019 and 2021 decisions refer to the approved Outline Planning Consent (2013-2042) for Liverpool Waters, which they describe as an ascertained threat to the property's Outstanding Universal Value. SAVE Britain's Heritage described the scheme as a 60-hectare site with buildings of up to 50 storeys. The exact consent date was not confirmed from a primary planning document.",
+      "event_type": "other",
+      "source_ids": [
+        "src_04",
+        "src_01",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2015-02",
+      "title": "Joint World Heritage Centre / ICOMOS advisory mission",
+      "description": "UNESCO's documents page for the property lists a joint World Heritage Centre/ICOMOS mission report for 24-25 February 2015. The mission report itself was not read; the UK State Party's later report (src_08) quotes it as calling for 'changes to the extent and scope, including densities and heights' of the proposed Liverpool Waters scheme.",
+      "event_type": "other",
+      "source_ids": [
+        "src_06",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2019",
+      "title": "Committee retains Danger listing and warns deletion may be considered",
+      "description": "In decision 43 COM 7A.47 the Committee decided to keep the property on the Danger List and said it might consider deleting it from the World Heritage List at its 44th session if its requirements were not met. It expressed extreme concern that a requested moratorium on new buildings in the property and buffer zone had not been adopted. The UK State Party's own reports (2018, before this decision, and 2020, after it) described a moratorium as neither desirable nor practical, and the 2020 report did not accept the Committee's view that governance was inadequate.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_08",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Planning approval for Everton stadium at Bramley-Moore Dock",
+      "description": "ITV News reported in June 2021 that the stadium had been approved earlier that year, that ICOMOS, the Victorian Society and Historic England had objected, and that a planning officer's report acknowledged substantial harm to the World Heritage Site's outstanding universal value. UNESCO's 2021 State of Conservation page records approval by Liverpool City Council in February 2021 and, citing media reports, review and approval by the UK Secretary of State in March 2021 (not confirmed there from an official source). Primary planning records were not read.",
+      "event_type": "other",
+      "source_ids": [
+        "src_15",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2021-07-21",
+      "title": "Committee deletes Liverpool from the World Heritage List (44 COM 7A.34)",
+      "description": "At its extended 44th session the Committee decided to delete the property, citing the irreversible loss of attributes conveying its outstanding universal value. Decision 44 COM 7A.34 regrets that inadequate governance processes, mechanisms and regulations for new development had led to serious deterioration and irreversible loss of attributes, authenticity and integrity, and records the State Party's statement that no legal and other means were available to meet the Committee's requests. The Boston Globe reported that the British government expressed disappointment and said it still believed Liverpool deserved World Heritage status (no named spokesperson in the text read). Al Jazeera and the Boston Globe report that the decision was taken by secret ballot; no vote count was confirmed here.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2021-07-26",
+      "title": "Liverpool World Heritage Taskforce rebuttal reported",
+      "description": "The Merseyside Civic Society reported that the Taskforce (including academics and former heritage-body leaders) published a response arguing the decision was flawed, citing, in the Civic Society's words, a lack of evidence to justify claims that the site had deteriorated. Mayor Joanne Anderson's statement of 21 July said the site had never been in better condition. These are the city side's positions; the Committee's positions are in decision 44 COM 7A.34.",
+      "event_type": "political",
+      "source_ids": [
+        "src_16",
+        "src_13",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2024-07-16",
+      "title": "Revised Liverpool Waters masterplan submitted to Liverpool City Council",
+      "description": "Peel Waters said it submitted a revised masterplan for the 60-hectare Liverpool Waters site. No decision on the application was found in the sources reviewed.",
+      "event_type": "other",
+      "source_ids": [
+        "src_18"
+      ]
+    },
+    {
+      "date": "2025-08",
+      "title": "New Everton stadium at Bramley-Moore Dock scheduled to open for the 2025/26 season",
+      "description": "The Premier League's 2025/26 preview page stated the new stadium at Bramley-Moore Dock would host its first Premier League match on Sunday 24 August (Everton v Brighton). The page does not describe heritage aspects and the match itself was not separately verified.",
+      "event_type": "other",
+      "source_ids": [
+        "src_19"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Liverpool – Maritime Mercantile City",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1150/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 44 COM 7A.34: Liverpool – Maritime Mercantile City (United Kingdom of Great Britain and Northern Ireland)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7638",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "World Heritage Committee deletes Liverpool – Maritime Mercantile City from UNESCO's World Heritage List (news release)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2314",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021-07-21",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "State of Conservation 2021: Liverpool – Maritime Mercantile City",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4031",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 43 COM 7A.47: Liverpool – Maritime Mercantile City (United Kingdom of Great Britain and Northern Ireland)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7555",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 36 COM 7B.93: Liverpool – Maritime Mercantile City (United Kingdom of Great Britain and Northern Ireland)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4754",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2012",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Liverpool – Maritime Mercantile City: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1150/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Liverpool – Maritime Mercantile City: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1150/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "State of Conservation Report and Desired State of Conservation Report (DSOCR), Liverpool Maritime Mercantile City (C1150), responding to Decision 42 COM 7A.7",
+      "publisher": "UK Department for Digital, Culture, Media and Sport (State Party), hosted by UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/172015",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party document; undated in the text read (refers to events up to November 2018). Presents the UK government's own position, not an independent assessment.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "State of Conservation Report, Liverpool Maritime Mercantile City (C1150), responding to Decision 43 COM 7A.47",
+      "publisher": "UK Cultural Diplomacy Team, DCMS (State Party), hosted by UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/180689",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party document presenting the UK government's own position and figures; not an independent assessment.",
+      "published_date": "2020-02-04",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Evolution of heritage and development in Liverpool's waterfront over 40 years, Discover Cities (2024)",
+      "publisher": "Springer (Discover Cities)",
+      "url": "https://link.springer.com/article/10.1007/s44327-024-00012-8",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Authors James Hole and Ataa Alsalloum; Discover Cities vol. 1, article 11, published online 3 July 2024 (confirmed from the article page). Findings are mixed: it concluded the stadium overall 'has had a minor impact on the heritage values' while arguing the dock infill and transit-shed loss had moderate effects. Includes expert interviews with diverse views.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Liverpool loses its UNESCO World Heritage status",
+      "publisher": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2021/07/21/world/liverpool-loses-its-unesco-world-heritage-status",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Report datelined London; no news agency named in the text read. Used for the British government's reported reaction (an unnamed government spokesperson) and the secret-ballot detail.",
+      "published_date": "2021-07-21",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "UNESCO strips Liverpool of world heritage status",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/amp/news/2021/7/21/uk-unesco-strips-liverpool-of-world-heritage-status",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2021-07-21",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Statement on UNESCO World Heritage Site deletion (Mayor Joanne Anderson, Liverpool City Council)",
+      "publisher": "Liverpool Express",
+      "url": "https://liverpoolexpress.co.uk/statement-unesco-world-heritage-site-deletion/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Council statement republished on a local news site; the original Liverpool City Council release was not retrieved. Represents the city's own position.",
+      "published_date": "2021-07-21",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Liverpool defiant after being stripped of world heritage status",
+      "publisher": "Museums Association (Museums Journal)",
+      "url": "https://www.museumsassociation.org/museums-journal/news/2021/07/liverpool-defiant-after-being-stripped-of-world-heritage-status/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2021-07-22",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Liverpool leaders fear city could lose world heritage status",
+      "publisher": "ITV News Granada",
+      "url": "https://www.itv.com/news/granada/2021-06-19/liverpool-leaders-fear-city-could-lose-world-heritage-status",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2021-06-19",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "World Heritage Taskforce responds to UNESCO deletion",
+      "publisher": "Merseyside Civic Society",
+      "url": "https://www.merseysidecivicsociety.org/world-heritage-taskforce-responds-to-unesco-deletion/",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Reports the Liverpool World Heritage Taskforce's own rebuttal of the Committee's decision; an advocacy position, not a neutral assessment.",
+      "published_date": "2021-07-26",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "PRESS RELEASE: SAVE regrets loss of Liverpool World Heritage status",
+      "publisher": "SAVE Britain's Heritage",
+      "url": "https://www.savebritainsheritage.org/news/PRESS-RELEASE-SAVE-regrets-loss-of-Liverpool-World-Heritage-status",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Heritage campaign group press release; advocacy position.",
+      "published_date": "2021-07-21",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Planning submitted: New vision unveiled for Liverpool Waters",
+      "publisher": "Peel Waters (developer)",
+      "url": "https://liverpoolwaters.co.uk/news-updates/planning-submitted-new-vision-unveiled-for-liverpool-waters/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Developer's own promotional news item; evidences only that a revised masterplan was submitted, not its heritage impact or outcome.",
+      "published_date": "2024-07-16",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "What's new for 2025/26: Premier League has a new stadium",
+      "publisher": "Premier League",
+      "url": "https://www.premierleague.com/en/news/4372526/whats-new-for-202526-premier-league-has-new-stadium",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Season preview page; the text read gives no publication date. States the first Premier League match as scheduled, not as played.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Stanley Dock (conservation area CA029), Conservation area dataset",
+      "publisher": "Planning Data (UK Government), data from Liverpool City Council",
+      "url": "https://www.planning.data.gov.uk/entity/44014322",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025-09-24",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Stanley Dock, Liverpool (volume BF095723), Historic England Archive",
+      "publisher": "Historic England",
+      "url": "https://historicengland.org.uk/images-books/photos/volume/BF095723",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_22",
+      "title": "State of Conservation Report, Liverpool Maritime Mercantile City (C1150), responding to Decision 41 COM 7A.22",
+      "publisher": "UK State Party (with Liverpool City Council, Peel Holdings and Historic England), hosted by UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/166089",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party document; undated in the text read (refers to a DSOCR submitted 31 January 2018). Presents the UK government's own position.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Developing; close call vs Moderate Concern flagged in decision_trigger. Because the property was deleted from the World Heritage List on 21 July 2021 (44 COM 7A.34), the status classifies the heritage's present condition, not its UNESCO status. Only one threat category (conservation_structural) had real evidence; no armed-conflict, natural-disaster or environmental evidence was found, so none is included. Known gaps (not included because not verified): (1) No post-2021 authoritative assessment (UNESCO, ICOMOS, Historic England) of the former property's overall condition was found; Historic England Heritage at Risk Register entries for the former property area were not retrieved. (2) The UK government's reaction rests on one unnamed-spokesperson quote in the Boston Globe; a gov.uk statement was not found. (3) The Committee vote count appears in one outlet of uncertain reliability and was omitted; only the secret ballot (Al Jazeera, Boston Globe) is stated. (4) Decision 44 COM 8C.4 (removal from the Danger List and deletion) is mentioned on UNESCO's 2021 State of Conservation page but its own text was not read. (5) The Outline Planning Consent and stadium approval dates are given by year only; primary planning records were not read. (6) The outcome of the July 2024 revised Liverpool Waters masterplan, and whether the stadium opened as scheduled, were not verified from primary sources. (7) The 2015 advisory mission report was not read; 2018 and 2020 State Party reports are the UK government's own position and the buildings-at-risk figures predate deletion. (8) No 3D documentation or virtual tour found in a limited search. (9) Wikipedia was not used; metadata rests on UNESCO. Images omitted by design. All UNESCO pages returned content (no 403s). VERIFICATION 2026-10-15: (a) src_10 (2024 study) was overstated; it concluded the stadium showed 'few impacts', rated the dock infill and last transit shed loss as moderate effects, and the dock-wall damage is an interviewee's claim; wording and High Concern trigger text corrected, author names removed as unconfirmed. (b) ICOMOS wording corrected to 'completely unacceptable major adverse impact' on the proposal. (c) Unnamed 'UK government spokesperson' corrected to 'the British government' (Boston Globe). (d) Mayor's quote corrected to 'never been in better condition'. (e) Significance summary trimmed to what UNESCO's page states. (f) UNESCO documents list corrected to State Party reports 2014-2020. (g) Stadium approval dates added from the 2021 SoC page (Feb/Mar 2021); decision 44 COM 8C.4 now confirmed (removal from Danger List and deletion). (h) State Party report attribution by year corrected. (i) Stanley Dock CA029 'current' softened to 'no end date recorded'. VERIFICATION 2 (independent check, 2026-10-15): (a) src_10 re-read: 'few impacts', 'largest dock', 'last remaining transit shed' and the dock-wall interviewee claim could not be found in the article text; replaced with the article's own wording (overall 'a minor impact on the heritage values'; dock infill argued to have a moderate effect on OUV; transit sheds lost, moderate effect on integrity; Albert Dock negligible, Stanley Dock none to negligible), authors Hole and Alsalloum, vol. 1 article 11, published 3 July 2024 restored as confirmed. (b) Significance summary corrected to UNESCO's 18th- to early 20th-century wording and the Committee's reason for deletion added with the State Party/city dispute noted. (c) Stadium approval wording aligned with the SoC page (council approval Feb 2021; Secretary of State approval Mar 2021 per media reports); ICOMOS advice no longer described as given 'before approval'. (d) Taskforce event retitled (response reported 26 July; linked document appears dated 18 July) and 'detailed' removed. (e) src_15 and src_09 added to the threat/status source lists where cited; Boston Globe note clarified (unnamed government spokesperson). (f) Premier League wording kept as scheduled, not played.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / developing; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

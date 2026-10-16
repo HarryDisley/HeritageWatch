@@ -1,0 +1,503 @@
+{
+  "slug": "taj-mahal",
+  "name": "Taj Mahal",
+  "alternate_names": [
+    "Taj",
+    "Taj Mahal, Agra"
+  ],
+  "country": "India",
+  "region": "Asia",
+  "coordinates": {
+    "lat": 27.1742,
+    "lng": 78.0422
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N27 10 27.012, E78 2 31.992). The inscribed property is the mausoleum complex in Agra, Uttar Pradesh; this marker is a single-point reference.",
+  "unesco_id": "252",
+  "inscription_year": 1983,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "The Taj Mahal is a white-marble mausoleum in Agra, Uttar Pradesh, built between 1631 and 1648 by the Mughal emperor Shah Jahan for his wife Mumtaz Mahal. UNESCO describes it as one of the universally admired masterpieces of the world's heritage and inscribed it in 1983 under criterion (i). Agra Fort and Fatehpur Sikri are separate UNESCO properties, although the Committee has often reviewed the three together.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Three environmental pressures are documented, all chronic rather than acute. (1) Air pollution and surface discolouration: a 2015 study led by Michael Bergin's group (Duke University group page, DOI 10.1021/es504005q) reports that particles deposited on marble surrogate surfaces at the Taj Mahal over a one-year sampling period contained carbonaceous components and dust, and concludes that light-absorbing dust and carbonaceous particles from fossil-fuel and biomass combustion cause the discolouration. Chemistry World reported the team as describing dust and organic ('brown') carbon, and that the marble is cleaned every few years by applying and removing a layer of clay. Tribune India reported in May 2015 that a Parliamentary Standing Committee panel (its head, Ashwani Kumar, per the article) attributed discolouration to 'particulate carbon and dust deposition' while the Culture Minister told the Rajya Sabha the monument was in good condition and the government said the Taj was not turning yellow because of pollution, so officials and the panel differed in 2015. The Art Newspaper reported in July 2018 that the Supreme Court of India, in May 2018, said the marble was turning yellow and in parts brown because of pollution and insect dung, and told the central government to seek foreign expertise on 'the worrying change in colour'. (2) Yamuna river decline: National Herald/IANS (June 2019) reported unnamed experts and a then-Agra MP, Ram Shankar Katehria, saying the monument's wooden foundation shafts need river water and that a falling water table is a threat; the article quotes Katehria saying 'several studies' exist but names none, and an unnamed ASI official said a barrage would extend the monument's life. This is a single press source with unverified underlying studies, so it is reported here as a concern raised by those speakers, not as an established structural finding. (3) Legal protection regime: the Taj Trapezium Zone (TTZ) is the area designed to safeguard the monument. In March 2025 the Supreme Court (M.C. Mehta v. Union of India) ordered a tree census of the TTZ by the Forest Research Institute, and in May 2025 reiterated that its 8 May 2015 order requiring court permission for tree felling within 5 km of the Taj Mahal 'will continue to operate'. The articles reviewed do not discuss pollution in those 2025 orders. Reviewed sources do not report that any of these pressures has produced severe, unrepaired damage to the mausoleum.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-term pressures. The earliest dated items in this dossier are the 2015 study and Parliamentary panel report; the Supreme Court's M.C. Mehta case on the Taj Trapezium Zone (Writ Petition (Civil) No. 13381/1984, per LiveLaw) is long-running. No single start date applies.",
+      "source_ids": [
+        "src_06",
+        "src_07",
+        "src_15",
+        "src_08",
+        "src_20",
+        "src_12",
+        "src_13",
+        "src_14"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Weather events have damaged peripheral parts of the complex, and one flood reached the monument's walls. Deccan Chronicle reported that a storm on 11 April 2018 knocked a minaret at the south gate off and hit a small dome, and that a 12-foot minaret at Darwaza-e-Rauza (the main gateway) was reportedly blown away; the ASI gave no official comment in that report. Dawn (agency copy) reported that a thunderstorm on a Friday night, which the dossier dates to 29 May 2020 by inference from the article date (the article does not state the date), damaged a sandstone railing from the original structure, a later marble railing, a false ceiling in the tourist holding area and the base stone of the main gate, broke a railing at the back of the mausoleum, loosened some marble tiles, and tilted the western main door; ASI officials were quoted as saying the main structure was undamaged and most damage was to modern structures, and repairs were estimated at Rs2 million and up to a month. WION (PTI) reported in July 2023 that Yamuna floodwater reached the walls of the Taj Mahal for the first time in nearly 45 years, that the ASI said there was no threat to the monument for now, and that water had not entered the basement. The sources reviewed do not document unrepaired damage from any of these events, and the repair status of the 2018 gateway damage was not established.",
+      "first_identified_date": "2018-04-11",
+      "date_note": "Date of the April 2018 storm; weather exposure itself is long-standing.",
+      "source_ids": [
+        "src_09",
+        "src_10",
+        "src_11"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO Committee decisions and recent Indian press reports show ongoing management and maintenance concerns. In decision 34 COM 7B.68 (2010) the Committee regretted that no progress report on management and boundaries had been submitted, asked for information and impact assessments on a proposed Yamuna bridge, and asked for continued work on an integrated management plan and a Visitors Facilitation Centre. In decision 35 COM 7B.67 (2011) it regretted that no details of the new Yamuna bridge or a heritage impact assessment had been provided, was concerned about the bridge's possible effect on visitor numbers, and called for an urgent overall visitor management strategy including traffic management in the hinterland. In 2013 (37 COM 7B.103, an omnibus decision) the Committee took note with satisfaction of measures by States Parties to mitigate threats, listing the Taj Mahal among many properties without property-specific detail. The UNESCO documents page for the property, retrieved 15 October 2026, lists no Committee decision on the Taj Mahal after 2013. Visitor pressure: the Ministry of Tourism's India Tourism Data Compendium 2025, as reported by PTI/The Week, gave 6.26 million domestic and 0.645 million foreign visitors for FY 2024-25. Smithsonian Magazine reported in January 2018 that the government planned a cap of 40,000 visitors per day on discounted domestic tickets (not foreigners' tickets; the article says buyers of costlier tickets could bypass it) and that the ASI had warned heavy foot traffic could harm the monument's foundations (a claim the article attributes to Times of India reporting); whether and how the cap is applied today was not verified. Maintenance disputes: in September 2024 Free Press Journal reported claims by former UP Chief Minister Akhilesh Yadav of waterlogging, plant growth and dome leakage, and the ASI's response (reported as from its Director General) that rust reports were incorrect, plant growth was on an outer wall, some water had dropped inside the dome in heavy rain and 'is being resolved', and 'there is no serious structural problem'. In November 2024 the Daily Pioneer reported that plants had been spotted on the main dome and that photos of deteriorating stones at the Royal Gate had gone viral on social media (no named source for either), and, citing RTI data, Rs 91.23 Crore of revenue generated by the ASI from the Taj Mahal in 2020-21 to 2023-24; it separately gave Rs 9.41 Crore as spent on conservation over the 'past three years' without naming the source of that figure. The article gave no ASI response on these points, so they are reports and allegations rather than verified findings.",
+      "first_identified_date": null,
+      "date_note": "Chronic management and conservation concerns across successive Committee reviews and press reports; the earliest dated Committee decision on the property in this dossier is 2010. No single start date established.",
+      "source_ids": [
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_02",
+        "src_16",
+        "src_17",
+        "src_18",
+        "src_19"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met. No source reviewed reports severe verified current damage to the mausoleum, active combat, extended loss of monitoring access, or collapse of protection (the ASI and the Supreme Court's TTZ regime continue, and UNESCO's documents page lists a Periodic Reporting Cycle 3 entry from 2023). High Concern: considered and not triggered. (1) The Taj Mahal is not on the List of World Heritage in Danger; UNESCO's danger-list page (58 properties, retrieved 15 October 2026) lists no property in India. (2) The storm damage of April 2018 and May 2020 is more than five years old, was reported by single outlets or with ASI saying the main structure was undamaged, and no reviewed source documents it as unrepaired; the July 2023 flood reached the walls with no damage reported. (3) No source reviewed reports armed conflict affecting the property. (4) No severe unresolved environmental or structural threat with a stated near-term timeframe from a named authority was found: the Supreme Court's 2018 remarks about discolouration and the 2019 press concern about the Yamuna are not accompanied by a stated timeframe for harm, and the Yamuna concern rests on a single press report citing unnamed studies. (5) No significant historical damage with substantially incomplete repair was identified. Moderate Concern triggers matched: credible documented threats (pollution-driven surface discolouration documented in a 2015 study and acknowledged by the Supreme Court in 2018; visitor pressure; Yamuna decline as a raised concern) that are chronic and managed through periodic clay cleaning, the TTZ regime and ASI maintenance; and typical conservation challenges, with ASI responding to 2024 claims that there is no serious structural problem. Close call between Moderate and High: the High-trigger language about a severe unresolved environmental threat could be read differently by a reviewer who weighs the persistent air-pollution discolouration, the Yamuna concerns and the contested 2024 maintenance reports more heavily; this draft does not find a stated near-term timeframe or corroborated unrepaired damage, so it stays at Moderate.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The picture is of real, long-running pressures rather than an acute emergency: particulate pollution was documented as discolouring the marble (2015 study; Supreme Court remarks in 2018; no current measurements were retrieved), the marble is reported to be cleaned periodically with clay (Chemistry World, undated), visitor numbers are very high (6.26 million domestic and 0.645 million foreign visitors in FY 2024-25 per the Ministry of Tourism compendium), and concerns about the Yamuna and about routine maintenance have been raised in the press in 2019 and 2024. Against that, the Supreme Court continues to supervise the Taj Trapezium Zone (tree census ordered in March 2025; 2015 felling restrictions reiterated in May 2025), the ASI told the press in September 2024 that the monument has no serious structural problem, the 2018 and 2020 storm damage was reported as affecting gateways, railings and ancillary structures with the main structure reported undamaged in 2020, and the Committee's most recent property-specific decisions found (2010, 2011) asked for plans and assessments rather than warning of danger listing. Important limits on this assessment: the UNESCO state-of-conservation report content was not read (UNESCO lists reports only up to 2013), no current Agra air-quality data and no post-2018 Supreme Court or IIT Kanpur findings on the discolouration were retrieved, and the 2024 maintenance claims are allegations with an ASI rebuttal, not verified findings. Confidence is Supported rather than Confirmed because the main threats are corroborated by an academic study, UNESCO decisions and Supreme Court-reported proceedings, but current condition evidence is thin and partly press-based. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_03",
+        "src_05",
+        "src_06",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_14",
+        "src_16",
+        "src_18"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have evidence that was opened and is publicly viewable, which meets the moderate tier (2-3 categories). Photographic: UNESCO's gallery for the property shows 12 images on the page viewed (pagination suggests about 58). Archival records: UNESCO's property documents page lists the Committee decisions and state-of-conservation reports for 1983-2013, and the decision pages opened are publicly readable; the nomination file and advisory-body evaluation were not opened here, and the state-of-conservation report texts were not read. Scholarly: a 2015 study summary page from the Bergin group at Duke is publicly viewable. 3D documentation and virtual tour are marked false: press items reviewed describe laser scanning of the mausoleum and Google Arts & Culture virtual tours, but no publicly viewable 3D model or tour was opened in this pass (the Google Arts & Culture page could not be fetched), so neither is counted. Coverage reflects what was publicly findable by this process, not necessarily what exists in unpublished archives. Reviewer note: the archival_records category rests on UNESCO Committee decision and report listings, which are management records rather than archival documentation of the monument itself; if that is judged not to qualify, the count falls to two and the tier remains moderate.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (12 images viewed on the first page; the gallery pagination suggests about 58 in total; credited photographers on the page viewed include M & G Therin-Weise, E. de Gracia Camara and Tim Schnarr).",
+        "url": "https://whc.unesco.org/en/list/252/gallery/",
+        "source_id": "src_21"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists Committee decisions from 1983 (inscription) to 2013 and state-of-conservation report pages for 1997-2013; decision texts for 2010, 2011 and 2013 were opened and are publicly readable.",
+        "url": "https://whc.unesco.org/en/list/252/documents/",
+        "source_id": "src_02"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "A 2015 study of the discolouration of the Taj Mahal due to particulate carbon and dust deposition (DOI 10.1021/es504005q), summarised on the Bergin group page at Duke University, based on one year of ambient particulate sampling and particles collected on marble surrogate surfaces at the site.",
+        "url": "https://bergin.pratt.duke.edu/publications/discoloration-taj-mahal-due-particulate-carbon-and-dust-deposition",
+        "source_id": "src_06"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2011",
+      "title": "World Heritage Committee decision 35 COM 7B.67 on the Taj Mahal, Agra Fort and Fatehpur Sikri",
+      "description": "The Committee urged continued development of an Integrated Management Plan for the Taj Mahal and Agra Fort, regretted that no details of the new Yamuna bridge or a heritage impact assessment had been provided, expressed concern about the bridge's possible effect on visitor numbers, and called for an urgent overall visitor management strategy including traffic management in the hinterland. It asked for an updated report by 1 February 2013.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2013",
+      "title": "Omnibus Committee decision 37 COM 7B.103 notes measures by States Parties, including for the Taj Mahal",
+      "description": "In an omnibus decision the Committee took note with satisfaction of measures taken by the States Parties concerned to mitigate threats to the Outstanding Universal Value of a list of properties that included the Taj Mahal, Agra Fort and Fatehpur Sikri. The decision page has no separate section for the Taj Mahal. UNESCO's documents page lists no later Committee decision on the property.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2015",
+      "title": "Study identifies particulate carbon and dust as cause of Taj Mahal discolouration",
+      "description": "A study led by Michael Bergin's group, summarised on the group's Duke University page, reports that a large fraction of the outer marble surfaces are covered with particles and concludes that light-absorbing dust and carbonaceous particles from fossil-fuel and biomass combustion cause the discolouration. Chemistry World reported that the marble is cleaned every few years with a clay layer.",
+      "event_type": "other",
+      "source_ids": [
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2018-04-11",
+      "title": "Storm damages minarets and gates at the Taj Mahal complex",
+      "description": "Deccan Chronicle reported that a storm on the night of 11 April 2018 knocked a minaret at the south gate off and hit a small dome, and that a 12-foot minaret at Darwaza-e-Rauza was reportedly blown away. The ASI gave no official comment in that report, so details rest on press accounts.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2018-07",
+      "title": "Supreme Court of India presses government on Taj Mahal discolouration",
+      "description": "The Art Newspaper reported on 16 July 2018 that Supreme Court judges told state officials: 'Either we shut down the Taj or demolish it or you restore it.' The judges had said in May that the marble was turning yellow and in parts brown due to pollution and insect dung and told the central government to seek foreign expertise. The solicitor general said an IIT Kanpur-led committee would identify the exact source of pollution around the Taj over about four months; the Court said it would monitor the matter day to day from 31 July. Outcomes of that process were not found in this pass.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2020-05-29",
+      "title": "Thunderstorm damages railings and gate elements at the Taj Mahal complex",
+      "description": "Dawn (agency copy, published 1 June 2020) reported that a thunderstorm on a Friday night (29 May 2020 is inferred; the article does not state the date) damaged a sandstone railing from the original structure, a later marble railing, a false ceiling in the tourist holding area and the base stone of the main gate, broke a railing at the back of the mausoleum, loosened some marble tiles, and tilted the western main door. ASI officials were quoted as saying the main structure was undamaged and most damage was to modern structures; repairs were estimated at Rs2 million and up to a month.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2023-07",
+      "title": "Yamuna floodwater reaches the walls of the Taj Mahal",
+      "description": "WION (PTI) reported in July 2023 that, after heavy rain in Delhi and water releases from upstream barrages, the Yamuna in Agra reached the walls of the Taj Mahal for the first time in nearly 45 years and submerged a garden at the monument. The ASI said there was no threat to the monument for now, and water had not entered the basement; no damage to the Taj Mahal itself was reported.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2024-09-21",
+      "title": "ASI responds to claims of leakage, plant growth and rust at the Taj Mahal",
+      "description": "Free Press Journal reported claims by former UP Chief Minister Akhilesh Yadav of waterlogging, plant growth and leakage. The ASI (the Director General's reply on X, per the article, which does not name him) said rust reports were incorrect, the plant was on an outer wall, some water had dropped inside the dome in heavy rain and 'is being resolved', and 'there is no serious structural problem'.",
+      "event_type": "other",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2025-03",
+      "title": "Supreme Court orders tree census in the Taj Trapezium Zone",
+      "description": "LiveLaw and Tribune India (both 5 March 2025) reported that a bench of Justices Abhay Oka and N. Kotiswar Singh, in the M.C. Mehta case, directed the TTZ authority to appoint the Forest Research Institute to census all trees in the Taj Trapezium Zone so that the Uttar Pradesh Protection of Trees Act, 1976 can be enforced. LiveLaw (not Tribune India) added that the court confirmed its 8 May 2015 order requiring its permission for felling in the TTZ remains in effect. The two outlets differ on the day of the order (LiveLaw: Tuesday; Tribune: Wednesday 5 March), so only the month is given.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_12",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2025-05-01",
+      "title": "Supreme Court reiterates tree-felling restrictions near the Taj Mahal",
+      "description": "ETV Bharat reported that a bench of Justices Abhay S. Oka and Ujjal Bhuyan reiterated its 2015 order, which 'will continue to operate' within 5 km of the Taj Mahal, requiring court approval for felling even fewer than 50 trees, and required divisional forest officer permission for felling in the rest of the TTZ. The court asked the Central Empowered Committee whether extra restrictions should apply to Agra Fort and Fatehpur Sikri.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2025-09-27",
+      "title": "Ministry of Tourism compendium reports FY 2024-25 Taj Mahal visitor figures",
+      "description": "PTI, via The Week, reported that the India Tourism Data Compendium 2025 gave 6.26 million domestic and 0.645 million foreign visitors for the Taj Mahal in FY 2024-25, the highest among centrally protected ticketed monuments in both categories.",
+      "event_type": "other",
+      "source_ids": [
+        "src_18"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Taj Mahal",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/252/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Taj Mahal: documents (Committee decisions and state of conservation reports)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/252/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Used for the listing of decisions and report pages; the state-of-conservation report texts themselves were not read.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 35 COM 7B.67: Taj Mahal, Agra Fort and Fatehpur Sikri (India)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4475",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2011",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 34 COM 7B.68: Taj Mahal, Agra Fort and Fatehpur Sikri (India)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4176",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2010",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 37 COM 7B.103: Omnibus decision (includes Taj Mahal, India)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/5098",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2013",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "The discoloration of the Taj Mahal due to particulate carbon and dust deposition",
+      "publisher": "Bergin Group, Duke University (publication page)",
+      "url": "https://bergin.pratt.duke.edu/publications/discoloration-taj-mahal-due-particulate-carbon-and-dust-deposition",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Institutional summary page of a 2015 study (the page does not itself say it was peer-reviewed; the DOI prefix is consistent with a journal article); the page does not list the full author list or journal name, and the journal article itself was not opened (the DOI link could not be fetched).",
+      "published_date": "2015",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Researchers have identified the pollutants behind the marble monument's gradual colour change",
+      "publisher": "Chemistry World",
+      "url": "https://chemistryworld.com/news/taj-mahal-browning-due-to-light-absorbing-particles/8145.article",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Publication date and journal were not visible on the page as retrieved; used only as corroboration of the Bergin-led study and the clay-cleaning detail.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Demolish or restore discoloured Taj Mahal, India's Supreme Court tells government",
+      "publisher": "The Art Newspaper",
+      "url": "https://theartnewspaper.com/news/demolish-or-restore-discoloured-taj-mahal-india-s-supreme-court-tells-government",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2018-07-16",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Taj Mahal minarets damaged in storm",
+      "publisher": "Deccan Chronicle",
+      "url": "https://deccanchronicle.com/amp/nation/current-affairs/130418/taj-mahal-minarets-damaged-in-storm.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single outlet; the article says damage was 'reportedly' caused and that the ASI gave no official comment, so it should not alone support a status-determining claim.",
+      "published_date": "2018-04-13",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Deadly thunderstorm damages Taj Mahal",
+      "publisher": "Dawn",
+      "url": "https://www.dawn.com/news/amp/1560444",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Agency copy (Dawn byline 'Agencies'; photo credited to AFP). The article says the storm hit on a Friday night but gives no calendar date; 29 May 2020 is inferred from the publication date. ASI statements are as reported in the article.",
+      "published_date": "2020-06-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Yamuna touches walls of Taj Mahal for first time in 45 years; officials say monument is safe",
+      "publisher": "WION (PTI)",
+      "url": "https://www.wionews.com/india-news/yamuna-touches-walls-of-taj-mahal-for-first-time-in-45-years-officials-say-monument-is-safe-617092",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Article gives inconsistent water-level figures (497.99 feet per local authorities, 495.8 feet on the Sunday), so no level is quoted in this dossier.",
+      "published_date": "2023-07-18",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Supreme Court Orders Tree Census In Taj Trapezium Zone, Directs Forest Research Institute To Conduct Survey",
+      "publisher": "LiveLaw",
+      "url": "https://www.livelaw.in/amp/top-stories/supreme-court-orders-tree-census-in-taj-trapezium-zone-directs-forest-research-institute-to-conduct-survey-285764",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-03-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "SC asks Forest Research Institute to conduct tree census in Taj Trapezium Zone",
+      "publisher": "The Tribune (India)",
+      "url": "https://www.tribuneindia.com/news/india/sc-asks-forest-research-institute-to-conduct-tree-census-in-taj-trapezium-zone",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-03-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "No Tree Felling Within 5 Km Of Taj Mahal Without Our Nod: SC",
+      "publisher": "ETV Bharat",
+      "url": "https://www.etvbharat.com/en/!bharat/no-tree-felling-within-5-km-of-taj-mahal-without-our-nod-sc-enn25050104198",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-05-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Time-bound plan to protect Taj from pollution",
+      "publisher": "The Tribune (India)",
+      "url": "https://www.tribuneindia.com/news/archive/nation/time-bound-plan-to-protect-taj-from-pollution-80203",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The article contains an apparent factual slip (it calls the Taj an '18th century monument'); used only for the reported positions of the Parliamentary panel and the government in May 2015.",
+      "published_date": "2015-05-14",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Uttar Pradesh: ASI refutes allegations of Taj Mahal neglect, assures monument structure well maintained",
+      "publisher": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/amp/india/uttar-pradesh-asi-refutes-allegations-of-taj-mahal-neglect-assures-monument-structure-well-maintained",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports a political allegation and the ASI's rebuttal; neither is independently verified here.",
+      "published_date": "2024-09-21",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Taj Mahal decays even as tourist revenue soars",
+      "publisher": "The Daily Pioneer",
+      "url": "https://www.dailypioneer.com/2024/india/taj-mahal-decays-even-as-tourist-revenue-soars.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports stakeholder allegations and ASI RTI figures that the article itself states slightly inconsistently (Rs 9.41 Crore in the lede, about Rs 9 crore in the body); the source of the Rs 9.41 Crore spending figure and its period ('past three years', versus four financial years for revenue) are not clearly stated; it carries no ASI response, so it should not alone support a status-determining claim.",
+      "published_date": "2024-11-29",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Taj Mahal most-visited ticketed ASI monument in 2024-25",
+      "publisher": "The Week (PTI)",
+      "url": "https://www.theweek.in/wire-updates/national/2025/09/27/del25-tourism-day-india.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Wire report of Ministry of Tourism figures; the compendium itself was not opened.",
+      "published_date": "2025-09-27",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "India to Cap Number of Taj Mahal Visitors",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/india-cap-number-taj-mahal-visitors-1-180967738/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Dated January 2018 and based on Times of India and other reporting; whether the cap was implemented as described was not verified.",
+      "published_date": "2018-01-04",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "A drying Yamuna could endanger Taj Mahal",
+      "publisher": "National Herald (IANS)",
+      "url": "https://www.nationalheraldindia.com/national/drying-yamuna-could-endanger-taj-mahal",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single press report quoting unnamed experts and a politician, and citing 'several studies' that are not named; the structural claim is not independently verified, so it is not used alone for any status-determining claim.",
+      "published_date": "2019-06-25",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Taj Mahal: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/252/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; close call vs High Concern flagged in decision_trigger. DPI tier proposed: moderate (photographic, archival_records, academic_scholarly). Danger List checked directly at whc.unesco.org/en/danger-list/ on 2026-10-15: 58 properties, none in India; Taj Mahal not listed. Known gaps (not included because not verified): (1) UNESCO's documents page lists Committee decisions only up to 2013 (37 COM 7B.103) and state-of-conservation report pages up to 2013; no later property-specific decision was found and none of the state-of-conservation report texts were read. The 2003, 2004, 2005 and 2007 decisions were not fully read; 31 COM 7B.80 (2007) was opened and does not mention pollution or the Yamuna. (2) The 2013 omnibus decision lists the Taj Mahal without property-specific detail. (3) The journal article for the 2015 discolouration study could not be opened (DOI fetch was blocked), so authors/journal beyond the Duke page and Chemistry World are not stated. (4) The outcome of the 2018 Supreme Court process (IIT Kanpur source-apportionment committee, vision document) and any post-2018 Supreme Court findings on discolouration were not found. (5) No current Agra air-quality data was retrieved. (6) The Yamuna/wooden-foundation concern rests on one 2019 press report citing unnamed studies; no peer-reviewed or ASI source on it was found. (7) The repair status of the April 2018 gateway damage and the 2020 repairs was not established. (8) Whether the reported 2018 cap of 40,000 domestic visitors per day is applied today was not verified. (9) The Ministry of Tourism compendium and the Supreme Court orders themselves were not opened; both are reported via press. (10) Press reports of Google Arts & Culture virtual tours (Outlook Traveller, 9 May 2021) and of a 2015 University of Notre Dame DHARMA laser-scanning visit (Notre Dame Research news, 2 September 2015, 13 scans and 25 Gigapans, public availability not stated) were opened, but no viewable 3D model or tour was opened (Google Arts & Culture fetch was blocked), so 3d_documentation and virtual_tour are marked false and these items are not used as sources. A reviewer may wish to check these and reconsider the DPI tier (confirming viewable 3D and tour evidence would raise the count from three to five categories, i.e. the extensive tier). (11) Images omitted by design; Wikipedia not used, metadata rests on UNESCO. | Independent verification 2026-10-15: all 22 sources fetched and checked against claims. Fixes (7): (1) 2018 Art Newspaper event no longer asserts a \"two-judge bench\" (article says only judges/committee); (2) March 2025 tree-census event: date reduced to month because LiveLaw (Tuesday) and Tribune (Wednesday 5 March) differ, and the 8 May 2015 order confirmation attributed to LiveLaw only (Tribune does not mention it); (3) UNESCO gallery count corrected to 12 images viewed, ~58 inferred from pagination; (4) Duke page no longer described as peer-reviewed (page does not say so); (5) 2015 study description made precise (one-year sampling, particles on marble surrogates contained carbonaceous components and dust); (6) rationale reworded so 2015/2018 pollution evidence is not presented as measured current condition and clay cleaning attributed to undated Chemistry World; (7) DPI note flags archival_records as management records, tier unaffected. Verified without change: coordinates, 1983/criterion (i), Danger List (58, none India), 2010/2011/2013 decisions, Supreme Court quote and May remarks, storm/flood details, FPJ and Daily Pioneer figures, visitor numbers, Smithsonian cap. | Second independent check 2026-10-15 (re-fetched all UNESCO, academic and press sources; note the preceding entry already claimed an independent verification before this check). Fixes (10): (1) Dawn storm: article gives no calendar date (Friday night; 29 May inferred), names Swarnkar only for the sandstone railing, attributes 'main structure undamaged' to ASI officials, and also reports a broken railing behind the mausoleum and loosened marble tiles; real headline and agency copy recorded; (2) date_note no longer attributes the 1985 M.C. Mehta petition to Tribune (not mentioned there; LiveLaw gives WP(C) 13381/1984); (3) Daily Pioneer: dome plants and Royal Gate photos described as unsourced reports, Rs 9.41 Crore spending source/period flagged (RTI is named only for revenue, which covers four financial years); (4) Smithsonian: 40,000 cap applies to discounted domestic tickets, foundation warning attributed to Times of India reporting; (5) WION: rise tied to Delhi rain and barrage releases; (6) National Herald: 'several studies' attributed to Katehria; (7) FPJ: ASI quote attributions softened (DG not named; reply on X); (8) Tribune 2015: 'particulate carbon and dust deposition' attributed to panel head Ashwani Kumar; (9) decision_trigger: removed unsupported 'UNESCO monitoring continues'; (10) Deccan Chronicle published date 2018-04-13 (IST). Status, confidence and DPI tier unchanged. Not verified: journal article for the 2015 study, UNESCO SoC report texts, Supreme Court orders and the tourism compendium themselves.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: moderate_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

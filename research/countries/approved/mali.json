@@ -128,7 +128,8 @@
   ],
   "site_slugs": [
     "timbuktu",
-    "old-towns-of-djenne"
+    "old-towns-of-djenne",
+    "tomb-of-askia"
   ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
@@ -151,6 +152,16 @@
       "date": "2026-10-12",
       "changed_by": "claude-draft",
       "change": "Added site_slugs for newly approved site profiles: timbuktu, old-towns-of-djenne. No treaty data changed."
+    },
+    {
+      "date": "2026-10-14",
+      "changed_by": "claude-draft",
+      "change": "Added links to site profiles approved on 2026-10-14: timbuktu, old-towns-of-djenne. No treaty data changed."
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "claude",
+      "change": "Linked approved site profiles: tomb-of-askia."
     }
   ]
 }

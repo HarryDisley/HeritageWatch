@@ -115,7 +115,8 @@
     }
   ],
   "site_slugs": [
-    "chan-chan-archaeological-zone"
+    "chan-chan-archaeological-zone",
+    "historic-sanctuary-of-machu-picchu"
   ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
@@ -138,6 +139,11 @@
       "date": "2026-10-08",
       "change": "Approved by Harry Disley; copied to approved/ for import.",
       "changed_by": "Harry Disley (via claude)"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "claude",
+      "change": "Linked approved site profiles: historic-sanctuary-of-machu-picchu."
     }
   ]
 }

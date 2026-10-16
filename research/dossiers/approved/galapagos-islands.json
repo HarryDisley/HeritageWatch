@@ -1,0 +1,508 @@
+{
+  "slug": "galapagos-islands",
+  "name": "Galápagos Islands",
+  "alternate_names": [
+    "Galapagos Islands",
+    "Islas Galápagos",
+    "Archipiélago de Colón"
+  ],
+  "country": "Ecuador",
+  "region": "Latin America and the Caribbean",
+  "coordinates": {
+    "lat": 0.6899,
+    "lng": -90.5013
+  },
+  "coordinate_note": "Converted from the centre-point coordinates given on UNESCO's property page (N0 41 23.496, W90 30 4.748). The inscribed property is an archipelago and surrounding marine reserve (UNESCO lists 14,066,514 ha), not a single point; this marker is a practical single-point reference. The latitude hemisphere is as printed by UNESCO (N); the property straddles the equator, so treat the point as approximate.",
+  "unesco_id": "1",
+  "inscription_year": 1978,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "natural",
+  "significance_summary": "UNESCO describes the Galápagos archipelago, about 1,000 km from mainland Ecuador, as a 'living museum and showcase of evolution'. Its position where three ocean currents meet supports one of the world's richest marine ecosystems, and volcanic and seismic activity combined with isolation produced unusual wildlife such as marine iguanas, flightless cormorants, giant tortoises and many finch and mockingbird subspecies. These species helped inspire Charles Darwin's theory of evolution by natural selection after his 1835 visit. It was inscribed in 1978 under natural criteria (vii), (viii), (ix) and (x), with significant boundary modifications in 2001 that added the surrounding marine reserve.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Introduced (invasive) species are the most prominent documented environmental pressure. IUCN's 2025 World Heritage Outlook assessment states that invasive species are among the most serious threats, with 1,575 introduced species recorded (59 highly invasive), rates the threat High, and notes that biosecurity has improved since 2017. A peer-reviewed 2017 review (Toral-Granda et al., PLoS ONE) reported 1,579 alien species introduced by humans, of which 1,476 had established, and found that the number and frequency of introduction pathways had grown in step with the human population (residents and tourists); the authors said unintentional introductions may keep rising as tourism expands. Figures differ in year and definition; in a September 2026 Mongabay article the Charles Darwin Foundation's executive director Rakan Zahawi is quoted as saying there are around 1,500 introduced species, of which just over 60 are classified as invasive. In its 2025 decision (47 COM 7B.36) the World Heritage Committee commended progress on the 10-Year Galápagos Invasive Species Management Plan and biosecurity measures, saying they have reduced the entry and spread of introduced species, while asking Ecuador to provide resources to consolidate those gains. The Galápagos National Park Directorate's 2025 accountability report lists control work including 207 goats removed across 867.56 ha, 18 pigs across 270 ha, fire-ant control across 68.5 ha and invasive-plant control across 268.04 ha. Separately, H5N1 avian influenza was first detected in the Galápagos in mid-September 2023 according to UNESCO, which said the extent of infection was not well understood; no later figures on its impact were found in this pass. On climate, IUCN's assessment says climate change intensifies these threats, saying climate change amplifies these risks by facilitating the spread of invasive species and reducing ecosystem resilience, and noting warming of about 0.6 °C since the early 1980s alongside increasing dryness (IUCN cites Paltan et al. 2021; that paper was not opened here). A 2021 peer-reviewed study (Escobar-Camacho et al., Regional Environmental Change), as summarised by the Inter-American Institute for Global Change Research, found that current and future impacts are likely to concentrate in the highlands of inhabited islands, with marine impacts along most shorelines. An Associated Press article (July 2024) reported that warming oceans affect food sources for marine iguanas and sea turtles, and quoted Jorge Carrión of the Galapagos Conservancy saying marine iguanas were among the species most affected by the previous year's El Niño. In 2025 the Committee also commended efforts on plastic pollution. These are chronic, actively managed pressures; the sources reviewed do not document a currently unresolved acute environmental emergency.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-term pressures (invasive species, climate-related change). The Committee's 2007 Danger List inscription already cited invasive species, and the earliest dated avian influenza detection is mid-September 2023; no single start date applies to the category as a whole.",
+      "source_ids": [
+        "src_01",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_15"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The World Heritage Committee's decisions identify management of tourism growth, as well as illegal fishing monitoring, as continuing conservation challenges. In 2023 (45 COM 7B.67) the Committee again expressed concern about the steady growth of tourism and commercial flights and urged Ecuador to adopt a tourism strategy and action plan aimed at zero growth, keeping the moratorium on new tourism construction and the flight limits. In 2025 (47 COM 7B.36) it noted the move toward regenerative tourism, kept 'zero-growth' as the best scenario for long-term protection of the property's Outstanding Universal Value, said OUV protection should stay central to tourism planning, which may require limits on visitor numbers and flight frequencies, and noted efforts such as the Galápagos Hotel Regulation Plan 2023-2030 and higher visitor fees to fund conservation. IUCN's 2025 assessment rates protection and management as Mostly Effective, citing the Galápagos Special Regime Law as a robust legal framework, but identifies tourism as the main gap; its page describes a tourism strategy and action plan as under development or still to be developed (its wording varies). Visitor figures from different sources differ in scope and date and are not directly comparable: IUCN gives a record 329,475 visitors in 2023 and 279,277 in 2024 (citing the Observatorio de Turismo de Galápagos); the Galápagos National Park Directorate's 2025 accountability report states about 290,404 tourists arrived and a 7% increase on 2024 (its stated reporting period is ambiguous); and Prensa Latina, relaying a National Park communiqué, reported 145,655 tourists in January-June 2025, 2% above the same period of 2024 and 3% above 2019. The permanent population recorded by Ecuador's censuses (as shown on the census results page) was 17,732 in 2001, 23,630 in 2010 and 28,583 in 2022; the sources reviewed here do not break this growth down by cause, so no claim is made about migration volumes. In reporting the 2007 Danger List decision, Al Jazeera attributed to the Committee the statement that giant tortoises and blue-footed boobies were threatened by invasive species, growing tourism and immigration. On fishing, the 2025 decision finds that monitoring illegal, unregulated and unreported (IUU) fishing in the Galápagos Marine Reserve and the Hermandad Marine Reserve remains a challenge and encourages more resources for training, technology and patrols; IUCN also names IUU fishing as a major threat. The Park Directorate's 2025 report lists 782 joint control operations with the Armada Nacional in the marine reserve. The 2025 decision also requested an updated Management Plan with indicators and threat identification tied to OUV, and in decision 47 COM 8B.36 the Committee did not approve Ecuador's minor boundary modification and asked that it be resubmitted as a significant boundary modification.",
+      "first_identified_date": null,
+      "date_note": "Chronic management concerns that appear in Committee decisions across many years (the 2007 Danger List inscription and the 2010 removal both refer to tourism, immigration and biosecurity); no single start date established from the sources reviewed.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_16",
+        "src_17"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no armed conflict, no severe verified current damage to a significant part of the property found, no loss of monitoring access (State Party reporting, most recently 2024, Committee examination and IUCN assessment continue; the latest Reactive Monitoring mission listed on UNESCO's documents page is 2017), and no collapse of protection (IUCN rates protection and management as Mostly Effective). High Concern: considered and not mechanically triggered. (1) The property is NOT on the List of World Heritage in Danger: checked directly on UNESCO's Danger List page (58 properties, none in Ecuador). It was on the list from 2007 (31 COM 7B.35) until 2010 (34 COM 7A.15), which is history, not a current condition. (2) No specific damaging event within roughly the last five years was found corroborated by two independent sources as still unrepaired; H5N1 was detected in September 2023 but UNESCO said the extent of infection was not well understood, and no documented lasting damage was found in this pass. (3) No armed conflict. (4) The 'severe unresolved threat with a stated near-term timeframe from a named authority' trigger is the closest call: IUCN's 2025 assessment rates overall threats High and the values trend as deteriorating, but it is a rating of chronic pressures rather than a stated near-term timeframe for harm, and the Committee's 2025 decision commends progress on invasive-species management and sets a reporting date (1 December 2026) rather than warning of danger listing. (5) No significant historical damage with substantially incomplete repair identified. Moderate Concern triggers matched: credible, documented, chronic and monitored threats (invasive species, tourism growth, IUU fishing, climate-related change) noted in Committee decisions and an IUCN assessment, without a documented acute emergency. This is a close call between Moderate and High, and a reviewer may weigh IUCN's 'Significant concern' outlook and 'High Threat' rating differently.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of real, long-running pressures that independent assessors treat as serious: IUCN's 2025 World Heritage Outlook assessment gives an overall outlook of 'Significant concern', rates threats High and values at High Concern with a deteriorating trend, and the Committee in 2023 and 2025 continued to press Ecuador on tourism growth, flights, the Management Plan and IUU fishing monitoring. Against that, the evidence also shows an actively functioning protective system: the Committee (2025) commended progress on invasive-species management and biosecurity, IUCN rates protection and management as Mostly Effective with a robust legal framework, and the Committee removed the property from the Danger List in 2010 and has not returned it there. The Committee also set a further reporting date of 1 December 2026 for examination at its 49th session. The sources reviewed document chronic, monitored threats rather than an acute emergency or documented unrepaired damage, which is what Moderate Concern describes. Confidence is Supported rather than Confirmed: the central facts are corroborated by UNESCO decisions and IUCN, but UNESCO's 2025 state-of-conservation page and the State Party's 2024 report could not be retrieved in this pass, visitor figures from different sources do not reconcile, the effect of the 2023 avian influenza outbreak is not established in the sources read, and the Moderate/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). No 3D documentation (laser scan or photogrammetry model) of the property was found in this pass, so that category is marked false. Coverage is uneven for such a large archipelago: the Google Street View imagery announced in 2013 and 2015 names specific islands (San Cristóbal, Floreana, Isabela, North Seymour, Pinzón) rather than the whole property; the Google announcements were read, but the live Street View imagery was not opened here. The UNESCO gallery is a selection of images; the 12 images visible on the page were credited to two photographers. The virtual-tour category rests on Google's own announcements; the live Street View imagery could not be opened in this check, so that category is substantiated only by the operator's announcements. A reviewer may wish to consider whether this uneven coverage should temper the tier.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (about 61 images according to the page's 'See All' link; the 12 images visible are credited to Evergreen and M & G Therin Weise).",
+        "url": "https://whc.unesco.org/en/list/1/gallery/",
+        "source_id": "src_18"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists state-of-conservation reports by the State Party (several years between 1997 and 2024), Committee decisions from 1978 onward and mission reports (1996, 2006, 2007, 2010 and 2017).",
+        "url": "https://whc.unesco.org/en/list/1/documents/",
+        "source_id": "src_05"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Google's 2013 announcement describes 360-degree Street View imagery of San Cristóbal, Floreana, Isabela and North Seymour made with the Galapagos National Park Directorate and the Charles Darwin Foundation, plus underwater imagery; a 2015 Google post describes further 360-degree imagery including giant tortoises on Pinzón and Isabela. Source is the operator's own announcement; the live imagery was not opened.",
+        "url": "https://blog.google/products-and-platforms/products/maps/explore-galapagos-biodiversity-with/",
+        "source_id": "src_19"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Google's 2015 post describes further 360-degree Street View imagery of Galápagos giant tortoises and landscapes (Pinzón and Isabela, including near Alcedo Volcano), with the Charles Darwin Foundation and the Galápagos National Park Directorate named as partners and a Galápagos Street View gallery linked. Operator's own announcement; live imagery not opened.",
+        "url": "https://maps.googleblog.com/2015/09/walking-in-footsteps-of-galapagos.html",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed scholarship on the property, for example Toral-Granda et al. (2017), 'Alien species pathways to the Galapagos Islands, Ecuador', PLoS ONE 12(9): e0184379 (bibliographic record and abstract via DOAJ).",
+        "url": "https://doaj.org/article/01c0d8c882e34be5a3d825189d0ff64f",
+        "source_id": "src_12"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Charles Darwin Foundation Galapagos Species Database (dataZone), a searchable public catalogue of species with ecology, distribution and taxonomy pages and an archive of species checklists.",
+        "url": "https://datazone.darwinfoundation.org/en/checklist",
+        "source_id": "src_21"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1978",
+      "title": "Galápagos Islands inscribed on the World Heritage List",
+      "description": "UNESCO's property page records the inscription in 1978 under natural criteria (vii), (viii), (ix) and (x).",
+      "event_type": "other",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2001",
+      "title": "Boundary extended to include the Galápagos Marine Reserve",
+      "description": "UNESCO's property page records significant boundary modifications in 2001, and its documents page lists Committee decision 25COM XB, 'Extension to include the Galápagos Marine Reserve', for that year.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2007-06",
+      "title": "World Heritage Committee inscribes the Galápagos on the List of World Heritage in Danger",
+      "description": "At its 31st session in Christchurch the Committee decided to inscribe the property on the Danger List (31 COM 7B.35), saying the serious threats identified in previous missions had intensified. Al Jazeera, reporting on 27 June 2007, attributed to the Committee the statement that the islands' wildlife was threatened by invasive species, growing tourism and immigration.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_16"
+      ]
+    },
+    {
+      "date": "2010",
+      "title": "Committee removes the Galápagos from the Danger List",
+      "description": "At its 34th session in Brasilia the Committee decided to remove the property from the List of World Heritage in Danger (34 COM 7A.15), commending Ecuador's progress on corrective measures, while noting continuing threats including incomplete biosecurity inspection and control and a weak response to rapid, uncontrolled tourism development, and requiring a state of conservation report by 1 February 2011.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2017-08",
+      "title": "IUCN Reactive Monitoring mission",
+      "description": "UNESCO's documents page lists an IUCN Reactive Monitoring mission of 21-25 August 2017, and IUCN's 2025 Outlook assessment refers to its recommendations on tourism growth, describing progress as made but with challenges remaining. The mission report itself was not read.",
+      "event_type": "other",
+      "source_ids": [
+        "src_05",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2023-09",
+      "title": "H5N1 avian influenza first detected in the Galápagos",
+      "description": "UNESCO reports that H5N1 avian influenza was first detected in the Galápagos in mid-September 2023 and that the extent of infection there was not well understood.",
+      "event_type": "other",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7B.67 on the Galápagos",
+      "description": "At the extended 45th session the Committee welcomed significant progress by the State Party on long-standing issues, including operationalizing the Galápagos Biosecurity Agency, again expressed concern about the steady growth of tourism and commercial flights, urged a tourism strategy aimed at zero growth, and asked for an updated state of conservation report by 1 December 2024.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2024-03-13",
+      "title": "UNESCO and Fauna & Flora fund avian influenza surveys",
+      "description": "UNESCO's World Heritage Centre reported that its Rapid Response Facility, a joint initiative with Fauna & Flora, gave US$40,000 to the Charles Darwin Foundation for surveys of key seabird breeding colonies and sample collection, with findings to be shared with the Galápagos National Park Directorate.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7B.36 on the Galápagos",
+      "description": "The Committee commended progress on the 10-Year Galápagos Invasive Species Management Plan and biosecurity, kept zero growth as the best scenario for long-term protection of the property's Outstanding Universal Value, found IUU fishing monitoring remains a challenge, welcomed regional marine cooperation, and requested an updated state of conservation report by 1 December 2026 for the 49th session.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee does not approve minor boundary modification",
+      "description": "In decision 47 COM 8B.36 the Committee did not approve the minor boundary modification for the Galápagos Islands and asked the State Party to resubmit the request as a significant boundary modification. The 2025 state-of-conservation decision separately encourages Ecuador to consider a significant boundary modification to include the Hermandad Marine Reserve.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2025-10-11",
+      "title": "IUCN World Heritage Outlook assessment finalised",
+      "description": "IUCN's 2025 assessment cycle for the Galápagos, finalised on 11 October 2025, gives an overall conservation outlook of 'Significant concern', with threats rated High and protection and management rated Mostly Effective.",
+      "event_type": "other",
+      "source_ids": [
+        "src_09"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Galápagos Islands",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 47 COM 7B.36: Galápagos Islands (Ecuador)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8760",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 45 COM 7B.67: Galápagos Islands (Ecuador) (N 1bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8327",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 8B.36: Minor boundary modification, Galápagos Islands (Ecuador)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8919",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Galápagos Islands: documents (state of conservation reports, decisions, mission reports)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 34 COM 7A.15: Galápagos Islands (Ecuador) (N 1 bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4091",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2010",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 31 COM 7B.35: Galápagos Islands (Ecuador)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1416",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2007",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "UNESCO provides Avian influenza response in the Galapagos",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2668",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024-03-13",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Galápagos Islands (IUCN World Heritage Outlook, 2025 assessment)",
+      "publisher": "IUCN World Heritage Outlook",
+      "url": "https://worldheritageoutlook.iucn.org/node/957",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "IUCN is the advisory body to the World Heritage Committee for natural sites; tier assignment (2 rather than 1) is a judgment for the reviewer. The page cites Decision 45 COM 7B.67 as 2022, whereas UNESCO's decisions page dates it to 2023, and its '18% lower' description of 2024 visitors does not match the figures it gives (329,475 to 279,277); those two points were not relied on.",
+      "published_date": "2025-10-11",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Informe Rendición de Cuentas 2025 (Dirección del Parque Nacional Galápagos)",
+      "publisher": "Dirección del Parque Nacional Galápagos, Ministerio de Ambiente y Energía (Ecuador)",
+      "url": "https://galapagos.gob.ec/2026/rendicion2025/Fase_4_2._Informe_Rendicion_de_Cuentas-DPNG_2025.pdf",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Official self-reported accountability document; its stated reporting period (1 January to 14 September 2025 per the cited ministry memo) is ambiguous against its tourist-arrival figure, and the 7% increase it states does not reconcile with other sources' 2024 totals. Used for the Park Directorate's own stated figures only, not as sole support for a status-determining claim.",
+      "published_date": "2026-05-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Crece el turismo en las Islas Galápagos",
+      "publisher": "Prensa Latina",
+      "url": "https://www.prensa-latina.cu/2025/07/27/crece-el-turismo-en-las-islas-galapagos/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Cuban state news agency relaying a Galápagos National Park communiqué; the underlying communiqué was not opened. Used only for the figures it attributes to the Park.",
+      "published_date": "2025-07-27",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Alien species pathways to the Galapagos Islands, Ecuador (Toral-Granda et al.)",
+      "publisher": "PLoS ONE (record via the Directory of Open Access Journals)",
+      "url": "https://doaj.org/article/01c0d8c882e34be5a3d825189d0ff64f",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Bibliographic record and abstract read via DOAJ; the full article was not opened. The record lists Vol. 12, no. 9, e0184379 (2017).",
+      "published_date": "2017",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Oceanic islands and climate: using a multi-criteria model of drivers of change to select key conservation areas in Galapagos (Escobar-Camacho et al.)",
+      "publisher": "Regional Environmental Change (record via the Inter-American Institute for Global Change Research)",
+      "url": "https://www.iai.int/en/article/detail/oceanic-islands-and-climateusing-a-multi-criteria-model-of-drivers-of-change-to-select-key-conservation-areas-in-galapagos",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Abstract and summary read via a third-party listing (DOI 10.1007/s10113-021-01768-0); the full article was not opened and the listing's author affiliations were not verified.",
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "The Galapagos Islands and many of their unique creatures are at risk from warming waters (Associated Press)",
+      "publisher": "Associated Press, republished by KSAT",
+      "url": "https://www.ksat.com/news/world/2024/07/29/the-galapagos-islands-and-many-of-their-unique-creatures-are-at-risk-from-warming-waters/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2024-07-29",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "New Galápagos atlas charts the islands' biodiversity and the mysteries that remain",
+      "publisher": "Mongabay",
+      "url": "https://news.mongabay.com/short-article/2026/09/new-galapagos-atlas-charts-the-islands-biodiversity-and-the-mysteries-that-remain/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-09-23",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "UN declares Galapagos endangered",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2007/6/27/un-declares-galapagos-endangered",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2007-06-27",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Resultados Principales (Galápagos), 2022 census results",
+      "publisher": "Censo Ecuador (censoecuador.gob.ec)",
+      "url": "https://www.censoecuador.gob.ec/wp-content/uploads/2024/01/Info_Galapagos.pdf",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The document does not name its issuer or give a publication date; it is hosted on Ecuador's census website and shows 2001, 2010 and 2022 totals. Treated as the national census office's figures but the issuer is inferred from the host site.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Galápagos Islands: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Explore the Galapagos' biodiversity with Street View",
+      "publisher": "Google (official blog)",
+      "url": "https://blog.google/products-and-platforms/products/maps/explore-galapagos-biodiversity-with/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Operator's own announcement (12 September 2013); evidences that the imagery was released, not its current availability or full scope.",
+      "published_date": "2013-09-12",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Walking in the footsteps of Galápagos giant tortoises",
+      "publisher": "Google Maps (official blog)",
+      "url": "https://maps.googleblog.com/2015/09/walking-in-footsteps-of-galapagos.html",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Operator's own announcement (2 September 2015); evidences that the imagery was released, not its current availability or full scope.",
+      "published_date": "2015-09-02",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Galapagos Species Database (dataZone)",
+      "publisher": "Charles Darwin Foundation",
+      "url": "https://datazone.darwinfoundation.org/en/checklist",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; close call vs High Concern flagged in decision_trigger. Danger List checked directly on UNESCO's list page (58 properties, none in Ecuador): NOT currently listed; it was on the list 2007-2010. Known gaps (not included because not verified): (1) UNESCO's 2025 state-of-conservation page (whc.unesco.org/en/soc/4652) and the State Party's 2024 report (whc.unesco.org/document/218327) could not be fetched, so only the Committee decisions were read, not the Secretariat/IUCN technical assessments behind them. (2) No 2026 Committee decision on the Galápagos was found on UNESCO's property page; the 2025 decision requests the next report by 1 December 2026 for the 49th session. (3) Visitor figures do not reconcile: IUCN gives 329,475 (2023) and 279,277 (2024, citing the Observatorio de Turismo de Galápagos); the Park Directorate's 2025 report states about 290,404 and +7% vs 2024 with an ambiguous reporting period; Prensa Latina relays 145,655 for January-June 2025. No single year-on-year trend is asserted. (4) Migration: only census totals (2001, 2010, 2022) were found; migration volumes and residency-control data were not sourced, so no migration claim beyond the Committee-as-reported-by-Al Jazeera 2007 statement is made. (5) IUCN's cited climate paper (Paltan et al. 2021) was not opened; the climate statement is attributed to IUCN. (6) The 2023 avian influenza outbreak's impact beyond UNESCO's March 2024 statement was not researched. (7) IUCN's page misdates Decision 45 COM 7B.67 as 2022 (UNESCO dates it 2023) and describes the 2024 fall in visitors as 'about 18%' against figures that imply about 15%; neither was relied on. (8) natural_disaster category omitted: no documented volcanic, seismic or storm threat to the property was found in sources read (UNESCO mentions volcanic and seismic activity only as part of the islands' formation). (9) Digital Preservation: no 3D documentation found; Street View imagery evidenced via Google's own announcements, live imagery not opened. (10) IUCN tier assignment (2) is a reviewer judgment. (11) Several Galápagos Conservancy, Galápagos Conservation Trust, Darwin Initiative and IGTOA pages surfaced in search but were not cited (IGTOA blocked automated access). Images omitted by design. VERIFIER PASS 1 (2026-10-15): fixed 12 wording items against fetched sources: removed 'Darwin's finches' (UNESCO lists marine iguanas, flightless cormorants, giant tortoises, finches and mockingbirds); softened IUCN climate sentence to what IUCN states (climate change amplifies invasive-species risk; ~0.6 C warming, drier); IAI summary 'expected' -> 'likely'; removed 'strong governance' embellishment (IUCN cites a robust legal framework) and described IUCN's inconsistent tourism-strategy wording; corrected the decision_trigger claim that Reactive Monitoring missions continue (latest listed is 2017); removed dataZone/CC BY-NC-SA text wrongly attached to the DOAJ source (src_12); clarified UNESCO gallery credits apply to the 12 visible images; noted Street View live imagery could not be opened (Google gallery URL blocked) so virtual_tour rests on operator announcements; added coordinate hemisphere caveat. All UNESCO decision content, danger-list status, census, Prensa Latina, Park report, AP and Mongabay figures checked and matched.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: moderate_concern / supported; Digital Preservation Index tier extensive. review_status advanced draft -> approved."
+    }
+  ]
+}

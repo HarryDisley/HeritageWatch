@@ -1,0 +1,471 @@
+{
+  "slug": "great-barrier-reef",
+  "name": "Great Barrier Reef",
+  "alternate_names": [
+    "Great Barrier Reef World Heritage Area"
+  ],
+  "country": "Australia",
+  "region": "Oceania",
+  "coordinates": {
+    "lat": -18.2861,
+    "lng": 147.7
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (S18 17 10, E147 41 60, i.e. 147 deg 42 min). The inscribed property is a very large marine area stretching along the Queensland coast (AFP reporting gives the reef's length as about 2,300 km), not a single point; this marker is a practical single-point reference only.",
+  "unesco_id": "154",
+  "inscription_year": 1981,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "natural",
+  "significance_summary": "Off Australia's north-east coast, the Great Barrier Reef contains what UNESCO describes as the world's largest collection of coral reefs, with about 400 types of coral, 1,500 fish species and 4,000 types of mollusc. UNESCO also lists it as a habitat for threatened species such as the dugong and the large green turtle. It was inscribed in 1981 under natural criteria (vii), (viii), (ix) and (x).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Climate-driven marine heat stress and mass coral bleaching are the dominant documented threat. In 2021 the World Heritage Committee (44 COM 7B.90) noted mass bleaching in 2016, 2017 and 2020 and, citing the 2019 Outlook Report, identified climate change as the most serious threat; in 2023 (45 COM 7B.13) it noted four mass bleaching events since 2016, which it attributed to climate change, including an unprecedented 2022 event (occurring in a La Nina period); in 2024 (46 COM 7B.62) it expressed utmost concern about climate change and mass bleaching including the 2023-2024 event; in 2025 (47 COM 7B.2) it noted with utmost concern the 2024 Outlook Report's conclusion that the long-term outlook is continued deterioration driven largely by climate change, and said that mass bleaching events (including 2023/2024) have negatively affected the property's Outstanding Universal Value. In July 2026 (48 COM 7B.69) it noted with utmost concern the continuing negative impact on the property's Outstanding Universal Value, mainly from declining hard coral cover after the 2024/2025 mass bleaching events and asked Australia to provide a full assessment of the latest bleaching event, including cumulative impacts, once available. The Great Barrier Reef Marine Park Authority (GBRMPA, an Australian Government agency) describes the outlook in its 2024 Outlook Report as one of future deterioration due largely to climate change, and states that the reef retains its outstanding universal value while its integrity is increasingly under pressure. AIMS (the Australian Institute of Marine Science) monitoring shows large recent swings: its 2024/25 report recorded region-wide hard coral cover falls in all three regions (northern 39.8% to 30.0%, central 33.2% to 28.6%, southern 38.9% to 26.9%) and primarily attributed the decline to coral mortality from the 2024 mass bleaching event; its 2025/26 report (11 August 2026) recorded partial recovery in the northern (30.0% to 35.1%) and central (28.6% to 31.6%, within margin of error) regions and no significant change in the southern region (26.9% to 26.4%, within margin of error), with heat stress lower than in the previous two summers. AIMS also reports crown-of-thorns starfish activity, with a fifth outbreak wave emerging in the northern region. AIMS scientists caution that recovery on Acropora-dominated reefs could be reversed within a year and that the reef's capacity to recover is limited. Scope note: AIMS figures are survey-based regional averages (121-124 reefs surveyed per year) and not a measure of every part of the property.",
+      "first_identified_date": null,
+      "date_note": "Chronic, climate-driven trend with repeated mass bleaching events (2016, 2017, 2020, 2022, 2024 are named across the sources reviewed); no single start date applies.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Tropical cyclones and freshwater flooding add acute disturbance on top of heat stress. AIMS's 2024/25 report lists two cyclones (December 2023 and January 2024) and freshwater flooding among contributors to coral loss alongside the 2024 bleaching. AIMS's 2025/26 report records Cyclone Koji (Category 1, central region, January 2026), which caused minor coral losses on several reefs, and Cyclone Narelle (Category 5, northern region, March 2026), which caused reef-wide declines of up to 5% on two offshore reefs near Lizard Island; AIMS says a full assessment will follow surveys in 2027. The sources reviewed do not document property-wide structural loss from these storms. Scope note: the Narelle figures cover two reefs surveyed, not the whole northern region.",
+      "first_identified_date": null,
+      "date_note": "Recurring, episodic exposure to cyclones and floods; no single start date applies. The most recent dated event in the sources reviewed is Cyclone Narelle, March 2026 (see events).",
+      "source_ids": [
+        "src_08",
+        "src_09",
+        "src_10"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Land-based and management pressures are tracked by the World Heritage Committee in successive decisions. In 2025 (47 COM 7B.2) it regretted that the 2025 sediment and nitrogen water quality targets were missed. In July 2026 (48 COM 7B.69) it appreciated Australia's continued commitment and stronger collaboration and welcomed several measures: the finalized Reef 2050 Catchment Water Quality Strategy (asking for faster implementation to meet its targets by 2032), reforms tightening limits on native vegetation clearing, enforcement of Queensland's Reef Protection Regulations, and the crown-of-thorns starfish control programme, noting with appreciation that it has proven to be an effective management action. The same decision requests an assessment of the impacts of maintenance dredge spoil dumping within the property; reiterates that the property should be fully gillnet-free by mid-2027 and asks for mandatory independent monitoring of trawl fisheries; asks for an updated ecological risk assessment and harvest strategy for the coral harvest fishery; and reiterates its request for more ambitious climate targets consistent with limiting warming to 1.5 degrees C. It requests a progress report by 1 December 2028 and an updated state of conservation report by 1 December 2029 for its 52nd session, and notes a possible IUCN advisory mission in 2028 or 2029. Earlier decisions raised continued high land clearing (46 COM 7B.62, 2024) and urged phase-out of gillnet fishing and attention to dams and carbon/water-quality credit schemes (45 COM 7B.13, 2023). The 2026 decision text reviewed contains no statement about the Danger List.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year management concerns (water quality, land clearing, fisheries, dredging) raised across Committee decisions from 2021 to 2026; no single start date established from the sources reviewed.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: not met. (1) No evidence of verified destruction of a significant part of the site that is materially affecting its survival or integrity as a whole: GBRMPA's 2024 Outlook Report states the reef retains its outstanding universal value, though its integrity is increasingly under pressure, and AIMS's 2025/26 survey reports partial coral-cover recovery in the northern and central regions. (2) Not an active combat zone. (3) Not inaccessible to monitoring: AIMS, GBRMPA and the State Party continue to monitor and report. (4) Protection has not collapsed: the Committee in July 2026 noted with appreciation Australia's ongoing commitment and welcomed several management measures. High Concern trigger matched: credible reports from at least two independent authoritative sources of a specific damaging event within roughly the last five years, with damage not yet fully assessed or repaired. The event is the 2024 mass coral bleaching (the Committee refers to the 2023/2024 event). AIMS's August 2025 report primarily attributes the recorded 2024/25 coral-cover decline to coral mortality from it, and the Committee's 48 COM 7B.69 (July 2026) notes with utmost concern the continuing negative impact on Outstanding Universal Value, mainly from declining hard coral cover after the 2024/2025 mass bleaching events, and asks Australia to provide a full assessment of the latest bleaching event, including cumulative impacts, once available. The same AIMS 2025/26 report shows recovery is partial: the southern region remains below its long-term average, and AIMS's program leader cautions that apparent recovery on Acropora-dominated reefs could reverse within a year. Triggers considered and not relied on: (a) The property is not on UNESCO's List of World Heritage in Danger (checked directly on UNESCO's Danger List page; the Great Barrier Reef is not among the listed properties) so the Danger List trigger does not apply. (b) IUCN rated the outlook 'critical' in a 2020 assessment (reported by Reuters via Al Jazeera) and is reportedly rated 'critical' again in its 2025 World Heritage Outlook (reported by an Australian NGO press release and a regional news site only; the IUCN report itself was not read). This is treated as corroborating context only, not as an 'equivalent official at-risk designation', because it is an advisory-body outlook rating rather than a Committee listing. (c) The 'severe unresolved threat with a stated near-term timeframe' trigger is not mechanically met: the dated items are Committee reporting deadlines (1 December 2028 and 1 December 2029), not stated timeframes for harm. The independence of the two sources in the High trigger is partial rather than complete: the Committee examines state-of-conservation reporting on Australia, and AIMS and GBRMPA are themselves Australian Government bodies. This is a close call between High and Moderate. Moderate Concern is the neighbouring status: the 2026 evidence shows rebound in two of three regions, the Committee has repeatedly declined to inscribe the property in danger and in 2026 welcomed or noted with appreciation many management measures, and GBRMPA says outstanding universal value is retained; a reviewer could reasonably weigh these more heavily and treat the threats as chronic and monitored. The call to hold High rests on the Committee itself still treating the damage assessment of the latest bleaching event as incomplete and on AIMS's finding of only partial, fragile recovery.",
+      "rationale": "Historical damage is documented in the site's record (mass bleaching in 2016, 2017, 2020, 2022 and 2024), but the current classification is based on present conditions and the most recent credible evidence. The present picture is mixed. Against Critical Concern: GBRMPA says the reef retains its outstanding universal value; AIMS's survey published 11 August 2026 shows northern coral cover back to 35.1% (above the program's long-term average of 27.0%) and central cover at 31.6% (above its long-term average of 20.0%), with the southern region at 26.4%, below its long-term average of 29.3%; heat stress in summer 2025-26 was lower than in the previous two summers and surveys found low levels of bleaching, helped by late-summer monsoon cloud and cooler water (although AIMS also notes that a regional bleaching event was declared in the Northern Management Region and that bleaching likely limited coral-cover gains); and the World Heritage Committee in July 2026 noted with appreciation a finalized water quality strategy, welcomed vegetation-clearing reforms and noted with appreciation that the crown-of-thorns control programme has proven to be an effective management action. For High Concern: the 2024 mass bleaching caused the largest annual declines AIMS has recorded in its northern and southern regions (as reported in its 2024/25 report); the Committee in 2026 noted with utmost concern the continuing negative impact of declining hard coral cover and asked for a full assessment of cumulative bleaching impacts; GBRMPA's 2024 Outlook Report describes an outlook of future deterioration due largely to climate change; Cyclone Narelle (Category 5, March 2026) caused further declines on two surveyed reefs with full assessment still to come; and a fifth crown-of-thorns outbreak wave appears to be emerging in the northern region. The AIMS program leader describes the reef as resilient but under pressure with limited capacity to recover. Confidence is Supported rather than Confirmed: the facts about bleaching, coral cover and Committee positions come from primary UNESCO decision pages and Australian Government science agencies, but the State Party's 2026 state of conservation report, the IUCN/World Heritage Centre technical review and the IUCN World Heritage Outlook 2025 assessment itself were not read in this pass, and the whole-property extent of damage is not established by the survey-based figures. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": true,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly viewable evidence found in this pass (photographic, virtual tour, academic/scholarly), which meets the moderate tier by the rubric (2-3 categories). Coverage is thin for a property of this size. The photographic evidence is UNESCO's gallery (12 thumbnails shown on the page, 3 pages, with the 'See All' link requesting 28 items, which suggests about 28 in total; credits are to two photographers). The virtual tour found is a single Google Arts & Culture panorama at Saunders Reef, not a tour of the whole property. The academic/scholarly category rests on AIMS's public annual monitoring reports and the Allen Coral Atlas's satellite-based benthic, geomorphic and bathymetric maps of the central Great Barrier Reef (about 10% of the reef, per its 2019 post). Archival records are not counted: the GBRMPA Outlook Report 2024 website (a statutory management assessment) and UNESCO's state of conservation reports and decisions are management or governance assessments, not archives of documentation of the property. No publicly viewable 3D model was confirmed: an AIMS news item of 10 June 2024 reports a photo-realistic 3D digital twin of a section of the reef produced with La Trobe University, but no public viewer or location was found, so 3D documentation is not counted. The record is primarily scientific (monitoring and mapping) rather than heritage documentation, and the Allen Coral Atlas is satellite-based habitat mapping rather than site documentation in the heritage sense, so even the moderate tier rests partly on borderline evidence.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a public photo gallery for the property (12 images visible on the page opened, credited to Evergreen and Silvan Rehfeld; pagination suggests about 28 in total).",
+        "url": "https://whc.unesco.org/en/list/154/gallery/",
+        "source_id": "src_07"
+      },
+      {
+        "category": "virtual_tour",
+        "description": "Google Arts & Culture's ocean story offers an interactive 'Take a virtual tour of the Great Barrier Reef' panorama at Saunders Reef (tap and drag to look around). It is a single scene, not a tour of the whole property.",
+        "url": "https://artsandculture.google.com/story/sgWx8cyioBaIpA",
+        "source_id": "src_18"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "AIMS's Long-Term Monitoring Program publishes annual public summary reports of coral reef condition from manta-tow surveys of over 120 reefs.",
+        "url": "https://aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2025-26",
+        "source_id": "src_08"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "The Allen Coral Atlas provides openly viewable online benthic, geomorphic and bathymetric maps; its May 2019 post reports 237 central Great Barrier Reef reefs (about 3,000 sq km, roughly 10% of the Great Barrier Reef) viewable online, mapped with the University of Queensland's Remote Sensing Research Centre and Arizona State University.",
+        "url": "https://allencoralatlas.org/blog/central-great-barrier-reef-is-now-available-in-the-atlas",
+        "source_id": "src_19"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2020-12-04",
+      "title": "IUCN rates Great Barrier Reef outlook 'critical' for the first time",
+      "description": "Reuters, via Al Jazeera, reported that the IUCN moved the reef's conservation outlook to 'critical' and deteriorating for the first time. IUCN said climate change is the greatest threat and cannot be addressed at site level, while local threats such as fishing and coastal development can be managed; it cited coral bleaching in 2016, 2017 and 2020.",
+      "event_type": "other",
+      "source_ids": [
+        "src_13"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7B.13",
+      "description": "The Committee noted four mass coral bleaching events since 2016 (attributed to climate change), including an unprecedented event in 2022, expressed serious concern at slow progress on water quality, asked Australia to fully implement the recommendations of the 2022 Reactive Monitoring mission and to submit a progress report by 1 February 2024. It stated that the property's urgent conservation needs call for broad mobilisation, including possible inscription on the List of World Heritage in Danger. It did not inscribe the property.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Mass coral bleaching event",
+      "description": "AIMS's 2024/25 report describes a 2024 mass bleaching event as the primary source of coral mortality in its surveys, with fast-growing Acropora corals among the hardest hit. The World Heritage Committee refers to the 2023/2024 mass bleaching event in its 2024 and 2025 decisions.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_10",
+        "src_04",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2024-08",
+      "title": "GBRMPA releases Great Barrier Reef Outlook Report 2024",
+      "description": "The Great Barrier Reef Marine Park Authority published its five-yearly Outlook Report (page updated 23 August 2024). It describes an outlook of future deterioration due largely to climate change, states that outstanding universal value remains intact while integrity is under growing challenge, and does not cover the 2023-24 mass bleaching event. The covering letter describes the overall outlook as very poor.",
+      "event_type": "other",
+      "source_ids": [
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7B.2",
+      "description": "The Committee noted with utmost concern the 2024 Outlook Report's conclusions (continued deterioration largely due to climate change; ecosystem outlook 'very poor'), said mass bleaching events including 2023/2024 have negatively affected the property's Outstanding Universal Value, regretted that the 2025 sediment and nitrogen water quality targets were missed, and asked for an updated state of conservation report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025-08-06",
+      "title": "AIMS reports large annual declines in coral cover",
+      "description": "AIMS's Annual Summary Report of Coral Reef Condition 2024/2025 reported hard coral cover falling from 39.8% to 30.0% in the northern region (described as the largest annual decline recorded for that region since monitoring began), from 33.2% to 28.6% in the central region and from 38.9% to 26.9% in the southern region (described as the largest region-wide annual decline yet recorded). It primarily attributed the decline to coral mortality from the 2024 mass bleaching event.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2025-10",
+      "title": "IUCN World Heritage Outlook 4 reportedly again rates the reef 'critical'",
+      "description": "The Australian Marine Conservation Society (an advocacy NGO) and a regional news site reported that IUCN's World Heritage Outlook, released at the IUCN World Conservation Congress in Abu Dhabi in October 2025, again rated the reef's outlook 'critical' and that it was the only site relisted as 'critical' that has not been added to the Danger List. IUCN's own publication page confirms the 2025 report exists (assessing 271 natural and mixed sites) but the report itself was not read, so this rating is single-chain reporting and was not used to determine status.",
+      "event_type": "other",
+      "source_ids": [
+        "src_15",
+        "src_16",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2026-03",
+      "title": "Cyclone Narelle crosses northern Great Barrier Reef",
+      "description": "AIMS reports that Cyclone Narelle (Category 5) crossed the northern region in March 2026 and caused reef-wide coral declines of up to 5% on two offshore reefs near Lizard Island; a full assessment is to follow surveys in 2027. Earlier, Cyclone Koji (Category 1, central region, January 2026) caused minor coral losses on several reefs.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_08",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "World Heritage Committee decision 48 COM 7B.69; property not placed on Danger List",
+      "description": "The Committee noted with utmost concern the continuing negative impact on Outstanding Universal Value, mainly from declining hard coral cover after the 2024/2025 mass bleaching events, asked for a full assessment of the latest bleaching event once available, noted with appreciation the finalized Reef 2050 Catchment Water Quality Strategy, welcomed vegetation-clearing reforms, noted with appreciation the crown-of-thorns control programme, and requested a progress report by 1 December 2028 and an updated state of conservation report by 1 December 2029. The decision text reviewed contains no Danger List statement. AFP reported on 4 July 2026 that UNESCO's draft decision would avoid an 'in danger' listing and that the Australian government welcomed it; the exact adoption date of the final decision was not confirmed here, so the month is shown.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_14",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "title": "AIMS reports partial coral cover recovery",
+      "description": "AIMS's Annual Summary Report of Coral Reef Condition 2025/26 reported hard coral cover of 35.1% in the northern region (up from 30.0%), 31.6% in the central region (up from 28.6%, within margin of error) and 26.4% in the southern region (down from 26.9%, within margin of error). Of 121 reefs surveyed, 28% increased, 56% showed no net change and 16% declined. AIMS's program leader said the reef is showing resilience but its capacity to recover is limited.",
+      "event_type": "other",
+      "source_ids": [
+        "src_08",
+        "src_09"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Great Barrier Reef",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/154/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The property page itself does not state Danger List status; Danger List status was checked separately on UNESCO's Danger List page (src_01).",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page was read through a summarising fetch tool, which reported 58 properties and no Australian entries; the Great Barrier Reef was not among the entries reported.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7B.69: Great Barrier Reef (Australia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9108",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7B.2: Great Barrier Reef (Australia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8726",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7B.62: Great Barrier Reef (Australia) (N 154)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8588",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7B.13: Great Barrier Reef (Australia) (N 154)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8284",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 44 COM 7B.90: Great Barrier Reef (Australia) (N 154)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7807",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Great Barrier Reef: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/154/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Annual Summary Report of Coral Reef Condition 2025/26 (GBR condition summary 2025-26)",
+      "publisher": "Australian Institute of Marine Science (AIMS), Long-Term Monitoring Program",
+      "url": "https://aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2025-26",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026-08-11",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Media release: AIMS Annual Great Barrier Reef Report 2025-2026",
+      "publisher": "Australian Institute of Marine Science (AIMS)",
+      "url": "https://www.aims.gov.au/sites/default/files/2026-08/Media%20release%20AIMS%20Annual%20GBR%20Report%202025-2026%2011August2026.pdf",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026-08-11",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Annual Summary Report of Coral Reef Condition 2024/25 (GBR condition summary 2024-25)",
+      "publisher": "Australian Institute of Marine Science (AIMS), Long-Term Monitoring Program",
+      "url": "https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2024-25",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025-08-06",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Great Barrier Reef Outlook Report 2024: ecosystem under pressure",
+      "publisher": "Great Barrier Reef Marine Park Authority",
+      "url": "https://www2.gbrmpa.gov.au/news/great-barrier-reef-outlook-report-2024-ecosystem-under-pressure",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Australian Government agency responsible for managing the Marine Park; its statements about outstanding universal value are the State Party's agency view, not UNESCO's or IUCN's.",
+      "published_date": "2024-08-23",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Great Barrier Reef Outlook Report 2024: Letter of Transmittal",
+      "publisher": "Great Barrier Reef Marine Park Authority",
+      "url": "https://outlookreport.gbrmpa.gov.au/about/cover-pages/letter-transmittal",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Covering letter only; the full report chapters were not read. The page gives no issue date.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Australia's Great Barrier Reef 'critical' due to climate change (Reuters report)",
+      "publisher": "Al Jazeera (republishing Reuters)",
+      "url": "https://www.aljazeera.com/news/2020/12/4/australias-great-barrier-reef-critical-due-to-climate-change",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2020-12-04",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Australia's Great Barrier Reef avoids 'in danger' listing (AFP report)",
+      "publisher": "The Korea Times (republishing AFP)",
+      "url": "https://www.koreatimes.co.kr/world/20260704/australias-great-barrier-reef-avoids-in-danger-listing",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports UNESCO's draft decision as published in early July 2026; used for the fact of the draft and the Australian government reaction, not for the final adopted text, which is src_02.",
+      "published_date": "2026-07-04",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Media release on IUCN World Heritage Outlook and Great Barrier Reef / Ningaloo World Heritage listings",
+      "publisher": "Australian Marine Conservation Society (AMCS)",
+      "url": "https://www.marineconservation.org.au/gbr-ningaloo-world-heritage-listings/",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Advocacy organisation's media release (12 October 2025) reporting IUCN findings second-hand; the IUCN rating was not verified against the IUCN report, so this must not be sole support for a status-determining claim.",
+      "published_date": "2025-10-12",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Great Barrier Reef clings to 'critical' status",
+      "publisher": "Newsport (archive)",
+      "url": "https://archive.newsport.com.au/2025/october/great-barrier-reef-clings-to-critical-status/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Regional news site whose editorial standards were not independently verified; its content closely tracks the AMCS media release and relies on AMCS for its account, so it is not independent corroboration. Last updated 16 October 2025.",
+      "published_date": "2025-10-16",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "IUCN World Heritage Outlook 4 (publication record)",
+      "publisher": "IUCN",
+      "url": "https://iucn.org/node/46564",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "Library record page: gives the abstract (271 natural and mixed sites assessed) and a 2025 date only; it does not report any per-site rating.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "9 Ways To (Virtually) Explore The Ocean",
+      "publisher": "Google Arts & Culture",
+      "url": "https://artsandculture.google.com/story/sgWx8cyioBaIpA",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Evidences the existence of a single Saunders Reef virtual-tour scene (the page does not give a specific credit for the panorama); not a property-wide tour.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Central Great Barrier Reef is now available in the Atlas",
+      "publisher": "Allen Coral Atlas (Arizona State University, University of Queensland and partners)",
+      "url": "https://allencoralatlas.org/blog/central-great-barrier-reef-is-now-available-in-the-atlas",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2019-05-15",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Moderate Concern flagged in decision_trigger. Danger List checked directly on UNESCO's Danger List page: the Great Barrier Reef is not listed. Known gaps (not included because not verified): (1) UNESCO 2026 state of conservation page (whc.unesco.org/en/soc/5033) returned a fetch error, and the State Party's 2026 report (document 224504) and the World Heritage Centre/IUCN technical review were not read; only the Committee decisions were. Decision pages were read through a summarising fetch tool, so paragraph wording is paraphrased and no direct quotations from decisions are used. (2) The IUCN World Heritage Outlook property page and the 2025 Outlook report were not read (the IUCN property page request was not permitted); the 2025 'critical' rating rests on an advocacy NGO release and a news site that tracks it, and was excluded from the status rationale. The 2020 'critical' rating rests on Reuters via Al Jazeera. (3) The exact adoption date and session venue of decisions 46 COM 7B.62, 47 COM 7B.2 and 48 COM 7B.69 were not confirmed; years or month shown only. (4) The GBRMPA Outlook Report 2024 full chapters, the GBRMPA 2024-2026 bleaching event assessments and AIMS aerial bleaching survey reports were not read, so the geographic extent and severity of the 2024 bleaching event are cited only through AIMS's coral-cover report and the Committee decisions. (5) The AIMS/La Trobe 3D digital twin item (aims.gov.au, 10 June 2024) and the James Cook University 3DGBR depth-model item (deepreef.org, 2014) were read but not counted as 3D documentation because no public viewer was confirmed; the GBRMPA eLibrary and an ABC News 2012 item about underwater Google Street View panoramas could not be opened, so Street View imagery is not counted. (6) No peer-reviewed journal article was opened in this pass; academic_scholarly rests on AIMS's public monitoring reports and the Allen Coral Atlas. (7) Economic and tourism figures reported by AFP (e.g. jobs, annual contribution) were omitted as not relevant to status. (8) Wikimedia and Wikipedia were not used; metadata rests on UNESCO. Web search budget for the session was exhausted during the DPI check, so further searches were not possible. Images omitted by design. VERIFIER (2026-10-15): checked all sources directly. Corrected Committee wording to match decision texts (48 COM 7B.69 'utmost concern' not 'deep concern', 'notes with appreciation' for continued commitment and water quality strategy finalization, compliance initiatives rather than enforcement welcomed; 47 COM 7B.2 'utmost concern' not 'seriously concerned'; 45 COM 7B.13 'utmost concern' on bleaching not stated); added AIMS caveat that a regional bleaching event was declared in 2025-26; removed '40th year' claim from the AIMS summary-page evidence (it appears only in the media release); corrected Google Arts & Culture credit note; clarified AMCS 'only site relisted critical' wording; added DPI caveat about borderline archival/virtual-tour evidence. SECOND VERIFIER (2026-10-15, independent re-check of all sources): softened 'attributed most of the decline' to AIMS's own wording ('primarily attributed' to 2024 mass bleaching mortality; 'most of the decline' does not appear); changed 'commended COTS programme as effective' to 'noted with appreciation ... proven to be an effective management action' per 48 COM 7B.69 para 6; added a note that the AIMS and Committee sources in the High trigger are only partly independent; DPI: removed archival_records (GBRMPA Outlook Report is a management assessment, not archival documentation), leaving three categories, so tier changed from extensive to moderate as the rubric requires (4+ needed for extensive). Status and confidence left unchanged.",
+      "changed_by": "claude"
+    }
+  ]
+}

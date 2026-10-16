@@ -1,0 +1,519 @@
+{
+  "slug": "archaeological-areas-of-pompei-herculaneum-and-torre-annunziata",
+  "name": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+  "alternate_names": [
+    "Pompeii, Herculaneum and Torre Annunziata",
+    "Pompei",
+    "Ercolano",
+    "Oplontis"
+  ],
+  "country": "Italy",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 40.751,
+    "lng": 14.485
+  },
+  "coordinate_note": "UNESCO's property page gives no coordinates (it says georeferenced polygons will be published once UNESCO receives the GIS data), so no sourced coordinate was available. The value shown is an approximate marker placed on the Pompeii archaeological area from general knowledge and was NOT taken from a source opened in this pass; it needs checking on the map. The inscribed property is serial and comprises three separate areas (Pompeii, Herculaneum, and two villas at Torre Annunziata), so a single point cannot represent it.",
+  "unesco_id": "829",
+  "inscription_year": 1997,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes the property as three archaeological areas: Pompeii with the Villa of the Mysteries, Herculaneum with the Villa of the Papyri, and two villas at Torre Annunziata (Villa A, the 'Villa of Poppaea', and Villa B). The eruption of Vesuvius in AD 79 buried them, and excavation has been under way since the mid-18th century. UNESCO says Pompeii offers a complete picture of an ancient Roman city. The property was inscribed in 1997 under criteria (iii), (iv) and (v); minor boundary modifications were inscribed in 2023 and 2026.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Structural fragility is a long-documented concern, managed by an active conservation system. The European Commission records that several Pompeii buildings collapsed in 2010 'due to a lack of maintenance and extreme weather events', which was the background to the Great Pompeii Project (EUR 105 million in total, of which more than EUR 78 million from the ERDF, according to the Commission's account). The Commission reports that the project restored 70 buildings and that all 60 domus are now repaired. The January 2026 joint World Heritage Centre / ICOMOS / ICCROM Reactive Monitoring mission report states that all thirteen Pompei buildings previously identified as at risk have had substantial structural consolidation, roofing and drainage work. The same mission report identifies continuing concerns: at Herculaneum, the eastern escarpment and the Villa of the Papyri; at Torre Annunziata, both Torre Annunziata villas described as 'a matter of concern', with Villa B in 'a more critical condition, requiring substantial stabilisation and comprehensive conservation measures' and Villa A showing water retention, roof leakage and poor decorative surfaces. It also notes that national law has no specific requirement for Heritage Impact Assessments and recommends a formal impact-assessment framework. Decision 46 COM 7B.10 (2024) asked for a Heritage Impact Assessment and revised plans for the Porta Nola project in Pompei and for the Spolettificio visitor centre works at Torre Annunziata. On 5 June 2025 a seismic swarm reportedly was followed by a partial collapse of a wall and vault in Insula Meridionalis at Pompeii; Italian outlet Open reported that the structure was already damaged by the 1980 earthquake, was under restoration and shored up, and held no frescoes or movable finds. Pompeii's park authority has published a digital monitoring model (annual on-site inspections, monthly drone surveys, targeted detailed assessments) intended to shift maintenance toward preventive planning, and its authors name sustaining post-Great-Pompeii-Project standards as a challenge. Visitor pressure is also documented: the mission report gives about four million visitors a year at Pompei (about 15,000 a day, peaks near 30,000), about 600,000 at Herculaneum and about 50,000 at Torre Annunziata, and recommends an integrated Visitor Management Plan; Euronews reported on 9 November 2024 that Pompeii planned a 20,000-ticket daily cap and named tickets from 15 November, and the mission report records that such a limit with personalised tickets has been introduced.",
+      "first_identified_date": null,
+      "date_note": "Chronic structural and visitor-pressure concerns; no single start date. The earliest dated damaging event in this dossier is the 6 November 2010 Schola Armaturarum collapse (see events).",
+      "source_ids": [
+        "src_04",
+        "src_01",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_14",
+        "src_15"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The property lies close to Vesuvius, whose AD 79 eruption buried the sites, and to the Campi Flegrei volcanic area. Italy's Civil Protection Department states on its Vesuvius page that Vesuvius's alert level is green (the page is undated in the text read, so the date of that statement is not established), that the new red zone covers 25 municipalities, that its planning assumes the simultaneous evacuation of about 670 thousand inhabitants, and that its reference scenario is a sub-Plinian eruption. The page's municipality lists include Ercolano, Pompei and Torre Annunziata among the red-zone municipalities (in the list of the earlier 18-municipality plan; the final portion of the page was not read), so the three areas lie in municipalities within the Vesuvius red zone; the dossier does not state where the excavated areas sit within them. Seismic and ground-movement effects have a documented record at the property: a 5 June 2025 seismic swarm in Campi Flegrei (quakes up to magnitude 3.2, as reported by Open) was followed by a partial collapse at Pompeii, which Open says the Park communicated; Open also reports that the Park started an extraordinary check of the whole archaeological area and is working with INGV. The mission report notes that high-risk-zone regulations and volcanic emergency plans form part of the planning framework. This category records continuing hazard exposure that is monitored; the sources reviewed do not document an eruption or unrepaired disaster damage.",
+      "first_identified_date": null,
+      "date_note": "Volcanic and seismic exposure is long-standing and not datable to a single start. The dated event used here is the 5 June 2025 collapse (see events).",
+      "source_ids": [
+        "src_13",
+        "src_11",
+        "src_04"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Weather and climate are named as aggravating factors, though the evidence is limited to a few statements. The January 2026 mission report identifies climate change as an aggravating factor at Herculaneum. The European Commission attributes the 2010 Pompeii collapses to 'a lack of maintenance and extreme weather events'. A 2019 article in Finestre sull'Arte, writing about the Schola Armaturarum, attributes its 2010 collapse to hydrogeological instability that, it says, climate change has worsened in recent years; this is a single journalistic characterisation and is not corroborated by a scientific or UNESCO source read here. The mission report says drainage and roofing works have been carried out on the thirteen formerly at-risk Pompei buildings. This is recorded as a chronic, monitored pressure, not an acute documented harm.",
+      "first_identified_date": null,
+      "date_note": "Chronic weather and climate pressure; no single start date found in the sources reviewed.",
+      "source_ids": [
+        "src_04",
+        "src_08",
+        "src_10"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no severe verified current damage materially affecting survival, integrity or access was found, no active combat, no loss of monitoring access (a joint WHC/ICOMOS/ICCROM mission visited 27-30 January 2026), and protection has not collapsed. High Concern: considered and not triggered. (1) The property is not on the List of World Heritage in Danger: checked directly on UNESCO's Danger List page (58 properties, no Italian entry). (2) The one recent damaging event found, the 5 June 2025 partial collapse in Insula Meridionalis, rests on one source (Open) and was reported as an already-damaged, shored-up area under restoration, so it does not meet the two-independent-sources test. (3) No armed conflict. (4) 'Severe unresolved threat with a stated near-term timeframe from a named authority' is the closest call: the January 2026 mission report describes Torre Annunziata Villa B as 'in a more critical condition' and says 'urgent full stabilisation, re-roofing and systematic conservation measures are required' and its Recommendation 8 asks for prioritising the ongoing 2020-2021 strategic stabilisation, conservation and maintenance programme for both Torre Annunziata villas, but in the portions read it gives no stated timeframe for loss (the report's later chapters and annexes were not readable) and the mission's overall conclusion is that the Outstanding Universal Value is 'currently being effectively safeguarded'. (5) Historical damage: the 2010 collapses were followed by the Great Pompeii Project, and the mission reports that all thirteen formerly at-risk Pompei buildings have been consolidated, so no substantial site-wide repair backlog was identified. Moderate Concern triggers matched: documented chronic, monitored threats (structural fragility, high visitor numbers, volcanic and seismic exposure with Vesuvius at green alert per Civil Protection) and conservation challenges described in official reports. This is a close call between Moderate and High, mainly because of the Torre Annunziata villas, where the material read describes unresolved problems; a reviewer may weigh that component differently.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2010 collapses, including the Schola Armaturarum on 6 November 2010, are history and sit in the timeline; since then a EUR 105 million programme (per the European Commission and the Pompeii park authority) and the Park's own monitoring have been put in place, and the January 2026 joint mission reported that the state of conservation has 'improved markedly' since 2013-2014 and that the Outstanding Universal Value is being effectively safeguarded. Against that, real pressures remain on the record: Villa B at Torre Annunziata is described as in 'a more critical condition' than Villa A, and Villa A has water retention, roof leakage and poor decorative surfaces; Herculaneum's eastern escarpment and the Villa of the Papyri need attention; Pompei receives about four million visitors a year with peaks near 30,000 a day; there is no legal HIA requirement under national law; the Committee in 2024 asked for impact assessments on two projects and for a mission, and the mission recommends that consideration of a possible phasing out of Reactive Monitoring be deferred until 2029 (51st session). Volcanic and seismic exposure is permanent but monitored. These are chronic, monitored threats within a functioning management system and not an acute emergency, which is what Moderate Concern describes. Confidence is Supported rather than Confirmed because the text of the Committee's 2026 decision 48 COM 7B.39 and the Secretariat's 2026 assessment could not be read in this pass, the mission report was read through the Executive Summary and Chapters I-IV (the text cut off mid-Chapter IV, so later chapters, full conclusions and annexes were not read), and the Torre Annunziata call is a judgment. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_08",
+        "src_11",
+        "src_13"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four, including a visual and a technical/scholarly category). Coverage is uneven. The strongest 3D evidence is for Herculaneum (the Park's open-data portal lists a 'Nuvole di punti' point-cloud dataset in LAZ format, and the Park's 2020 'Herculaneum 3D SCAN' programme of domus models is described by arte.it); for Pompeii, the evidence is a CyArk pilot of the Forum only (the page lists a Gaussian-splat model, a video and a tour, but the viewer content could not be confirmed from the text read), and for Torre Annunziata no documentation was found. The portal's licence terms and the datasets' file contents were not checked, and files were not downloaded. Virtual tour is marked false: the park pages for a Herculaneum virtual tour were not opened, the CyArk tour viewer could not be confirmed, and Street View coverage of Pompeii appeared only in search-result titles that were not opened. The 3D category rests on the open-data portal's listing of the Herculaneum point-cloud dataset (open-type licence for two of the three datasets listed, not mapped to datasets; contents not opened) plus the CyArk page; the Facebook-hosted 2020 models were not confirmed to remain viewable. A reviewer may wish to consider whether the uneven, Herculaneum-weighted 3D coverage should temper the tier.",
+    "tier_recommendation": "extensive",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (about 55 images across five pages, with captions giving only the site name and photographer; the first page shows Pompei and Herculaneum views).",
+        "url": "https://whc.unesco.org/en/list/829/gallery/",
+        "source_id": "src_06"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the 1997 ICOMOS evaluation, State Party state-of-conservation reports (2016-2025), mission reports (2013, 2014, 2026), Periodic Reporting sections (2006, 2014, 2024), ICOMOS evaluations (1997, 2023, 2026) and boundary documents; the 1997 ICOMOS evaluation was opened and is a September 1997 evaluation of Italy's nomination.",
+        "url": "https://whc.unesco.org/document/154388",
+        "source_id": "src_07"
+      },
+      {
+        "category": "archival_records",
+        "description": "The Parco Archeologico di Ercolano open-data portal lists, under the Packard Humanities Institute, an urban cadastre of the site (PDF) and a selection of monographic volumes on the site (PDF); individual licences were not stated on the page read.",
+        "url": "https://opendata-ercolano.cultura.gov.it/organization/istituto-packard-beni-culturali",
+        "source_id": "src_16"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "The same open-data portal lists a dataset 'Nuvole di punti' (3D point clouds, LAZ format) of several significant contexts in the Herculaneum Archaeological Park. Separately, arte.it describes the Park's 'Herculaneum 3D SCAN' project (April-May 2020), which published high-density point clouds of several domus made with laser scanners and drone photogrammetry.",
+        "url": "https://opendata-ercolano.cultura.gov.it/organization/istituto-packard-beni-culturali",
+        "source_id": "src_16"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "arte.it's page on the Park's 'Herculaneum 3D SCAN' project states the scans are not virtual reconstructions and that the models were published on the Park's Facebook page. The page was read; the models themselves were not opened.",
+        "url": "https://www.arte.it/calendario-arte/napoli/mostra-herculaneum-3d-scan-67267",
+        "source_id": "src_17"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "CyArk's 'Pompeii: Project Eternal' page says CyArk worked with Antigravity to create a high-fidelity 3D Gaussian Splatting model of Pompeii's Forum and links a 3D virtual tour (hosted at tapestry.cyark.org), a video and a splat (hosted externally at superspl.at). Neither the tour nor the splat viewer could be confirmed to load from the text read; the page does not state when the capture was made.",
+        "url": "https://cyark.org/projects/pompeii-antigravity",
+        "source_id": "src_18"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Lund University's research portal records the finished project 'Pompeii - a 3D Revival' (2011-2014, with CNR) and lists peer-reviewed outputs on 3D GIS and documentation of Pompeian houses and Insula V 1.",
+        "url": "https://portal.research.lu.se/en/projects/pompeii-a-3d-revival/",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "The Pompeii park's e-Journal degli Scavi di Pompei (issue 2026.03) publishes a paper by park and University of Salerno authors on a digital, multi-scale monitoring model for the site.",
+        "url": "https://pompeiisites.org/wp-content/uploads/E-Journal_La-manutenzione-come-cura-un-modello-innovativo-e-digitale-per-il-monitoraggio-del-sito-archeologico-di-Pompei.pdf",
+        "source_id": "src_14"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1997",
+      "title": "Property inscribed on the World Heritage List",
+      "description": "UNESCO lists the Archaeological Areas of Pompei, Herculaneum and Torre Annunziata as inscribed in 1997 under criteria (iii), (iv) and (v). ICOMOS's September 1997 evaluation of Italy's nomination recommended inscription.",
+      "event_type": "other",
+      "source_ids": [
+        "src_00",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2001",
+      "title": "Herculaneum Conservation Project public-private partnership begins",
+      "description": "The Parco Archeologico di Ercolano says a public-private partnership with the Packard Humanities Institute has operated at Herculaneum since 2001 to support governance of the site, and describes it as a best practice recognised by UNESCO. The page gives no specific outcomes or figures.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2010-11-06",
+      "title": "Collapse of the Schola Armaturarum at Pompeii",
+      "description": "Finestre sull'Arte reports that the upper part of the Schola Armaturarum collapsed on 6 November 2010, attributing it to hydrogeological instability that it says climate change has worsened; it adds that then-president Giorgio Napolitano called the collapse 'a disgrace for Italy'. The European Commission separately says several buildings collapsed in 2010 'due to a lack of maintenance and extreme weather events'.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2012-03-29",
+      "title": "EU decision approves the Great Pompeii Project",
+      "description": "The Pompeii park authority's page gives 29 March 2012 as the date of the EU decision for the Great Pompeii Project, funded at EUR 105 million from the ERDF and national funds, with a stated target of requalifying the site by December 2015. The European Commission says the project was approved in 2012 and ran for ten years, and later reported more than EUR 78 million came from the ERDF.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_09",
+        "src_08"
+      ]
+    },
+    {
+      "date": "2019-01-03",
+      "title": "Schola Armaturarum scheduled to reopen after restoration",
+      "description": "Finestre sull'Arte, in an article dated 2 January 2019, reported that the Schola Armaturarum was due to reopen on 3 January 2019 after a restoration that began in 2015 and took about four years. This dossier did not find a second source confirming the reopening took place.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Great Pompeii Project concluded; minor boundary modification and buffer zone revision",
+      "description": "The European Commission reports the end of the Grande Progetto Pompei after ten years, with 70 buildings restored, all 60 domus repaired, and attendance rising from 2.3 million (2012) to over 4 million (2019). UNESCO records minor boundary modifications inscribed in 2023 (decision 45 COM 8B.61), and the 2026 mission report says the 2023 buffer-zone revision (given as 1,726.09 ha in the report; UNESCO's property page gives a buffer zone of 1,788.79 ha, a difference not reconciled here) strengthens landscape and visual protection. The Commission's article date is ambiguous in the material read (a URL reading 10-04-2023), so only the year is given.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_08",
+        "src_00",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7B.10",
+      "description": "The Committee commended the revised and extended buffer zone and the management commitment, welcomed efforts to update the Management Plan, requested Heritage Impact Assessments and revised plans for the Porta Nola project and the Torre Annunziata visitor centre works, requested updates on buildings identified as at risk in 2013, thanked Italy for notifying 41 potential projects around Herculaneum, requested a joint WHC/ICOMOS/ICCROM mission, and set a reporting deadline of 1 December 2025. The month of the decision was not confirmed.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2024-11-09",
+      "title": "Pompeii plans a 20,000 daily ticket cap and personalised tickets",
+      "description": "Euronews reported on 9 November 2024 that Pompeii planned to limit visitors to 20,000 a day and that tickets would carry visitors' full names from 15 November; it quotes park director Gabriel Zuchtriegel saying the work aims to 'lift the human pressure on the site'. The January 2026 mission report records that a daily limit of 20,000 visitors with personalised (name-based) tickets has been introduced at Pompei.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_12",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025-06-05",
+      "title": "Seismic swarm followed by partial collapse in Insula Meridionalis",
+      "description": "Italian outlet Open reported that a seismic swarm in Campi Flegrei with quakes up to magnitude 3.2 was followed by the partial collapse of a wall and a vault in Pompeii's Insula Meridionalis, a structure already damaged by the 1980 earthquake, under restoration and shored up, with no frescoes or movable finds and no one hurt. Open says the Park communicated the collapse and started an extraordinary check of the whole archaeological area; it quotes director Zuchtriegel (cited from Il Mattino) saying 'Pompei è un sito fragile' and that the Park is carrying out a thorough check for consequences of the swarm. Single-source in this dossier.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2026-01-27/2026-01-30",
+      "title": "Joint WHC/ICOMOS/ICCROM Reactive Monitoring mission",
+      "description": "The mission visited the three components under decision 46 COM 7B.10. As read, its report says the state of conservation has 'improved markedly' since the 2013 and 2014 Reactive Monitoring missions, that the thirteen formerly at-risk Pompei buildings have been consolidated, that Torre Annunziata Villa B is in 'a more critical condition' (both villas 'remain a matter of concern'), and that the Outstanding Universal Value is 'currently being effectively safeguarded'. It proposes deferring any decision on ending Reactive Monitoring to the 51st Committee session in 2029.",
+      "event_type": "other",
+      "source_ids": [
+        "src_04",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Pompeii park publishes its digital monitoring model",
+      "description": "The e-Journal degli Scavi di Pompei (issue 2026.03, cover dated 2 April 2026) carries a paper by park and University of Salerno authors describing multi-scale monitoring: annual on-site assessments, monthly drone surveys over 3.6 km2 and targeted detailed assessments, with preliminary local-assessment analyses returning 167,310 recorded degradation occurrences.",
+      "event_type": "other",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decisions 48 COM 7B.39 and 48 COM 8B.43",
+      "description": "At its 48th session (Busan, 2026) the Committee adopted decision 48 COM 7B.39 on the state of conservation of the property (its text could not be read in this pass) and, in 48 COM 8B.43, approved the minor boundary modification while recommending that Italy consider extending Buffer Zone A further north, following the 2026 mission's recommendations. The property is not on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_02",
+        "src_05"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/829/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 46 COM 7B.10: Archaeological Areas of Pompei, Herculaneum and Torre Annunziata (Italy) (C 829bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8536",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 8B.43: Minor boundary modification, Archaeological Areas of Pompei, Herculaneum and Torre Annunziata (Italy)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9197",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata: documents and decision 48 COM 7B.39 record",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/829/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Used for the existence and listing of decision 48 COM 7B.39 (https://whc.unesco.org/en/decisions/9122, whose page carried metadata only), the 2026 mission and document listings. The text of 48 COM 7B.39 was not read.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Joint WHC/ICOMOS/ICCROM Reactive Monitoring mission report, 27-30 January 2026",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/226456",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Re-read in a second pass through the fetch tool: the Executive Summary and Chapters I-IV were returned and quoted phrases were checked against that text; the text cut off mid-Chapter IV (House of the Silver Wedding entry), so Chapters 5-9, the full conclusions and annexes were not read.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/829/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "ICOMOS evaluation of the nomination: The archaeological areas of Pompei, Ercolano, and Torre Annunziata",
+      "publisher": "ICOMOS (via UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/154388",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "1997-09",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Pompeii restored thanks to a EUR 78 million investment in Cohesion Policy funds",
+      "publisher": "European Commission, Regional Policy newsroom",
+      "url": "https://ec.europa.eu/regional_policy/whats-new/newsroom/10-04-2023-pompeii-restored-thanks-to-a-eur78-million-investment-in-cohesion-policy-funds_en",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The fetch tool gave the article date as 4 October 2023, but the URL reads 10-04-2023 (possibly 10 April 2023); only the year is used. Figures are the Commission's own account of a programme it co-funded.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "The Great Pompeii Project",
+      "publisher": "Parco Archeologico di Pompei (pompeiisites.org)",
+      "url": "https://pompeiisites.org/en/the-great-pompeii-project",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Undated institutional page (last-modified metadata 4 March 2021); describes funding and intended interventions, not outcomes.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Pompeii, Schola Armaturarum reopens after nearly 9 years: collapse had almost led to Sandro Bondi's resignation",
+      "publisher": "Finestre sull'Arte",
+      "url": "https://www.finestresullarte.info/en/museums/pompeii-schola-armaturarum-reopens-after-nearly-9-years-collapse-had-almost-led-to-sandro-bondi-s-resignation",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Written before the reopening it announces; the climate-change attribution is the outlet's own characterisation and not corroborated here by a scientific source.",
+      "published_date": "2019-01-02",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Terremoto Campi Flegrei, crollo agli scavi di Pompei",
+      "publisher": "Open",
+      "url": "https://www.open.online/2025/06/05/terremoto-campi-flegrei-crollo-scavi-pompei/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single-source account of the 5 June 2025 collapse (itself citing the Park and Il Mattino); not independently corroborated in this pass, so it cannot alone support a status-determining claim.",
+      "published_date": "2025-06-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Inundated Pompeii plans a limit of 20,000 tourists a day",
+      "publisher": "Euronews",
+      "url": "https://www.euronews.com/2024/11/09/inundated-pompeii-plans-a-limit-of-20000-tourists-a-day",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2024-11-09",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "National Civil Protection Plan for volcanic risk: Vesuvius",
+      "publisher": "Dipartimento della Protezione Civile (Italy)",
+      "url": "https://www.protezionecivile.gov.it/page-data/en/approfondimento/national-civil-protection-plan-volcanic-risk-vesuvius/page-data.json",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Undated page data; the statement that Vesuvius's alert level is green is as of an unknown date and the final 7,404 characters of the page were not read.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "La manutenzione come cura: un modello innovativo e digitale per il monitoraggio del sito archeologico di Pompei",
+      "publisher": "e-Journal degli Scavi di Pompei, Parco Archeologico di Pompei",
+      "url": "https://pompeiisites.org/wp-content/uploads/E-Journal_La-manutenzione-come-cura-un-modello-innovativo-e-digitale-per-il-monitoraggio-del-sito-archeologico-di-Pompei.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Authored partly by the park's own director and staff, so it is the park's self-description, though co-authored with University of Salerno.",
+      "published_date": "2026-04-02",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Herculaneum Conservation Project",
+      "publisher": "Parco Archeologico di Ercolano",
+      "url": "https://ercolano.cultura.gov.it/herculaneum-conservation-project/?lang=en",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "The park's own description of its partnership; gives no outcomes or figures.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Istituto Packard per i Beni Culturali / Packard Humanities Institute (datasets)",
+      "publisher": "Parco Archeologico di Ercolano open data portal",
+      "url": "https://opendata-ercolano.cultura.gov.it/organization/istituto-packard-beni-culturali",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Dataset listing page; dataset files were not opened or downloaded and licences were not stated on the page read.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Herculaneum 3D SCAN",
+      "publisher": "arte.it",
+      "url": "https://www.arte.it/calendario-arte/napoli/mostra-herculaneum-3d-scan-67267",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Listings page describing the Park's 2020 project; the models themselves (on Facebook) were not opened.",
+      "published_date": "2020",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Pompeii: Project Eternal",
+      "publisher": "CyArk",
+      "url": "https://cyark.org/projects/pompeii-antigravity",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Project page only; the tour and splat viewers could not be confirmed from the extracted text and the capture date is not stated.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Pompeii - a 3D Revival",
+      "publisher": "Lund University research portal",
+      "url": "https://portal.research.lu.se/en/projects/pompeii-a-3d-revival/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; close call vs High Concern (Torre Annunziata villas) flagged in decision_trigger. Danger List checked directly: not listed (58 properties, none Italian). Known gaps (not included because not verified): (1) The text of decision 48 COM 7B.39 (2026) was not readable: UNESCO's decision page carries metadata only and the decisions compilation and state-of-conservation document (WHC/26/48.COM/7B.Add) returned truncated text that did not reach the Pompei section; the 2026 state-of-conservation page (whc.unesco.org/en/soc/4922) and Italy's 2025 report (document 224001) could not be fetched. Only 46 COM 7B.10 (2024) and 48 COM 8B.43 were read in full form. (2) The January 2026 mission report was read in truncated, summarised form, so quoted phrases ('improved markedly', 'currently being effectively safeguarded', 'critical condition' for Villa B) should be confirmed against the full PDF; its volcanic-risk coverage was thin. (3) Coordinates: UNESCO gives none; the marker is an approximate, unsourced placement and must be checked. (4) Vesuvius alert level 'green' is from an undated Civil Protection page. (5) The 5 June 2025 collapse rests on one Italian outlet (Open). (6) The 2023 Commission article date is ambiguous (4 October vs 10 April 2023); only the year is used. (7) Euronews and Yahoo coverage of Campi Flegrei 2025 earthquakes was not used (Yahoo page could not be fetched; the Euronews text was internally inconsistent). (8) Reopening of the Schola Armaturarum on 3 January 2019 is reported only in a pre-reopening article. (9) Campi Flegrei and Vesuvius hazard to the property specifically (zone membership of the three components) not established from sources read. (10) Virtual-tour evidence (Herculaneum virtual tour, Street View coverage) not opened, so the category is false; the CyArk tour and splat viewers could not be confirmed. (11) Further web searches were blocked by a search budget limit. Images omitted by design; Wikipedia not used (page fetch not permitted). VERIFICATION PASS 2026-10-15 (independent): re-read mission report 226456 (Executive Summary, Ch. I-IV; truncated mid-Ch. IV) and corrected Villa B wording to the report's 'a more critical condition' (added 'urgent full stabilisation' wording and Villa A detail) in all places; corrected Euronews quote to 'lift the human pressure on the site'; confirmed mission report records the 20,000 cap/name tickets; narrowed the 167.310 figure to preliminary local-assessment analyses; replaced unsupported 'sensor analysis' with 'targeted detailed assessments'; clarified Open cites Il Mattino and softened 'caused' to 'was followed by'; noted buffer-zone figure discrepancy (1,726.09 ha vs UNESCO page 1,788.79 ha); updated src_04 reliability note. Verified against source: decisions 46 COM 7B.10 and 48 COM 8B.43 content, Danger List (58, none Italian), Great Pompeii dates/figures, EC figures, Civil Protection figures, Schola Armaturarum details, DPI evidence pages, 45 COM 8B.61 and 48 COM 7B.39 existence. Not verifiable: text of 48 COM 7B.39; mission report chapters 5-9; coordinates (UNESCO gives none; marker plausible for Pompeii area from general knowledge). VERIFIER PASS 2 (2026-10-15, independent): re-fetched all sources. Fixes: (a) Civil Protection page DOES list Ercolano, Pompei and Torre Annunziata among red-zone municipalities (earlier 18-municipality list), so the draft's 'page does not say' was corrected; 670 thousand reframed as the plan's evacuation planning assumption, not a resident count; (b) Euronews item reworded from 'announced' to reported plan (mission report confirms the cap is in force); (c) Recommendation 8 (2020-2021 stabilisation programme) is for both Torre Annunziata villas, not Villa B alone; (d) Reactive Monitoring wording changed to the report's 'deferred until 2029' phrasing; (e) Open: Il Mattino citation, Park communication and 'extraordinary check' confirmed, wording aligned; (f) '167.310' written 167,310; (g) UNESCO documents page does list Periodic Reporting (2006, 2014, 2024) and ICOMOS evaluations 1997/2023/2026, DPI archival description made specific; (h) CyArk tour/splat hosts noted, viewers still unconfirmed; DPI 3D basis caveated. Checked and confirmed: Danger List (58, none Italian), 46 COM 7B.10 and 48 COM 8B.43 content, EC figures and 'end of the Grande Progetto Pompei', Great Pompeii page (29 March 2012, Decision C(2012) 2154), Schola Armaturarum details, mission report quotes, e-Journal details, Herculaneum partnership page, Lund page, UNESCO gallery. Not verified: text of 48 COM 7B.39; mission report chapters 5-9; 45 COM 8B.61 number; 'welcomed efforts to update the Management Plan' (not in the summarised 46 COM text); Facebook models; coordinates (plausible for Pompeii; UNESCO gives none).",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: moderate_concern / supported; Digital Preservation Index tier extensive. review_status advanced draft -> approved."
+    }
+  ]
+}

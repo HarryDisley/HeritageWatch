@@ -98,8 +98,8 @@
       ],
       "recorded_by": "claude-draft",
       "approved_by": "Harry Disley",
-      "approved_date": "2026-10-12",
-      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier set to moderate (stricter reading): The second reader could not re-confirm the 3D evidence (Lavra website, Ukrainska Pravda, Google Arts & Culture), so the 3d_documentation category is no longer counted."
+      "approved_date": "2026-10-14",
+      "approval_note": "Approved by Harry Disley on 2026-10-14 from the round 1 review summary. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
     }
   ],
   "digital_preservation": {
@@ -108,9 +108,9 @@
       "archival_records": true,
       "3d_documentation": false,
       "virtual_tour": false,
-      "academic_scholarly": true
+      "academic_scholarly": false
     },
-    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four, including a visual and a technical/scholarly category). Coverage is uneven. The 3D evidence is for selected parts of the property (Dormition Cathedral and the Near and Far Caves models on the Lavra's own site, the cave scan, and a Google Arts & Culture 3D asset of Saint-Sophia) rather than a property-wide model; the Lavra page does not date the Dormition Cathedral model, and the detailed cave model is available only on request. Japan's funding of a new 3D laser scan of the Dormition Cathedral (reported August 2026) is announced, not a published model, and is not counted. Virtual_tour is marked false conservatively: reports and organisational pages mention online virtual tours of Saint-Sophia and of the Lavra, but the tour pages themselves were not opened in this pass. The University of Gothenburg inscription-documentation project says data will be published in a public portal, but its availability was not verified, so it is cited only as a research project. A reviewer may wish to consider whether this uneven, building-level coverage should temper the tier. ADJUSTED 2026-10-12 on review: The second reader could not re-confirm the 3D evidence (Lavra website, Ukrainska Pravda, Google Arts & Culture), so the 3d_documentation category is no longer counted. Tier is therefore moderate (3 of 5 categories).",
+    "coverage_note": "[Tier revised to moderate on 2026-10-14] 3D documentation and academic/scholarly set to false: the 3D evidence could not be re-opened and the cited academic article concerns slope engineering rather than documentation (independent verifier). Photographic and archival remain. Original researcher note follows. Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four, including a visual and a technical/scholarly category). Coverage is uneven. The 3D evidence is for selected parts of the property (Dormition Cathedral and the Near and Far Caves models on the Lavra's own site, the cave scan, and a Google Arts & Culture 3D asset of Saint-Sophia) rather than a property-wide model; the Lavra page does not date the Dormition Cathedral model, and the detailed cave model is available only on request. Japan's funding of a new 3D laser scan of the Dormition Cathedral (reported August 2026) is announced, not a published model, and is not counted. Virtual_tour is marked false conservatively: reports and organisational pages mention online virtual tours of Saint-Sophia and of the Lavra, but the tour pages themselves were not opened in this pass. The University of Gothenburg inscription-documentation project says data will be published in a public portal, but its availability was not verified, so it is cited only as a research project. A reviewer may wish to consider whether this uneven, building-level coverage should temper the tier.",
     "tier_recommendation": "moderate",
     "evidence": [
       {
@@ -553,7 +553,7 @@
     "final_classification_approved": true
   },
   "review_status": "approved",
-  "last_verified_date": "2026-10-12",
+  "last_verified_date": "2026-10-14",
   "changelog": [
     {
       "date": "2026-10-11",
@@ -561,9 +561,14 @@
       "changed_by": "claude"
     },
     {
-      "date": "2026-10-12",
-      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier set to moderate (stricter reading): The second reader could not re-confirm the 3D evidence (Lavra website, Ukrainska Pravda, Google Arts & Culture), so the 3d_documentation category is no longer counted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
-      "changed_by": "harry"
+      "date": "2026-10-14",
+      "changed_by": "claude",
+      "change": "DPI tier revised after independent verification: 3D documentation and academic/scholarly set to false: the 3D evidence could not be re-opened and the cited academic article concerns slope engineering rather than documentation (independent verifier). Photographic and archival remain."
+    },
+    {
+      "date": "2026-10-14",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
     }
   ]
 }

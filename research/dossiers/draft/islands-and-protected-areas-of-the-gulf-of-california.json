@@ -1,0 +1,512 @@
+{
+  "slug": "islands-and-protected-areas-of-the-gulf-of-california",
+  "name": "Islands and Protected Areas of the Gulf of California",
+  "alternate_names": [
+    "Islas y Áreas Protegidas del Golfo de California"
+  ],
+  "country": "Mexico",
+  "region": "Latin America and the Caribbean",
+  "coordinates": {
+    "lat": 29.0006,
+    "lng": -113.5385
+  },
+  "coordinate_note": "UNESCO's property page gives no coordinates. This is the map-view reference point shown on a reference site (see src_22), roughly in the central Gulf. The inscribed property is a serial property of 244 islands, islets and coastal areas extending from the Colorado River Delta in the north to 270 kilometres southeast of the tip of the Baja California Peninsula (UNESCO), so no single point represents it; the marker is only a practical regional reference and needs a manual check.",
+  "unesco_id": "1182",
+  "inscription_year": 2005,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": "This profile covers the whole UNESCO serial property (id 1182), not one component. UNESCO notes minor boundary modifications in 2007 and 2011 (nomination 1182ter). The vaquita's range (the Upper Gulf of California) is only one part of the serial property.",
+  "site_type": "natural",
+  "significance_summary": "UNESCO describes this serial natural property as comprising 244 islands, islets and coastal areas in the Gulf of California, in north-western Mexico, clustered in eight major island groups, and describes the Sea of Cortez and its islands as having been called a natural laboratory for the investigation of speciation, with almost all major oceanographic processes of the planet's oceans present in the property. UNESCO states that roughly one third of the world's marine mammals occur within the property, and that it holds many endemic species, including fish and reptiles. It was inscribed in 2005 under natural criteria (vii), (ix) and (x). The vaquita, a small endemic porpoise, is part of the property's Outstanding Universal Value according to the World Heritage Committee.",
+  "metadata_sources": [
+    "src_00",
+    "src_22"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Illegal fishing for totoaba, whose swim bladders are in demand in Asian markets (IUCN, 2019), with gillnets that entangle the vaquita, is the threat for which the Committee inscribed the property on the Danger List in 2019, describing 'imminent extinction of the vaquita population'. The Committee repeated 'threat of imminent extinction' language in its 2025 decision (47 COM 7A.5) and in 2026 (48 COM 7A.44) stated it remains highly concerned about the vaquita's critical status, noted sightings outside the Zero Tolerance Area and recommended assessing its expansion. Enforcement, net removal and alternative gear are the Committee's main corrective measures (45 COM 7A.2, 46 COM 7A.43). The 2026 decision acknowledges a reported 98% reduction in illegal fishing within the Zero Tolerance Area and welcomes cooperation with the United States and China on totoaba trafficking. It also expresses concern about third-party reports of planned LNG expansions near the property and asks Mexico for an environmental and social impact assessment before any irreversible decision. IUCN's World Heritage Outlook rates law enforcement as 'Some Concern', noting that much of the law enforcement that exists is centred on the part of the site the vaquita and totoaba inhabit, and notes that no integrated management structure or plan exists for the entire site (while observing that coordination between protected areas appears well organized in practice). Vaquita survey counts (May 2024: 6-8 seen with 75% probability; September 2025: 7-10 seen with 67% probability) are counts in a limited study area with high uncertainty, not whole-population estimates.",
+      "first_identified_date": null,
+      "date_note": "Chronic threat with multiple documented stages; the earliest dated items in this dossier are the November 2016 acoustic estimate (published 2017), the April 2017 reactive monitoring mission, and the 3 July 2019 Danger List inscription. No single start date is established from the sources read.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_14",
+        "src_15",
+        "src_16",
+        "src_17",
+        "src_18",
+        "src_21"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "IUCN's World Heritage Outlook for the property states that threats from over-fishing, bycatch, pollution, invasive species and climate change are significant across the property. It lists overexploitation as Very High impact with an increasing trend (describing over-fishing from artisanal and industrial fishing, quota overruns in the regulated gulf corvina fishery in recent years, and illegal overfishing of species such as the totoaba) and climate change as High impact with an increasing trend, saying that new studies (including Cota-Durán et al. 2021) indicate climate change will negatively affect shrimp, fish and cetacean populations, while noting that impacts on key attributes are not yet fully understood. On corals, IUCN's page gives a mixed picture: it says the 2023 El Niño warming had a great impact on coral fauna, and also that reefs at Cabo Pulmo were documented recovering within months of the bleaching event; it rates the 'diversity of terrestrial and marine life' value as Critical and deteriorating. The assessment's overall outlook is Critical on IUCN's own scale, which is distinct from HeritageWatch's statuses. These are chronic, assessed pressures; the sources read do not document a specific unrepaired climate-driven damage event.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-term pressures assessed in IUCN's 2025 outlook cycle; no single start date applies. The 2023 El Niño-related bleaching event is mentioned by IUCN but its extent was not independently checked.",
+      "source_ids": [
+        "src_14"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Matched High trigger: official inscription on UNESCO's List of World Heritage in Danger for substantive (not administrative) reasons. UNESCO's list page shows the property on the Danger List (inscribed 2019), and the Committee retained it in decision 48 COM 7A.44 (2026); the 2019 inscription was for illegal totoaba fishing threatening the vaquita with 'imminent extinction'. Critical Concern was considered and is the close neighbouring call. The nearest Critical trigger is 'an ongoing severe threat that is materially affecting the site's survival, integrity, or accessibility', and it is arguable: the vaquita is part of the property's Outstanding Universal Value, the Committee used the phrase 'threat of imminent extinction' in decisions through 2025, and IUCN's 2025 World Heritage Outlook rates the property's overall outlook 'Critical' with a deteriorating trend (IUCN's own scale, not this platform's). It was not applied mechanically because: (1) the 2026 decision notes the 2025 monitoring survey did not show a further decline and the 2025 survey report describes no evidence of a decline of the magnitude reported several years ago within its study area, with caveats about uncertainty; (2) the property is a very large serial site and IUCN reports large parts of it relatively well preserved, so the severe threat is concentrated on one species and area rather than the whole property; (3) monitoring access continues (annual vaquita surveys 2023-2025) and IUCN rates protection and management 'Mostly Effective', so no collapse of protection or monitoring; (4) there is no armed conflict. No Critical trigger is clearly satisfied on the evidence read, but a reviewer may reasonably weigh the extinction-level language and IUCN's Critical outlook differently.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present condition is that the property remains on UNESCO's Danger List, with the Committee reiterating in 2026 (48 COM 7A.44) that it is highly concerned about the vaquita's critical status, and asking Mexico to give top priority to the corrective measures in the Desired State of Conservation for removal. The 2025 decision (47 COM 7A.5) recorded only 6-8 individuals detected in the 2024 vaquita survey; the September 2025 survey report gives a 67% probability range of 7-10 individuals seen. These are counts of animals seen in a limited survey area, not whole-population estimates, and the survey reports themselves caution that visual estimates are highly uncertain. The earlier acoustic study (Thomas et al. 2017) estimated approximately 30 vaquita in November 2016 (95% credible interval 8-96), so the sequence over time points to a very small population that has not recovered, though the sources do not show a clear decline in the latest three survey years. IUCN's World Heritage Outlook rates the property's overall outlook as Critical, with threats rated Very High overall (overexploitation Very High, climate change High) but protection and management Mostly Effective. Positive evidence also exists: the Committee acknowledged a reported 98% reduction in illegal fishing within the Zero Tolerance Area, welcomed cooperation with the United States and China on totoaba trafficking, and the DSOCR has been approved (2024), giving a defined route to removal. Against that, the Committee notes sightings outside the Zero Tolerance Area, concern about reported LNG expansion plans, and none of the DSOCR indicators (including vaquita numbers increasing for at least five years) is reported met in the sources read. This is a chronic-but-acute-in-species-terms threat under active management and international oversight, which fits High Concern; the Moderate trigger does not fit because the threat is neither routine nor merely monitored. Confidence is Supported rather than Confirmed: the Danger List status and decision content are directly confirmed from UNESCO, but vaquita numbers rest on expert-elicitation counts with wide uncertainty, the 98% enforcement figure is reported in the Committee decision without the underlying State Party report being read, and the High/Critical boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_07",
+        "src_14",
+        "src_17",
+        "src_18",
+        "src_21"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly viewable evidence, which meets the moderate tier (2-3 categories); the scholarly category is species-focused and, even if set aside, two categories would still meet the moderate tier. No publicly viewable 3D model or virtual tour of the property was found in this pass, so those are marked false. Coverage is uneven for such a large serial property: the UNESCO gallery shows a small number of images (12 on the first page, with at least one further page; all captioned only with the property name) and the archive consists of UNESCO nomination files, IUCN evaluations and state of conservation documents rather than site-level imagery or scans. The nomination file PDFs were listed on UNESCO's documents page but not opened individually. A UNESCO/NHK video item appeared in search results but was not opened and is not counted. Findability is limited to what search surfaced, so this does not exclude material in private or unindexed archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property: at least 12 images on the first page, credited to UNESCO / Michael Calderwood and UNESCO / Francesco Bandarin.",
+        "url": "https://whc.unesco.org/en/list/1182/gallery/",
+        "source_id": "src_13"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page lists publicly downloadable nomination files (1182ter for 2005, 2007 and 2011, and 1182bis for 2007), inscribed-property maps, IUCN Advisory Body evaluations (2005, 2007, 2011), joint World Heritage Centre / IUCN mission reports (2017, 2018) and state of conservation reports. The listing was opened; the nomination PDFs themselves were not.",
+        "url": "https://whc.unesco.org/en/list/1182/documents/",
+        "source_id": "src_12"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed scholarship on the property's flagship species (species-focused rather than site documentation as such; the vaquita is part of the property's Outstanding Universal Value), for example Thomas et al. (2017) in the Journal of the Acoustical Society of America on passive acoustic monitoring of the vaquita, plus annual vaquita survey reports co-authored by university and government scientists.",
+        "url": "https://research-repository.st-andrews.ac.uk/handle/10023/13576",
+        "source_id": "src_21"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-11",
+      "title": "Acoustic monitoring study estimates about 30 vaquita remained in November 2016",
+      "description": "Thomas et al. (published 2017 in the Journal of the Acoustical Society of America) reported from passive acoustic monitoring a 49% fall in the acoustic detection rate between 2015 and 2016 (95% credible interval from an 82% decline to an 8% increase) and a cumulative decline of over 90% between 2011 and 2016. Assuming the detection rate is proportional to population size, they estimated approximately 30 vaquita (95% credible interval 8-96) remained in November 2016.",
+      "event_type": "other",
+      "source_ids": [
+        "src_21"
+      ]
+    },
+    {
+      "date": "2017-04/2018-02",
+      "title": "Joint World Heritage Centre / IUCN reactive monitoring missions",
+      "description": "UNESCO's 2019 state of conservation page records joint World Heritage Centre / IUCN reactive monitoring missions to the property in April 2017 and February 2018 (UNESCO's documents page gives 9-15 April 2017 and 12-16 February 2018). The mission reports are listed on UNESCO's documents page (2017 and 2018) but were not read for this dossier.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2017-06-08",
+      "title": "IUCN advises that the property be listed as in danger",
+      "description": "In a 8 June 2017 article following its field mission with UNESCO's World Heritage Centre, IUCN stated that it recommended the property be listed as 'in danger' (advice that goes to the World Heritage Committee), and recommended a permanent ban on gillnets and international cooperation to halt illegal wildlife trade. The article mentions that the totoaba's swim bladder is in high demand in Asia.",
+      "event_type": "political",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2019-02",
+      "title": "International vaquita recovery committee (CIRVA) estimates about 10 vaquita",
+      "description": "According to UNESCO's 2019 state of conservation page, the 11th meeting of the International Committee for the Recovery of the Vaquita (CIRVA), held 19-21 February 2019, estimated about 10 vaquitas as of summer 2018, before that fishing season, down from a previous CIRVA estimate of 30. IUCN's July 2019 article gives the same attribution for the summer 2018 estimate.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10",
+        "src_15"
+      ]
+    },
+    {
+      "date": "2019-07-03",
+      "title": "World Heritage Committee inscribes the property on the List of World Heritage in Danger",
+      "description": "At its 43rd session in Baku (decision 43 COM 7B.26, with 43 COM 8C.1), the Committee considered illegal totoaba fishing an 'ascertained danger' to the property's Outstanding Universal Value and integrity, resulting in 'a threat of imminent extinction of the vaquita population', and inscribed the property on the Danger List. It asked Mexico to develop corrective measures and a Desired State of Conservation for removal (DSOCR) with the World Heritage Centre and IUCN. IUCN's accompanying article stated that high levels of illegal fishing for totoaba continued and even escalated in 2018 and 2019 in the Upper Gulf.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_15"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Committee decision 44 COM 7A.56 retains the property on the Danger List",
+      "description": "The Committee expressed utmost concern about the critical status of the vaquita and noted that no updated information on the remaining population had been provided, asking Mexico to work with CIRVA to update the estimate. It noted fisheries regulations approved in September 2020 but also reports that they had not been fully implemented or enforced, and noted that ghost net retrieval had been suspended since December 2020.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2023-05",
+      "title": "May 2023 vaquita survey",
+      "description": "The 2023 survey report (visual survey 10-26 May 2023 per the executive summary, though the results section gives 11 May as the first day of visual effort; expert elicitation 31 May 2023) gives a mean of 10.6 vaquitas seen, treated by the report as a minimum because the search covered a small part of the historical range, and estimates 1 to 2 calves. The report states two inconsistent ranges for the number seen (10-13 and 8-13), so no range is given here. The 2024 survey report states the 2023 mean as 10.6.",
+      "event_type": "other",
+      "source_ids": [
+        "src_19",
+        "src_18"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee decision 45 COM 7A.2 urges six corrective measures",
+      "description": "The Committee urged Mexico to implement six corrective measures developed with the World Heritage Centre and IUCN (law enforcement, legislative changes, removal of illegal and derelict gear, enforcement of the permanent gillnet ban, cooperation with destination and transit countries, and roll-out of alternative gear), and retained the property on the Danger List. UNESCO's 2023 state of conservation summary records that fewer than 10 vaquita individuals were observed in the 2021 surveys.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2024-05",
+      "title": "May 2024 vaquita survey: expert elicitation gives 6-8 vaquitas seen",
+      "description": "The 2024 survey report (acoustic monitoring from 3 May, visual effort from 5 May, expert elicitation 26 May) put the mean at 7.62 individuals across 9 sightings, with experts giving a 75% probability that the number seen was between 6 and 8. The report states that 6-8 is considered a minimum estimate for the study area and that the result does not necessarily indicate a decline in the species. Experts judged it very likely that no calves were seen.",
+      "event_type": "other",
+      "source_ids": [
+        "src_18"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.43 approves the Desired State of Conservation for removal",
+      "description": "The Committee approved the proposed DSOCR, whose five indicators cover sustainable non-entangling fisheries, vaquita numbers increasing for at least five years, effective protection from illegal fishing, a Vaquita Refuge and marine biosphere reserve free of illegal gear, and systematic international cooperation against totoaba trafficking. It welcomed confirmation that 'the sole remaining vaquita population appears to be stable and breeding' (a tentatively worded finding), noted with concern that illegal fishing persists, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.5 retains the property on the Danger List",
+      "description": "The Committee reiterated its utmost concern about the vaquita and noted a 'threat of imminent extinction' from continued illegal totoaba fishing in the Upper Gulf. It recorded that the 2024 vaquita survey detected only 6-8 individuals, asked for stronger surveillance, inspection, prosecution and higher penalties, recommended assessing an expansion of the Zero Tolerance Zone, and requested details and an environmental and social impact assessment for a proposed gas development before any irreversible decision. It requested an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025-09",
+      "title": "September 2025 vaquita survey: 7-10 vaquitas seen, at least one calf",
+      "description": "The 2025 survey report (visual survey roughly 3-30 September 2025; expert elicitation 7 October 2025) gives a mean of 8.52 and a 67% probability that 7 to 10 individuals were seen, against a mean of 7.62 for May 2024. It reports at least one calf (one confirmed by drone measurement) and no evidence of a decline of the magnitude reported several years ago (about 45% per year), at least within the study area, while cautioning there is too much uncertainty in visual estimates to draw strong conclusions about trends. The Sea Shepherd announcement, issued jointly with the Mexican government, gave the same 7-10 range.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17",
+        "src_20"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.44 retains the property on the Danger List",
+      "description": "The Committee welcomed Mexico's continued work on corrective measures, noted that the 2025 monitoring survey did not show a further decline in vaquita numbers while remaining highly concerned about the vaquita's critical status, and acknowledged a reported 98% reduction in illegal fishing within the Zero Tolerance Area. It noted that vaquita sightings continue outside that area and recommended assessing its expansion, expressed concern about third-party reports of planned LNG expansions near the property, and requested an updated report by 1 February 2027 for the 49th session.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Islands and Protected Areas of the Gulf of California",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1182/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "The List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.44: Islands and Protected Areas of the Gulf of California (Mexico)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9033",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.5: Islands and Protected Areas of the Gulf of California (Mexico)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8672",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.43: Islands and Protected Areas of the Gulf of California (Mexico) (N 1182ter)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8512",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7A.2: Islands and Protected Areas of the Gulf of California (Mexico) (N 1182ter)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8084",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 44 COM 7A.56: Islands and Protected Areas of the Gulf of California (Mexico) (N 1182ter)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7718",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 43 COM 7B.26: Islands and Protected Areas of the Gulf of California (Mexico) (N 1182ter)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7490",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 43 COM 8C.1: Update of the List of World Heritage in Danger (Inscribed Properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7365",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "News article on the 2019 World Heritage Committee decision placing the Gulf of California property on the Danger List (UNESCO news item 1999)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1999",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019-07-03",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Islands and Protected Areas of the Gulf of California (Mexico): 2019 State of Conservation",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3915",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Islands and Protected Areas of the Gulf of California (Mexico): 2023 State of Conservation",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4266",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Islands and Protected Areas of the Gulf of California: documents page",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1182/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Islands and Protected Areas of the Gulf of California: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1182/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Islands and Protected Areas of the Gulf of California (IUCN World Heritage Outlook)",
+      "publisher": "IUCN World Heritage Outlook",
+      "url": "https://worldheritageoutlook.iucn.org/node/1137",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "IUCN is the official Advisory Body for natural heritage, so treated as Tier 1. The page's 2025 Conservation Outlook Assessment is stated as finalised on 11 October 2025 (the page header was not otherwise dated); ratings are on IUCN's own Outlook scale, which is not the same as HeritageWatch's statuses.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "The looming extinction of the vaquita puts Gulf of California on World Heritage danger list",
+      "publisher": "IUCN",
+      "url": "https://www.iucn.org/news/iucn-43whc/201907/looming-extinction-vaquita-puts-gulf-california-world-heritage-danger-list",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019-07-03",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Mexican World Heritage site is in danger as vaquita faces extinction, according to IUCN",
+      "publisher": "IUCN",
+      "url": "https://iucn.org/node/15555",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "The page states an estimate of 30 vaquitas without naming a survey or author, so that figure is not used in this dossier.",
+      "published_date": "2017-06-08",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Vaquita Research Campaign 2025: Report of the September Vaquita Survey",
+      "publisher": "CONANP, IUCN, Sea Shepherd Conservation Society, NOAA Southwest Fisheries Science Center, Oregon State University, University of St Andrews and others (hosted by the IUCN Cetacean Specialist Group)",
+      "url": "https://iucn-csg.org/wp-content/uploads/2025/11/Report-vaquita-acoustic-and-visual-survey-2025-EN-Nov-11-clean-FINAL.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Survey team report, not a peer-reviewed article. The report itself states visual estimates carry high uncertainty and that its Figure 2 caption refers to a 'May 2025' survey, which conflicts with the September 2025 dates used elsewhere in the report.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Survey report for vaquita research 2024",
+      "publisher": "CONANP, Sea Shepherd Conservation Society, NOAA Southwest Fisheries Science Center, National Marine Mammal Foundation, University of St Andrews and others (hosted by the IUCN Cetacean Specialist Group)",
+      "url": "https://iucn-csg.org/wp-content/uploads/2024/12/Reporte-Crucero-Vaquita-2024-Ingles-Final.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Survey team report, not a peer-reviewed article. Counts are numbers of vaquitas seen in a limited study area, which the report calls a minimum, not a whole-population estimate.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Survey report for vaquita research 2023",
+      "publisher": "Survey team including CONANP, Sea Shepherd Conservation Society, NOAA and University of St Andrews (document copy hosted by Quercus)",
+      "url": "https://www.revistaquercus.es/adjuntos/8527/Censo_de_vaquita_marina_de_2023__En_ingles.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Survey team report, not peer reviewed, and hosted on a third-party site. It gives two inconsistent ranges for the number of vaquitas seen (10-13 in one place and 8-13 in another), and the 2025 report gives 8 to 12; for that reason no 2023 range is quoted as fact in this dossier.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Results of the 2025 vaquita monitoring effort",
+      "publisher": "Sea Shepherd Conservation Society",
+      "url": "https://seashepherd.org/2025/10/28/results-of-the-2025-vaquita-monitoring-effort/",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Joint announcement with the Mexican government; Sea Shepherd also took part in the research, and the page does not mention independent peer review. Used only to corroborate the 2025 survey report, not as sole support.",
+      "published_date": "2025-10-28",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Last call: Passive acoustic monitoring shows continued rapid decline of critically endangered vaquita (Thomas et al.)",
+      "publisher": "Journal of the Acoustical Society of America 142(5): EL512-EL517 (via University of St Andrews Research Repository)",
+      "url": "https://research-repository.st-andrews.ac.uk/handle/10023/13576",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2017",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Islands and protected areas of the Gulf of California",
+      "publisher": "Natural World Heritage Sites (naturalworldheritagesites.org)",
+      "url": "https://www.naturalworldheritagesites.org/sites/islands-and-protected-areas-of-the-gulf-of-california",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Reference site of unclear authorship. Used only for the map-view reference point behind the coordinates, which UNESCO's page does not give; not used for any threat, status or DPI claim.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; DPI tier Moderate. Close call vs Critical Concern flagged in decision_trigger. Danger List status checked directly on UNESCO's list page (property shown, 2019) and property page ('2019 - Present'). Known gaps (not included because not verified): (1) UNESCO's 2026 state of conservation page (whc.unesco.org/en/soc/4989) returned a fetch error, and the State Party and IUCN/World Heritage Centre reports for 2024-2026 (documents 205108, 219131, 224542) were not read, so the reported 98% reduction in illegal fishing is taken only from the Committee decision text and its origin is unverified. (2) Decision pages were read through an automatic summariser, not verbatim; the 2026 decision, as summarised, did not repeat 'imminent extinction' wording, which is why that phrase is attributed to 2019-2025 decisions only. (3) The 2017 and 2018 mission reports and the 2005-2011 IUCN evaluations were listed but not opened. (4) The IUCN World Heritage Outlook page gives no explicit assessment date, and the ratings quoted are its headline ones only. (5) Coordinates: UNESCO gives none; the point is a map-view reference from a Tier 4 reference site and needs manual verification. (6) Vaquita figures are limited to named surveys (2016 acoustic study, CIRVA 2019, 2021 surveys as recorded by UNESCO, 2024 and 2025 survey reports); the 2023 range is omitted because the 2023 survey report gives conflicting ranges (10-13 vs 8-13) and the 2025 report gives 8 to 12. The unattributed '30 vaquitas' figure on an IUCN 2017 page was omitted. (7) Wikipedia was blocked and not used. (8) Background claims on the totoaba trade, the 2020 fisheries regulations and the Mexican gillnet ban beyond what the decisions state were not independently sourced. (9) No natural_disaster or armed_conflict category included: no evidence found. (10) Images omitted by design. VERIFIER (2026-10-15): fixes made: (a) 2019 decision event no longer attributes 'continued and escalated' to the Committee (that wording is IUCN's 2019 article); quote wording aligned to 43 COM 7B.26. (b) IUCN Outlook: replaced 'serious concerns' on law enforcement with the page's 'Some Concern' rating and its integrated-management caveat; removed unsupported 'unsustainable legal fisheries' and 'lower productivity/habitat shifts' wording; coral picture corrected to mixed. (c) Significance summary re-worded to UNESCO's 'natural laboratory' and oceanographic wording. (d) Removed unverified 'run annually for three months since 2011' from Thomas et al. event. (e) 2024 DSOCR event 'stable and breeding' quote tightened; 'July 2026' removed (session month not verified). (f) Survey-date inconsistencies noted (2023 start date, 2024 acoustic end date). (g) DPI scholarly category flagged as species-focused; tier unaffected. Not verified: titles of src_09 and src_16 (taken from page content/URL), the 2025 Outlook PDF, the Outlook page text beyond the first ~125k chars partially, and the exact verbatim wording of decisions (read via summariser). SECOND VERIFIER (2026-10-15, independent check): Danger List status confirmed directly from UNESCO's danger-list page ('Islands and Protected Areas of the Gulf of California (2019)') and property page ('2019 - Present'). Vaquita figures checked against the 2023, 2024 and 2025 survey reports and Sea Shepherd page: all match (2023 mean 10.6; 2024 mean 7.62, 75% for 6-8, 9 sightings; 2025 mean 8.52, 67% for 7-10, 25 sightings, calf confirmed incl. drone measurement). Decisions 43 COM 7B.26/8C.1, 44 COM 7A.56, 45 COM 7A.2, 46 COM 7A.43, 47 COM 7A.5 and 48 COM 7A.44 content checked (summariser-read). Fixes: (a) removed 'plants' from endemic species wording (UNESCO page gives endemism for fish and reptiles only); (b) repaired garbled 2024 'stable and breeding' sentence to the decision's wording 'appears to be stable and breeding'; (c) 2017 IUCN event reworded to what the article says (recommendation following a field mission; removed unsupported 'monitoring report released by UNESCO that day'). Unchanged but noted: the 2023 report's 'minimum' and survey-day inconsistencies; 2025 report calf age conflicts with its own September birth-pulse statement; 2025 report Figure 2 caption says May 2025.",
+      "changed_by": "claude"
+    }
+  ]
+}

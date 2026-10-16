@@ -1,0 +1,298 @@
+{
+  "schema_version": "case-v1",
+  "slug": "imt-nuremberg-plunder-of-cultural-property",
+  "title": "International Military Tribunal at Nuremberg: Judgment of 30 September and 1 October 1946 on the plunder of public and private property and works of art in occupied territories",
+  "case_type": "TRIBUNAL",
+  "body": "International Military Tribunal (Nuremberg), established by the London Agreement of 8 August 1945",
+  "case_reference": null,
+  "summary": "The International Military Tribunal sat at Nuremberg to try the major German war criminals. Article 6(b) of its Charter listed \"plunder of public or private property\" among war crimes, and Count Three of the Indictment (lodged 18 October 1945) charged the defendants with war crimes including a section titled \"Plunder of Public and Private Property\". In its Judgment of 30 September and 1 October 1946 the Tribunal stated that \"a wholesale seizure was made of art treasures, furniture, textiles and similar articles in all the invaded countries\" and described the work of the Einsatzstab Rosenberg in seizing cultural treasures. Of Rosenberg it found that he \"is responsible for a system of organised plunder of both public and private property throughout the invaded countries of Europe\" and that he \"is guilty on all four counts\". The Judgment also made findings on plunder or pillage in respect of Goering and Seyss-Inquart. This entry covers only the plunder findings; the Judgment's wider findings on the defendants are not summarised.",
+  "legal_basis": "The Charter (annexed to the London Agreement of 8 August 1945) gave the Tribunal power to try persons for, among other things, war crimes. Article 6(b) defines war crimes as \"violations of the laws or customs of war\" and says such violations \"shall include, but not be limited to\" a list that includes \"plunder of public or private property, wanton destruction of cities, towns or villages, or devastation not justified by military necessity\". In the section of the Judgment on the law relating to war crimes, the Tribunal cited Articles 46, 50, 52 and 56 of the Hague Convention of 1907 (the page read does not cite Article 47), stated that the crimes defined by Article 6(b) were already recognised as war crimes under international law, and stated that by 1939 the Convention's rules were recognised by all civilised nations as \"declaratory of the laws and customs of war\"; it also said that individual liability for such violations was \"too well settled to admit of argument\". The Indictment's Count Three, section on plunder, cited \"particularly Articles 46 to 56 inclusive of the Hague Regulations, 1907\". The text of the Hague Regulations themselves was not read for this entry.",
+  "outcome": "In the Judgment of 30 September and 1 October 1946: (1) The Tribunal stated that \"a wholesale seizure was made of art treasures, furniture, textiles and similar articles in all the invaded countries\", that the Einsatzstab Rosenberg's work developed into \"a project for the seizure of cultural treasures\", and that \"In many of the occupied countries private collections were robbed, libraries were plundered, and private houses were pillaged.\" (2) Rosenberg: the Tribunal stated he \"is responsible for a system of organised plunder of both public and private property throughout the invaded countries of Europe\", that as of 14 July 1944 more than 21,903 art objects had been seized by the Einsatzstab in the West, and that he is \"guilty on all four counts\". (3) Goering: the Tribunal found him guilty on all four counts; the Judgment states that he \"was the active authority in the spoliation\" of conquered territory. The Goering section as read does not mention works of art or the Einsatzstab. (4) Seyss-Inquart: the Tribunal stated that in the Netherlands \"there was widespread pillage of public and private property\", given \"colour of legality\" by his regulations, and found him guilty under Counts Two, Three and Four (not guilty on Count One). (5) Frank: the proceedings record a finding of not guilty on Count One and guilty on Counts Three and Four; the Frank section of the Judgment was not read for plunder findings. (6) Sentences: a mirror of the official proceedings volume records death by hanging for Goering, Rosenberg, Frank and Seyss-Inquart. The Judgment does not, in the sections read, attribute any single conviction to the plunder of cultural property alone.",
+  "interpretation": null,
+  "start_date": "1945-10-18",
+  "start_date_display": "1945-10-18 (Indictment lodged)",
+  "end_date": "1946-10-01",
+  "end_date_display": "1946-10-01 (Judgment pronounced 30 September and 1 October 1946)",
+  "timeline": [
+    {
+      "date": "1940-01-29",
+      "date_display": "29 January 1940",
+      "title": "Rosenberg designated by Hitler",
+      "description": "The Judgment states that \"The defendant Rosenberg was designated by Hitler on the 29th January 1940\" as head of a Centre for National Socialist Ideological and Educational Research, and that thereafter the organisation known as the \"Einsatzstab Rosenberg\" conducted its operations on a very great scale. The Judgment says it was originally designed for a research library and \"developed into a project for the seizure of cultural treasures.\"",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "1942-03-01",
+      "date_display": "1 March 1942",
+      "title": "Further decree on searching cultural establishments",
+      "description": "The Judgment states that on 1 March 1942 Hitler issued a further decree authorising Rosenberg to search libraries, lodges and cultural establishments, and that Rosenberg's activities were thereafter extended to the occupied countries.",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "1944-07-14",
+      "date_display": "14 July 1944",
+      "title": "Einsatzstab seizure figure cited in the Judgment",
+      "description": "In the section on Rosenberg the Judgment states that as of 14 July 1944 \"more than 21,903 art objects, including famous paintings and museum pieces,\" had been seized by the Einsatzstab in the West.",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "1945-08-08",
+      "date_display": "8 August 1945",
+      "title": "London Agreement and Charter",
+      "description": "The Judgment begins its account with the Agreement of 8 August 1945 establishing the Tribunal, to which the Charter is annexed. Article 6(b) of the Charter lists \"plunder of public or private property\" among the violations of the laws or customs of war.",
+      "source_ids": [
+        "src_00",
+        "src_08"
+      ]
+    },
+    {
+      "date": "1945-10-18",
+      "date_display": "18 October 1945",
+      "title": "Indictment lodged",
+      "description": "The Judgment states the Indictment was lodged against the defendants in Berlin on 18 October 1945; the trial record of the first day gives the same date. Count Three of the Indictment charged war crimes, including a section headed \"Plunder of Public and Private Property\" that cites Articles 46 to 56 of the Hague Regulations (1907).",
+      "source_ids": [
+        "src_01",
+        "src_09",
+        "src_10"
+      ]
+    },
+    {
+      "date": "1945-11-20",
+      "date_display": "20 November 1945",
+      "title": "Trial begins",
+      "description": "The Judgment states the trial began on 20 November 1945; the proceedings volume records the first day as Tuesday, 20 November 1945.",
+      "source_ids": [
+        "src_01",
+        "src_09"
+      ]
+    },
+    {
+      "date": "1946-09-30",
+      "date_display": "30 September 1946",
+      "title": "Reading of the Judgment begins",
+      "description": "On the 217th day of the trial the President announced that the Judgment would be read. The Judgment is dated 30 September and 1 October 1946.",
+      "source_ids": [
+        "src_01",
+        "src_08"
+      ]
+    },
+    {
+      "date": "1946-10-01",
+      "date_display": "1 October 1946",
+      "title": "Verdicts and sentences",
+      "description": "The proceedings record guilty verdicts on all four counts for Goering and Rosenberg, and for Frank on Counts Three and Four; the Seyss-Inquart section of the Judgment finds him guilty under Counts Two, Three and Four. A mirror of the official volume gives the sentence for Goering, Rosenberg, Frank and Seyss-Inquart as death by hanging.",
+      "source_ids": [
+        "src_06",
+        "src_07",
+        "src_11"
+      ]
+    }
+  ],
+  "section_sources": {
+    "SUMMARY": [
+      "src_00",
+      "src_01",
+      "src_03",
+      "src_04",
+      "src_05",
+      "src_06",
+      "src_10"
+    ],
+    "LEGAL_BASIS": [
+      "src_00",
+      "src_02",
+      "src_10"
+    ],
+    "OUTCOME": [
+      "src_03",
+      "src_04",
+      "src_05",
+      "src_06",
+      "src_07",
+      "src_11"
+    ],
+    "INTERPRETATION": []
+  },
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Charter of the International Military Tribunal",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu//imt//imtconst.asp",
+      "source_type": "treaty",
+      "tier": 1,
+      "reliability_note": "Text of the Charter annexed to the Agreement of 8 August 1945. Only Article 6(b) fragments confirmed on reading are quoted. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1945-08-08",
+      "published_date_display": "8 August 1945 (date of the London Agreement referred to on the page)",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Judgment of the International Military Tribunal for the Trial of German Major War Criminals (title page)",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/judgen.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Cover/opening of the Judgment: dated Nuremberg, 30 September and 1 October 1946; states the Indictment was lodged in Berlin on 18 October 1945 and that the trial began on 20 November 1945. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1946-10-01",
+      "published_date_display": "30 September and 1 October 1946",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Judgment: The Law Relating to War Crimes and Crimes Against Humanity",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/judlawre.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Section of the Judgment citing Hague Convention (1907) Articles 46, 50, 52 and 56; Article 47 is not cited on this page. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1946-09-30",
+      "published_date_display": "30 September 1946 (Judgment pronounced 30 September and 1 October 1946)",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Judgment: War Crimes and Crimes Against Humanity",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/judwarcr.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Section of the Judgment containing the findings on plunder, art treasures and the Einsatzstab Rosenberg (found under the sub-heading 'Murder and Ill-Treatment of Civilian Population'; the plunder discussion has no heading of its own). Figures in the Scholz report are not reproduced in this entry because only fragments were read. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1946-09-30",
+      "published_date_display": "30 September 1946 (Judgment pronounced 30 September and 1 October 1946)",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Judgment: Rosenberg",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/judrosen.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Individual finding on Alfred Rosenberg: Einsatzstab Rosenberg, 21,903 art objects figure, conclusion 'guilty on all four counts'. The page itself contains no sentence. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1946-10-01",
+      "published_date_display": "30 September and 1 October 1946",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Judgment: Goering",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/judgoeri.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Individual finding on Hermann Goering. On a search of the page, no occurrence of 'art', 'museums', 'Einsatzstab', 'Rosenberg', 'works of art' or 'cultural' was found; it speaks of plunder of conquered territory in general terms. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1946-10-01",
+      "published_date_display": "30 September and 1 October 1946",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Judgment: Seyss-Inquart",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/judseyss.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Individual finding on Arthur Seyss-Inquart: pillage of public and private property in the Netherlands; counts of conviction. The page was read for property findings only; no finding specific to works of art was confirmed. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1946-10-01",
+      "published_date_display": "30 September and 1 October 1946",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Nuremberg Trial Proceedings Vol. 22: Tuesday, 1 October 1946 (verdicts)",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/10-01-46.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Official trial proceedings text of the verdicts on the individual defendants (counts of guilt). Only the first c.100,000 of c.127,000 characters were read through the fetch tool, and the reading did not reach the verdicts on Seyss-Inquart; sentences are not on the portion read. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1946-10-01",
+      "published_date_display": "1 October 1946",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Nuremberg Trial Proceedings Vol. 22: Monday, 30 September 1946",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/09-30-46.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Opening of the reading of the Judgment on the 217th day: 'The Judgment of the international Military Tribunal will now be read.' Only the first c.100,000 characters were read. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1946-09-30",
+      "published_date_display": "30 September 1946",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Nuremberg Trial Proceedings Vol. 2: First Day, Tuesday, 20 November 1945",
+      "publisher": "The Avalon Project, Yale Law School (Lillian Goldman Law Library)",
+      "url": "https://avalon.law.yale.edu/imt/11-20-45.asp",
+      "source_type": "court",
+      "tier": 1,
+      "reliability_note": "Records that the Indictment was lodged with the Tribunal in Berlin on 18 October 1945 and that proceedings opened on 20 November 1945. Only the first c.100,000 characters were read. Avalon is a university-hosted transcription of the official text, not the Tribunal's own site; page was read through a fetch tool that returns summaries and short quotations, so quotations should be re-checked against the page or the official proceedings volumes before approval.",
+      "published_date": "1945-11-20",
+      "published_date_display": "20 November 1945",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Indictment: Count Three (War Crimes), Section VIII(E) 'Plunder of Public and Private Property'",
+      "publisher": "The Avalon Project text, read via a Britannica-hosted mirror (cdn.britannica.com/primary_source/avalon)",
+      "url": "https://cdn.britannica.com/primary_source/avalon/imt/count3.asp",
+      "source_type": "court",
+      "tier": 2,
+      "reliability_note": "Mirror of the Avalon text of the Indictment's war-crimes count; the original Avalon URL could not be opened. Page gives no date; the Indictment's lodging date comes from src_01 and src_09. Content read through a summarising fetch tool; quotations should be re-checked.",
+      "published_date": "",
+      "published_date_display": "undated on page",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Nuremberg International Military Tribunal, Volume 1 (Blue Series), p. 366: sentences (Mazal Library mirror, IMT01-T366)",
+      "publisher": "The Mazal Library (archived copy hosted at phdn.org)",
+      "url": "https://phdn.org/archives/www.mazal.org/archive/imt/01/IMT01-T366.htm",
+      "source_type": "court",
+      "tier": 2,
+      "reliability_note": "Third-party mirror of the official proceedings volume; the page states sentences were read in open court by the President on 1 October 1946, while its table is dated 30 September 1946. Used only for the sentences (death by hanging) of Goering, Rosenberg, Frank and Seyss-Inquart. Read through a summarising fetch tool; the Seyss-Inquart wording came from the sentencing text, not a table. Should be checked against an official copy.",
+      "published_date": "1946-10-01",
+      "published_date_display": "1 October 1946",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "site_slugs": [],
+  "country_links": [
+    {
+      "country_slug": "germany",
+      "role": "state of the defendants; the Charter applied to persons acting in the interests of the European Axis countries"
+    }
+  ],
+  "review_status": "approved",
+  "approved_by": "Harry Disley",
+  "approved_date": "2026-10-15",
+  "approval_note": "Approved by Harry Disley in chat on 2026-10-15 after reviewing the casebook batch summary; independent verifier checked against official sources. Quotations were read through a summarising fetch tool and should be compared with the original documents before being cited.",
+  "last_verified_date": "2026-10-15",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft. case_type TRIBUNAL chosen (an ad hoc international military tribunal created by treaty), consistent with the approved Strugar entry; INTERNATIONAL_CRIMINAL would also be defensible. Dates: Indictment lodged 18 Oct 1945 and trial opened 20 Nov 1945 (Judgment title page and trial record); Judgment dated 30 Sept and 1 Oct 1946. Known gaps: (1) direct curl to avalon.law.yale.edu was refused by the proxy and several Avalon URLs (count3.asp, judfrank.asp, judcont.asp) were not opened; all pages were read through a summarising fetch tool, so quotations must be re-verified verbatim against the pages. (2) Article 6 of the Charter was read only in fragments (the 6(b) lead-in and the plunder clause); the full article text was not reproduced and the Charter's own page does not carry a date. (3) Indictment Count Three was read on a Britannica-hosted mirror of the Avalon text (tier 2). (4) Sentences come from a Mazal Library mirror of Blue Series vol. 1 p. 366 (tier 2); the Avalon 1 October page read did not reach the sentences or the Seyss-Inquart verdict. (5) The Frank section of the Judgment was not opened for plunder findings; Frank appears only through the verdict record. (6) The Goering section as read mentions neither works of art nor the Einsatzstab; the Goering/art link frequently asserted elsewhere is therefore NOT claimed. (7) Hague Convention (1907) and Regulations texts were not read; the Judgment cites Articles 46, 50, 52 and 56 (not 47), the Indictment 46 to 56. (8) The Scholz-report figures and the Posse report passage in the Judgment were seen only as fragments and are not used. (9) The Judgment's separate findings on Counts One, Two and Four are not covered. Interpretation left null: no attributable analysis was opened.",
+      "changed_by": "claude-draft"
+    },
+    {
+      "date": "2026-10-15",
+      "change": "Independent verification against Avalon pages (Charter, Judgment title page, law section, war-crimes section, Rosenberg, Goering, Seyss-Inquart, 20 Nov 1945 and 1 Oct 1946 proceedings, Count Three mirror, Mazal mirror). Confirmed: Art. 6(b) wording; Agreement date 8 Aug 1945; Indictment lodged in Berlin 18 Oct 1945; trial began 20 Nov 1945; Judgment dated 30 Sept and 1 Oct 1946; Hague Convention Arts. 46, 50, 52, 56 cited (not 47); Indictment cites Arts. 46 to 56; Rosenberg and Goering guilty on all four counts; Frank not guilty Count One, guilty Counts Three and Four; Seyss-Inquart guilty Counts Two, Three, Four, not guilty Count One; Goering section has no art/Einsatzstab mention; death-by-hanging sentences per Mazal mirror. Fix (2 edits): the 21,903 art objects figure is stated in the Judgment as seized 'by the Einsatzstab in the West'; added 'in the West' in outcome and timeline. Not verified: Seyss-Inquart verdict/sentence on the Avalon 1 Oct page (truncated or not reached); Hague texts; Frank Judgment section. No evaluative wording found.",
+      "changed_by": "claude-verifier"
+    },
+    {
+      "date": "2026-10-15",
+      "change": "Approved by Harry Disley; copied to approved/ for import.",
+      "changed_by": "Harry Disley (via claude)"
+    }
+  ]
+}

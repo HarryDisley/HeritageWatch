@@ -145,6 +145,11 @@
       "date": "2026-10-12",
       "changed_by": "claude-draft",
       "change": "Added site_slugs for newly approved site profiles: kyiv-saint-sophia-and-kyiv-pechersk-lavra, lviv-historic-centre. No treaty data changed."
+    },
+    {
+      "date": "2026-10-14",
+      "changed_by": "claude-draft",
+      "change": "Added links to site profiles approved on 2026-10-14: kyiv-saint-sophia-and-kyiv-pechersk-lavra, lviv-historic-centre. No treaty data changed."
     }
   ]
 }

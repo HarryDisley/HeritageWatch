@@ -1,0 +1,476 @@
+{
+  "slug": "everglades-national-park",
+  "name": "Everglades National Park",
+  "alternate_names": [
+    "Everglades"
+  ],
+  "country": "United States of America",
+  "region": "North America",
+  "coordinates": {
+    "lat": 25.5544,
+    "lng": -80.9964
+  },
+  "coordinate_note": "Converted from the centre-point coordinates on UNESCO's property page (N25 33 16, W80 59 47). The inscribed property is a large area (567,017 ha), not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "76",
+  "inscription_year": 1979,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "natural",
+  "significance_summary": "UNESCO inscribed Everglades National Park in 1979 under natural criteria (viii), (ix) and (x). UNESCO's description calls it the largest designated sub-tropical wilderness reserve on the North American continent and 'a river of grass flowing imperceptibly from the hinterland into the sea'; it supports many birds, reptiles and threatened species such as the manatee. The inscribed property covers 567,017 ha within a park of 610,670 ha.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Water management is the longest-standing documented threat: UNESCO's property page states that water management manipulations 'have been recognized as the largest environmental threat to the park', that flow volumes into the northern boundary 'are believed to have decreased by approximately 60 percent' and that wading bird populations 'are estimated at just 10% of pre-drainage levels' (the page does not date these figures). The Committee's 2025 decision (47 COM 7A.3) notes growing climate impacts including sea level rise, marsh collapse, vegetation shifts and saltwater intrusion, calls invasive alien species a major threat to Outstanding Universal Value, and expresses concern about localized increases in total phosphorus and continued mercury presence; it also reports that the roseate spoonbill population is declining and has abandoned historic nesting sites. IUCN's 2025 Outlook assessment states that invasive species are an increasing threat to site values and that climate change and sea level rise are increasingly impacting the property, and rates overall outlook Critical with values deteriorating. Peer-reviewed work supports the coastal-change concern: Sklar et al. (2021) estimate that, without soil accretion, 0.76 m of sea-level rise by 2070 would convert about 1,160 sq km of wetland in the study area (a 2-5 km-wide coastal band covering Everglades National Park and the East and West coastal regions of South Florida) to open estuarine water (the study area is a 2-5 km-wide coastal band, and the estimate is for the no-accretion case; the authors also model lower losses with soil accretion); Wilson et al. (2018) report field experiments within the park in which salinity pulses shifted a brackish marsh from a carbon sink to a carbon source and likely contribute to observed peat collapse. The Committee also records improvements: increased water flows, reduced nutrient pollution, reduced hypersalinity.",
+      "first_identified_date": null,
+      "date_note": "Chronic, long-term pressures documented across successive Committee decisions; the sources read give no single start date.",
+      "source_ids": [
+        "src_00",
+        "src_04",
+        "src_06",
+        "src_10",
+        "src_16",
+        "src_17"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "The U.S. Department of the Interior's 2010 press release states that the park was first placed on the Danger List in 1993, after Hurricane Andrew, because of concerns about deterioration of its ecological integrity. The Committee's 2025 decision reports no wildfires affecting the property for over a decade and does not mention storms; its sea-level and related climate impacts are described under environmental_climate. The sources read do not document unrepaired damage to the property from a disaster in 2025-2026. This category reflects continuing exposure as described in the 1993 listing history, not a currently documented unrepaired disaster; evidence is thin.",
+      "first_identified_date": null,
+      "date_note": "The year of Hurricane Andrew is not stated in the sources read, so no date is given; the 1993 danger listing is recorded in events[].",
+      "source_ids": [
+        "src_09",
+        "src_04"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The Committee has retained the property on the Danger List at every review read here (2023, 2024, 2025, 2026). In 2023 it stated that almost two thirds of the sub-indicators for the Desired state of conservation for removal (DSOCR) remain below restoration targets; the 2025 decision, as summarised from the decision page, again describes nearly two-thirds of the indicators as falling short. The Committee strongly encouraged reassessing and updating the corrective measures (adopted 2006, updated 2011) in 2025 and in 2026 reiterated its request for a joint World Heritage Centre / IUCN Reactive Monitoring mission and recalled its request for an updated report by 1 December 2026, with a full report for the 49th session in 2027. Development pressure: in 2023 and 2025 the Committee expressed 'utmost concern' about the proposed SR 836 / Dolphin Expressway extension and urged alternatives and an impact assessment; the 2024 decision records the project as 'temporarily halted' by a legal challenge with a decision pending (the current status of the project was not established from the sources read). Restoration investment is also documented: 2023 funding commitments of almost USD 1.5 billion (Committee) and, per April 2026 news reports, more than USD 2 billion in federal funding for the EAA Reservoir targeted for completion in 2029. IUCN rates protection and management 'Some Concern'.",
+      "first_identified_date": "1993",
+      "date_note": "Date is that of the first danger listing (1993) as recorded on UNESCO's property page; management and restoration concerns have continued through successive decisions.",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_10",
+        "src_13",
+        "src_14"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met on the evidence reviewed, but this is the close call. The closest Critical trigger is 'an ongoing severe threat materially affecting the site's survival, integrity or accessibility per an authoritative source': IUCN's 2025 Outlook assessment rates overall outlook Critical, values Critical with a deteriorating trend, and threats Very High. Against that, the World Heritage Committee itself (47 COM 7A.3, 2025) welcomed documented improvements since 2019 and, in 2026 (48 COM 7A.42), made no new emergency finding on the pages read; there is no active combat, no loss of monitoring access, and no collapse of protection (restoration funding is ongoing and State Party reporting continues). IUCN's rating is one authority's outlook assessment and a different instrument from the Committee's decisions; the full 2026 state of conservation report could not be opened. High Concern trigger matched: official inscription on the List of World Heritage in Danger for substantive (not administrative) reasons. Everglades National Park has been on the Danger List since 2010, as shown directly on UNESCO's List of World Heritage in Danger page (which gives 2010 as the listing year); UNESCO's property page records the earlier 1993-2007 listing. The Committee retained it by decisions 48 COM 7A.42 and 48 COM 8C.2 (2026). Neighbouring status: Critical Concern. A reviewer may weigh the IUCN Critical rating more heavily.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The property is currently on the List of World Heritage in Danger for substantive ecological reasons and the Committee retained it there in 2026. Current evidence shows mixed conditions rather than a single trajectory: the Committee (2025) welcomed increased water flows, reduced nutrient pollution, growing crocodile, alligator and wading bird populations, reduced hypersalinity and no wildfires for over a decade, but also stated that invasive alien species remain a major threat, expressed concern about phosphorus and mercury, noted growing climate impacts, and (2023) stated that almost two thirds of the DSOCR sub-indicators remain below restoration targets. IUCN's 2025 assessment is more negative (overall Critical, values deteriorating, with the statement that some losses cannot be restored). Against escalation to Critical Concern, restoration projects are described as operational by the Committee (2023), State Party funding is documented (almost USD 1.5 billion committed per the 2023 decision; more than USD 2 billion in federal funding for the EAA Reservoir reported in April 2026), and the sources read report no loss of monitoring access (State Party reporting and Committee review continue). Confidence is Supported rather than Confirmed: the Committee decisions and the IUCN assessment agree on the seriousness of the situation, but the 2026 state of conservation report and the full IUCN assessment document were not read, the 2025 and 2026 decision pages were read in summarised form for some paragraphs, and the High/Critical boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_06",
+        "src_10",
+        "src_13",
+        "src_14"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of five categories have publicly viewable evidence that was opened (photographic and academic/scholarly), which gives the moderate tier by the rubric. Photographic evidence is a small public gallery (12 images) and a Google Arts & Culture page, not a systematic survey. Archival records: the National Park Service's South Florida Collections page lists virtual exhibits, and an NPS collections page describes archives of over 2.1 million items, but that page (last updated 2015) mentions no online catalog and no exhibit was opened, so this category is marked false rather than assumed. 3D documentation: a University of South Florida Sketchfab collection of Everglades models appeared in search results but its page returned no readable content, so it is not counted; LiDAR datasets found were ecological research data. Virtual tour: the NPS virtual programs read are live sessions for registered groups, and a Google Arts & Culture exhibit announced by the Everglades Foundation was not itself opened, so none is counted. UNESCO's own reports and decisions are not counted as archival records. Coverage reflects what is publicly findable. Verifier note: the academic_scholarly category rests on ecological research papers about the park rather than heritage-documentation scholarship; this is a borderline reading of the category (the coverage note excludes ecological LiDAR datasets on similar grounds), so the moderate tier is sensitive to it - if the category is not accepted the site would be limited.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (12 images, credited to named photographers).",
+        "url": "https://whc.unesco.org/en/list/76/gallery/",
+        "source_id": "src_15"
+      },
+      {
+        "category": "photographic",
+        "description": "Google Arts & Culture 'Everglades National Park' page listing 24 items (e.g., landscape and wildlife images), several linked assets carry National Park Service titles or URLs (credit lines are not printed on the page).",
+        "url": "https://artsandculture.google.com/entity/m0199l4",
+        "source_id": "src_18"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed research on the park region: Sklar et al. (2021, Frontiers in Ecology and Evolution) estimates sea-level-rise impacts on coastal wetlands in a band covering Everglades National Park and coastal South Florida.",
+        "url": "https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.646083/pdf",
+        "source_id": "src_16"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Wilson et al. 2018, Ecological Applications, salinity pulses and carbon loss in Everglades marshes (field manipulations conducted within the park).",
+        "url": "https://digitalcommons.fiu.edu/fce_lter_journal_articles/521",
+        "source_id": "src_17"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1979",
+      "title": "Everglades National Park inscribed on the World Heritage List",
+      "description": "UNESCO's property page records inscription in 1979 under natural criteria (viii), (ix) and (x).",
+      "event_type": "other",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "1993",
+      "title": "Property first placed on the List of World Heritage in Danger",
+      "description": "UNESCO's property page records danger listing for 1993-2007. The U.S. Department of the Interior's 2010 press release says the park was first placed on the list in 1993, after Hurricane Andrew, because of concerns about deterioration of its ecological integrity. The Committee's own 1993 reasoning (17 COM XI) was not available on the decision page read.",
+      "event_type": "other",
+      "source_ids": [
+        "src_00",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2007",
+      "title": "Property removed from the Danger List",
+      "description": "Committee decision 31 COM 8C.3 removed Everglades National Park from the List of World Heritage in Danger. The Interior Department's 2010 press release says the removal came at the previous U.S. administration's request. The decision page read gives no reasons.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2010-07",
+      "title": "Committee returns the property to the Danger List",
+      "description": "At its 34th session the Committee decided (34 COM 7B.29) to inscribe the property on the List of World Heritage in Danger, noting with concern that the property's aquatic ecosystem continued to deteriorate and welcoming the State Party's request for re-inscription. The U.S. Interior Department's press release is dated 30 July 2010.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2017-11",
+      "title": "IUCN rates the property's conservation outlook 'critical'",
+      "description": "WLRN reported that IUCN's November 2017 outlook report rated Everglades National Park's conservation outlook 'critical', citing changes to water flow, quality, distribution and timing, invasive species and overlapping management plans and jurisdictions, as described by IUCN adviser Peter Shadie.",
+      "event_type": "other",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee decision 45 COM 7A.17 retains the property on the Danger List",
+      "description": "The Committee noted new funding commitments of almost USD 1.5 billion and the purchase of approximately 8,000 ha of land and drilling rights in the Everglades Protection Area, but stated that almost two thirds of the sub-indicators for the Desired state of conservation for removal (DSOCR) remain below the restoration targets. It expressed 'utmost concern' about the planned SR 836 / Dolphin Expressway extension.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.41 retains the property on the Danger List",
+      "description": "The Committee acknowledged an updated report on the proposed SR 836 / Dolphin Expressway extension, which it records as 'temporarily halted' because of a legal challenge with a decision still pending, and recalled its request for an updated state of conservation report by 1 December 2024, for examination at the 47th session.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "title": "Committee decision 47 COM 7A.3 retains the property on the Danger List",
+      "description": "The Committee welcomed improvements since 2019 (including increased water flows, reduced nutrient pollution, growing crocodile, alligator and wading bird populations, reduced hypersalinity and no wildfires affecting the property for over a decade), while stating that invasive alien species remain a major threat and expressing concern about localized increases in total phosphorus and continued mercury presence. It expressed 'utmost concern' about the proposed SR 836 / Dolphin Expressway extension, strongly encouraged updating the corrective measures (adopted 2006, updated 2011), requested a joint World Heritage Centre / IUCN Reactive Monitoring mission and an updated report by 1 December 2026. WLRN reported the decision on 9 July 2025; the month is taken from that report.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2025-10-11",
+      "title": "IUCN World Heritage Outlook assessment finalised: overall outlook Critical",
+      "description": "IUCN's 2025 assessment page lists the overall Conservation Outlook as Critical (finalised 11 October 2025), with values rated Critical with a deteriorating trend, threats rated Very High Threat and protection and management rated Some Concern.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2026-04",
+      "title": "More than USD 2 billion in federal funding reported for the EAA Reservoir",
+      "description": "National Parks Traveler (14 April 2026) and WGCU (16 April 2026) reported more than USD 2 billion in federal funding for the Everglades Agricultural Area Reservoir, with completion targeted for 2029 versus the previously planned 2034 (National Parks Traveler says the Army Corps of Engineers' Jacksonville District modified the contract to finish construction by 2029). WGCU reports that Gov. Ron DeSantis championed the federal-state agreement last year and says it will speed completion, and quotes Everglades Foundation CEO Erik Eikenberg: 'This investment provides the financial certainty needed to keep construction on an accelerated track.'; WGCU describes the reservoir as south of Lake Okeechobee, and the articles do not give a completion percentage.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_13",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "Committee decision 48 COM 7A.42 retains the property on the Danger List",
+      "description": "At its 48th session in Busan (19-29 July 2026, per UNESCO's session page) the Committee decided to retain Everglades National Park on the List of World Heritage in Danger (48 COM 7A.42 and, among 52 retained properties, 48 COM 8C.2), reiterated its request for a joint World Heritage Centre / IUCN Reactive Monitoring mission, recalled its request for an updated report by 1 December 2026, and noted that a full state of conservation report will be provided for examination at its 49th session in 2027. The decision text as read contains only these operative paragraphs.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_19"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Everglades National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/76/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.42: Everglades National Park (United States of America)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9031",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 48 COM 8C.2: Update of the List of World Heritage in Danger (Retained Properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9208",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 47 COM 7A.3: Everglades National Park (United States of America)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8670",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 46 COM 7A.41: Everglades National Park (United States of America)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8510",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 45 COM 7A.17: Everglades National Park (United States of America)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8131",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 34 COM 7B.29: Everglades National Park (United States of America)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4137",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2010",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 31 COM 8C.3: Removal of properties from the List of World Heritage in Danger (includes Everglades National Park)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/1380",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2007",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Salazar Applauds World Heritage Committee's Decision to Return Everglades National Park to Danger List",
+      "publisher": "U.S. Department of the Interior",
+      "url": "https://www.doi.gov/news/pressreleases/Salazar-Applauds-World-Heritage-Committees-Decision-to-Return-Everglades-National-Park-to-Danger-List",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Press release from a party to the 2010 request (a US federal department); used for the stated history of the 1993 listing, the 2007 removal and the 2010 re-listing request, not for the Committee's formal reasoning.",
+      "published_date": "2010-07-30",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Everglades National Park (IUCN World Heritage Outlook, 2025 assessment)",
+      "publisher": "IUCN World Heritage Outlook",
+      "url": "https://worldheritageoutlook.iucn.org/node/966",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Page text was read in part (first ~100,000 of ~117,000 characters plus the final section); the full assessment document was not opened. Outlook ratings are IUCN's own assessment, distinct from decisions of the World Heritage Committee.",
+      "published_date": "2025-10-11",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Everglades critical: why a UN-linked group gave Florida's World Heritage site a dire designation",
+      "publisher": "WLRN",
+      "url": "https://www.wlrn.org/post/everglades-critical-why-un-linked-group-gave-floridas-world-heritage-site-dire-designation",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2018-01-16",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "United Nations keeps Everglades National Park on global 'in danger' list",
+      "publisher": "WLRN (republished by WUWF)",
+      "url": "https://www.wlrn.org/news-in-brief/2025-07-09/united-nations-keeps-everglades-everglades-national-park-on-global-in-danger-list",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Short news-in-brief item that does not name its sources or give the meeting date; used as corroboration of the 2025 decision, not as the sole support for any status-determining claim.",
+      "published_date": "2025-07-09",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Reservoir Important To Everglades Restoration Receives Funding To Support Completion",
+      "publisher": "National Parks Traveler",
+      "url": "https://www.nationalparkstraveler.org/2026/04/reservoir-important-everglades-restoration-receives-funding-support-completion",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Unsigned staff piece; relies substantially on the Everglades Foundation (an advocacy organisation) for its framing of the reservoir's role.",
+      "published_date": "2026-04-14",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "DeSantis says infusion of major federal dollars will speed key aspect of Everglades restoration",
+      "publisher": "WGCU News",
+      "url": "https://www.wgcu.org/section/environment/2026-04-16/desantis-says-infusion-of-major-federal-dollars-will-speed-key-aspect-of-everglades-restoration",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-04-16",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Everglades National Park: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/76/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Coastal Ecosystem Vulnerability and Sea Level Rise (SLR) in South Florida: A Mangrove Transition Projection (Sklar et al.)",
+      "publisher": "Frontiers in Ecology and Evolution",
+      "url": "https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.646083/pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Salinity pulses interact with seasonal dry-down to increase ecosystem carbon loss in marshes of the Florida Everglades (Wilson et al.)",
+      "publisher": "Ecological Applications (via FIU Digital Commons)",
+      "url": "https://digitalcommons.fiu.edu/fce_lter_journal_articles/521",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2018",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Everglades National Park (Google Arts & Culture)",
+      "publisher": "Google Arts & Culture",
+      "url": "https://artsandculture.google.com/entity/m0199l4",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Platform page listing 24 items, several linked assets reference the National Park Service (no credit lines printed); no named partner institution or tour was shown on the page, and its introductory text links to Wikipedia.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "48th session of the World Heritage Committee (Busan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/sessions/48COM",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger (IUCN 2025 Outlook rated Critical vs Committee welcoming improvements). Danger List status checked directly on UNESCO's List of World Heritage in Danger page (Everglades National Park listed, 2010) and on decisions 48 COM 7A.42 / 8C.2. Known gaps (not included because not verified): (1) UNESCO 2026 State of Conservation page (whc.unesco.org/en/soc/4987) returned an error, so neither the State Party's 2026 report nor the Secretariat/IUCN assessment was read; decision 48 COM 7A.42 as read contains only five operative paragraphs. (2) Two NPS pages (World Heritage page and nature page) were blocked by a permission prompt and not read, so no NPS statement on current conditions is cited. (3) IUCN Outlook assessment document itself was not opened; ratings come from the Outlook page. (4) The 1993 Committee reasoning (17 COM XI) was not available on the decision page; the Hurricane Andrew link rests on the U.S. Interior Department press release. (5) The decisions 47 COM 7A.3 and 46 COM 7A.41 were read via page summaries; exact month of the 2025 session not confirmed (taken from WLRN, 9 July 2025). (6) Current status of the SR 836 / Dolphin Expressway extension after 2024 was not established; Committee positions only. (7) Reports about the Alligator Alcatraz detention facility were found in search results but not read and their relation to the property boundary was not established; omitted. (8) Python, hurricane and Florida Bay biodiversity details beyond the Committee/IUCN/UNESCO statements cited were not independently sourced. (9) No images, 3D models or tours were verified beyond those listed under digital_preservation. Images omitted by design. VERIFIER (2026-10-15): all 20 sources fetched and compared. Fixes: (1) 2024 event - decision recalls (not newly asks for) the 1 Dec 2024 report request, and adds the 47th-session purpose; (2) 2026 event - 48th session described as held (19-29 July 2026), not 'scheduled'; (3) April 2026 event - WGCU attribution corrected (DeSantis credits the federal-state agreement; Everglades Foundation CEO says funds targeted faster completion), not 'attributes to DeSantis'; (4) rationale - unsourced claim that the property 'remains accessible' softened to 'no loss of monitoring access reported in sources read'; (5) DPI - Google Arts & Culture 'credited to NPS' softened (page prints no credit lines; asset links reference NPS) and duplicate Google claim removed from the UNESCO gallery entry. Verified without change: UNESCO page figures/quotes, all decision contents (45/46/47/48 COM, 34 COM 7B.29, 31 COM 8C.3, 8C.2 with 52 properties), 'utmost concern' wording in 2023 and 2025, 'strongly encourages' 2025, IUCN 2025 ratings, DOI release, WLRN pieces, Sklar/Wilson figures, coordinates. Status High Concern / Supported left unchanged. SECOND VERIFIER (2026-10-15): re-fetched all sources. Fixes: (1) decision_trigger - the danger-list page gives only 2010; 1993-2007 attributed to the property page; (2) April 2026 event - Everglades Foundation CEO quote now stated as published, Corps contract modification (NPT) added, DeSantis described as WGCU does; (3) 2023 event - 'new funding commitments' as the decision words it, 'additional'/'State Party's commitment' removed; (4) Sklar study area clarified as a 2-5 km coastal band with no-accretion caveat, Wilson peat-collapse wording aligned to 'likely contributes'; (5) DPI - Wilson claim removed from the Sklar (src_16) evidence entry, and the borderline nature of counting ecological research papers as academic_scholarly flagged in coverage_note. Status High Concern / Supported and DPI moderate left unchanged.",
+      "changed_by": "claude"
+    }
+  ]
+}

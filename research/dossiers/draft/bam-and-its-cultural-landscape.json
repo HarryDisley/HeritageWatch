@@ -1,0 +1,504 @@
+{
+  "slug": "bam-and-its-cultural-landscape",
+  "name": "Bam and its Cultural Landscape",
+  "alternate_names": [
+    "Bam",
+    "Arg-e Bam (citadel)"
+  ],
+  "country": "Iran",
+  "region": "Asia",
+  "coordinates": {
+    "lat": 29.1168,
+    "lng": 58.3667
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N29 7 0.588, E58 22 0). The inscribed property includes the citadel, the town and surrounding cultural landscape, so this marker is a practical single-point reference.",
+  "unesco_id": "1208",
+  "inscription_year": 2004,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Bam is a fortified desert oasis town in Kerman Province on the southern edge of the Iranian high plateau. UNESCO describes its origins in the Achaemenid period (6th to 4th centuries BC) and its heyday between the 7th and 11th centuries, when it was a crossroads on Silk Road trade routes. The property includes the Arg-e Bam citadel, a medieval mud-built town and qanat underground irrigation systems that UNESCO says still function. It was inscribed in 2004 under criteria (ii), (iii), (iv) and (v), shortly after the December 2003 earthquake, with a minor boundary modification inscribed in 2007.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Seismic risk is a standing threat. The 26 December 2003 earthquake is the defining event in the property's record (see events[]): an AFP report gave a death toll of 26,000 to 32,000 citing 'various estimates', and the 2023 periodic report states that it collapsed sections of the Governor's Quarters and the upper defence walls. In the same report's earthquake entry (section 4.11.2), the text read shows the earlier Cycle 2 (2011) answer as relevant, negative, current, potential, inside and outside the property; the 2023 selections and the factors summary table did not appear in the text read, so a current State Party rating of earthquake risk was not confirmed. The 2011 joint World Heritage Centre / ICOMOS mission, which recorded that the Desired State of Conservation had not yet been achieved, recommended that the State Party consider a research centre on seismic-resistant earthen architecture. The sources read do not quantify the property's present seismic vulnerability or describe a current seismic monitoring or retrofit programme, so this entry records an acknowledged hazard rather than a measured level of risk.",
+      "first_identified_date": "2003-12-26",
+      "date_note": "Date of the 2003 earthquake. Seismic hazard in the region is long-standing; the periodic report's earthquake entry shows the earlier Cycle 2 answer as a current and potential factor.",
+      "source_ids": [
+        "src_09",
+        "src_10",
+        "src_11"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Reconstruction and management were the central issues in UNESCO's record. The October 2011 mission (src_10) found debris removal at the citadel about 97% complete, 11 of 15 components still needing full or partial conservation work, a heavy steel and concrete retaining structure at the Governor's Seat tower that the Committee had not approved and the mission considered a threat to authenticity, and illegal settlement and a buffer-zone gas station as encroachment problems. In Decision 37 COM 7A.31 (2013) the Committee found the corrective measures completed and removed the property from the Danger List, but noted it remains vulnerable and recommended a revised Management Plan with visitor management, control of illegal construction and protection of the buffer zone, consistent restoration guidelines balancing conservation with authenticity and integrity, and continued site security. In 2015 (39 COM 7B.93) the Committee noted with satisfaction the measures taken at Bam (a separate paragraph of the omnibus decision encourages both States Parties concerned to continue conservation efforts); the Secretariat's 2015 assessment, as summarised on UNESCO's page, said no further short-term reporting was needed. The most recent property-specific document in UNESCO's file is the 2023 periodic report, in which the State Party states that authenticity and integrity have been preserved and Outstanding Universal Value maintained, but also that the management plan (2008-2017) is only partially adequate, the available budget is inadequate for basic management needs, and coordination among administrative bodies could be improved. It also lists, as State Party responses, informal housing on the city's outskirts, with planned relocation in stages with local consent, and illegal construction and excavation as declining. How much of the citadel's reconstruction remains incomplete today was not established: the most recent figure found is a 2013 statement, relayed by AFP, from the head of Iran's heritage organisation that roughly 80 percent of the reconstruction had been completed.",
+      "first_identified_date": null,
+      "date_note": "Chronic post-earthquake reconstruction and management challenges documented from 2004 onward; no single start date applies.",
+      "source_ids": [
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_10",
+        "src_12"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "The 2023 periodic report (a State Party document) states that droughts over the last 20 years have had a negative impact on local people's quality of life, that reduced rainfall has lowered groundwater levels, that contamination of qanat water has been observed and is being monitored, and that sporadic fires occur in limited areas during hot summers. It recommends considering a comprehensive drought management plan. No independent source read quantifies these effects on the heritage fabric, so this is recorded as a chronic, self-reported pressure on the cultural landscape (qanats and agriculture) rather than as documented damage to the monuments.",
+      "first_identified_date": null,
+      "date_note": "Chronic; the periodic report refers to droughts 'of the last 20 years' without a single start date.",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "Regional context only. According to Al Jazeera (17 March 2026), a war began on 28 February 2026 when the United States and Israel launched strikes on Iran. AP (via PBS, 12 March 2026) reported that UNESCO had verified damage at at least four locations in Iran: Golestan Palace in Tehran, Chehel Sotoun Palace and the Jame Mosque in Isfahan, and buildings near the Khorramabad Valley prehistoric sites. Cultural Property News (5 May 2026) reported that Iranian authorities say more than 130 historical sites have been damaged; that figure is the authorities' and was not independently verified here. None of the sources read mentions Bam, Arg-e Bam or the Bam area as damaged or targeted. Al Jazeera, citing Iran's Ministry of Cultural Heritage, Tourism and Handicrafts, also lists reported damage to sites in several other provinces (including Kurdistan, Kermanshah, Bushehr and Ilam) but does not mention Kerman Province or Bam. One report (Trend, 10 March 2026) attributes to Rahman Jalali, Deputy Governor of Kerman Province, the statement that two passenger aircraft were destroyed when an airport in Kerman Province, which the report does not name, was struck by the United States and Israel; it does not mention Bam and it was not established whether this was near the property. The status of hostilities as of October 2026 could not be checked in this pass.",
+      "first_identified_date": "2026-02-28",
+      "date_note": "Date the war began according to Al Jazeera. This is a regional threat; no source read documents military activity at the property.",
+      "source_ids": [
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_16"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "developing",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met. No source reports severe verified current damage, fighting at or adjacent to the site, loss of monitoring access, or collapse of protection. High Concern: considered trigger by trigger. (1) Danger List: not met; UNESCO's list page, read directly on 2026-10-15, lists 58 properties and Bam (Iran) is not among them; the Committee removed it in 2013 (37 COM 7A.31). (2) Damaging event in roughly the last five years corroborated by two independent sources and not yet repaired: not met; nothing found for Bam. (3) Region under active armed conflict with credible regional reporting on risk to cultural property: this is the CLOSEST CALL. Iran has been at war since 28 February 2026 per Al Jazeera, and AP/PBS report UNESCO-verified damage at four other Iranian locations. But no source read places military activity at Bam, the reported heritage damage is mainly in Tehran, Isfahan and Lorestan, with Al Jazeera also listing sites in Kurdistan, Kermanshah, Bushehr and Ilam, and the only Kerman Province item is a single report of a strike on an unnamed airport. The condition of the conflict as of October 2026 was not verified (the sources read date from March to May 2026). If a reviewer reads 'region' as the whole country, this trigger would put the site at High Concern. (4) Severe environmental or structural threat with a stated near-term timeframe from a named authority: not met; the 2023 periodic report describes drought, and (via the earlier-cycle answer in its earthquake entry) seismic exposure, as factors without a timeframe. (5) Significant historical damage with site-wide repair substantially incomplete: considered and not found, but this is the second uncertainty, because no recent independent source quantifies how much of the citadel's reconstruction is finished (latest figure found: a 2013 official statement of about 80 percent). The 2015 Committee and Secretariat assessment and the 2023 State Party report both point to adequate progress. Moderate Concern triggers matched: documented chronic or monitored threats (seismic hazard, drought and water pressures, partially adequate management and inadequate budget per the 2023 periodic report); general regional instability without specific credible reporting that this site is exposed; and historical damage that UNESCO's Committee judged sufficiently addressed in 2013 and 2015.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2003 earthquake destroyed much of the citadel and town, and the property was on the Danger List from 2004 until the Committee removed it in June 2013 after finding the corrective measures complete. That history is preserved in events[]. The present picture rests on thinner evidence than for most sites: UNESCO's file lists no state of conservation report after 2015 and no Committee decision on the property's condition after 2015 (only a 2023 note recording boundary clarifications), and the most recent condition assessment is the State Party's own 2023 periodic report, which states that authenticity, integrity and Outstanding Universal Value are intact while acknowledging an inadequate budget, a partially adequate management plan, and drought (and, in its earthquake entry, earlier-cycle ratings of seismic risk) as continuing factors. These are chronic, monitored pressures rather than an acute emergency. The 2026 war in Iran is the main reason for caution: it affects the country and has damaged other World Heritage properties in Iran, but none of the sources read documents any strike, damage or fighting at Bam. Confidence is Developing rather than Supported because the property-specific evidence is mostly dated (2013-2015) or self-reported (2023), no independent source on Bam's condition during 2026 was found, and the conflict's current state could not be checked. Confidence does not change the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_12",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_16"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly viewable evidence, which gives the moderate tier. Photography includes a UNESCO gallery and a Columbia University before-and-after resource; archival records are the nomination file and UNESCO's reports and decisions; scholarship includes a short research-in-progress conference paper and an encyclopaedia entry. 3D documentation is marked false: a 2007 Eurographics paper reports 3D computer simulation and VR work on the citadel, but no publicly viewable model was found, and a paper describing modelling is not counted as a model. Virtual tour is marked false: a commercial 360-degree panorama page for the Bam Citadel (AirPano) and a Columbia panorama page with a pre-2003 caption were found, but the researcher could not confirm that either viewer rendered, and neither is an official or institutional tour. Coverage is uneven: much visual material predates or immediately follows the 2003 earthquake, and the reviewer may want to confirm whether post-reconstruction documentation exists.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (12 images shown on the first page, with at least one further page; credits include Martin Gray, Francesco Bandarin and Hubert Guillaud of CRA-terre).",
+        "url": "https://whc.unesco.org/en/list/1208/gallery/",
+        "source_id": "src_17"
+      },
+      {
+        "category": "photographic",
+        "description": "Columbia University's Media Center for Art History resource 'Arg-e Bam: Before and After' (images from 2003 and 2004, showing the citadel before and after the earthquake).",
+        "url": "https://learn.columbia.edu/node/2829",
+        "source_id": "src_21"
+      },
+      {
+        "category": "archival_records",
+        "description": "The nomination dossier for the property, prepared by the Iranian Cultural Heritage Organization and hosted by UNESCO as a scanned file, is publicly downloadable. UNESCO's documents page also lists ICOMOS evaluations (2004, 2007), a 2011 mission report, state of conservation reports (2005-2015) and Committee decisions.",
+        "url": "https://whc.unesco.org/uploads/nominations/1208bis.pdf",
+        "source_id": "src_18"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the ICOMOS evaluations, mission report, periodic reports, maps and decisions in one place.",
+        "url": "https://whc.unesco.org/en/list/1208/documents/",
+        "source_id": "src_03"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Short research-in-progress conference paper (Eurographics Symposium on Virtual Environments, Short Papers and Posters) reporting 3D computer simulation and a VR demonstration of the Citadel of Bam (Eurographics Symposium on Virtual Environments, 2007). Only the record and abstract were read.",
+        "url": "https://diglib.eg.org/items/85ea3b8e-fc7d-4bab-ad74-c54011c370c6",
+        "source_id": "src_19"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Encyclopaedia Iranica entry 'Bam ii. Ruins of the old town' on the history and layout of the citadel.",
+        "url": "https://www.iranicaonline.org/articles/bam-in-arabic-town/bam-ii-ruins-of-the-old-town/",
+        "source_id": "src_20"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003-12-26",
+      "title": "Earthquake devastates Bam and the Arg-e Bam citadel",
+      "description": "An AFP report gave the 26 December 2003 earthquake death toll as 26,000 to 32,000, citing 'various estimates'. The 2023 periodic report states that the earthquake collapsed sections of the Governor's Quarters and the upper defence walls and destroyed many people's buildings, and that much of the lost fabric came from modern restorations, and that materials at the older levels are well preserved and have now been revealed.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_11",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2004",
+      "title": "Property inscribed on the World Heritage List and, simultaneously, on the Danger List",
+      "description": "UNESCO records that Bam and its Cultural Landscape was inscribed in 2004 and placed on the List of World Heritage in Danger at the same time, following the earthquake.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2011-10",
+      "title": "Joint World Heritage Centre / ICOMOS reactive monitoring mission",
+      "description": "A mission on 16-22 October 2011 found that the Desired State of Conservation had not been achieved and did not recommend removal from the Danger List at that time (it suggested the tenth anniversary of the earthquake as a possible target date). It reported about 97% of citadel debris cleared, 11 of 15 components still needing full or partial conservation work, heavy steel and concrete retaining structures at two towers (the Governor's Seat tower and tower 46), of which the report says the Committee did not approve the Governor's Seat structure, and encroachment problems.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2013-06",
+      "title": "Committee removes Bam from the List of World Heritage in Danger",
+      "description": "(UNESCO's news item is dated 17 June 2013; the decision page gives only the year.) At its 37th session in Phnom Penh, the Committee (Decision 37 COM 7A.31) found the remaining corrective measures from the 2011 mission completed and the desired state of conservation met, and removed the property from the Danger List. It noted the property remains vulnerable and asked for an updated report by 1 February 2015.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_04",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2013-12-25",
+      "title": "Ten years on, the citadel is only partly rebuilt",
+      "description": "AFP reported that ten years after the earthquake only part of the citadel was rebuilt, with scaffolding supporting much of the site and gaps in outer walls. Reconstruction project manager Afshin Ebrahimi was quoted as saying 'Bam will never be rebuilt exactly the way it was'. A separate AFP report dated 26 December 2013 quoted Mohammad Ali Najafi, head of Iran's heritage organisation, saying roughly 80 percent of the reconstruction had been completed and that the citadel would be rebuilt over the next two or three years (that timeframe attributed to Fars news agency; the article names no source for the 80 percent figure).",
+      "event_type": "other",
+      "source_ids": [
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2015",
+      "title": "Committee decision 39 COM 7B.93 notes measures taken at Bam",
+      "description": "In an omnibus decision covering Bam and one other property, the Committee noted with satisfaction the measures taken to mitigate threats. Other paragraphs of the omnibus decision, addressed to both States Parties concerned, encourage continued conservation efforts and remind them to inform the World Heritage Centre in due course about any major development project. UNESCO's summary of the State Party's March 2015 report says the Centre and advisory bodies judged the State Party to be adequately addressing the state of conservation and no further short-term reporting was required.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Periodic report and boundary clarification recorded",
+      "description": "UNESCO's file for the property lists the Periodic Reporting Cycle 3 Section II report (2023) and a Committee decision (45 COM 8D, extended 45th session, 2023) taking note of boundary and area clarifications provided for Bam. This is the most recent item in the file; no later state of conservation report or condition decision for Bam appears on the documents page.",
+      "event_type": "other",
+      "source_ids": [
+        "src_09",
+        "src_08",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026-02-28",
+      "title": "War begins in Iran (regional context, not specific to Bam)",
+      "description": "Al Jazeera reported that the war began on 28 February 2026 when the United States and Israel launched strikes on Iran. AP (via PBS) reported that UNESCO verified damage at at least four Iranian locations, none of them Bam. None of the sources read mentions Bam.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_14",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Strike reported on an unnamed airport in Kerman Province",
+      "description": "Trend attributed to Rahman Jalali, Deputy Governor of Kerman Province, the statement that two passenger aircraft were destroyed when an airport in Kerman Province was struck by the United States and Israel (the article does not give his words in direct quotes). The report does not name the city or airport and does not mention Bam; no link to the property was established.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_16"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Bam and its Cultural Landscape",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1208/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger (information page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "List of World Heritage in Danger (current list of 58 properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page carries no explicit last-updated date; copyright line reads 1992-2026 and it refers to the 48th session (2026). Read on 2026-10-15; Bam (Iran) does not appear.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Bam and its Cultural Landscape: Documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1208/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 37 COM 7A.31: Bam and its Cultural Landscape (Islamic Republic of Iran)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/5008",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2013",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "News item on the removal of Bam from the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1031",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2013-06-17",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 39 COM 7B.93: Omnibus Decisions (includes Bam and its Cultural Landscape)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6350",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation, Bam and its Cultural Landscape (2015)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3282",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2015",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 45 COM 8D: Clarifications of property boundaries and areas by States Parties",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8344",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Periodic Reporting Cycle 3, Section II: Bam and its Cultural Landscape",
+      "publisher": "UNESCO World Heritage Centre (State Party periodic report)",
+      "url": "https://whc.unesco.org/document/217727",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "A State Party periodic report, so its assessments of conservation state, factors and management are the State Party's own responses, not an independent UNESCO or ICOMOS finding. Some tables (attribute condition tables 3.2 and 4.18) are blank. Read via a tool summary of the document. Earthquake factor ratings in section 4.11.2 appeared only as the earlier Cycle 2 (2011) answer; the factors summary table (4.15) was blank in the text read.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Joint World Heritage Centre / ICOMOS Reactive Monitoring Mission to Bam, 16-22 October 2011",
+      "publisher": "UNESCO World Heritage Centre / ICOMOS",
+      "url": "https://whc.unesco.org/document/116542",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Historical (2011) mission report. The text available to the researcher was truncated partway through Section 4, so the later sections (authenticity, integrity, conclusions) were not read.",
+      "published_date": "2011",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Iran citadel restored after quake will never regain past glory (AFP report)",
+      "publisher": "AFP, republished by Young Journalists Club (YJC)",
+      "url": "https://www.yjc.ir/en/news/3056/iran-citadel-restored-after-earthquake-will-never-regain-past-glory",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "AFP report republished on an Iranian news site; the AFP original was not opened. Ten years old, so it describes 2013 conditions only.",
+      "published_date": "2013-12-25",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Iran vows to restore glory of quake-hit Bam citadel (AFP report)",
+      "publisher": "AFP, republished by Hurriyet Daily News",
+      "url": "https://hurriyetdailynews.com/iran-vows-to-restore-glory-of-quake-hit-bam-citadel-60203",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reports a statement by the head of Iran's heritage organisation; the article does not name a source for the 80 percent figure, and attributes the two-to-three-year timeframe to Fars news agency. A 2013 official projection, not an independent measurement.",
+      "published_date": "2013-12-26",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "US and Israeli strikes are damaging Iranian historical sites (AP report)",
+      "publisher": "Associated Press, via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/u-s-and-israeli-strikes-are-damaging-iranian-historical-sites",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-03-12",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Are the US and Israel waging war on Iran's cultural heritage?",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/3/17/are-the-us-and-israel-waging-war-on-irans-cultural-heritage",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-03-17",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Cultural Heritage Under Fire in the 2026 Iran War",
+      "publisher": "Cultural Property News",
+      "url": "https://culturalpropertynews.org/?p=16582",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Specialist outlet; counts of damaged sites are attributed in the article to Iranian authorities and were not independently verified here.",
+      "published_date": "2026-05-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Airstrike wrecks passenger planes in Iran's Kerman Province",
+      "publisher": "Trend News Agency",
+      "url": "https://www.trend.az/iran/4163012.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single report attributing information to Rahman Jalali, Deputy Governor of Kerman Province; it does not name the city or airport and does not mention Bam.",
+      "published_date": "2026-03-10",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Bam and its Cultural Landscape: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1208/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "The Bam Citadel (Arg-e Bam) and its Related Sites: nomination dossier (file 1208bis)",
+      "publisher": "Iranian Cultural Heritage Organization, via UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/uploads/nominations/1208bis.pdf",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Scanned nomination file hosted by UNESCO; the tool summary identified it as the May 2004 dossier. The file was not read page by page.",
+      "published_date": "2004",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_19",
+      "title": "3-D Reconstitution and Virtual Reality of World Heritage Site in Danger: the Citadel of Bam (Andaroodi, Matini, Abe, Ono, Kawai)",
+      "publisher": "Eurographics Association (Eurographics Symposium on Virtual Environments, Short Papers and Posters)",
+      "url": "https://diglib.eg.org/items/85ea3b8e-fc7d-4bab-ad74-c54011c370c6",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Only the library record and abstract were read; whether the full paper or any model is publicly viewable was not established.",
+      "published_date": "2007",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Bam ii. Ruins of the old town (Bastani Parizi), Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica Foundation",
+      "url": "https://www.iranicaonline.org/articles/bam-in-arabic-town/bam-ii-ruins-of-the-old-town/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Reference article with no original publication date shown; it does not discuss the 2003 earthquake or later conservation.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Arg-e Bam: Before and After",
+      "publisher": "Columbia University, Media Center for Art History",
+      "url": "https://learn.columbia.edu/node/2829",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Page described as holding photographs, panoramas and aerial views taken in 2003-2004; images were not individually viewed.",
+      "published_date": "2004",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Developing; DPI tier moderate. Close call vs High Concern flagged in decision_trigger (regional armed conflict in Iran since 28 February 2026, with no source placing military activity at Bam). Known gaps (not included because not verified): (1) UNESCO lists no state of conservation report after 2015 and no condition decision after 2015, so the latest condition evidence is the State Party's own 2023 periodic report, read through a tool summary, and the 2011 mission report text was truncated partway through Section 4. (2) How much of the citadel's reconstruction remains incomplete today was not established; the latest figure found is a 2013 official statement of about 80 percent. (3) The web search budget ran out before the status of the 2026 hostilities as of October 2026 could be checked; the conflict sources read date from March to May 2026, and the sources read do not give a ceasefire status. (4) UNESCO's own statements on Iran were read only second-hand through AP/PBS and Al Jazeera. (5) Two other articles (New Lines, 3 March 2026; Modern Diplomacy, 29 June 2026) were opened but not cited: neither mentions Bam, and the Modern Diplomacy piece has vague attribution. (6) A commercial AirPano 360 panorama page and a Columbia panorama page were found but not counted as a virtual tour because rendering could not be confirmed. (7) Several fetches were blocked or unavailable (Tehran Times lighting article, a USGS earthquake page, the UNESCO decisions search page, a Heidelberg journal article); nothing from them is used. (8) Seismic hazard figures for the region were not sourced from a seismological body and are omitted. (9) The 2007 minor boundary modification (31 COM 8B.59) is listed on UNESCO's documents page but the decision text was not opened; it is mentioned only in the significance summary from UNESCO's property page. Note for reviewer: the earthquake was in December 2003 but inscription was in 2004. Images omitted by design. VERIFIER 2026-10-15 (independent fact-check, ~14 edits): (a) removed claim that the 2023 periodic report marks earthquakes a current/potential factor; the text read shows only the earlier Cycle 2 (2011) answer and the summary table was blank; (b) 2011 mission: only the Governor's Seat steel/concrete structure is stated as not approved by the Committee, not both towers; (c) 37 COM 7A.31 event date changed to 2013-06 because the decision page gives only the year (17 June is the news item date); (d) death toll attributed to 'various estimates' in the AFP report; Ebrahimi quote made exact; 80 percent figure's source noted as unnamed; (e) Trend item attributed to Rahman Jalali, Deputy Governor of Kerman Province, in indirect speech, not a quote; (f) Al Jazeera also lists damage in Kurdistan, Kermanshah, Bushehr and Ilam, so 'concentrated in Tehran, Isfahan, Lorestan' corrected; (g) removed 'peer-reviewed' from the 2007 Eurographics short paper; (h) 'unresolved' housing wording softened to the report's own wording. Not verified: current status of hostilities (web search unavailable); whether strikes occurred near Bam/Kerman city beyond the one Trend report. SECOND VERIFIER PASS 2026-10-15 (~9 edits): re-fetched all UNESCO pages, periodic report, 2011 mission report, AFP/AP/Al Jazeera/CPN/Trend. Corrections: AP says 'at least four' UNESCO-verified sites; removed unsupported 'citing incomplete benchmarks' and 'management-plan' qualifier on the 11 of 15 components (the mission report says only 'components'); 2015 omnibus decision: Bam is named only in the 'notes with satisfaction' paragraph, the encouragement and development-project reminder are separate paragraphs addressed to both States Parties; Al Jazeera's provincial damage list attributed to Iran's Ministry of Cultural Heritage; 'destroyed many people's buildings' matches periodic report wording; removed Columbia sentence from the UNESCO gallery DPI item (it has its own item). Verified OK: coordinates, 58-property Danger List without Iran, 37 COM 7A.31 content, 2013 AFP quotes and 80 percent figure, periodic report quotes, Trend attribution, none of the conflict sources mention Bam or Kerman damage beyond the Trend airport item.",
+      "changed_by": "claude"
+    }
+  ]
+}

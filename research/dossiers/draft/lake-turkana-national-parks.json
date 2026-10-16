@@ -1,0 +1,422 @@
+{
+  "slug": "lake-turkana-national-parks",
+  "name": "Lake Turkana National Parks",
+  "alternate_names": [
+    "Lake Turkana"
+  ],
+  "country": "Kenya",
+  "region": "Africa",
+  "coordinates": {
+    "lat": 3.0513,
+    "lng": 36.5037
+  },
+  "coordinate_note": "Approximate single point taken from Wikipedia (3.051306 N, 36.503667 E) for the property as a whole. UNESCO's property page gives no coordinates and says georeferenced polygons will be published once GIS data are received. The property is a serial site of three separate parks (Sibiloi, South Island and Central Island), so this single marker is only an indicative reference: Wikipedia gives no per-component coordinates, and the point is not confirmed to lie within any one component. It should be spot-checked on the map and replaced with component coordinates or UNESCO polygons when available.",
+  "unesco_id": "801",
+  "inscription_year": 1997,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "natural",
+  "significance_summary": "Lake Turkana National Parks comprises three parks around Lake Turkana in Kenya's Rift Valley: Sibiloi, South Island and Central Island National Parks. UNESCO describes the lake as a saline desert lake whose Koobi Fora fossil deposits include evidence of early hominids, and whose parks serve as a breeding area for Nile crocodiles, hippopotamuses and venomous snakes and as a stopover for migratory birds. The property covers 161,485 ha within a lake basin of about 7 million ha, was inscribed in 1997 (boundaries modified in 2001) under natural criteria (viii) and (x), and has been on the List of World Heritage in Danger since 2018.",
+  "metadata_sources": [
+    "src_00",
+    "src_16"
+  ],
+  "threat_categories": [
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "The Committee inscribed the property on the Danger List in June 2018, citing changes to the hydrology of the Lake Turkana Basin, specifically the disruptive effect of Ethiopia's Gibe III dam on the lake's flow and ecosystem, with the Kuraz Sugar Development Project described as a further threat (UNESCO news item; Decision 42 COM 7B.92, which said preliminary hydrological data showed the lake's seasonal fluctuation patterns had already been heavily disrupted). IUCN's 2025 Outlook rates the damming of inflowing rivers as a Very High threat and drought and climate change as a High threat; it states the Omo River supplies over 80% of the lake's inflow (Mongabay says about 90%), that the Gibe III dam was commissioned in December 2016 and has permanently dampened the Omo's annual flood regime, that satellite data showed the lake fell about two metres during reservoir filling, and that the Gibe IV (Koysha) dam was 66% complete as of 2024. The picture since is contested: IUCN says lake levels were 0.7 m higher in January 2024 than January 2021 and that the rise is submerging terrestrial habitat and reaching the site's building infrastructure; the Committee in 2026 noted lake levels are rising but said this does not resolve its concerns about cumulative impacts from Omo-Turkana Basin developments and recalled the need for a Strategic Environmental Assessment (SEA) that separates climate-driven variability from human-caused effects; a State Party document responding to Decision 47 COM 7A.13 says the anticipated impacts of the Omo dam construction on lake water levels have not been observed, and cites a 2021 UNESCO-UNEP-DHI study projecting wetter, more variable hydrology under climate change; Mongabay reports the lake has risen about 8-10 m over roughly 15 years and that scientists offer differing explanations. A pre-dam 2012 modelling study (Velpuri and Senay) estimated filling could lower the lake by up to 2 m at 95% confidence, and found such changes fall within the lake's natural variability of 4.8 m. In 2026 the Committee also regretted the lack of updated information from Ethiopia on Omo Basin projects including the Kuraz Sugar Development Project and the Gibe IV (Koysha) and Gibe V dams.",
+      "first_identified_date": null,
+      "date_note": "Long-running, evolving basin-wide concern rather than a single event; the Danger List inscription of 28 June 2018 is the earliest dated Committee action cited here, but concerns about Gibe III predate it in Committee decisions that were not all read in this pass.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_06",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_12",
+        "src_14",
+        "src_15"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "In 2021 the Committee (Decision 44 COM 7A.47) added poaching and encroachment to the justification for Danger listing, noting a long-standing threat causing 'steep decline and local extinctions of wildlife populations'. UNESCO's 2021 state of conservation page, summarising the March 2020 Reactive Monitoring mission, says several flagship species including Grevy's zebra, reticulated giraffe and lion are no longer present in the property, and that implementation of the 2018-2028 Management Plan was limited by financial and human resource constraints. In 2026 the Committee expressed concern that many key 2020 mission recommendations remain unimplemented or significantly delayed (a site-specific Biodiversity Action Plan, a scientific grazing study and reduction strategy given high livestock numbers in wildlife corridors, co-managed hydrological and limnological monitoring, a national master plan for development around the lake, and a buffer zone) and asked Kenya to consider bringing the three components under one management unit. UNESCO's 2024 state of conservation page lists threats including illegal activities, land conversion, livestock grazing, management plan gaps, oil and gas, water infrastructure and conflict between local communities and park management. IUCN's 2025 Outlook rates poaching and hunting and other human disturbance (destruction of crocodile nests) as High threats and says human population pressure and competition for resources are fuelling local conflict, including a report of 22 fishermen killed near Todenyang by armed militia from across the Ethiopian border (IUCN says 'reports indicate' this; the underlying report was not identified or independently verified here). IUCN rates the property's values as High Concern with a Deteriorating trend, rating rare and endangered fauna as Critical (trend data deficient). Positive developments are also recorded: the Committee in 2026 commended Kenya for implementing the Management Plan, adding staff at Sibiloi National Park, expanding community engagement and completing the 2025 National Wildlife Census, and a State Party document reports law enforcement personnel at Sibiloi rose from 19 to 62 in 2025.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year concern; the Committee formally added poaching and encroachment to the Danger listing justification in 2021 (Decision 44 COM 7A.47), but no single start date is established from the sources read.",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_09",
+        "src_10",
+        "src_12"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not mechanically triggered. No combat or breakdown of protection at the property was found in the sources read; monitoring continues (Kenya's reporting to the Committee, a World Heritage Centre Reactive Monitoring mission in March 2020 (IUCN could not attend), a DSOCR workshop in April 2024, UNESCO/IUCN involvement); and the sources read do not document a verified, severe, still-unfolding physical destruction of the property. The closest Critical-type items are (a) the IUCN World Heritage Outlook 2025 overall conservation outlook of 'Critical' with the values rated 'High Concern' and 'Deteriorating', which is IUCN's own scale and not HeritageWatch's status, and (b) the 2020 mission finding, as summarised in UNESCO's 2021 state of conservation page, that several flagship species including Grevy's zebra, reticulated giraffe and lion are no longer present in the property. High Concern triggers matched: (1) the property is on UNESCO's List of World Heritage in Danger (inscribed 28 June 2018), checked on UNESCO's Danger List page, and retained by the Committee in 2024, 2025 and 2026 for substantive reasons (changed Omo/Lake Turkana hydrology linked to upstream development, and since 2021 poaching and encroachment); (2) a documented, unresolved environmental threat: the cumulative-impact Strategic Environmental Assessment has been pending for years and the Committee in 2026 urged Ethiopia and Kenya to start it as a priority. The 'named authority with a stated near-term timeframe' trigger does not clearly apply: the only dated item is a 1 February 2027 reporting deadline. This is a close call between High and Critical; a reviewer may weigh the IUCN 'Critical' outlook and the wildlife losses differently. It is clearly above Moderate because of the Danger List inscription.",
+      "rationale": "Historical context is recorded in the events timeline; this classification rests on present conditions and the most recent credible evidence. As of the 2026 Committee decision (48 COM 7A.52), the property remains on the List of World Heritage in Danger, Kenya had asked for its removal, and the Committee found progress on only three of the 16 indicators in the Desired State of Conservation for Removal (DSOCR) and limited progress on the 2020 mission recommendations. The Committee also noted that lake levels are rising but said this does not resolve its concerns about cumulative impacts from developments in the Omo-Turkana Basin, and it regretted the lack of updated information from Ethiopia on Omo Basin projects. The evidence on the lake itself is not uniform, which is why this is stated openly: IUCN's 2025 Outlook says satellite data showed the lake fell about two metres during Gibe III reservoir filling and that lake levels were 0.7 m higher in January 2024 than January 2021, with the rise submerging terrestrial habitat and reaching the site's building infrastructure; a State Party document responding to Decision 47 COM 7A.13 states that the anticipated impacts of the Omo dam construction on the lake's water levels have not been observed; and Mongabay reports that scientists give differing explanations for a large rise over about 15 years. Non-hydrological pressures are also documented: IUCN rates poaching, other human disturbance and the damming of inflowing rivers as High or Very High threats; illegal grazing is described as most acute at Sibiloi, where the State Party reports law enforcement personnel rose from 19 to 62 in 2025. Against that, there are real, documented management responses (Management Plan 2018-2028, an adopted DSOCR, increased staffing, community engagement, Norwegian-funded corrective-measure support noted by the Committee in 2025). Confidence is Supported rather than Confirmed: the Danger List status and Committee findings are directly confirmed by UNESCO, but the 2026 state of conservation report page could not be retrieved, the cause and effect of lake-level change is contested between sources, and the High/Critical boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_04",
+        "src_05",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_12",
+        "src_13",
+        "src_14"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": false,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": false
+    },
+    "coverage_note": "Only one of five categories (archival_records) has publicly accessible evidence found in this pass, which is the limited tier by the rubric (1 category). The evidence is documentary rather than visual or immersive: no property-level 3D model, virtual tour or substantive professional photo archive was found. UNESCO's property gallery showed a single thumbnail image, which was not treated as a substantive photo archive, and Wikimedia Commons could not be opened in this pass. Academic_scholarly is marked false: the only scholarly item opened (a 2012 pre-dam hydrology modelling paper) concerns the lake rather than documenting the property, and the African Fossils virtual lab hosts 3D models of fossils found mostly at Lake Turkana without stating they come from within the inscribed parks, so it is a specimen collection and not documentation of the property; both are listed as adjacent material only and are not counted. Coverage is also uneven across the three components; nothing found documents South Island or Central Island specifically. This reflects what was publicly findable, not necessarily what exists in unpublished archives or in scholarship not searched for in this pass.",
+    "tier_recommendation": "limited",
+    "evidence": [
+      {
+        "category": "archival_records",
+        "description": "UNESCO's World Heritage Centre publicly hosts the property's state of conservation (SOC) report pages for 2011-2026 (listed on the property page; some years have no entry) and the Committee decisions linked from them. UNESCO's 2024 SOC page refers to Reactive Monitoring missions in March 2012, April 2015 and March 2020, but no mission report itself was opened. The 2021 and 2024 SOC pages were opened.",
+        "url": "https://whc.unesco.org/en/soc/4575",
+        "source_id": "src_07"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Adjacent material, not counted toward the tier: a 2012 satellite-based water-balance modelling study of Gibe III's potential effect on lake level (Velpuri and Senay; the Discussions preprint abstract was read). It concerns the lake's hydrology, not documentation of the parks.",
+        "url": "https://www.usgs.gov/publications/assessing-potential-hydrological-impact-gibe-iii-dam-lake-turkana-water-level-using",
+        "source_id": "src_15"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Adjacent material, not counted toward the tier: African Fossils, run with the Turkana Basin Institute, National Museums of Kenya, Stony Brook University and National Geographic Society, presents 3D models and images of fossils and artifacts found mostly at Lake Turkana.",
+        "url": "https://africanfossils.org/",
+        "source_id": "src_17"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1997",
+      "title": "Lake Turkana National Parks inscribed on the World Heritage List",
+      "description": "UNESCO records inscription in 1997 under natural criteria (viii) and (x), with boundaries significantly modified in 2001.",
+      "event_type": "other",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2016-12",
+      "title": "Gibe III dam on the Omo River commissioned",
+      "description": "IUCN's 2025 Outlook states the Gibe III dam in Ethiopia was commissioned in December 2016 and has dampened the Omo's annual flood regime permanently. Mongabay reports construction began about 2006 (two years before 2008) and that reservoir filling began in 2015, so sources differ on the timing of filling versus commissioning.",
+      "event_type": "other",
+      "source_ids": [
+        "src_12",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2018-06-28",
+      "title": "Property inscribed on the List of World Heritage in Danger",
+      "description": "At its 42nd session in Manama the Committee inscribed the property on the Danger List (Decision 42 COM 7B.92), citing changes to the Lake Turkana Basin's hydrology and the disruptive effect of Ethiopia's Gibe III dam, the Kuraz Sugar Development Project (described as a further threat), while also noting potential impacts of the LAPSSET Corridor Project. The decision noted the Strategic Environmental Assessment due by 1 February 2018 had not been commissioned.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2020-03",
+      "title": "Reactive Monitoring mission to the property",
+      "description": "A Reactive Monitoring mission took place on 6-11 March 2020 (IUCN could not attend because of COVID-19). UNESCO's 2021 state of conservation page records that it could not finalise corrective measures or the Desired State of Conservation for Removal because Ethiopia did not respond to Kenya's invitation, and that it confirmed continued poaching and encroachment.",
+      "event_type": "other",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Decision 44 COM 7A.47 adds poaching and encroachment to Danger listing justification",
+      "description": "The Committee considered poaching and encroachment an ascertained danger, regretted the lack of a consolidated response from Kenya and Ethiopia, asked both States to complete the SEA without further delay, and asked that no further LAPSSET components be implemented until the revised SEA was reviewed.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_05"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Decision 46 COM 7A.51 adopts updated DSOCR and retains property on Danger List",
+      "description": "The Committee welcomed and adopted an updated Desired State of Conservation for Removal developed with IUCN and an April 2024 workshop funded by Norway, asked Kenya for an update on lake water level, asked Ethiopia for an urgent update on Omo-Turkana Basin projects, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Decision 47 COM 7A.13 retains property on Danger List",
+      "description": "The Committee regretted that Kenya did not submit its state of conservation report in a timely manner, asked Kenya to clarify a reported refinement of the DSOCR, thanked Norway and other partners for financial support for corrective measures, and retained the property on the Danger List. It requested an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2025-10",
+      "title": "IUCN World Heritage Outlook rates conservation outlook 'Critical'",
+      "description": "IUCN's 2025 assessment cycle, finalised 11 October 2025 per the Outlook page, gives the property an overall conservation outlook of 'Critical'. The Standard (Kenya) reported on 26 October 2025 that the latest IUCN assessment classified the site as 'critical'. This is IUCN's own rating scale, separate from HeritageWatch's status.",
+      "event_type": "other",
+      "source_ids": [
+        "src_12",
+        "src_13"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Decision 48 COM 7A.52 retains property on Danger List",
+      "description": "At its 48th session in Busan the Committee decided to retain the property on the Danger List, noting Kenya had asked for removal but that progress covered only three of the 16 DSOCR indicators and progress on the 2020 mission recommendations was limited. It urged Ethiopia and Kenya to initiate the SEA as a priority and requested an updated report by 1 February 2027. The property is also in the list of 52 properties retained under Decision 48 COM 8C.2. Exact adoption date not shown on the decision pages.",
+      "event_type": "political",
+      "source_ids": [
+        "src_10",
+        "src_11"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Lake Turkana National Parks",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/801/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Lake Turkana National Parks (Kenya) inscribed on List of World Heritage in Danger (news item, 28 June 2018)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1842",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018-06-28",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 42 COM 7B.92: Lake Turkana National Parks (Kenya) (N 801bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7321",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 44 COM 7A.47: Lake Turkana National Parks (Kenya) (N 801bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7709",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "State of Conservation: Lake Turkana National Parks (Kenya), 2021 (WHC/21/44.COM/7A)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4030/&mode=doc",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 46 COM 7A.51: Lake Turkana National Parks (Kenya) (N 801bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8520",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation: Lake Turkana National Parks (Kenya), 2024 (WHC/24/46.COM/7A.Add.2)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4575",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 47 COM 7A.13: Lake Turkana National Parks (Kenya) (N 801bis)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8680",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Lake Turkana National Parks (Kenya) (N 801bis), executive summary of report responding to Decision 47 COM 7A.13",
+      "publisher": "UNESCO World Heritage Centre (document hosting)",
+      "url": "https://whc.unesco.org/document/225268",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The document page did not state its author or date. It is written in the voice of the State Party and refers to events through 2025, so it appears to be Kenya's own report, not an independent UNESCO or IUCN assessment. Used only for the State Party's own stated position and measures, attributed to the State Party, and not as sole support for any status-determining claim.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Decision 48 COM 7A.52: Lake Turkana National Parks (Kenya)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9040",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Decision 48 COM 8C.2: Update of the List of World Heritage in Danger (Retained Properties)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9208",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Lake Turkana National Parks (IUCN World Heritage Outlook, 2025 assessment)",
+      "publisher": "IUCN World Heritage Outlook",
+      "url": "https://worldheritageoutlook.iucn.org/node/1083",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025-10-11",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Kenya's World Heritage sites in distress call",
+      "publisher": "The Standard (Kenya)",
+      "url": "https://thestandard.ke/business/amp/environment-climate/article/2001532713/kenyas-world-heritage-sites-in-distress-call",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-10-26",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Rising waters and mounting pressures collide on Kenya's Lake Turkana",
+      "publisher": "Mongabay",
+      "url": "https://news.mongabay.com/2026/05/rising-waters-and-mounting-pressures-collide-on-kenyas-lake-turkana/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Publication month taken from the URL; the fetched text did not show an author or exact date. Several figures are given without a named source, so they are cited here only as 'Mongabay reports' and are not used alone for any status-determining claim.",
+      "published_date": "2026-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Assessing the potential hydrological impact of the Gibe III Dam on Lake Turkana water level using multi-source satellite data (Velpuri and Senay)",
+      "publisher": "Hydrology and Earth System Sciences Discussions (record on USGS Publications)",
+      "url": "https://www.usgs.gov/publications/assessing-potential-hydrological-impact-gibe-iii-dam-lake-turkana-water-level-using",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Opened via the USGS publication record (abstract only); the page identifies the journal as the Discussions version. It is a pre-dam modelling study, not an observation of what happened.",
+      "published_date": "2012",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Lake Turkana National Parks",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lake_Turkana_National_Parks",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference source, used only for the approximate single-point coordinates; UNESCO's page says georeferenced polygons are not yet published.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "African Fossils: a virtual lab (Turkana Basin Institute, National Museums of Kenya, Stony Brook University, National Geographic Society)",
+      "publisher": "African Fossils",
+      "url": "https://africanfossils.org/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "The site says its models are mostly of fossils found at Lake Turkana; it does not state that they come from within the inscribed parks, and it notes printed models are not of high enough resolution for accurate scientific measurements.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. Danger List status checked directly on UNESCO's List of World Heritage in Danger page (property listed, 2018) and in Decision 48 COM 7A.52 (retained, 2026). Known gaps (not included because not verified): (1) UNESCO's 2026 state of conservation page (whc.unesco.org/en/soc/4996) returned a fetch error, so the 2026 State Party report and Secretariat/IUCN assessment were not read; only the 2026 Committee decision text was. (2) Decisions 45 COM 7A.10 (2023) and 36 COM 7B.3 (2012) and 2015/2016 decisions were not read directly; 2012 SEA timing is described as 'since 2012' on the 2021 page but 'since 2014' on the 2024 page, so SEA start date was omitted. (3) The 2020 mission report itself and IUCN's 2020 assessment were not read; mission findings come from UNESCO's 2021 state of conservation page. (4) Source src_09 (document 225268) did not state author or date; treated as the State Party's own position. (5) The Todenyang attack figure (22 fishermen) appears only in IUCN's Outlook; a Kenyan outlet reported a cross-border Todonyang attack with missing fishermen and boats but gave no casualty count in the text read, so the figure is cited as IUCN's and not independently corroborated. (6) Mongabay's lake-rise figures (8-10 m over about 15 years) are not attributed to a named source in the text read and are cited as 'Mongabay reports'. (7) Adoption month of the 2026 and 2024 decisions not confirmed (year only). (8) Coordinates are a single Wikipedia point for a three-component serial property; UNESCO publishes none. (9) Wikimedia Commons category and a UNESCO document were blocked or failed to open; no photographs or images included by design. (10) No armed_conflict or natural_disaster category was included because no source read documents conflict or disaster affecting the property itself; local violence is mentioned only as IUCN's context under human pressure. (11) IUCN World Heritage Outlook is classified here as Tier 1 (Advisory Body to the World Heritage Committee, by analogy with ICOMOS) with source_type 'other'; reviewer may reclassify. | Verification pass 2026-10-15 (independent): corrected Gibe III construction start (Mongabay says about 2006, not 2013); aligned IUCN wording (inflowing-river damming Very High, infrastructure reached by rising lake, Todenyang figure as 'reported' with press-report origin); Sibiloi 19 to 62 is law enforcement personnel, not general staff; corrected archival-records description (mission reports not listed on property page; SOC pages 2011-2026) and removed unverifiable '~50 references' claim; softened coordinate note. DPI academic category flagged as borderline (lake hydrology, not site documentation). | Second verification pass 2026-10-15 (independent): re-checked all UNESCO pages, IUCN Outlook, Standard, Mongabay, USGS, Wikipedia, African Fossils. Fixes: IUCN says Gibe III 'dampened' the annual flood regime (draft said 'ended'); added 'as of 2024' to Gibe IV 66%; removed unverifiable claim that IUCN cites a 2025 press report for the Todenyang figure (IUCN says 'reports indicate'); March 2020 mission was World Heritage Centre only, not 'joint'; 2018 event wording aligned with UNESCO news/decision (Kuraz as further threat, LAPSSET only noted); significance wording aligned to UNESCO ('venomous snakes', hominid evidence at Koobi Fora); DPI academic_scholarly set to false (hydrology paper is a preprint about the lake, not site documentation) so DPI tier moves moderate -> limited by the 1-category rule. Danger List status (2018) confirmed directly on whc.unesco.org/en/danger-list/.",
+      "changed_by": "claude"
+    }
+  ]
+}

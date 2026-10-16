@@ -1,0 +1,450 @@
+{
+  "slug": "city-of-potosi",
+  "name": "City of Potosí",
+  "alternate_names": [
+    "Potosí"
+  ],
+  "country": "Bolivia",
+  "region": "South America",
+  "coordinates": {
+    "lat": -19.5991,
+    "lng": -65.7498
+  },
+  "coordinate_note": "Converted from the coordinates on UNESCO's property page (S19 35 56.803, W65 44 59.327). The inscribed property is a large area (2,210.93 ha) including Cerro Rico, the colonial town and the hydraulic system, so this is a single-point reference.",
+  "unesco_id": "420",
+  "inscription_year": 1987,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Potosí is a colonial silver-mining city that UNESCO describes as the example par excellence of a major silver mine of the modern era, reputed to be the world's largest industrial complex in the 16th century. The property includes the Cerro Rico mines, a network of reservoirs and aqueducts, the colonial town with the Casa de la Moneda and the Church of San Lorenzo, patrician houses and the workers' quarters (barrios mitayos). It is inscribed under criteria (ii), (iv) and (vi).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The property is on the List of World Heritage in Danger (inscribed 2014) mainly because of 'continued and uncontrolled mining operations in the Cerro Rico Mountain' (UNESCO news, June 2014), together with instability and collapse risk at Cerro Rico, conservation deficiencies, weak enforcement of protective legislation and environmental effects on the hydraulic complex. UNESCO's pages for the property use the terms sinkholes, instability and collapse risk; the word 'subsidence' is not used on the pages read. ICOMOS (2025) states that a portion of the Cerro Rico summit collapsed in February 2011. Counts of summit sinkholes in the sources differ by date, scope and who is reporting: the 2017 UNESCO summary of the State Party report refers to 132 'sinking areas' identified at the summit, 95% of which the State Party reported refilled with dry filler in the second phase; the 2024 UNESCO summary of the State Party report refers to 140 identified, 32 dry-filled, with monthly monitoring of the rock massif; and in February 2026 the state mining company Comibol was reported by Correo del Sur as recording 144, of which 8 are large and 55 lie above elevation 4,400 m. The Committee in 2024 and 2025 urged the permanent closure of mining sections above 4,400 m; the 2024 State Party report (as summarised by UNESCO) says 19 of 40 sections were closed and 21 closing. In 2026 the Committee welcomed funded follow-up measures on the 'Critical Route' toward removal from the Danger List and encouraged continued action to preserve the structure and form of Cerro Rico, including mine closures and relocation of miners. It also noted, in 2025 and earlier, delays in implementing the Critical Route and the Integrated and Participatory Management Plan (IPMP), and expressed concern about the legal framework for the whole property (2024). In its January 2025 report the State Party (self-reported, executive summary) says stabilisation work by Comibol and the Potosí departmental government is continuing and that progress is being made in moving mining cooperatives above 4,400 m. A July 2026 press report (one expert, Universidad Autónoma Tomás Frías commission) claims two summit sinkholes have merged and warns of possible collapse of the summit cap; this is a single-source claim without independent confirmation and is not used as the basis for the status.",
+      "first_identified_date": null,
+      "date_note": "Chronic threat; the summit collapse in February 2011 (per ICOMOS) preceded the 2014 Danger List inscription, but instability is described as longstanding in UNESCO's 2017 summary ('longstanding instability and vulnerability of Cerro Rico'). No single start date applies.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_09",
+        "src_10",
+        "src_14",
+        "src_16"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Water and mining effects on the hydraulic system: UNESCO's 2014 listing cited environmental effects on the hydraulic complex (aqueduct and artificial-lake system). The 2023 UNESCO summary of the State Party report lists surface water pollution among the threats and says mining concessions at the Kari Kari Lagoons could cause acid water contamination; the World Heritage Centre and Advisory Bodies flagged environmental impacts of authorised mining within the Kari Kari Lagoons area, and the Committee expressed concern about the concessions. By 2024 the State Party reported that monitoring found the Kari Kari lagoons preserved and free from contamination, crediting water management and the 2022 closure of illegal mines; the Committee in 2024 welcomed their preservation and asked for continued rigorous monitoring, in 2025 stated it was satisfied with water-quality monitoring and environmental management of the Kari Kari range, and in 2026 commended continued monitoring including control measures and a ban on illegal mining. ICOMOS (2025) says the system's environmental sensitivity means systematic monitoring must be reinforced. On this evidence the water threat is documented and monitored, with improvement reported, rather than an unresolved acute emergency. No climate-specific threat was found in the sources read.",
+      "first_identified_date": null,
+      "date_note": "Chronic and monitored; the 2014 Danger List inscription already cited environmental effects on the hydraulic complex.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_05",
+        "src_06",
+        "src_08",
+        "src_09"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not mechanically triggered. There is no active combat, no loss of monitoring access (State Party reports and Committee review continue annually, with UNESCO missions in the past), and protection has not collapsed (the 2026 Committee decision welcomes an updated Management Plan, funded follow-up measures and institutional coordination). The closest Critical trigger is 'an ongoing severe threat materially affecting the site's survival, integrity or accessibility per an authoritative source': Cerro Rico's summit instability and sinkholes are ongoing and are the reason for danger listing, but the authoritative 2026 Committee decision describes steady progress toward the Desired State of Conservation for removal and does not itself describe a verified acute failure (the Critical Route plan does declare Cerro Rico in emergency status, per the 2024 and 2025 decisions, which is the State Party's own planning designation), and the more alarming 2026 claims (merging sinkholes, possible summit-cap collapse) come from a single press-quoted expert. High Concern trigger matched: official inscription on the List of World Heritage in Danger for substantive (not administrative) reasons (mining-related instability and collapse risk, retained by the Committee in 2024, 2025 and 2026; decision 48 COM 7A.33). This is a close call between High and Critical; the summit condition could be weighed differently once the 2026 State of Conservation report is read. UNESCO's list page shows the property listed from 2014 with no removal.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The 2011 summit collapse and the 2014 danger listing are recorded in events[]. Present conditions: UNESCO's Danger List page and the 2026 Committee decision (48 COM 7A.33) show Potosi is currently on the List and was retained there. The Committee's 2025 decision expressed utmost concern about the property's prolonged presence on the List; in 2026 it appreciated steady progress toward the Desired State of Conservation for removal, welcomed an updated Management Plan and funded follow-up measures, and still encouraged continued mine closures and relocation of miners. The mountain remains actively mined and the sinkhole problem is ongoing: Comibol reportedly recorded 144 sinkholes in February 2026, 55 of them above 4,400 m, and the UNESCO-summarised State Party reports show incomplete closure of mine sections above 4,400 m as of the 2024 report. Offsetting this, water-quality monitoring of the Kari Kari lagoons is reported positive and the 2025 minor boundary modification was approved. I therefore classify this as High Concern. Confidence is Supported rather than Confirmed because the Danger List status and Committee findings are confirmed from UNESCO, but the 2025 and 2026 UNESCO State of Conservation pages and the 2026 report returned errors and were not read, so the independent assessment of the summit's current physical condition rests on UNESCO decisions plus attributed press reports. Confidence does not change the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_09",
+        "src_11",
+        "src_14"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": false
+    },
+    "coverage_note": "Two of five categories have publicly viewable evidence, which meets the moderate tier by count. This is a close call with limited: the photographic evidence is a small UNESCO gallery (six images, by four credited photographers), and the archival evidence is mostly UNESCO's own monitoring documents (decisions, State of Conservation reports, ICOMOS evaluations, a 2013-2014 mission report, Periodic Reporting 2023) rather than a nomination dossier (none was listed on the documents page). Not marked true: 3D documentation (Decision 47 COM 7A.27 mentions a photogrammetric archaeological survey of Cerro Rico, but no viewable model was found); virtual tour (searches returned only commercial tour sellers, not a tour); academic scholarship (no peer-reviewed article on Potosi was opened in this pass). Public findability only; Bolivian municipal, university or museum archives may hold more.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre hosts a public photo gallery for the property (six images with photographer credits).",
+        "url": "https://whc.unesco.org/en/list/420/gallery/",
+        "source_id": "src_12"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's public documents page for the property lists the 2025 minor boundary modification (420bis) and ICOMOS evaluations (2025 and 1987), maps, Committee decisions 1987-2026, a reactive monitoring mission report (December 2013 / January 2014), Periodic Reporting Cycle 3 (2023) and State Party State of Conservation reports 2014-2026.",
+        "url": "https://whc.unesco.org/en/list/420/documents/",
+        "source_id": "src_13"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2011-02",
+      "title": "Part of the Cerro Rico summit collapses",
+      "description": "ICOMOS's 2025 evaluation states that a portion of the Cerro Rico summit collapsed in February 2011, which led to the property's listing on the List of World Heritage in Danger in 2014 (38 COM 7B.38). A Mongabay article cited in this dossier refers to a significant cave-in near the peak in 2010, and the 2017 Los Tiempos report refers to a 'first collapse' at the summit in June 2010 (dates from press, not reconciled with ICOMOS); the sources differ and the dating has not been reconciled.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_05",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2014-06-17",
+      "title": "City of Potosí added to the List of World Heritage in Danger",
+      "description": "At its 38th session in Doha, the World Heritage Committee placed the property on the Danger List because of 'continued and uncontrolled mining operations in the Cerro Rico Mountain' risking degradation of the site, citing also instability and collapse risk, conservation deficiencies, weak enforcement of protective legislation and environmental effects on the hydraulic complex.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06",
+        "src_05",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2017-05",
+      "title": "World Heritage Centre / ICOMOS technical mission and Desired State of Conservation drafted",
+      "description": "A World Heritage Centre / ICOMOS technical mission visited 8-11 May 2017; UNESCO's page sets out a Desired State of Conservation for removal (DSOCR) with corrective measures proposed for 2017-2022. Conditions include stabilising the summit collapse, relocating miners above 4,400 m, conserving the Kari Kari Lagoons and approving integrated participatory management. UNESCO's page summarises a draft decision (41 COM 7A.23) to retain the property on the Danger List; the adopted text was not read. ICOMOS (2025) states the DSOCR was approved in 2017. A Los Tiempos report of 9 May 2017 separately told of a new summit collapse, with size figures from a civic-committee leader (not verified).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_07",
+        "src_05",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2021-07",
+      "title": "Integrated and Participatory Management Plan (IPMP) approved",
+      "description": "UNESCO's 2023 summary of the State Party report says the IPMP was approved in July 2021 and contains 55 projects, with a management committee spanning national, departmental and municipal government.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee retains Potosí on the Danger List (45 COM 7A.18) and State Party requests extension",
+      "description": "UNESCO's 2023 summary states that the Committee commended the State Party's efforts despite the difficult national context, welcomed the IPMP, kept the property on the Danger List, regretted the lack of legal progress and urged submission of the buffer zone boundary modification by 1 December 2023. The State Party had asked for at least a two-year extension of the corrective measures, citing political, social and pandemic-related constraints. UNESCO's summary says a September 2021 COMIBOL census found 21 cooperatives with 2,387 miners working (described as illegal) above the 4,400 m limit, and that an October 2021 relocation proposal offering three new areas met strong concerns from cooperative members.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.7 retains Potosí on the Danger List",
+      "description": "In New Delhi the Committee noted technical progress and the 'Critical Route' (which declares Cerro Rico in emergency status), expressed concern about the slow IPMP implementation rate and about the lack of significant action to consolidate and enforce the legal framework, welcomed slope stabilisation and dry filling of sinkholes, and urged permanent closure of mining sections above 4,400 m. It requested an updated report by 1 February 2025.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.27 retains Potosí on the Danger List",
+      "description": "The Committee expressed utmost concern about the property's prolonged presence on the List of World Heritage in Danger, noted delays in implementing the Critical Route and the IPMP, welcomed a photogrammetric archaeological survey of Cerro Rico and progress on slope stabilisation, urged permanent closure of mining sections above 4,400 m, and requested an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee approves minor boundary modification (47 COM 8B.51)",
+      "description": "The Committee approved a minor boundary modification for the City of Potosí and recommended strengthening central management, integrating the boundaries and buffer zone into the IPMP with binding legal instruments, and fully protecting and monitoring the Kari Kari hydraulic system. UNESCO's property page records a property area of 2,210.93 ha and a buffer zone of 2,217.81 ha.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_04",
+        "src_05",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2025-10",
+      "title": "Reported mining restrictions above 4,400 m",
+      "description": "Mongabay reported that in early October 2025 Comibol and the miners' federation FEDECOMIN limited mining to daytime weekdays and banned heavy machinery above 4,400 m, and that a Potosí court had ordered mine entrances above 4,400 m closed in 2022 with the work still unfinished; Minister Alejandro Santos Laura was quoted as saying the work was over 60% complete, with 20 mines above 4,400 m closed and 10 remaining. This rests on one outlet and was not corroborated by an official source in this pass; figures differ from the 2024 State Party report (19 of 40 sections closed, 21 closing).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_15"
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Comibol reportedly records 144 sinkholes on Cerro Rico",
+      "description": "Correo del Sur reported that Comibol said it had recorded 144 sinkholes, 8 of them large and 55 in the upper part of the deposit (above elevation 4,400 m), with dry backfill the stated approach; university teachers cited in the article questioned dry backfill.",
+      "event_type": "other",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "Committee decision 48 COM 7A.33 retains Potosí on the Danger List",
+      "description": "At its 48th session in Busan the Committee welcomed the updated Management Plan (2024-2029) and funded follow-up measures on the Critical Route toward removal from the Danger List, commended continued water-quality monitoring of the lagoons, appreciated steady progress toward the Desired State of Conservation for removal, requested a detailed report at the 49th session and an updated report by 1 February 2027, and decided to retain the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Press report of merged summit sinkholes (single expert)",
+      "description": "eju.tv, republishing El Potosí, reported that a Universidad Autónoma Tomás Frías preservation-commission representative said two summit sinkholes had merged and warned of a possible collapse of the summit cap. The article reports no independent verification or official confirmation, so this is recorded as a reported claim only.",
+      "event_type": "other",
+      "source_ids": [
+        "src_16"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "City of Potosí",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/420/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.33: City of Potosí (Bolivia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9022",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.27: City of Potosí (Bolivia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8694",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.7: City of Potosí (Bolivia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8476",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 47 COM 8B.51: Minor boundary modification, City of Potosí (Bolivia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8934",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "ICOMOS evaluation of the minor boundary modification, City of Potosí (No 420bis)",
+      "publisher": "ICOMOS / UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/222537",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Identified from the document text as the ICOMOS evaluation of the minor boundary modification (property 420bis), approved 12 March 2025; the document reference number was not seen. Used for its statements on 2011 collapse and the buffer zone.",
+      "published_date": "2025-03-12",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "City of Potosí (Plurinational State of Bolivia) added to List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1148",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2014-06-17",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "State of Conservation, City of Potosí, 2017 (summary page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3520",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page summarises the 2017 report and a DRAFT decision (41 COM 7A.23); the page notes the draft names the 41st session while the adopted decision specified the 42nd. The adopted decision text was not read.",
+      "published_date": "2017",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "State of Conservation, City of Potosí, 2023 (summary page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4281",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "State of Conservation, City of Potosí, 2024 (summary page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4530",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Report on the State of Conservation of the City of Potosí (Bolivia), executive summary, January 2025",
+      "publisher": "Ministry of Cultures, Decolonization and Depatriarchalization, Plurinational State of Bolivia (via UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/219134",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "State Party's own report on its own progress (self-reported); only the executive-summary excerpt was read. No separate reference number was seen.",
+      "published_date": "2025-01-27",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "City of Potosí: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/420/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "City of Potosí: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/420/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Comibol: Hay 144 hundimientos en el Cerro Rico de Potosí",
+      "publisher": "Correo del Sur",
+      "url": "https://correodelsur.com/sociedad/20260226/comibol-hay-144-hundimientos-en-el-cerro-rico-de-potosi.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Regional Bolivian outlet; the byline is 'El Potosí' with no named author. Figures are attributed in the article to Comibol (the state mining company), which is also a party to the mining and stabilisation work; they are not independently verified here.",
+      "published_date": "2026-02-26",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Bolivia: Cerro Rico puede colapsar por explotación minera (Spanish translation of a 22 October 2025 Mongabay article)",
+      "publisher": "Mongabay Latam",
+      "url": "https://es.mongabay.com/2025/11/bolivia-cerro-rico-puede-colapsar-explotacion-minera/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Contains several single-source or disputed figures (e.g. unpublished police data on deaths; Comibol miner numbers disputed by a journalist quoted in the article). Used only for clearly attributed statements, never as sole support for a status-determining claim.",
+      "published_date": "2025-11-15",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Hundimientos se juntan y ponen en riesgo cumbre del Cerro Rico",
+      "publisher": "eju.tv (content from El Potosí)",
+      "url": "https://eju.tv/?p=5038632",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Collapse-risk and merging-sinkhole claims rest on one expert reading of monitoring data; the article reports no independent technical verification or official confirmation. Not used as sole support for any status-determining claim.",
+      "published_date": "2026-07-16",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Preocupa en Potosí nuevo hundimiento del Cerro Rico",
+      "publisher": "Los Tiempos (citing El Potosí)",
+      "url": "https://www.lostiempos.com/node/373367",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Secondary report of a local claim; sizes are attributed to a civic-committee leader, not an engineering assessment.",
+      "published_date": "2017-05-09",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical flagged in decision_trigger. Danger List check: UNESCO's property page and danger-list page both show the property listed (entered 2014) with no removal; the brief's '2014-2019' premise is not supported. Known gaps: (1) UNESCO State of Conservation pages for 2025 (soc/4726) and 2026 (soc/4978) and document 220838 returned fetch errors, so the Secretariat/Advisory Body assessments of the 2025 and 2026 State Party reports were not read; only the Committee decisions were. (2) Decisions 44 COM 8B.66, 45 COM 7A.18 and 38 COM 7B.38 texts were not read directly; 2023 details come from the UNESCO 2023 SOC summary page and the 2014 listing from the UNESCO news item and ICOMOS 2025. (3) The January 2025 State Party report was read only as an executive-summary excerpt. (4) Source discrepancies not resolved: summit collapse dated February 2011 (ICOMOS) vs 2010 (press); mining mills inventoried 55 (46 COM 7A.7, 2024 SOC) vs 22 (47 COM 7A.27); mine-section closure figures differ between the 2024 State Party report (19 of 40 closed) and a minister quoted by Mongabay (20 closed, 10 remaining). Mill and closure figures were therefore kept out of the status rationale. (5) Exact session dates for the 2025 and 2026 decisions were not confirmed (year only). (6) No natural_disaster threat was documented in sources read, so the category is omitted. (7) No peer-reviewed Potosí study, viewable 3D model or virtual tour was found; DPI categories left false. (8) Mongabay death and miner-number figures omitted as single-source or disputed. Images omitted by design. VERIFIER PASS (2026-10-15, independent): Danger List dates confirmed (listed 2014; retained 2024 46 COM 7A.7, 2025 47 COM 7A.27, 2026 48 COM 7A.33). Comibol 144 sinkholes re-read at Correo del Sur: attributed to Comibol Regional Potosi (8 large, 55 above 4,400 m), matches draft. Gallery confirmed 6 images / 4 photographers; documents page confirmed. Fixes (9): softened unverified 'once the world's largest industrial complex' phrasing; removed 'serious' concern wording for Kari Kari; reconciled 'not an acute emergency' wording with Critical Route emergency designation; removed Los Tiempos from the 2010 cave-in claim; corrected 2023 'commended progress' and miner-relocation attribution; removed 'monitoring' from 2025 decision welcome; added minister name/60% context to Mongabay event. Not re-verified (session limit): eju.tv 2026-07-16 article, Los Tiempos 2017 article, 2026 State Party report (whc.unesco.org/document/224523, now listed on the documents page). SECOND VERIFIER PASS (2026-10-15, independent; all UNESCO pages, Correo del Sur, Mongabay, eju.tv and Los Tiempos re-fetched and translations checked). Fixes (9): significance summary reworded to UNESCO's actual phrasing; 2017 SOC '132 sinkholes' corrected to UNESCO's 'sinking areas' (95% refilled per State Party); 2017 mission corrected from 'joint' to WHC/ICOMOS technical mission and 'agreed draft' DSOCR softened to proposed; 2023 'commended efforts to implement decisions' corrected to 'despite the difficult national context'; 2,387-miner figure attributed to COMIBOL Sept 2021 census; Los Tiempos 2017 (first collapse June 2010) added as press support for the 2010 dating alongside Mongabay and linked to the 2011 event; university name corrected to Universidad Autonoma Tomas Frias (accents). Unchanged: status/confidence/DPI tier. Note for editor: DPI moderate rests on a 6-image UNESCO gallery and UNESCO's own documents page, a close call with limited. Not read: 2025/2026 SOC pages, adopted text of 41 COM 7A.23 beyond the UNESCO summary.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

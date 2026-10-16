@@ -1,0 +1,588 @@
+{
+  "slug": "rock-hewn-churches-lalibela",
+  "name": "Rock-Hewn Churches, Lalibela",
+  "alternate_names": [
+    "Lalibela",
+    "Lalibela rock-hewn churches"
+  ],
+  "country": "Ethiopia",
+  "region": "Africa",
+  "coordinates": {
+    "lat": 12.0325,
+    "lng": 39.0433
+  },
+  "coordinate_note": "Centre-point coordinates as shown in the Wikipedia article header (12 01 57 N, 39 02 36 E); UNESCO's property page does not give coordinates and says georeferenced polygons will be available once UNESCO receives the GIS data. The marker is a practical single-point reference for the town's church complex.",
+  "unesco_id": "18",
+  "inscription_year": 1978,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO's property page describes eleven medieval churches carved from living rock in a mountainous part of Ethiopia, attributed to King Lalibela, who sought to create a 'New Jerusalem'. It notes the site remains an active centre of pilgrimage and is inscribed under cultural criteria (i), (ii) and (iii). UNESCO's own property page gives two dates: its short description calls Lalibela a '13th-century' New Jerusalem, while its brief synthesis says King Lalibela set out to build it in the 12th century.",
+  "metadata_sources": [
+    "src_00",
+    "src_25"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "Lalibela lies in the Amhara region, which has seen repeated armed conflict since 2021. Al Jazeera reported (citing residents and AFP) that Tigrayan forces took the town in August 2021, and, citing Reuters and AFP, that they reportedly retook it in December 2021. UNESCO's 2023 state of conservation page records that an armed conflict in 2021 disrupted property management, and Decision 45 COM 7B.35 welcomed a May 2022 UNESCO assessment mission organised following the end of the armed conflict. Fighting between Fano militia and the army reached the town in November 2023 (Al Jazeera, Reuters); a deacon told Reuters a metal shelter protecting one church was hit three times by stray gunfire, and African Arguments (February 2024, citing residents) reported bullet strikes on the iron legs of a shelter near Biete Medhani Alem and a mortar-like indent a few metres from St George church, which residents thought the army more likely caused. In the 2025 Decision 47 COM 7B.155 the Committee noted that 'the security situation has allowed only ad-hoc interventions so far'. The most recent reporting is from 24-25 September 2026: Reuters reported that flights to Lalibela were suspended because of nearby fighting, with a diplomatic source saying fighting was 'around the town but not inside it yet', and AFP reported receiving reports of fighting in Lalibela and a foreign security source saying the airport's flights were suspended. Neither report mentions damage to the churches. No Lalibela-specific reporting after 25 September 2026 was found; an Al Jazeera report of 3 October 2026 says fighting had spread into Amhara 'including around North Wollo' (AFP places Lalibela in North Wollo Zone). Local outlets also reported the effects on the town: The Reporter (Ethiopia, March 2024) reported that tourist arrivals had collapsed and that at least 45 hotels had closed, and Addis Fortune (January 2025) reported that security conditions in Amhara remained unpredictable and that the U.S. warned against travel to the region. Sources reviewed do not document who is responsible for any specific incident at the churches.",
+      "first_identified_date": "2021-08-05",
+      "date_note": "Date of Al Jazeera's report that Tigrayan forces had taken Lalibela; conflict in the wider region began earlier (Al Jazeera's August 2021 report says fighting had continued 'since last November', i.e. November 2020).",
+      "source_ids": [
+        "src_16",
+        "src_17",
+        "src_04",
+        "src_03",
+        "src_18",
+        "src_19",
+        "src_20",
+        "src_02",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_09",
+        "src_11",
+        "src_21",
+        "src_22"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's property page (Integrity section) records that most of the monuments are considered to be in critical condition from water damage, with collapse a possible imminent risk at Biete Amanuel, and notes that the temporary shelters protect the churches but affect their visual integrity. Four temporary shelters were built in 2008 over five of the eleven churches; the 2021 state of conservation page says they do not meet revised engineering norms, the 2023 page says a formal computational analysis found they do not meet formal standards under extreme wind, and the 2021 page records objections from church authorities and the local community. The 2018 advisory mission report said the shelters had no formal inspection or maintenance regime. Successive Committee decisions (43 COM 7B.105 in 2019, 44 COM 7B.118 in 2021, 45 COM 7B.35 in 2023) addressed the temporary shelters (a dismantling framework in 2019, modification to meet revised norms in 2021, a dismantling approach in 2023), asked for a revised Management Plan, and required impact assessments and other studies before any construction decision on permanent shelters (2021). In Decision 47 COM 7B.155 (2025) the Committee noted new uncertainties about the feasibility of bamboo as a structural material, welcomed a new architectural competition on alternative shelter options, and encouraged a monitoring system to define environmental equilibrium for each of the 11 churches before supporting the idea of permanent shelters; the next updated report is requested by 1 December 2026. These are chronic problems under active international and national management.",
+      "first_identified_date": null,
+      "date_note": "Chronic condition and shelter concerns documented across many UNESCO cycles; the sources reviewed give no single start date. The temporary shelters date from 2008.",
+      "source_ids": [
+        "src_00",
+        "src_08",
+        "src_06",
+        "src_04",
+        "src_07",
+        "src_05",
+        "src_03",
+        "src_02",
+        "src_20"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "UNESCO's property page says seismic activity has disrupted the drainage system, contributing to water damage, and the 2021 and 2023 state of conservation pages list earthquake among the current threats. The sources reviewed document earthquake as a listed threat, not a specific damaging earthquake event at the property.",
+      "first_identified_date": null,
+      "date_note": "Listed as a standing threat in UNESCO state of conservation reporting; no dated seismic event at the property was found in the sources reviewed.",
+      "source_ids": [
+        "src_00",
+        "src_06",
+        "src_04"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "UNESCO's 2021 and 2023 state of conservation pages list relative humidity and water (rain and water table) among the current threats, and the property page records water damage from filled and disrupted drainage ditches. The 2021 decision text summarised in the state of conservation page notes the basaltic rock absorbs water. The sources reviewed do not attribute these pressures to climate change, so this category reflects documented environmental factors only.",
+      "first_identified_date": null,
+      "date_note": "Chronic water and humidity pressures documented across UNESCO cycles; no single start date found in the sources reviewed.",
+      "source_ids": [
+        "src_00",
+        "src_06",
+        "src_04",
+        "src_05"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "critical_concern",
+      "confidence": "developing",
+      "decision_trigger": "Critical Concern, applying the methodology top-down. Matched trigger: the site is 'currently within an active combat zone, with fighting reported at or immediately adjacent to it, per UN, government, or major wire-service reporting.' On 24-25 September 2026 Reuters reported that flights to Lalibela were suspended because of nearby fighting, quoting a diplomatic source who said fighting was 'around the town but not inside it yet', and AFP reported receiving reports of fighting in Lalibela and a foreign security source saying flights at the airport were suspended. Other Critical triggers: not established. No severe verified damage to the churches is reported by any source reviewed (neither wire report mentions damage); UNESCO organised a visit by more than 70 representatives on 3-4 July 2026, so the site was reachable by monitoring partners until recently, and the sources reviewed do not show an extended (6+ month) loss of access or a collapse of protection and monitoring. High Concern triggers also apply: the property is not on the List of World Heritage in Danger (UNESCO list read 2026-10-14), but it sits in a region under active armed conflict with credible reporting on risk, and the conservation problems (critical condition from water damage, shelters that do not meet current norms) are unresolved. CLOSE CALL: the neighbouring status is High Concern. The Critical call rests on the 'adjacent fighting' trigger, which currently depends on two wire reports of 24-25 September 2026, one relying on a single diplomatic source for the position of the fighting; no Lalibela-specific reporting after 25 September was found, so whether fighting is still at or near the town is not established. A reviewer who weighs the age and thinness of the evidence differently could reasonably place the site at High Concern; this entry should be re-checked soon.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture has two layers. First, a chronic conservation layer: UNESCO records most of the eleven churches as in critical condition from water damage, a possible imminent collapse risk at Biete Amanuel, and temporary 2008 shelters that do not meet current engineering norms, with the Committee still working through the question of permanent shelters in 2025 and noting that the security situation has allowed only ad-hoc interventions. On its own this would sit at Moderate or High Concern; it is under active management with international and French-Ethiopian bilateral support. Second, an acute security layer: the most recent wire-service reports (Reuters and AFP, 24-25 September 2026) place fighting around, and by AFP's account reportedly in, Lalibela, with flights suspended. That matches the methodology's active-combat-zone trigger for Critical Concern. The label does not mean damage has been reported: no source reviewed documents damage to the churches in 2026, and the earlier incidents at the property (2021 takeovers; November 2023 gunfire that reportedly hit a shelter) are history in the events timeline. The sources do not assign responsibility for any specific incident at the churches and this entry does not either. Confidence is Developing rather than Supported: the situation is fast-moving, the position of the fighting rests on a single diplomatic source and unverified reports, no source after 25 September specific to Lalibela was found, and UNESCO has not yet published a 2026 assessment. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_10",
+        "src_13",
+        "src_14",
+        "src_15",
+        "src_04",
+        "src_03",
+        "src_08",
+        "src_06"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 2 review summary, agreeing with the recommended status and confidence. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of the five categories have evidence that was opened and is publicly viewable, which gives the moderate tier by the rubric. Photographic: UNESCO's gallery for the property is public and spans several pages (12 images on the page read; credits include UNESCO/Francesco Bandarin, M & G Therin Weise and Ko Hon Chiu Vincent); this is a gallery of the property, not a systematic archive. Academic: the 2001 photogrammetric recording of Bet Giorgis is documented in scholarly publications, but those describe a single church and do not make a model available. Not counted: archival_records (UNESCO's own mission and state of conservation reports are not a digitised archive of the site); 3d_documentation (a Sketchfab page titled 'Beta Giorgis (textured), Lalibela, Ethiopia' describes a 2019 model from 32 terrestrial scans and 705 images drawn from 2005-2009 laser scanning of the churches, but the uploader and an interactive viewer could not be confirmed in this pass, so it is not counted; if confirmed it would add a category and the tier would remain moderate); virtual_tour (none found; a touring physical exhibition by Archeovision and the Ethiopian Ministry of Tourism and Culture was found but is not an online virtual tour). Coverage is therefore uneven and, for 3D and scholarship, building-level at most. 'Moderate' reflects what is publicly findable, not necessarily what exists in unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre's public photo gallery for the property, spread over several pages, with images credited to UNESCO/Francesco Bandarin, M & G Therin Weise and Ko Hon Chiu Vincent.",
+        "url": "https://whc.unesco.org/en/list/18/gallery/",
+        "source_id": "src_12"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Barber, Mills and Bryan (2001) describe photogrammetric recording and 3D modelling of Bet Giorgis, one of the churches (the paper's title also covers laser scanning), in conference proceedings hosted by Newcastle University.",
+        "url": "https://eprints.ncl.ac.uk/9600",
+        "source_id": "src_23"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "ISPRS Highlights (2001) article on the photogrammetric recording of Bet Giorgis, compiled by Clive Fraser, describing fieldwork begun in October 2000 and a preliminary VRML model; the article does not say the model was made publicly available.",
+        "url": "https://WWW.ISPRS.org/publications/highlights/highlights0603/30_HL_09_01_Article_Fraser.pdf",
+        "source_id": "src_24"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1978",
+      "title": "Inscribed on the World Heritage List",
+      "description": "UNESCO's property page records the Rock-Hewn Churches, Lalibela as inscribed in 1978 under criteria (i), (ii) and (iii).",
+      "event_type": "other",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2008",
+      "title": "Four temporary protective shelters built over five churches",
+      "description": "UNESCO's 2021 state of conservation page states that four temporary shelters were erected in 2008 over five of the eleven churches, with the Committee's reluctant agreement and a condition of eventual dismantling. The 2023 page says a formal analysis found they do not meet current safety standards under extreme wind.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_06",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2018-05-20/2018-05-25",
+      "title": "UNESCO/ICOMOS/ICCROM advisory mission",
+      "description": "An advisory mission visited 20-25 May 2018. Its report said most monuments were considered to be in critical condition and that the shelters lacked a formal inspection or maintenance regime. The 2019 Committee decision 43 COM 7B.105 commended Ethiopia for inviting the mission.",
+      "event_type": "other",
+      "source_ids": [
+        "src_08",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2021-08-05",
+      "title": "Tigrayan forces reportedly take Lalibela",
+      "description": "Al Jazeera, citing residents who spoke to AFP, reported that Tigray rebels seized Lalibela without a fight; officials did not confirm the takeover.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_16"
+      ]
+    },
+    {
+      "date": "2021-08-06",
+      "title": "UNESCO expresses deep concern about the expansion of the conflict to Lalibela",
+      "description": "UNESCO said it had 'deep concern about the reports on the expansion of the conflict to the city of Lalibela', called for respect of international legal obligations including refraining from any act that may expose the property to damage, and urged precautions against looting.",
+      "event_type": "political",
+      "source_ids": [
+        "src_09"
+      ]
+    },
+    {
+      "date": "2021-12-12",
+      "title": "Tigrayan forces reportedly retake Lalibela",
+      "description": "Al Jazeera, relaying Reuters and AFP reporting based on residents, said Tigrayan fighters had retaken the town less than two weeks after government forces and allies said they had taken it. Al Jazeera did not independently confirm the report.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_17"
+      ]
+    },
+    {
+      "date": "2022-05-23/2022-05-28",
+      "title": "UNESCO assessment mission",
+      "description": "UNESCO's 2023 state of conservation page records an assessment mission from 23 to 28 May 2022, following an information mission in January 2022. Decision 45 COM 7B.35 welcomed the May 2022 mission, organised 'following the end of the armed conflict'.",
+      "event_type": "other",
+      "source_ids": [
+        "src_04",
+        "src_03"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7B.35 on Lalibela",
+      "description": "At its extended 45th session the Committee said there was not yet enough data to confirm what impact shelters have, treated shelters as an evolving solution to be reassessed through monitoring and community feedback, asked for small-scale pilot tests on bamboo as a structural element and for stabilizing anchors against extreme wind uplift, and asked for an updated report by 1 December 2024. The month of the decision was not stated in the pages read.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2023-10-18",
+      "title": "Emergency project for Lalibela's intangible cultural heritage begins implementation",
+      "description": "UNESCO's Intangible Cultural Heritage Fund page lists a US$150,000 emergency project, granted in 2023 and implemented by the Ethiopian Heritage Authority with a local association from 18 October 2023 to 18 October 2027. It states that traditional church schools in Lalibela and surrounding areas were temporarily closed due to ongoing conflicts in northern Ethiopia and the COVID-19 pandemic.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2023-11-08",
+      "title": "Fighting between Fano fighters and the army in Lalibela",
+      "description": "Al Jazeera, citing AFP and residents, reported that Fano fighters took much of the town on 8 November and that the Ethiopian army regained control on 9 November. A government spokesperson told Reuters the city was peaceful. A deacon told Reuters a metal shelter protecting one church was hit three times by stray gunfire. African Arguments later reported, citing residents, bullet strikes on the iron legs of a shelter near Biete Medhani Alem. Media access was severely restricted and details were unclear.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_18",
+        "src_19",
+        "src_20"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7B.155 on Lalibela",
+      "description": "The Committee noted that the security situation has allowed only ad-hoc interventions so far, welcomed a new architectural competition on alternative shelter options, noted new doubts about bamboo as a structural material, encouraged a monitoring system to define environmental equilibrium for each of the 11 churches before supporting the idea of permanent shelters, and asked for an updated state of conservation report by 1 December 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2026-07-03/2026-07-04",
+      "title": "UNESCO-organised visit by diplomats and development partners",
+      "description": "UNESCO's Addis Ababa Liaison Office organised a two-day visit attended by more than 70 representatives from over 40 embassies, UN organisations and development partners. UNESCO's account highlights recovery efforts after COVID-19 and recent setbacks to tourism and livelihoods.",
+      "event_type": "other",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Flights to Lalibela suspended amid fighting nearby",
+      "description": "Reuters reported, citing seven sources, that flights to Lalibela were suspended because of nearby fighting, and quoted a diplomatic source saying fighting was around the town but not inside it yet. AFP separately reported receiving reports of fighting in Lalibela and a foreign security source saying airport flights were suspended. Neither report mentions damage to the churches.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_13",
+        "src_14"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Rock-Hewn Churches, Lalibela",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/18",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/86",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page shows no last-updated date; read on 2026-10-14. It lists 58 properties and Lalibela is not among them.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7B.155: Rock-Hewn Churches, Lalibela (Ethiopia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8880",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 45 COM 7B.35: Rock-Hewn Churches, Lalibela (Ethiopia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8309",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "State of conservation 2023: Rock-Hewn Churches, Lalibela (Ethiopia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4350",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 44 COM 7B.118: Rock-Hewn Churches, Lalibela (Ethiopia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7833",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "State of conservation 2021: Rock-Hewn Churches, Lalibela (Ethiopia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4181",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 43 COM 7B.105: Rock-Hewn Churches, Lalibela (Ethiopia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7569/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2019",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Report of the UNESCO/ICOMOS/ICCROM Advisory mission to Rock-Hewn Churches, Lalibela (Ethiopia), 20-25 May 2018",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/169702",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2018",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "UNESCO seriously concerned about the protection of World Heritage site of the Rock-Hewn Churches, Lalibela (Ethiopia)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/2326",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021-08-06",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Lalibela at the Heart of Cultural Diplomacy and World Heritage Conservation",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/lalibela-heart-cultural-diplomacy-and-world-heritage-conservation",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026-07-08",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Emergency response to safeguard the intangible cultural heritage of Lalibela World Heritage property and the surrounding area endangered by conflict (02045)",
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/en/assistances/emergency-response-to-safeguard-the-intangible-cultural-heritage-of-lalibela-world-heritage-property-and-the-surrounding-area-endangered-by-conflict-02045",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page gives the funding year (2023) and implementation dates (18/10/2023 to 18/10/2027) but no exact approval date.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Rock-Hewn Churches, Lalibela: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/18/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Flights suspended to Ethiopian holy town of Lalibela as fighting expands (Reuters report)",
+      "publisher": "Sowetan (republishing Reuters)",
+      "url": "https://www.sowetan.co.za/news/africa/2026-09-25-flights-suspended-to-ethiopian-holy-town-of-lalibela-as-fighting-expands/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Several of the report's key claims rest on unnamed diplomats, residents and a source linked to the TPLF and Fano; Reuters could not verify the army's casualty figures. The report does not mention damage to the churches.",
+      "published_date": "2026-09-25",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara assault (AFP report)",
+      "publisher": "Arab News (republishing AFP)",
+      "url": "https://www.arabnews.com/world/ethiopian-army-says-272-rebels-killed-in-amhara-assault-3002942",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "The Lalibela information is a brief reference to reports received by AFP and an unnamed foreign security source; AFP could not independently verify the army's figures.",
+      "published_date": "2026-09-24",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Ethiopian gov't forces advance in Tigray as rebels retreat: What to know (AFP and Reuters)",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-10-03",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Residents say Tigray rebels take control of UNESCO site Lalibela",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2021/8/5/tigray-rebels-take-control-of-unesco-site-lalibela-residents",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2021-08-05",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Tigray rebels retake Ethiopian Heritage town Lalibela: Residents",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2021/12/12/tigray-rebels-retake-lalibela-in-ethiopia-residents",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Reported from residents via Reuters and AFP; Al Jazeera stated it did not independently confirm the retaking.",
+      "published_date": "2021-12-12",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Ethiopian troops force armed group out of Orthodox holy site of Lalibela",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2023/11/9/ethiopia-troops-force-armed-group-out-of-orthodox-holy-site-of-lalibela",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Details rest largely on anonymous residents and a deacon; the article says media access to the region was severely restricted.",
+      "published_date": "2023-11-09",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Residents report gunfire in Ethiopian holy city but govt says all peaceful (Reuters report)",
+      "publisher": "The African Mirror (republishing Reuters)",
+      "url": "https://theafricanmirror.africa/news/residents-report-gunfire-in-ethiopian-holy-city-but-govt-says-all-peaceful/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Republication of a Reuters/Thomson Reuters Foundation report; the shelter-hit claim is from one deacon and the government spokesperson disputed that there was violence.",
+      "published_date": "2023-11-09",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Rocks in a hard place: Lalibela priests raise fears amid war and weather",
+      "publisher": "African Arguments",
+      "url": "https://africanarguments.org/?p=43802",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Feature by a freelance journalist; statements about shelter condition, damage and the detention of a caretaker are the author's reporting and priests' accounts, not independently confirmed by an official source.",
+      "published_date": "2024-02-07",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Lalibela's residents stranded as war extinguishes beacon of tourism",
+      "publisher": "The Reporter (Ethiopia)",
+      "url": "https://www.thereporterethiopia.com/39355/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Tourism and hotel figures are as reported by the outlet from local sources; not independently verified.",
+      "published_date": "2024-03-23",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_22",
+      "title": "Lalibela Struggles to Recover from Pandemic, Conflict Fallout",
+      "publisher": "Addis Fortune",
+      "url": "https://addisfortune.news/tag/alibela-economy-post-conflict",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Visitor-number expectations are quoted from a local official and not independently verified.",
+      "published_date": "2025-01-04",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Laser scanning and photogrammetry: 21st Century metrology (Barber, Mills and Bryan)",
+      "publisher": "Newcastle University ePrints / CIPA symposium proceedings",
+      "url": "https://eprints.ncl.ac.uk/9600",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2001",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_24",
+      "title": "The Photogrammetric Recording of Bet Giorgis (The Rock Churches of Lalibela)",
+      "publisher": "ISPRS Highlights, compiled by Clive Fraser",
+      "url": "https://WWW.ISPRS.org/publications/highlights/highlights0603/30_HL_09_01_Article_Fraser.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": null,
+      "published_date": "2001",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_25",
+      "title": "Rock-Hewn Churches, Lalibela",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rock-Hewn_Churches,_Lalibela",
+      "source_type": "other",
+      "tier": 4,
+      "reliability_note": "Tier 4 reference; used only for the centre-point coordinates, which the UNESCO property page does not give.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude. Proposed status Critical Concern / Developing; close call vs High Concern flagged in decision_trigger. Danger List checked directly on UNESCO's list page (whc.unesco.org/en/86): Lalibela is not on it. Known gaps (not included because not verified): (1) No Lalibela-specific reporting after 25 September 2026 was found; whether fighting is still at or near the town, and whether flights have resumed, is not established. The Washington Post (3 Oct 2026) and US Embassy security alert (25 Sep 2026) pages could not be retrieved. (2) UNESCO has not published a 2026 state of conservation assessment that was found; the 2025 SOC page (whc.unesco.org/en/soc/4655) could not be retrieved, so only the 2025 decision text was read. The Committee's 2025 session date was not confirmed (year only). (3) Month of Decision 45 COM 7B.35 not stated in the pages read. (4) The UNESCO property page text lists Integrity points (critical condition, imminent collapse risk at Biete Amanuel) without dating them; the 2018 mission report was read only in summary extraction and its Integrity text may summarise earlier assessments. (5) A Sketchfab 3D model page and an Archeovision touring exhibition were found but not counted in the DPI (viewer/uploader unconfirmed; physical exhibition). (6) The UNESCO property page may describe the property as serial; this was not confirmed and the profile treats it as a single listing with is_serial_component false, for reviewer check. (7) Coordinates come from Wikipedia (Tier 4) because UNESCO gives none. (8) Tourism figures (Reporter, March 2024; Addis Fortune, January 2025) are as reported by local outlets and omitted from the status rationale. (9) Reports from 2021 of hotel looting and civilian harm were not sourced to a dated page and are omitted. Images omitted by design. Wikipedia pages on the 2026 conflict were read for orientation only and are not cited. VERIFIER PASS 2026-10-14: fixed 13 wording items against the sources: significance century wording (UNESCO page gives both 13th and 12th century); Biete Amanuel collapse 'possible imminent risk'; shelter-norm attributions by year (2021 vs 2023); Decisions 44/45/47 paraphrases (47 COM 7B.155 'encourages' a monitoring system 'before supporting the idea of permanent shelters', not 'asked'); African Arguments shelter-strike location and attribution to residents; seismic wording; Barber et al. description. Verifier noted but did not apply: the Zamani Project page (zamaniproject.org/site-ethiopia-lalibela-rock-hewn-churches.html) publicly offers interactive 3D models, a panorama tour and plans for several churches, which may add 3d_documentation/virtual_tour categories; UNESCO's data panel reportedly shows 'Serial: yes'; Al Jazeera's 24 Sep 2026 summary phrases the AFP report as 'fighting around Lalibela, causing its airport to close' (Arab News's AFP text says 'reports of fighting in Lalibela'). No Lalibela-specific reporting after 25 Sep 2026 found in verifier searches.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: critical_concern / developing; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

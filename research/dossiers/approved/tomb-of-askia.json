@@ -1,0 +1,644 @@
+{
+  "slug": "tomb-of-askia",
+  "name": "Tomb of Askia",
+  "alternate_names": [
+    "Tomb of the Askia",
+    "Tombeau des Askia",
+    "Askia Tomb"
+  ],
+  "country": "Mali",
+  "region": "West Africa (Sahel)",
+  "coordinates": {
+    "lat": 16.2898,
+    "lng": 0.0446
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N16 17 23.28, E0 2 40.416). The inscribed property (4.24 ha, with an 82.7 ha buffer zone) is in Gao city; this marker is a practical single-point reference.",
+  "unesco_id": "1139",
+  "inscription_year": 2004,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes the 17-metre pyramidal Tomb of Askia, built in 1495 by Askia Mohamed, Emperor of the Songhai Empire, in Gao. The complex also includes two flat-roofed mosques, a mosque cemetery and an open-air assembly ground, and reflects the wealth of an empire that controlled trans-Saharan trade in salt and gold. UNESCO calls it the most important and best-preserved remnant of the Songhai Empire and an example of Sudano-Sahelian earthen architecture, with plaster renewed regularly after the rainy seasons. It is inscribed under criteria (ii), (iii) and (iv).",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO's 2012 state of conservation summary states that fighting in northern Mali left Gao under rebel and Islamist control from early April 2012 and that the Gao Cultural Mission, which manages the property, was closed; the Committee placed the property on the List of World Heritage in Danger on 28 June 2012 at Mali's request (the 2015 summary gives the occupation as March 2012 to January 2013). UNESCO's 2015 summary states the tomb was not physically damaged during the occupation but was not maintained or replastered, so cracks and holes appeared, and a 2014 UNESCO news item reports that young people in Gao defended the site. Insecurity is flagged in the 2016, 2024 and 2026 Committee decisions reviewed: in 2016 the Committee expressed concern about the unstable security situation at Gao, which prevented Mali from inviting a monitoring mission, and in 2024 it stated that 'insecurity continues to be the main threat to the property'. In 2026 the Committee's decision still asks Mali to invite a joint UNESCO/ICOMOS/ICCROM reactive monitoring mission only 'if security conditions permit'. AFP reported in September 2024 that rebels had been driven from the towns but the region still suffers violence and that foreign experts no longer visit. In 2026 fighting reached Gao: AP reported on 25 April 2026, citing a resident, gunfire and explosions in Gao as a coordinated offensive began, and a separatist spokesperson claimed control of some areas of Gao (which AP could not verify); the Long War Journal (26 April) described Gao as 'only partially under the control' of the JNIM-FLA force with Malian and Russian troops in former UN positions in the city, while the Critical Threats Project (28 April) said JNIM and the FLA had seized Gao. These accounts differ and the sources reviewed do not settle who held the city in late April. Al Jazeera reported that on 4 July 2026 a military camp in Gao was attacked and that the army said six 'terrorists' were killed in Gao, and on 18 July 2026 an army convoy was ambushed near Tabankort in the Gao region. None of the sources reviewed reports damage to the tomb from this fighting, or places the fighting at the property.",
+      "first_identified_date": "2012-04",
+      "date_note": "Gao came under rebel and Islamist control from early April 2012 according to UNESCO's 2012 state of conservation summary; the exact day is not given in the sources reviewed.",
+      "source_ids": [
+        "src_01",
+        "src_03",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_10",
+        "src_12",
+        "src_20",
+        "src_21",
+        "src_22",
+        "src_23",
+        "src_24",
+        "src_25"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "The earthen structure has a documented history of structural weakness. UNESCO's 2012 summary records the collapse of pillars at the Women's Tomb in 2011; the 2015 summary records pillar collapses in 2006, 2011 and 2013 and says wooden pillars and roof had weakened with age and with the weight of mud layers from annual plastering. A CRAterre conservation manual (read via an Internet Archive copy) lists roof collapses in 2006, 2011, 2017 and 2024. AFP reported that in mid-August 2024 part of the men's mosque ceiling collapsed during heavy rain while a pillar was being repaired. The Danger List inscription rests on the occupation of Gao by armed groups, inability to ensure daily management, and risk of collapse (UNESCO 2023 and 2024 summaries). The Committee has since tracked an ALIPH-funded rehabilitation project (structural consolidation, staff training, fencing, a conservation manual) and 10 corrective measures adopted in 2016. Its 2026 decision records significant progress in the conservation of the property, records that eight of the 10 corrective measures have been implemented, records an updated Management and Conservation Plan for 2026-2030, and notes that funding sources for the new plan and budget allocations for urgent conservation work are still lacking. Illegal housing in parts of the buffer zone was also a concern (2024 summary); the 2026 decision records a resettlement solution for buffer-zone occupants with two residential plots made available. Lack of funding for the Gao Cultural Mission was raised in 2025. The tomb's own earlier condition at inscription was rated good by ICOMOS in 2004, with development eroding the traditional urban setting identified as the greatest threat.",
+      "first_identified_date": null,
+      "date_note": "Chronic structural weakness with dated collapses (2006, 2011, 2013, 2017, 2024 per the sources above) and management concerns over successive reporting cycles; no single start date.",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_04",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_16",
+        "src_19",
+        "src_20"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Rain and weather are documented as ongoing pressures on the earthen fabric. UNESCO's 2024 summary reports water erosion in the prayer area (being countered with fine sand) among maintenance concerns that the World Heritage Centre considers non-major, and the 2016 corrective measures include control of silting, drainage and rainwater erosion at the necropolis. The CRAterre manual lists degradation factors including rain and wind, climate change, termites and bats. UNESCO's 2014 news item said the tomb needed urgent safeguarding before the June rainy season. AFP reported in September 2024 that the August 2024 ceiling collapse happened during heavy rains and quoted the regional agency Agrhymet as saying Sahel rainfall in recent weeks was 120% to 600% above the 1991-2020 average (a regional figure, not specific to Gao); it also cited a 2022 study that an event once expected about one year in ten now occurs about one year in five. These are chronic, managed pressures; the sources reviewed do not document a distinct climate-related emergency at the property.",
+      "first_identified_date": null,
+      "date_note": "Chronic pressure from rainfall and weathering on an earthen monument that requires regular replastering; no single start date established.",
+      "source_ids": [
+        "src_00",
+        "src_05",
+        "src_09",
+        "src_12",
+        "src_19",
+        "src_20"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "developing",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not mechanically met on the evidence read, but this is a close call. (1) Severe damage materially affecting the site now: not established; UNESCO's 2015 summary says the tomb was not physically damaged during the 2012-2013 occupation, the 2026 Committee decision records significant conservation progress, and no source read reports damage to the tomb from the 2026 fighting. (2) Currently within an active combat zone with fighting reported at or immediately adjacent to the site: this is the closest call. The tomb stands in Gao city. AP (25 April 2026) reported gunfire and explosions in Gao, Al Jazeera reported an attack on a military camp in Gao on 4 July 2026 with the army reporting six attackers killed there, and the Gao region saw a convoy ambush on 18 July 2026. Sources differ on whether the city was partly (Long War Journal) or wholly (Critical Threats) in the hands of JNIM and the FLA in late April, and the army later described the overall situation as 'totally under control'. However, no source read places the fighting at the tomb, and the most recent in-city incident found is about 3 months old. (3) Inaccessible to monitoring or conservation bodies for 6+ months so condition cannot be verified: also a close call. The 2016 decision said Gao's security prevented a monitoring mission and the 2026 decision still asks for a joint reactive monitoring mission only 'if security conditions permit'; AFP reported in 2024 that foreign experts no longer visit. But conservation work by the Gao Cultural Mission, the national heritage directorate and CRAterre with ALIPH funding has been reported through 2025, and the State Party reports to the Committee, so the condition is documented, if not independently inspected. (4) Protection or monitoring collapsed: not established; the 2026 decision records an adopted Desired State of Conservation for Removal, an updated management plan and continued reporting. High Concern triggers matched: (a) the property has been on UNESCO's List of World Heritage in Danger since 2012 for substantive reasons (occupation of Gao by armed groups, inability to ensure daily management, risk of collapse); (b) the region is under active armed conflict with credible reporting, including fighting in Gao city in 2026. The neighbouring status is Critical Concern: a reviewer who weighs the 2026 fighting in Gao, the Committee's continuing security caveat and the long absence of international monitors more heavily could argue for Critical; a reviewer who weighs the absence of any documented damage, the completed major works and the adopted path to removal from the Danger List could argue the site's own condition is closer to Moderate, though Danger List listing alone keeps it at High under the tree.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Present conditions: the Committee retained the tomb on the Danger List in 2023, 2024, 2025 and again in 2026 (decision 48 COM 7A.39). The 2012 occupation, the closure of the Gao Cultural Mission and earlier structural collapses belong in events[] and do not by themselves drive the current status. What keeps the status at High is (i) formal Danger List status, with the Reinforced Monitoring Mechanism continuing (2023-2024 decisions); (ii) a security situation that the Committee called the main threat in 2024 and that, in 2026, includes reported fighting in Gao city (25 April and 4 July) within a wider offensive across northern Mali; and (iii) structural fragility and resourcing gaps that the 2026 decision still records (funding for the new plan and urgent works not secured; two of the 10 corrective measures not yet reported implemented). Against this, the evidence shows real progress: an ALIPH-funded rehabilitation (CRAterre reports all roofs redone, 6,500 bricks used and 120 wooden beams replaced for the 2020-2025 project), a buffer-zone resettlement solution, an updated 2026-2030 management plan, and a Committee that in 2026 recorded significant progress and adopted the Desired State of Conservation for Removal. No source read reports damage to the tomb from the 2026 fighting. Confidence is Developing rather than Supported: the Committee decisions are primary and consistent, but the State Party's 2026 state of conservation report and the Secretariat's assessment could not be read, accounts of who controlled Gao in April 2026 conflict, no Gao-specific security reporting after 18 July 2026 was found, and the tomb's current physical condition after April 2026 is not independently documented. The High/Critical boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_09",
+        "src_18",
+        "src_20",
+        "src_21",
+        "src_22",
+        "src_23",
+        "src_24",
+        "src_25"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 2 review summary, agreeing with the recommended status and confidence. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": false
+    },
+    "coverage_note": "Two of five categories have publicly findable evidence, which gives the moderate tier by the rubric. Photographic coverage is a UNESCO-hosted gallery (at least 12 images on its first page; the total was not established) credited mainly to the OUR PLACE collection, CRAterre and a UN mission, plus a CRAterre project photo gallery. Archival records are official documentary records rather than a digitised archive: the 2003 nomination file and the 2004 ICOMOS evaluation (both public PDFs on UNESCO's site) and a roughly 52-page CRAterre conservation manual with survey drawings (read via an Internet Archive copy). UNESCO state of conservation reports are deliberately not counted. No 3D model, laser scan or photogrammetry was found. A Google Arts & Culture page exists but is a text story, not a virtual tour or Street View. No peer-reviewed study was found in this pass (an ACLS 2025 grant page describes a forthcoming monograph, which is not published scholarship), so academic_scholarly is marked false; a reviewer who knows of published studies may change this, which would not alter the moderate tier unless it brought the count to four. Reflects what is publicly findable, not necessarily what exists in unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property (12 images on the first page, with a second page not read). Credits shown include OUR PLACE The World Heritage Collection, CRAterre (Thierry Joffroy) and the United Nations (MINUSMA / Marco Dormino).",
+        "url": "https://whc.unesco.org/en/list/1139/gallery/",
+        "source_id": "src_14"
+      },
+      {
+        "category": "photographic",
+        "description": "CRAterre's project case study for the 2020-2025 restoration includes a photo gallery (captions not provided) alongside project results.",
+        "url": "https://craterre.org/en/case/rehabilitation-du-tombeau-des-askias/",
+        "source_id": "src_18"
+      },
+      {
+        "category": "archival_records",
+        "description": "The World Heritage nomination file (No. 1139; dossier dated January 2003), a public PDF on UNESCO's site, containing the French nomination dossier, an English summary and the ICOMOS evaluation; the dossier lists site, roof and facade plans and cites photographs in annexes (the drawings and photographs themselves were not visible in the text read).",
+        "url": "https://whc.unesco.org/uploads/nominations/1139.pdf",
+        "source_id": "src_15"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the nomination file, the ICOMOS evaluation, a 2003 protection-zone map (1:20,000) and the 2018-2022 Plan de gestion et de conservation du tombeau des Askia Gao (French); the management plan and map links were not opened.",
+        "url": "https://whc.unesco.org/en/list/1139/documents/",
+        "source_id": "src_13"
+      },
+      {
+        "category": "archival_records",
+        "description": "ICOMOS's March 2004 evaluation of the nomination, available as a public document on UNESCO's site.",
+        "url": "https://whc.unesco.org/document/151848",
+        "source_id": "src_16"
+      },
+      {
+        "category": "archival_records",
+        "description": "A CRAterre conservation manual for the Tombeau des Askia (authored by CRAterre architects with the head of the Gao Cultural Mission, drafted in sessions in Gao in 2020-2021; numbered pages run to 52) publicly available as a PDF on the Internet Archive; its annexes include site drawings dated 2002 and 2023.",
+        "url": "https://ia601001.us.archive.org/18/items/manuel-conservation-askia/Askia_Manuel_Conservation.pdf",
+        "source_id": "src_19"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2004-07-07",
+      "title": "Tomb of Askia inscribed on the World Heritage List",
+      "description": "The header of the nomination file PDF gives inscription on 7 July 2004 under criteria (ii), (iii) and (iv). ICOMOS's March 2004 evaluation rated the monument's state of conservation as good, with some reversible non-original materials, and identified erosion of the traditional urban setting through development as the greatest threat to the site.",
+      "event_type": "other",
+      "source_ids": [
+        "src_15",
+        "src_16",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2011",
+      "title": "Pillars collapse at the Women's Tomb",
+      "description": "UNESCO's 2012 state of conservation summary records the collapse of pillars at the Women's Tomb in 2011, and its 2015 summary lists pillar collapses in 2006, 2011 and 2013.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2012-04",
+      "title": "Gao comes under rebel and Islamist control",
+      "description": "UNESCO's 2012 state of conservation summary states that fighting in northern Mali left Gao under rebel and Islamist control from early April 2012 and that the Gao Cultural Mission, which manages the property, was closed, so daily protection and conservation could not be carried out. UNESCO's 2015 summary gives the occupation as March 2012 to January 2013.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_06",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2012-06-28",
+      "title": "Committee places the Tomb of Askia on the List of World Heritage in Danger",
+      "description": "UNESCO reported that the World Heritage Committee accepted Mali's request to place the Tomb of Askia, along with Timbuktu, on the Danger List to increase cooperation and support for sites threatened by armed conflict. The 2012 state of conservation summary (decision 36 COM 7B.106) records that the Committee found the conditions for preservation no longer existed and that the property faced a specific, proven, imminent danger. The property has remained on the List since.",
+      "event_type": "political",
+      "source_ids": [
+        "src_10",
+        "src_06",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2012-07",
+      "title": "Committee creates a Special Fund for Mali's World Heritage sites",
+      "description": "A UNESCO news item dated 25 July 2012 reported that the Committee created a Special Fund to help Mali protect World Heritage properties damaged by the conflict in the north, naming the sites of Timbuktu and the Tomb of Askia in Gao as priorities.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2014-02",
+      "title": "First UNESCO assessment mission to Gao since the occupation",
+      "description": "A UNESCO news item dated 13 February 2014 reported that UNESCO, Malian and international experts completed the first damage assessment of Gao's cultural heritage. It reported that the Tomb of Askia needed urgent safeguarding before the June rainy season, that residents had already repaired parts of the earthen monument, and that young people in Gao defended the site during the occupation, sparing it the kind of damage inflicted on World Heritage sites in Timbuktu.",
+      "event_type": "other",
+      "source_ids": [
+        "src_12",
+        "src_07"
+      ]
+    },
+    {
+      "date": "2014-06",
+      "title": "Maintenance and replastering led by the Management Committee",
+      "description": "UNESCO's 2015 state of conservation summary lists maintenance and replastering with UNESCO support, led by the property's Management Committee, in June 2014 (its analysis section gives August 2014, so the source is inconsistent on the month).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2016",
+      "title": "Committee adopts 10 corrective measures (decision 40 COM 7A.7)",
+      "description": "The Committee adopted 10 corrective measures in two groups (physical components, and protection and management), asked Mali to complete a proposed Desired State of Conservation for removal, and expressed concern about the unstable security situation at Gao, which prevented the State Party from inviting a monitoring mission. A joint UNESCO/ICOMOS/ICCROM reactive monitoring mission was requested once the situation in northern Mali is stabilised.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2020",
+      "title": "ALIPH-funded rehabilitation project begins",
+      "description": "The Committee's 2024 decision refers to the project as having begun in January 2020, while UNESCO's 2023 summary of the State Party report gives 10 March 2020; sources differ on the exact date. CRAterre lists the project as 2020-2025, first planned for 2020-2022 and extended because of constraints including Covid and security. ALIPH's page describes a full rehabilitation project to stop further deterioration and collapse.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_08",
+        "src_03",
+        "src_18",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2024-03-02",
+      "title": "Operational launch of the rehabilitation works",
+      "description": "UNESCO's 2024 summary of the State Party report states that the ALIPH-funded rehabilitation project was operationally launched on 2 March 2024. AFP also reported that work began in March 2024, four years after it was announced.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_09",
+        "src_20"
+      ]
+    },
+    {
+      "date": "2024-08",
+      "title": "Part of the men's mosque ceiling collapses during heavy rain",
+      "description": "AFP reported that in mid-August 2024, during heavy rains, part of the men's mosque ceiling collapsed while a pillar was being repaired; an architect working on the restoration said the structure is weakened and the wood very old, and that work would likely resume around late September. The CRAterre manual also lists a roof collapse in 2024.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_20",
+        "src_19"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "World Heritage Committee decision 46 COM 7A.13 on the Tomb of Askia",
+      "description": "The Committee stated that insecurity continues to be the main threat to the property, expressed concern about cumulative delays in the rehabilitation project, welcomed awareness-raising on illegal dwellings in the buffer zone, asked for an updated work plan, a costed action plan and a draft updated management plan, continued the Reinforced Monitoring Mechanism and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7A.33 on the Tomb of Askia",
+      "description": "The Committee welcomed the State Party's ongoing commitment and the ALIPH-funded rehabilitation project, noted that project activities had resumed and been extended to June 2025, reiterated concern about the lack of funding for the Gao Cultural Mission, welcomed the launch of the management plan update and progress on the draft Desired State of Conservation for removal, and retained the property on the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "title": "Coordinated offensive reaches Gao",
+      "description": "AP reported gunfire and explosions in Gao from early that Saturday, citing a resident who said the gunfire came from the army camp and the airport, and a separatist spokesperson's claim of control of some areas of Gao, which AP could not verify. The Long War Journal (26 April) described Gao as only partially under the control of the JNIM-FLA force with Malian and Russian troops in former UN positions, while the Critical Threats Project (28 April) said JNIM and the FLA had seized Gao. These accounts differ. None of them reports damage to the Tomb of Askia.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_21",
+        "src_22",
+        "src_23"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Attack on a military camp in Gao",
+      "description": "Al Jazeera, citing Reuters, reported that a local official said gunfire and rockets were aimed at a military camp in Gao from before dawn, and that the army listed Gao among five locations attacked and said six 'terrorists' were killed there and one pro-government fighter was killed and four injured. The article does not say who controls Gao and does not mention the heritage property.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_24"
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Army convoy ambushed in the Gao region",
+      "description": "Al Jazeera reported that armed groups ambushed an army convoy travelling from Anefis towards Gao near Tabankort, a remote part of the Gao region; the army said it launched a counterattack, and JNIM and the FLA each claimed responsibility. The attack was on the route towards Gao city, not in it.",
+      "event_type": "armed_conflict",
+      "source_ids": [
+        "src_25"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.39 retains the Tomb of Askia on the Danger List",
+      "description": "The Committee recorded significant progress in the conservation of the property, thanked ALIPH for funding the rehabilitation, noted a resettlement solution for buffer-zone occupants, recorded that eight of the 10 corrective measures adopted in 2016 have been implemented, recorded an updated Management and Conservation Plan for 2026-2030, noted that funding for the plan and for urgent works is still lacking, adopted the Desired State of Conservation for removal, reiterated its request for a joint reactive monitoring mission 'if security conditions permit', asked for a report by 1 February 2027 and retained the property on the List of World Heritage in Danger.",
+      "event_type": "political",
+      "source_ids": [
+        "src_01"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Tomb of Askia",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1139",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Decision 48 COM 7A.39: Tomb of Askia (Mali)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9028/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through a summarising fetch tool rather than verbatim; independently re-read by a verifier on 2026-10-14 (also via a summarising tool), which confirmed the 'if security conditions permit' phrase and the substance of the paragraphs; the quoted phrases should be re-checked against the decision page.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7A.33: Tomb of Askia (Mali)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8700",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 46 COM 7A.13: Tomb of Askia (Mali) (C 1139)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8482",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7A.24: Tomb of Askia (Mali) (C 1139)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8149",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 40 COM 7A.7: Tomb of the Askia (Mali) (C 1139)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6623",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2016",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Tomb of Askia (Mali): state of conservation, report year 2012 (36 COM 7B.106)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/262",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2012",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Tomb of Askia (Mali): state of conservation, report year 2015",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3219",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Page summarises the State Party report and contains an internal inconsistency on the month of the 2014 replastering (June vs August).",
+      "published_date": "2015",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Tomb of Askia (Mali): state of conservation, report year 2023 (WHC/23/45.COM/7A)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4287",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Tomb of Askia (Mali): state of conservation, report year 2024",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4536",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Heritage sites in northern Mali placed on List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/893/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Used only for the 28 June 2012 Danger List decision; the item calls the tomb '17th-century', which conflicts with UNESCO's property page (built 1495), so that wording was not used.",
+      "published_date": "2012-06-28",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Creation of a Special Fund for the Safeguarding of Mali's World Heritage sites",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/913/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2012-07-25",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "First mission to Gao since end of military occupation of northern Mali takes stock of serious damage to the city's cultural heritage",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/news/1106",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2014-02-13",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Tomb of Askia: documents",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1139/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Tomb of Askia: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1139/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Nomination file 1139: Tomb of Askia",
+      "publisher": "UNESCO World Heritage Centre (prepared by Mali's DNPC with CRATerre-EAG experts)",
+      "url": "https://whc.unesco.org/uploads/nominations/1139.pdf",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2003-01",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Advisory Body Evaluation (ICOMOS): Tomb of Askia (No. 1139)",
+      "publisher": "ICOMOS (via UNESCO World Heritage Centre)",
+      "url": "https://whc.unesco.org/document/151848",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2004-03",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "Gao: Rehabilitation of the Tomb of Askia",
+      "publisher": "ALIPH Foundation",
+      "url": "https://www.aliph-foundation.org/en/projects/the-tomb-of-askia",
+      "source_type": "ngo",
+      "tier": 1,
+      "reliability_note": "Undated project page with no start or end dates; used only for the project's stated aims and to show it is described as underway.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Restoration of the Askia Tomb (Mali)",
+      "publisher": "CRAterre",
+      "url": "https://craterre.org/en/case/rehabilitation-du-tombeau-des-askias/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Project partner's own account; lists results (for example 6,500 bricks, 120 wooden beams replaced, all roofs redone) but does not state a completion date or final status.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Askia Manuel Conservation (conservation manual for the Tombeau des Askia)",
+      "publisher": "CRAterre with the Mission Culturelle de Gao (copy hosted on the Internet Archive)",
+      "url": "https://ia601001.us.archive.org/18/items/manuel-conservation-askia/Askia_Manuel_Conservation.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Read via an Internet Archive copy whose uploader is unknown; authors as named in the document: Sebastien Moriset, Abdoulaye Cisse and Christian Belinga Nko'o (CRAterre) with Mamadou Samake of the Mission Culturelle de Gao. A technical manual, not peer-reviewed. Used only for the list of dated collapses and degradation factors, which are partly corroborated by UNESCO and AFP, and as DPI evidence of public technical documentation.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Mali: une merveille de 500 ans se refait une jeunesse malgre les perils",
+      "publisher": "Seneweb (republishing AFP)",
+      "url": "https://www.seneweb.com/fr/news/Afrique/mali-une-merveille-de-500-ans-se-refait-une-jeunesse-malgre-les-perils_n_450304.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Republication of an AFP report read in French on a Senegalese news site; the 'foreign experts no longer visit' statement is AFP's own, dated September 2024, and is not a current statement of access.",
+      "published_date": "2024-09-12",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Islamic militants and separatists attack several locations in Mali's capital and other cities",
+      "publisher": "Associated Press (via PBS NewsHour)",
+      "url": "https://www.pbs.org/newshour/world/islamic-militants-and-separatists-attack-several-locations-in-malis-capital-and-other-cities",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-04-25",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_22",
+      "title": "JNIM and allied rebels surge across Mali, take several cities, pressure capital",
+      "publisher": "FDD's Long War Journal (Caleb Weiss)",
+      "url": "https://www.fdd.org/analysis/2026/04/26/jnim-and-allied-rebels-surge-across-mali-take-several-cities-pressure-capital/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Think-tank analysis written within a day of the events; its account of who held Gao differs from other sources, and it relies partly on claims by the groups involved.",
+      "published_date": "2026-04-26",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_23",
+      "title": "Fall of Kidal: What JNIM's Latest Offensive Means for Mali's Future (Africa File Special Edition)",
+      "publisher": "Critical Threats Project (Liam Karr)",
+      "url": "https://www.criticalthreats.org/analysis/fall-of-northern-mali-jnim-fla-offensive-russia-issp-camara",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Analytic product with a data cutoff of 28 April 2026; says Gao was seized, which differs from the Long War Journal's 'partially' and from AP's note that claims were unverified. Used for context on the conflicting accounts, not as sole support for who held Gao.",
+      "published_date": "2026-04-28",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_24",
+      "title": "Mali's army says rebels launch new attacks on towns and cities",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single-outlet report of the 4 July attack on Gao, attributing details to a local official (via Reuters) and to the Malian army; casualty figures are the army's own.",
+      "published_date": "2026-07-04",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_25",
+      "title": "Armed groups attack Malian military convoy in Gao region",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-07-18",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Developing; close call vs Critical Concern flagged in decision_trigger (fighting reported in Gao city in 2026; international monitoring access limited). DPI recommendation: moderate (photographic and archival records only). Known gaps (not included because not verified): (1) UNESCO state of conservation pages for 2025 and 2026 (whc.unesco.org/en/soc/4814 and /soc/4984) returned fetch errors, so the State Party's 2026 report (document 225312), the 2025 report and the Secretariat's assessments were not read; only the 2012, 2015, 2023 and 2024 summaries and the decisions 40 COM 7A.7, 45 COM 7A.24, 46 COM 7A.13, 47 COM 7A.33 and 48 COM 7A.39 were. (2) The decision pages were read through a summarising fetch tool that paraphrased rather than reproduced full text; quoted phrases ('insecurity continues to be the main threat to the property', 'if security conditions permit', 'the significant progress made in the conservation of the property') and the 2026 points (eight of 10 corrective measures, adoption of the Desired State of Conservation for removal, 1 February 2027 deadline) should be re-checked against the pages. (3) The original 2012 decision text (36 COM 7B.106) was not opened; the 2012 facts rest on the SOC summary and UNESCO news items. (4) Who controlled Gao city in April 2026 is unresolved: AP (claims unverified), the Long War Journal ('only partially') and Critical Threats ('seized') differ; Wikipedia's article on the 2026 Mali offensives (not used as a source) points to French-press reports of split control with the airport held by Malian forces, a lead for a reviewer. No Gao-specific report dated after 18 July 2026 was found. Al Jazeera's Mali index page showed a 6 October 2026 headline that the army says it retook Kidal with Russian help (headline only, article not opened), and no Gao headlines for August-October; this suggests the northern conflict is ongoing but is not used as evidence. (5) The tomb's physical condition after April 2026 is not documented in any source read. (6) Whether international monitors have visited since 2017 was not established: UNESCO's mission list in the 2023 and 2024 summaries runs to an April 2017 expert mission on Mali's World Heritage properties (whether it reached Gao was not stated), and a joint reactive monitoring mission is still only requested 'if security conditions permit'. (7) The ALIPH rehabilitation project's completion status is unclear: CRAterre lists 2020-2025 with results, ALIPH's page is undated and says underway, and the 2025 decision noted activities extended to June 2025; the project's start date also differs between sources (January 2020 vs 10 March 2020) and is shown that way. (8) DPI: UNESCO gallery total not established (second page unread); the video tab not opened; no 3D, laser-scan or virtual-tour evidence found in two web searches (a Google Arts & Culture story on the tomb exists but is text only); no peer-reviewed study found, so academic_scholarly is false pending a reviewer's check. UNESCO state of conservation reports were not counted as archival records. (9) UNESCO news item 893 describes the tomb as '17th-century', which conflicts with UNESCO's property page (1495); the property page is used. (10) AFP's Sahel rainfall figures (Agrhymet) are regional and from September 2024. (11) Wikipedia was not used as a source; metadata rests on UNESCO. Images omitted by design. VERIFIER (2026-10-14): re-fetched all UNESCO decisions, SOC pages, news items, property/gallery/documents pages, nomination PDF, ICOMOS evaluation, ALIPH, CRAterre, manual, AFP/Seneweb, AP, LWJ, Critical Threats, Al Jazeera x2. Fixes: 'insecurity in every decision' narrowed to 2016/2024/2026; unverified verbatim quote of 2026 'significant progress' replaced with paraphrase and 'welcomes' softened to 'records'; ICOMOS 'greatest danger' corrected to 'greatest threat' (development eroding the traditional urban setting); nomination file dated Jan 2003 (not 2004) and inscription date attributed to the PDF header; 2012 Danger List wording corrected to the SOC's 'specific, proven, imminent danger' finding; 2016 DSOCR wording corrected; 2014 local repair wording corrected; removed unsupported 'general ageing' and 'works through 2025' manual claims; added AP resident detail that gunfire came from army camp and airport; manual authorship added. Verified OK: quotes 'insecurity continues to be the main threat' and 'if security conditions permit', 1 Feb 2027 deadline, eight of 10 measures, Al Jazeera details, AFP details, Gao-control conflict between AP/LWJ/Critical Threats, DPI searches (no 3D found; Google Arts is text-only).",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / developing; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "schema_version": "case-v1",
+  "slug": "unsc-resolution-2199",
+  "title": "United Nations Security Council Resolution 2199 (2015) on terrorist financing, including trade in cultural property from Iraq and Syria",
+  "case_type": "SECURITY_COUNCIL_OR_UN_ACTION",
+  "body": "United Nations Security Council",
+  "case_reference": "S/RES/2199 (2015)",
+  "summary": "On 12 February 2015, at its 7379th meeting, the UN Security Council adopted resolution 2199 (2015) on threats to international peace and security caused by terrorist acts by Al-Qaida and associated groups. The UN Digital Library records the adoption as unanimous, and the text reproduced by UNESCO states it was adopted 'Acting under Chapter VII of the Charter of the United Nations'. The resolution as a whole addresses terrorist financing (as its commentators describe it; the full text was not read for this entry). Three paragraphs read for this entry deal with cultural heritage: paragraph 15 condemns the destruction of cultural heritage in Iraq and Syria; paragraph 16 notes with concern that these groups earn income from looting and smuggling cultural heritage items; and paragraph 17 decides that all Member States shall take appropriate steps to prevent trade in Iraqi and Syrian cultural property and similar items illegally removed from Iraq since 6 August 1990 and from Syria since 15 March 2011.",
+  "legal_basis": "The text reproduced by UNESCO contains the preamble words 'Acting under Chapter VII of the Charter of the United Nations'. Paragraph 17 'Reaffirms its decision in paragraph 7 of resolution 1483 (2003)' and 'decides that all Member States shall take appropriate steps to prevent the trade in Iraqi and Syrian cultural property and other items of archaeological, historical, cultural, rare scientific, and religious importance illegally removed from Iraq since 6 August 1990 and from Syria since 15 March 2011, including by prohibiting cross-border trade in such items, thereby allowing for their eventual safe return to the Iraqi and Syrian people'. It also 'calls upon' UNESCO, Interpol and other international organizations, as appropriate, to assist in the implementation of the paragraph. The wording differs by paragraph: paragraph 15 'Condemns' and paragraph 16 'Notes with concern', whereas paragraph 17 uses 'decides that all Member States shall'. Only paragraphs 15 to 17 and the preamble phrase on Chapter VII were read for this entry; the remaining paragraphs (including the sanctions-related ones and paragraph 29 on reporting) were not read in full. Verification note (2026-10-15): the operative text could not be compared with the UN's own PDF. A second check confirmed only fragments: the Chapter VII preamble phrase and the openings of paragraphs 15, 16 and 17 (including 'Reaffirms its decision in paragraph 7 of resolution 1483 (2003) and decides that all Member States' and the 'calls upon' UNESCO and Interpol wording) in the UNESCO letter, and the phrases 'decides that all Member States shall take appropriate steps to prevent the trade in Iraqi and Syrian cultural property' and 'illegally removed from Iraq since 6 August 1990 and from Syria since 15 March 2011' in a Blue Shield page. The longer quoted passages should be treated as reproduced from the UNESCO letter and not yet independently confirmed against the UN original.",
+  "outcome": "Resolution 2199 (2015) was adopted at the 7379th meeting on 12 February 2015; the UN Digital Library record notes it was adopted unanimously (an aggregator, unscr.com, records the tally as 15-0-0). On cultural heritage, the resolution as read condemns the destruction of cultural heritage in Iraq and Syria (paragraph 15), notes with concern the income that ISIL, ANF and associated groups generate from looting and smuggling cultural heritage items (paragraph 16), and decides that all Member States shall take appropriate steps to prevent trade in items illegally removed from Iraq since 6 August 1990 and from Syria since 15 March 2011, including by prohibiting cross-border trade in such items (paragraph 17). No source read for this entry reports the effects of paragraph 17 or any enforcement or prosecution under it. The follow-up resolution 2253 (2015) is not covered, because no source read for this entry ties it to these paragraphs.",
+  "interpretation": "Commentators described the cultural property provisions shortly after adoption; these are their views, not findings of the Council. Kristen E. Boon (Opinio Juris, 16 February 2015) described the text as a Chapter VII resolution that 'reaffirms an existing ban on antiquities from Iraq' and 'imposes a new ban on antiquities from Syria', and said it 'sets the basis for cooperation with INTERPOL and UNESCO'. Sunny Mann and Ross L. Denton (Baker McKenzie sanctions blog, 17 February 2015) likewise summarised the resolution as reaffirming an existing ban on the illicit trade of antiquities from Iraq and imposing a new ban on that of antiquities from Syria. Neither post gives paragraph numbers.",
+  "start_date": "2015-02-12",
+  "start_date_display": "2015-02-12",
+  "end_date": null,
+  "end_date_display": "not applicable (no end date established in the sources read)",
+  "timeline": [
+    {
+      "date": "1990-08-06",
+      "date_display": "6 August 1990",
+      "title": "Start of the period for Iraqi items covered by paragraph 17",
+      "description": "Paragraph 17 of resolution 2199 (2015) covers items 'illegally removed from Iraq since 6 August 1990'. The resolution text as read does not explain the choice of date.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": null,
+      "date_display": "2003",
+      "title": "Resolution 1483 (2003), paragraph 7, reaffirmed",
+      "description": "Paragraph 17 of resolution 2199 'Reaffirms its decision in paragraph 7 of resolution 1483 (2003)'. The text of resolution 1483 was not read for this entry.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2011-03-15",
+      "date_display": "15 March 2011",
+      "title": "Start of the period for Syrian items covered by paragraph 17",
+      "description": "Paragraph 17 covers items illegally removed 'from Syria since 15 March 2011'. The resolution text as read does not explain the choice of date.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2015-02-12",
+      "date_display": "12 February 2015",
+      "title": "Resolution 2199 (2015) adopted at the 7379th meeting",
+      "description": "The Security Council adopted resolution 2199 (2015) at its 7379th meeting. The UN Digital Library record notes adoption unanimously; the draft was S/2015/100 and the meeting record is S/PV.7379. The preamble to the text reproduced by UNESCO reads 'Acting under Chapter VII of the Charter of the United Nations'.",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02"
+      ]
+    },
+    {
+      "date": "2015-02-12",
+      "date_display": "12 February 2015",
+      "title": "Paragraphs 15 and 16 on destruction and looting of cultural heritage",
+      "description": "Paragraph 15 'Condemns the destruction of cultural heritage in Iraq and Syria particularly by ISIL and ANF, whether such destruction is incidental or deliberate, including targeted destruction of religious sites and objects'. Paragraph 16 'Notes with concern' that ISIL, ANF and other associated groups 'are generating income from engaging directly or indirectly in the looting and smuggling of cultural heritage items' from archaeological sites, museums, libraries, archives and other sites in Iraq and Syria.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2015-02-12",
+      "date_display": "12 February 2015",
+      "title": "Paragraph 17 decides that Member States shall prevent trade in Iraqi and Syrian cultural property",
+      "description": "The Council 'decides that all Member States shall take appropriate steps to prevent the trade in Iraqi and Syrian cultural property and other items of archaeological, historical, cultural, rare scientific, and religious importance illegally removed from Iraq since 6 August 1990 and from Syria since 15 March 2011, including by prohibiting cross-border trade in such items', and 'calls upon' UNESCO, Interpol and other international organizations, as appropriate, to assist in implementing the paragraph.",
+      "source_ids": [
+        "src_01"
+      ]
+    },
+    {
+      "date": "2015-03-06",
+      "date_display": "6 March 2015 (printed 06/03/2015)",
+      "title": "UNESCO Director-General letter CL/4100 on the resolution",
+      "description": "UNESCO Director-General Irina Bokova sent letter CL/4100 about resolution 2199, reproducing its text. The letter's date is printed as 06/03/2015 and is read as 6 March 2015 (day/month), which is an inference. The letter's addressees and requests were not read for this entry.",
+      "source_ids": [
+        "src_01"
+      ]
+    }
+  ],
+  "section_sources": {
+    "SUMMARY": [
+      "src_00",
+      "src_01",
+      "src_02"
+    ],
+    "LEGAL_BASIS": [
+      "src_01"
+    ],
+    "OUTCOME": [
+      "src_00",
+      "src_01",
+      "src_05"
+    ],
+    "INTERPRETATION": [
+      "src_03",
+      "src_04"
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Resolution 2199 (2015) / adopted by the Security Council at its 7379th meeting, on 12 February 2015 (S/RES/2199 (2015); UN Digital Library record)",
+      "publisher": "United Nations Dag Hammarskjold Library (UN Digital Library)",
+      "url": "https://digitallibrary.un.org/record/787858?ln=en",
+      "source_type": "un_document",
+      "tier": 1,
+      "reliability_note": "Official UN catalogue record. Read for metadata only: symbol S/RES/2199 (2015), draft S/2015/100, meeting record S/PV.7379, 7 pages, and the vote note 'adopted unanimously at the 7379th meeting' with no individual votes listed. The resolution PDF itself could not be opened in this session; the page was read through a text-extraction fetch tool, not a browser. Re-checked 2026-10-15: metadata confirmed (S/RES/2199 (2015), S/2015/100, S/PV.7379, 7 p., 'Adopted unanimously, 7379th meeting', S/INF/70); the page lists PDFs but no text.",
+      "published_date": "2015-02-12",
+      "published_date_display": "12 February 2015",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Letter CL/4100 from UNESCO Director-General Irina Bokova on United Nations Security Council Resolution 2199 (dated 06/03/2015 as printed), reproducing the resolution text",
+      "publisher": "UNESCO (copy hosted on the WTO import licensing site)",
+      "url": "https://www.importlicensing.wto.org/sites/default/files/members/74/UN%20Security%20Council%20Resolution%20No.2199%20-%20Cultural%20Property%20Syria_06.03.2015.pdf",
+      "source_type": "un_document",
+      "tier": 1,
+      "reliability_note": "UNESCO's own circular letter, which reproduces the resolution text including the header ('Adopted by the Security Council at its 7379th meeting, on 12 February 2015'), the preamble phrase 'Acting under Chapter VII of the Charter of the United Nations' and operative paragraphs 15, 16 and 17. It is a reproduction by UNESCO, not the UN's own PDF, and was read through a text-extraction fetch tool that returns fragments (quotes of up to about 125 characters), so only paragraphs 15-17 are quoted here and other paragraphs were not read in full. Where the date is printed as 06/03/2015 it is read here as 6 March 2015 (day/month), which is an inference. Re-check 2026-10-15: sender (Irina Bokova), reference CL/4100, the Chapter VII preamble phrase, the openings of paragraphs 15-17 and the text of paragraph 29 ('Calls upon Member States to report to the Committee within 120 days') were re-confirmed in fragments; the letter's addressees and body text were not seen.",
+      "published_date": "2015-03-06",
+      "published_date_display": "6 March 2015 (printed 06/03/2015)",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Security Council resolution 2199 (2015) [on threats to international peace and security caused by terrorist acts by Al-Qaida] - Refworld record",
+      "publisher": "Refworld (UNHCR), reproducing UN Security Council document S/RES/2199 (2015)",
+      "url": "https://www.refworld.org/legal/resolution/unsc/2015/103943",
+      "source_type": "un_document",
+      "tier": 2,
+      "reliability_note": "Refworld catalogue page for the UN document; read for metadata only (symbol, 12 February 2015, 'adopted unanimously at the 7379th meeting', S/INF/70). The PDF linked from it (refworld.org attachments/54ef1fb64.pdf) was not opened because the fetch was blocked.",
+      "published_date": "2015-02-12",
+      "published_date_display": "12 February 2015",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Important New Terrorist Financing Resolution Passed by Security Council (Kristen E. Boon)",
+      "publisher": "Opinio Juris",
+      "url": "https://opiniojuris.org/2015/02/16/important-new-terrorist-financing-resolution-passed-security-council/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Blog commentary by Kristen E. Boon, posted 16 February 2015. Secondary and interpretive; gives no paragraph numbers and does not quote the operative wording. Used only for the attributed characterisation in the interpretation section.",
+      "published_date": "2015-02-16",
+      "published_date_display": "16 February 2015",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "UN adopts resolution on terrorist financing, trade in oil and Syrian antiquities",
+      "publisher": "Baker McKenzie Global Sanctions and Export Controls Blog",
+      "url": "https://sanctionsnews.bakermckenzie.com/un-adopts-resolution-on-terrorist-financing-trade-in-oil-and-syrian-antiquities/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Law-firm blog post by Sunny Mann and Ross L. Denton dated 17 February 2015 (not journalism). Secondary summary; it gives no paragraph numbers. Used only for the attributed characterisation in the interpretation section.",
+      "published_date": "2015-02-17",
+      "published_date_display": "17 February 2015",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "United Nations Security Council Resolution 2199 - UN Security Council Resolutions database entry",
+      "publisher": "unscr.com",
+      "url": "https://unscr.com/en/resolutions/2199/",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Unofficial aggregator of UN resolutions. Read only for the recorded tally 'Adopted 15-0-0' (15 in favour, none against, none abstaining), which agrees with the UN Digital Library note of unanimous adoption (src_00). Not an official record; the full text there is a summary only. Re-checked 2026-10-15: 'Adopted unanimously: 15 in favour, 0 against, 0 abstentions' confirmed.",
+      "published_date": "2015-02-12",
+      "published_date_display": "12 February 2015",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "site_slugs": [],
+  "country_links": [
+    {
+      "country_slug": "iraq",
+      "role": "named in paragraph 17 (items illegally removed from Iraq since 6 August 1990)"
+    },
+    {
+      "country_slug": "syria",
+      "role": "named in paragraph 17 (items illegally removed from Syria since 15 March 2011)"
+    }
+  ],
+  "review_status": "draft",
+  "approved_by": null,
+  "approved_date": null,
+  "approval_note": null,
+  "last_verified_date": "2026-10-15",
+  "recorded_by": "claude-draft",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft. Read: UN Digital Library record for S/RES/2199 (2015) (metadata only); UNESCO letter CL/4100 reproducing the resolution (paragraphs 15-17 and the Chapter VII preamble phrase, read as quoted fragments through a fetch tool); Refworld record (metadata); Opinio Juris and Baker McKenzie commentary; unscr.com (tally). Known gaps: (1) the official UN PDF (docs.un.org / documents.un.org / digitallibrary PDF / refworld PDF) could not be opened (proxy 403 or permission not granted), so the numbered text rests on UNESCO's reproduction and was not compared with the UN original; (2) UN press release SC/11775 (press.un.org) returned a browser challenge page and was not read, so no speaker statements are recorded; (3) the verbatim record S/PV.7379 was not opened; (4) resolution 1483 (2003) and resolution 2253 (2015) were not read, and no source read ties 2253 to these paragraphs, so it is not covered; (5) paragraphs other than 15-17 (including paragraph 29 on reporting, mentioned only in the UNESCO letter) were not read in full; (6) no source read reports effects or enforcement of paragraph 17; (7) site_slugs left empty because no source read ties the resolution to a specific site profile. Doubt: the resolution is primarily about terrorist financing, so it belongs in the casebook only for paragraphs 15-17.",
+      "changed_by": "claude-draft"
+    },
+    {
+      "date": "2026-10-15",
+      "change": "Verifier pass. Re-fetched all six listed sources plus Blue Shield, Security Council Report pages. Fixes: (1) summary no longer says 'most of the resolution concerns financing' (unread); (2) Opinio Juris paraphrase corrected to the quoted 'sets the basis for cooperation with INTERPOL and UNESCO'; (3) removed unverified 'Dean, University of Ottawa' from src_03 note; (4) UNESCO letter timeline entry and title no longer claim addressees ('Ministers') or a request for paragraph 29 reports, which were not confirmed; (5) src_04 source_type journalism -> other; (6) added verification notes to legal_basis and sources. Confirmed: metadata, unanimous vote 15-0-0, Chapter VII preamble phrase, paragraph 17 core wording and both dates (Blue Shield fragment), Syria/Iraq ban characterisations. Could NOT confirm against the UN original: full wording of paragraphs 15-17 beyond fragments (UN PDF, UNESCO web archive and unscr.com full-text page were inaccessible); remains hedged.",
+      "changed_by": "claude-verifier"
+    }
+  ]
+}

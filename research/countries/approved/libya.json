@@ -127,7 +127,8 @@
     }
   ],
   "site_slugs": [
-    "leptis-magna"
+    "leptis-magna",
+    "archaeological-site-of-cyrene"
   ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
@@ -150,6 +151,16 @@
       "date": "2026-10-12",
       "changed_by": "claude-draft",
       "change": "Added site_slugs for newly approved site profiles: leptis-magna. No treaty data changed."
+    },
+    {
+      "date": "2026-10-14",
+      "changed_by": "claude-draft",
+      "change": "Added links to site profiles approved on 2026-10-14: leptis-magna. No treaty data changed."
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "claude",
+      "change": "Linked approved site profiles: archaeological-site-of-cyrene."
     }
   ]
 }

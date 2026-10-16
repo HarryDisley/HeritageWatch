@@ -115,7 +115,8 @@
     }
   ],
   "site_slugs": [
-    "venice-and-its-lagoon"
+    "venice-and-its-lagoon",
+    "archaeological-areas-of-pompei-herculaneum-and-torre-annunziata"
   ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
@@ -138,6 +139,11 @@
       "date": "2026-10-08",
       "change": "Approved by Harry Disley; copied to approved/ for import.",
       "changed_by": "Harry Disley (via claude)"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "claude",
+      "change": "Linked approved site profiles: archaeological-areas-of-pompei-herculaneum-and-torre-annunziata."
     }
   ]
 }

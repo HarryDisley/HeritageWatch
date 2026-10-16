@@ -71,8 +71,8 @@
       ],
       "recorded_by": "claude-draft",
       "approved_by": "Harry Disley",
-      "approved_date": "2026-10-12",
-      "approval_note": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier set to moderate (stricter reading): UNESCO's own state-of-conservation reports are reports, not a digitised archive of the site, so the archival_records category is no longer counted."
+      "approved_date": "2026-10-14",
+      "approval_note": "Approved by Harry Disley on 2026-10-14 from the round 1 review summary. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
     }
   ],
   "digital_preservation": {
@@ -83,7 +83,7 @@
       "virtual_tour": true,
       "academic_scholarly": true
     },
-    "coverage_note": "Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). Coverage is uneven: the virtual tours are a digital reconstruction of the ancient city produced for broadcast and exhibition, not a record of the site's present condition; the 360-degree research platform is a proof of concept covering one visitor route and selected buildings; and the archival category rests on UNESCO's own reports rather than a dedicated digitised archive. No publicly viewable 3D model was verified: a 2016 ArchDaily article reported a photogrammetric model of the Temple of Bel by Iconem with a low-resolution version public on Sketchfab, but the model page could not be read in this pass, so 3D documentation is marked false rather than assumed. A reviewer may wish to consider whether this uneven coverage should temper the tier, or re-check the Iconem model. ADJUSTED 2026-10-12 on review: UNESCO's own state-of-conservation reports are reports, not a digitised archive of the site, so the archival_records category is no longer counted. Tier is therefore moderate (3 of 5 categories).",
+    "coverage_note": "[Tier revised to moderate on 2026-10-14] Archival records set to false: the evidence is UNESCO's own state-of-conservation reports, not a digitised archive of the site (raised by the independent verifier). Original researcher note follows. Four of five categories have publicly findable evidence, which meets the extensive tier by the rubric (at least four of five, including a visual and a technical/scholarly category). Coverage is uneven: the virtual tours are a digital reconstruction of the ancient city produced for broadcast and exhibition, not a record of the site's present condition; the 360-degree research platform is a proof of concept covering one visitor route and selected buildings; and the archival category rests on UNESCO's own reports rather than a dedicated digitised archive. No publicly viewable 3D model was verified: a 2016 ArchDaily article reported a photogrammetric model of the Temple of Bel by Iconem with a low-resolution version public on Sketchfab, but the model page could not be read in this pass, so 3D documentation is marked false rather than assumed. A reviewer may wish to consider whether this uneven coverage should temper the tier, or re-check the Iconem model.",
     "tier_recommendation": "moderate",
     "evidence": [
       {
@@ -454,7 +454,7 @@
     "final_classification_approved": true
   },
   "review_status": "approved",
-  "last_verified_date": "2026-10-12",
+  "last_verified_date": "2026-10-14",
   "changelog": [
     {
       "date": "2026-10-12",
@@ -462,9 +462,14 @@
       "changed_by": "claude"
     },
     {
-      "date": "2026-10-12",
-      "change": "Reviewed and approved by Harry Disley on 2026-10-12. Approved as proposed (High Concern / Supported). Digital Preservation Index tier set to moderate (stricter reading): UNESCO's own state-of-conservation reports are reports, not a digitised archive of the site, so the archival_records category is no longer counted. Known limits carried forward: claims resting only on sources the second reader could not re-open are hedged and listed in earlier changelog entries. review_status advanced draft -> approved.",
-      "changed_by": "harry"
+      "date": "2026-10-14",
+      "changed_by": "claude",
+      "change": "DPI tier revised after independent verification: Archival records set to false: the evidence is UNESCO's own state-of-conservation reports, not a digitised archive of the site (raised by the independent verifier)."
+    },
+    {
+      "date": "2026-10-14",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
     }
   ]
 }

@@ -1,0 +1,387 @@
+{
+  "slug": "petra",
+  "name": "Petra",
+  "alternate_names": [],
+  "country": "Jordan",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 30.3306,
+    "lng": 35.4433
+  },
+  "coordinate_note": "Converted from the coordinates given in Jordan's 2022 state-of-conservation report for the property (30°19'50\"N, 35°26'36\"E), as hosted on UNESCO's site. The inscribed property is large (the same report gives its area as 264 square kilometers), so this marker is a practical single-point reference, not a boundary. UNESCO's own property page for Petra could not be opened in this pass.",
+  "unesco_id": "326",
+  "inscription_year": 1985,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Petra is a World Heritage property in Jordan, inscribed in 1985 under criteria (i), (iii) and (iv) and covering about 264 square kilometers according to Jordan's 2022 state-of-conservation report. Monuments and features named in the sources reviewed include Al-Khazneh (the Treasury), the Siq entrance gorge, the Monastery, the Roman Soldier's Tomb and the High Place of Sacrifice; the monuments are cut in sandstone. The report describes tourism as central to Petra's economy and to nearby communities.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Flash flooding is a documented hazard. On 4 May 2025 flash floods hit the Petra area; press reports describe a large visitor evacuation (Xinhua via The Peninsula says nearly 1,800 tourists, quoting a local official that 1,785 visited that day and civil defence evacuated most of them; Travel Tomorrow's headline says nearly 2,000) and ArtDependence reports ticket sales were suspended as a precaution. The New Arab reported that a Belgian mother and her son, part of an 18-person adventure tour in Wadi al-Nakhil, were found dead on 5 May, and Travel Tomorrow, citing Belgium's foreign ministry, also reported two Belgian deaths. None of the four reports reviewed describes damage to Petra's monuments, and Travel Tomorrow reported that the site had reopened, quoting the regional authority commissioner as saying repairs had taken place (the nature of the repairs is not described). Concern about flooding in the management record predates this event: the Committee's 2021 decision (44 COM 7B.16) encouraged water-harvesting and flood-management studies, and its 2025 decision (47 COM 7B.171, as read on UNESCO's decisions page) welcomes water-harvesting infrastructure and check dams in high-risk flood zones. The sources reviewed do not document unrepaired flood damage to the monuments, so this is recorded as a monitored hazard with a recent fatal incident, not a documented damage event.",
+      "first_identified_date": "2025-05-04",
+      "date_note": "Date is that of the May 2025 flood reported in the press. Flood management was already on the Committee's agenda in 2021, so the underlying hazard is longer-standing; no earlier start date was established from the sources reviewed.",
+      "source_ids": [
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10",
+        "src_04",
+        "src_02"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "The sandstone monuments are subject to weathering. A peer-reviewed 2016 study (Rihosek et al., Journal of Cultural Heritage, vol. 19) used laboratory salt-weathering tests on Umm Ishrin sandstone and physical models, and concluded that monument recession is uneven in space and time and that increased gravity-induced stress decreases the decay rate; the authors conclude that identifying endangered zones on monuments should combine weathering-threat assessment with stress modelling checked against documented real damage. UNESCO's 2025 decision (as read on UNESCO's decisions page) welcomes measures including erosion control and structural rehabilitation. No source reviewed attributes Petra's weathering to climate change, so no climate-change claim is made here; this category is recorded for natural weathering and erosion processes. Only the library catalogue record of the 2016 study was opened, not the full paper.",
+      "first_identified_date": null,
+      "date_note": "Chronic natural weathering process; no single start date applies. The 2016 study date is a publication date, not an identification date.",
+      "source_ids": [
+        "src_11",
+        "src_02"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's Committee has repeatedly raised management and setting pressures. In 2011 (35 COM 7B.49) it expressed deep concern about the state of conservation and urged functioning management arrangements, a risk management plan and a formally adopted buffer zone. In 2021 (44 COM 7B.16) it congratulated Jordan on completing the Integrated Management Plan and urged an Integrated Territorial Master Plan, prevention of further densification and buffer zone regulations. In 2023 (45 COM 7B.141) it noted with concern that the Al-Dara project went ahead and added at least one major infrastructure element in the wider setting without prior advice to the World Heritage Centre. In 2025 (47 COM 7B.171) it acknowledged Jordan's conservation and community efforts, welcomed the commitment to an Integrated Territorial Master Plan and the Tourism Development Master Plan (2023-2033), noted that a Heritage Impact Assessment for Al-Dara found no significant impact on Outstanding Universal Value while asking for further analysis and reduction of visual impact on the Siq's setting, asked Jordan to identify carrying capacity and submit a crowd management study, and reiterated requests for buffer zone regulations and a minor boundary modification. Visitor pressure is documented in earlier years (a 2000 UNESCO mission report cites about half a million visitors a year and weak visitor management), while the 2025 decision refers to a recent drop in visitation without stating a cause. The next state of conservation report is due 1 December 2026.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-cycle management and setting concerns; the earliest dated item in the sources reviewed is the September 2000 mission, but no single start date is established.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_06"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "moderate_concern",
+      "confidence": "supported",
+      "decision_trigger": "Moderate Concern, applying the methodology top-down. Critical: not met; no verified severe current damage, no combat at or near the site, no loss of monitoring access, and management and Committee monitoring continue. High Concern: considered and not triggered. (1) UNESCO's List of World Heritage in Danger, checked directly on 2026-10-15, lists 58 properties and Petra is not among them. (2) The closest candidate for the 'specific damaging event within about five years' trigger is the 4 May 2025 flash flood, but the reports reviewed describe evacuations and deaths of visitors, not damage to the monuments, so the 'damage not yet fully assessed or repaired' condition is not shown. (3) No armed conflict affecting the site was documented; the 2025 decision mentions a recent drop in visitation without a stated cause, and no conflict spill-over is claimed. (4) No named authority gives a severe near-term timeframe for harm; the Committee's most recent decision I read (47 COM 7B.171, 2025) is largely welcoming with further requests and a 1 December 2026 reporting date. (5) No significant historical damage with substantially incomplete repair was identified. Moderate triggers matched: credible, documented, chronic and monitored threats (flash flooding with management measures in place, sandstone weathering, visitor and development pressure on the setting in the Committee's decisions). Safe is not available because credible documented threats exist. Close call: the nearest alternative is High Concern, mainly because of the recent fatal flood and the unresolved buffer-zone and setting requests, but neither is a High trigger on the evidence read.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of a heavily visited sandstone site with real but managed pressures. Flash flooding is a live hazard (the May 2025 flood led to the evacuation of most of the roughly 1,800 visitors reported at the site and, according to press reports, two visitor deaths), and the Committee's decisions across 2011, 2021, 2023 and 2025 show continuing requests on management, buffer zones, the setting of the Siq and tourism carrying capacity, including concern in 2023 that the Al-Dara project advanced without prior advice. Against that, the most recent Committee decision (2025) acknowledges Jordan's conservation, sustainable development and community efforts, welcomes water-harvesting infrastructure, check dams in flood-risk zones and master plans, and reports a Heritage Impact Assessment finding no significant impact on Outstanding Universal Value (with a request for further analysis). Petra is not on the Danger List. No source reviewed documents unrepaired damage to monuments. These are chronic, monitored threats rather than an acute emergency. Confidence is Supported rather than Confirmed because: the 2025 state-of-conservation working document (WHC/25/47.COM/7B.Add.2) and Advisory Body evaluation were not read; UNESCO's own property page could not be opened; no Petra National Trust or Department of Antiquities source was obtained; and the 2022 conservation of the Treasury mentioned in the research brief could not be sourced and is omitted. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_11"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": false,
+      "archival_records": true,
+      "3d_documentation": true,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories are supported by sources opened in this pass, which meets the moderate tier. Photographic and virtual-tour categories are marked false only because the pages that would evidence them (UNESCO's Petra photo gallery, Google Arts & Culture) could not be opened here; this reflects what was verified, not a finding that none exist. For 3D documentation, the ACOR page (17 February 2026) and the CyArk page each state that models are published, with named items and a 'View in 3D' link respectively, but the 3D viewers and Sketchfab models themselves were not opened (the CyArk viewer was blocked), so a reviewer should click through before accepting this category; if it were rejected, the remaining two categories (archival, scholarly) would still give the moderate tier (2-3 categories). Coverage is uneven: the published models named are mostly specific features and objects (the Petra Archaeological Park model, a Siq flythrough shared as a video, the High Place of Sacrifice, museum objects) rather than a whole-property model, and CyArk's page gives a single case-study entry for Petra.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "archival_records",
+        "description": "UNESCO hosts Jordan's 2022 state-of-conservation report for Petra (Petra SOC Report 2022, prepared by the Petra Development and Tourism Regional Authority), publicly accessible as a document on the World Heritage Centre site.",
+        "url": "https://whc.unesco.org/document/197202",
+        "source_id": "src_00"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO also hosts the Report on Mission to Evaluate the State of Conservation of Petra (mission 3-7 September 2000, report dated 12 September 2000).",
+        "url": "https://whc.unesco.org/document/138866",
+        "source_id": "src_06"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "The American Center of Research (ACOR) describes a National Inventory Project that created 3D models of hundreds of monuments and objects across Petra and several Jordanian museums and sites, and drone LiDAR documentation of the Petra landscape. It lists a Petra Archaeological Park model, a Petra Siq flythrough (linked as a Facebook reel) and Sketchfab models (including the High Place of Sacrifice and Petra Museum/North Ridge objects). The models themselves were not opened.",
+        "url": "https://acorjordan.org/?p=92279",
+        "source_id": "src_12"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "CyArk's documentation page lists Petra, Jordan as a case study (153 scans, 10,497 terrestrial and 3,057 aerial photogrammetric images, a 35-million-polygon model) with a 'View in 3D' link. The viewer was not opened.",
+        "url": "https://cyark.org/whatwedo/documentation",
+        "source_id": "src_13"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Peer-reviewed study of sandstone decay at Petra: Rihosek et al., 'Gravity-induced stress as a factor reducing decay of sandstone monuments in Petra, Jordan', Journal of Cultural Heritage 19 (2016). Only the library catalogue record was opened.",
+        "url": "https://asep.lib.cas.cz/arl-cav/en/detail-cav_un_epca-0460239-Gravityinduced-stress-as-a-factor-reducing-decay-of-sandstone-monuments-in-Petra-Jordan/",
+        "source_id": "src_11"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1985",
+      "title": "Petra inscribed on the World Heritage List",
+      "description": "Jordan's 2022 state-of-conservation report gives 1985 as the inscription year, with criteria (i), (iii) and (iv).",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2000-09",
+      "title": "UNESCO mission evaluates the state of conservation of Petra",
+      "description": "A mission on 3-7 September 2000 (report signed by Giora Solar, dated 12 September 2000) cited about half a million visitors a year, five times the number ten years earlier, weak visitor management, and the lack of a management plan, documentation and condition assessments, and recommended a management plan and professional conservation team.",
+      "event_type": "other",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2011",
+      "title": "World Heritage Committee decision 35 COM 7B.49 on Petra",
+      "description": "The Committee expressed deep concern about the property's state of conservation, endorsed the recommendations of a December 2010 joint World Heritage Centre/ICOMOS reactive monitoring mission, and asked for a risk management plan, an integrated conservation plan, minimised excavation until conservation needs are met, and a formally adopted buffer zone. It asked for a report by 1 February 2013.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "World Heritage Committee decision 44 COM 7B.16 on Petra",
+      "description": "The Committee congratulated Jordan on completing the Petra Integrated Management Plan and welcomed a new permanent Technical Committee. It encouraged measures including water-harvesting and flood-management studies, urged an Integrated Territorial Master Plan, prevention of further densification and buffer zone regulations, and asked for a report by 1 December 2022.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2022",
+      "title": "Jordan submits state-of-conservation report for 2021/2022",
+      "description": "The Petra Development and Tourism Regional Authority prepared the report 'Progress and Achievements 2021/2022', described as covering 2021 and 2022 activities. It describes work on the Integrated Management Plan and on water harvesting and management, names JICA as the authority's partner agency on the Petra Tourism Development Master Plan, and notes the negative effect of COVID-19 on the tourism-dependent regional economy. It also identifies informal tourism services and associated encroachments as issues needing regulation. No exact date is given in the document.",
+      "event_type": "other",
+      "source_ids": [
+        "src_00"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "World Heritage Committee decision 45 COM 7B.141 on Petra",
+      "description": "At its extended 45th session the Committee welcomed efforts to limit densification and redirect growth eastward, but noted with concern that the Al-Dara project went ahead and added at least one major infrastructure element in the wider setting without prior advice to the World Heritage Centre. It urged an Integrated Territorial Master Plan, buffer zone regulations and a minor boundary modification request, and asked for a report by 1 December 2024.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025-05-04",
+      "title": "Flash floods force evacuation of visitors at Petra",
+      "description": "Xinhua (via The Peninsula) reported nearly 1,800 tourists, quoting local official Yazan Mohadin (as carried by Al-Mamlaka TV) that 1,785 tourists visited that day and civil defence evacuated most of them, and that no casualties had been recorded at that point. ArtDependence reported 1,785 visitors that day, most evacuated, with ticket sales suspended and Civil Defense evacuating areas including Al-Khazneh and the Siq. The New Arab reported that a Belgian mother and her son from an 18-person adventure tour in Wadi al-Nakhil were found dead on 5 May; Travel Tomorrow, citing Belgium's foreign ministry, also reported two Belgian deaths. Reported evacuation figures differ by outlet. None of the reports reviewed describes damage to the monuments, and Travel Tomorrow (headline: nearly 2,000 evacuated) reported that the site had reopened, quoting the regional authority commissioner that repairs had taken place; the repairs are not described.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_07",
+        "src_08",
+        "src_09",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7B.171 on Petra",
+      "description": "The Committee acknowledged Jordan's conservation, sustainable development and community efforts despite a recent drop in visitation; welcomed commitment to an Integrated Territorial Master Plan, water-harvesting infrastructure and check dams in high-risk flood zones, and the Tourism Development Master Plan (2023-2033); noted a Heritage Impact Assessment for Al-Dara finding no significant impact on Outstanding Universal Value while asking for further analysis and reduced visual impact on the Siq's setting; asked for carrying capacity and a crowd management study; and requested an updated report by 1 December 2026 for the 49th session. The decision page does not mention the Danger List.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Petra SOC Report 2022: State of Conservation Report for the Petra World Heritage Site, Progress and Achievements 2021/2022",
+      "publisher": "Petra Development and Tourism Regional Authority (for the Hashemite Kingdom of Jordan), hosted by UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/197202",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Report written by the Jordanian site authority and hosted on UNESCO's site, so it is the State Party's own account, not an independent assessment. Used for basic metadata and the 2022 event; UNESCO's property page was blocked in this pass.",
+      "published_date": "2022",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "The List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 47 COM 7B.171: Petra (Jordan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8896/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 45 COM 7B.141: Petra (Jordan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8175",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 44 COM 7B.16: Petra (Jordan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7734",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 35 COM 7B.49: Petra (Jordan)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/4457",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2011",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Report on Mission to Evaluate the State of Conservation of Petra (Jordan)",
+      "publisher": "UNESCO World Heritage Centre (mission report signed by Giora Solar)",
+      "url": "https://whc.unesco.org/document/138866",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Dated September 2000; used only for the historical event and as an archival record, not for current condition.",
+      "published_date": "2000-09-12",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Jordan floods kill two Belgians and force evacuation of nearly 2,000 tourists",
+      "publisher": "Travel Tomorrow",
+      "url": "https://traveltomorrow.com/jordan-floods-kill-two-belgians-and-force-evacuation-of-nearly-2000-tourists/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Trade travel-news outlet; its deaths figure is attributed to Belgium's foreign ministry. The article states the site had reopened and quotes the regional authority commissioner that repairs had taken place, without saying what was repaired; treated as context only. Its embedded social post gives a different death toll than the article text.",
+      "published_date": "2025-05-06",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Jordan evacuates tourists from Petra after flood hits (Xinhua report)",
+      "publisher": "The Peninsula (Qatar), republishing Xinhua",
+      "url": "https://s.thepeninsula.qa/article/04/05/2025/jordan-evacuates-tourists-from-petra-after-flood-hits",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "State news agency report written on the day of the flood, before the deaths were reported; its 'no casualties' statement is from local official Yazan Mohadin at that time. Wording on how many were evacuated is loose (1,785 visited that day; most evacuated).",
+      "published_date": "2025-05-04",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Bodies of mother and her son recovered after flash floods hit southern Jordan",
+      "publisher": "The New Arab",
+      "url": "https://www.newarab.com/news/bodies-mother-son-recovered-after-flash-floods-jordan",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2025-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Flash Flood Tragedy in Jordan: Two Belgian Tourists Found Dead, 1,700 Evacuated from UNESCO Site Petra",
+      "publisher": "ArtDependence",
+      "url": "https://www.artdependence.com/articles/flash-flood-tragedy-in-jordan-two-belgian-tourists-found-dead-1-700-evacuated-from-unesco-site-petra/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Art-news aggregator; editorial standards not independently verified. Used only as corroboration alongside src_07, src_08 and src_09, not as sole support for any claim.",
+      "published_date": "2025-05-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Gravity-induced stress as a factor reducing decay of sandstone monuments in Petra, Jordan (library catalogue record)",
+      "publisher": "Journal of Cultural Heritage, vol. 19 (Rihosek, Bruthans, Masin, Filippi, Carling, Schweigstillova); record held by the Czech Academy of Sciences library",
+      "url": "https://asep.lib.cas.cz/arl-cav/en/detail-cav_un_epca-0460239-Gravityinduced-stress-as-a-factor-reducing-decay-of-sandstone-monuments-in-Petra-Jordan/",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Only the catalogue record and abstract-level summary were opened, not the full paper.",
+      "published_date": "2016",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "ACOR and Global Digital Heritage Partnership",
+      "publisher": "American Center of Research (ACOR)",
+      "url": "https://acorjordan.org/?p=92279",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Organisation's own description of a partnership it participates in; the linked models were not opened.",
+      "published_date": "2026-02-17",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Documentation (case studies, including Petra, Jordan)",
+      "publisher": "CyArk",
+      "url": "https://cyark.org/whatwedo/documentation",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Organisation's own page; the linked 3D viewer was blocked and not opened.",
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status Moderate Concern / Supported; close call vs High Concern flagged in decision_trigger. DPI tier recommended: moderate. Known gaps (not included because not verified): (1) UNESCO's Petra property page (whc.unesco.org/en/list/326/) and photo gallery were blocked/unanswered, so metadata rests on Jordan's 2022 state-of-conservation report hosted by UNESCO and the photographic category is marked false; Wikipedia's Petra and Jordan world-heritage-list pages were also blocked. (2) The 2025 state-of-conservation working document (WHC/25/47.COM/7B.Add.2) and Advisory Body evaluations were not read; the 2025 decision was read only via its decisions page, and its erosion-control and structural-repairs wording comes from a page summary, so a reviewer should confirm it on the page. (3) No Petra National Trust or Department of Antiquities source was obtained; no 2022 'Treasury' conservation project could be sourced (the Wikipedia Al-Khazneh article, which was opened, mentions none) and it is omitted. (4) The Danger List was checked directly on 2026-10-15 (58 properties; Petra not listed). Petra's next report is due 1 December 2026 for the 49th session; no 2026 (48th session) decision on Petra was found, but this was not independently confirmed. (5) Armed-conflict category omitted: no source reviewed documents regional conflict spill-over affecting Petra; the 2025 decision mentions a recent drop in visitation without a stated cause. (6) Climate-change attribution omitted: no source reviewed ties Petra's weathering or flooding to climate change. (7) The 3D models (CyArk viewer, ACOR Sketchfab items) and Google Arts & Culture were not opened; virtual-tour category left false. (8) Flood casualty and evacuation figures differ by outlet and are given as reported; the circumstances of the deaths were reportedly under investigation. (9) The 2016 sandstone-decay paper was read only at catalogue/abstract level. A Heidelberg ICOMOS journal article on Petra turned up in search but was blocked by bot protection and not used. Images omitted by design. VERIFIER PASS 2026-10-15: Re-read directly (WebFetch) the SOC 2022 report, Danger List (58 properties, Petra absent: confirmed), the four Committee decisions (47 COM 7B.171, 45 COM 7B.141, 44 COM 7B.16, 35 COM 7B.49) and the 2000 mission report; dates, report deadlines, session numbers and attributed content matched. Fixes: (1) 2022 report event rewritten to what the document states (removed 'buffer zone assessments' and 'start of' the JICA master plan, which were not supported; JICA is named as partner agency); (2) 2025 decision wording 'erosion control and structural repairs among measures taken by Jordan' corrected to 'welcomes measures including erosion control and structural rehabilitation'. Could not verify in this pass (UNESCO property/gallery pages and press, ACOR, CyArk and library-catalogue pages were blocked or the fetch limit was reached): flood press figures and quotes (src_07-src_10), the sandstone study abstract (src_11), ACOR/CyArk 3D claims (src_12, src_13), the monument names in the significance summary, and the serial/non-serial flag; these remain as drafted with the draft's own caveats. The SOC report excerpt read did not name individual monuments. SECOND VERIFIER PASS 2026-10-15 (independent): UNESCO property and gallery pages could not be fetched (permission request unanswered), so coordinates (taken from SOC report, confirmed against that document: 30°19'50\"N 35°26'36\"E, 264 km2) and photographic DPI category (left false) remain unresolved. Re-read ACOR, CyArk, library record, the four press articles, SOC 2022, 2000 mission report, Danger List (58, Petra absent) and decisions 47/45/44/35 COM; all decision content, dates and deadlines matched. Fixes: (1) evacuation figure restated: Xinhua gives 1,785 visitors that day with most evacuated by civil defence, quote attributed to Yazan Mohadin via Al-Mamlaka TV; (2) Travel Tomorrow quotes the commissioner saying repairs had taken place, now disclosed (nature unknown); (3) ACOR 3D claim corrected: the hundreds of models span Petra and several museums/sites, not Petra alone, and the Siq flythrough is a Facebook reel; (4) significance summary: tourism is central to Petra's economy per the report, not 'to the site'; (5) sandstone study conclusion reworded to the abstract (endangered-zone identification combining threat assessment with stress modelling); (6) src_07/src_08 reliability notes updated.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: moderate_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

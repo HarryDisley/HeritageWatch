@@ -1,0 +1,450 @@
+{
+  "slug": "rosia-montana-mining-landscape",
+  "name": "Roșia Montană Mining Landscape",
+  "alternate_names": [
+    "Roșia Montană",
+    "Rosia Montana",
+    "Alburnus Maior"
+  ],
+  "country": "Romania",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 46.3061,
+    "lng": 23.1306
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N46 18 22, E23 7 50). The inscribed property is an area (a cultural landscape with a buffer zone), not a single point; this marker is a practical single-point reference.",
+  "unesco_id": "1552",
+  "inscription_year": 2021,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "Roșia Montană, in the Apuseni Mountains of Transylvania, holds what UNESCO describes as the most significant, extensive and technically diverse underground Roman gold-mining complex known, dating from the Roman occupation of Dacia (106-271 CE). UNESCO's page reports Roman-era galleries totalling 7 km, and the mining community is described as one of the oldest documented in Europe. Roman wax-coated wooden writing tablets were found in the mines during the 18th and 19th centuries. It was inscribed in 2021 under criteria (ii), (iii) and (iv), with a buffer zone of 341.42 ha, and was placed on the List of World Heritage in Danger in the same year.",
+  "metadata_sources": [
+    "src_00"
+  ],
+  "threat_categories": [
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Decision 44 COM 8B.26 (2021), which inscribed the property on the Danger List in the same decision, stated in its integrity and authenticity sections that the current mining proposal made the property highly vulnerable (it does not set out Danger-List reasons separately; UNESCO's 2024 state of conservation page lists potential resumption of large-scale open-cast gold mining, cumulative impact of small-scale mining and water pollution from old mines as the threats behind the listing); the decision also stated that no planning controls were then in place and that mining licences were active with inadequate controls to stop their extension. ICOMOS's 2021 evaluation (which recommended simultaneous Danger-List inscription) described the main threat as a possible resumption of large-scale open-cast gold mining, recorded the State Party's statement that the earlier planning documents (PUG and PUZ) had been declared legally invalid, and said the header ponds (dams) need regular inspection and maintenance to prevent long-term decay or collapse. The most recent decision, 48 COM 7A.28 (July 2026), reports the following: the revised Management Plan, expected in the first half of 2025, has been delayed; the Committee reiterates that the mining threat has yet to be fully removed because two legal challenges remain open (RMGC's challenge to the refusal to renew its exploitation licence, and the challenge to the ICSID arbitration award); these cases limit the National Agency for Mineral Resources' ability to formally end mining (Corrective Measure 1) or take control of the underground workings from Roșia Montană Gold Corporation, which in turn holds up the Management Plan (Corrective Measure 4); and the General Urban Plan (Corrective Measure 2) is delayed. The Committee also asks Romania to report on the scope, location and impact assessment of drinking water, sewerage, wastewater and road projects that have started, and to prepare a formal inspection and maintenance plan for the 18th/19th-century header ponds. The 2025 decision (47 COM 7A.22) had welcomed budget provisions for assessing and rehabilitating the Tăul Mare header pond and the start of procedures to transfer control of the underground workings. In May 2024, Europa Liberă România reportedly counted 50 listed monuments in the commune and said only about 150 metres of the roughly 7 km of Roman galleries could be visited (single-source, 2024). The sources reviewed do not describe any currently ongoing mining or new physical destruction of the Roman works. The unresolved items are legal, planning and management gaps.",
+      "first_identified_date": null,
+      "date_note": "Chronic, multi-year concern. The earliest document in this dossier that sets it out is the 2021 ICOMOS evaluation and the 2021 inscription decision; earlier history of the mining project was not independently sourced here.",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08",
+        "src_15"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Water pollution from old mine workings is a documented concern. ICOMOS's 2021 evaluation reported iron oxide leaching from the main drainage adit into the Roșia River and said the water treatment plant appeared to be inoperative. UNESCO's 2024 state-of-conservation summary lists water pollution from old mines among the main threats and says mine-water mitigation was still in progress. Decision 46 COM 7A.2 (2024) referred to mitigation measures for polluted underground mine water, to be included in the General Urban Plan (Corrective Measure 5); decision 47 COM 7A.22 (2025) noted that water quality assessments and pollution mitigation planning were continuing; and decision 48 COM 7A.28 (2026) notes monitoring results on water outflows from the galleries and asks Romania for a full risk assessment of water-discharge threats. The sources reviewed do not give measurements of current pollution levels or state that damage to the Roman remains from this has been verified. This is a chronic, monitored threat with mitigation under way.",
+      "first_identified_date": null,
+      "date_note": "Long-standing legacy of earlier mining; no single start date established. The earliest document in this dossier describing it is the 2021 ICOMOS evaluation.",
+      "source_ids": [
+        "src_03",
+        "src_05",
+        "src_06",
+        "src_07",
+        "src_08"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern: considered and not matched on the sources read. (1) No source reviewed documents severe, verified damage to a significant part of the property as of the most recent review; the 2026 decision's concerns are legal, planning and management gaps and the unresolved mining threat, not a documented destruction event. (2) No armed conflict. (3) No evidence that the property is inaccessible to monitoring bodies; Romania reports to the Committee on a recurring basis (updated reports requested for 1 February 2027). (4) Protection has not collapsed, although the Committee says the open legal cases 'constrain the effectiveness of the protection and management arrangements': the mining exploitation licence was reported by the Committee to have been automatically terminated on 20 June 2024 after the National Agency for Mineral Resources refused to renew it, and an ICSID tribunal dismissed Gabriel Resources' claim against Romania on 8 March 2024 (an award now subject to an annulment application). High Concern trigger matched: official inscription on UNESCO's List of World Heritage in Danger for substantive (not administrative) reasons. Verified directly: the UNESCO property page lists the Danger List status as 2021 to present, the Danger List page names the property, and decision 48 COM 8C.2 (2026) retains it as one of 52 properties; decision 48 COM 7A.28 (2026) itself decides to retain it. The reasons are substantive (UNESCO's 2024 state of conservation page lists potential resumption of large-scale open-cast mining, cumulative small-scale mining and water pollution from old mines as the threats behind the listing). The call is not close against Moderate Concern, because that listing trigger is met mechanically. The neighbouring status is Critical Concern: the unresolved mining threat and open litigation could be read by a reviewer as an 'ongoing severe threat', but on the sources read no mining is active and no verified severe damage is documented, so Critical was not applied.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. Present conditions: the property was inscribed in 2021 and simultaneously placed on the Danger List, and it remains there; in July 2026 the Committee retained it (48 COM 7A.28 and 8C.2). The Committee acknowledges Romania's ongoing work on the revised Management Plan, interpretation strategies and participatory approaches, and welcomes draft proposals to require Heritage Impact Assessments, but is concerned about delays to the revised Management Plan, and says the timeframe for the corrective measures in the 2023 Desired state of conservation is proving hard to meet because of two pending legal cases. The Committee reiterates that the threat of mining has yet to be fully removed. Positive developments are also documented: the mining exploitation licence was reported (47 COM 7A.22) to have been automatically terminated on 20 June 2024, an ICSID tribunal's award of 8 March 2024 went in Romania's favour, procedures to transfer control of the underground workings were started (2025), and works including header-pond and water measures have received budget provisions or are under way. Against that, the licence refusal and the arbitration award are both still being challenged (the licence case at the Alba Iulia Court of Appeal was reportedly postponed on 23 September to 18 November, year not stated in the report, and the ICSID annulment application is reportedly still pending, per a regional news report relaying Mediafax), the General Urban Plan and Management Plan are not complete, and water-discharge risks and header-pond inspection plans are still being requested. These are the documented grounds for High Concern; they describe a Danger-List property with unresolved but not acute-damage conditions, and the classification is not a prediction that mining will resume. Confidence is Supported rather than Confirmed: the Danger-List fact is confirmed directly from two 2026 UNESCO decisions, but the 2026 state-of-conservation pages (soc/4973, soc/4860) could not be loaded and only a partial excerpt of the 2026 State Party report was readable, so the on-the-ground condition of the Roman galleries, header ponds and buildings in 2026 was not independently assessed. Confidence does not alter the status.",
+      "effective_date": "2026-10-15",
+      "source_ids": [
+        "src_00",
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_07",
+        "src_06",
+        "src_08",
+        "src_09",
+        "src_16"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": "Harry Disley",
+      "approved_date": "2026-10-15",
+      "approval_note": "Approved by Harry Disley on 2026-10-15 from the round 3 review summary, as proposed. Each draft was fact-checked once by an independent reader; claims the second reader could not re-open are hedged and listed in the changelog."
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": true,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Three of five categories have publicly viewable evidence found, which meets the moderate tier (2-3 categories). No publicly viewable 3D model, laser scan or photogrammetry of the Roman galleries or the settlement was found in this pass, and no virtual tour or 360 degree tour was found; searches turned up unrelated Romanian 3D heritage papers that do not concern this property and were not used. The photographic evidence is modest: UNESCO's gallery for the property contains 10 images (8 photographs of the landscape, mining features and settlement, with no year stated on the page, and 2 captioned as from the early 1940s). Archival evidence is the nomination and evaluation documentation hosted by UNESCO; scholarly evidence was found for the Roman-period community (a 2007 journal article on necropolises at Alburnus Maior) but is not a site-wide documentation survey. A rosiamontana.world site listed on UNESCO's page could not be opened in this pass and was not assessed, so more material may exist than was verified. Moderate reflects what was publicly findable here, not necessarily what exists in private or unpublished archives.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a public photo gallery for the property with 10 images credited to named photographers, including views of Tăul Mare, a Roman gallery in the Cărnic massif, and two photographs from the early 1940s.",
+        "url": "https://whc.unesco.org/en/list/1552/gallery/",
+        "source_id": "src_13"
+      },
+      {
+        "category": "archival_records",
+        "description": "UNESCO's documents page for the property lists the nomination file (executive summary, nomination text, maps, supplementary and additional information, 2018-2020), an Advisory Body interim report (2018), the ICOMOS evaluation (2021), Committee decisions and State Party state-of-conservation reports (2022-2026). The ICOMOS evaluation and the January 2026 State Party report were opened.",
+        "url": "https://whc.unesco.org/en/list/1552/documents/",
+        "source_id": "src_12"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Published scholarship on the Roman-period community at Alburnus Maior, for example Damian and Simion's 2007 article on funerary practices in the necropolises, in Acta Terrae Septemcastrensis, which documents cremation graves with dimensions, orientation and inventories and refers to the Alburnus Maior I-III volumes.",
+        "url": "https://magazines.ulbsibiu.ro/arheologie/publicatii/ats/ats6.1/12/alburnus maior.pdf",
+        "source_id": "src_18"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2021-07",
+      "title": "Roșia Montană inscribed on the World Heritage List and placed on the Danger List",
+      "description": "At the 44th (extended) session, the Committee inscribed the property as a cultural landscape under criteria (ii), (iii) and (iv) and, in the same decision, placed it on the List of World Heritage in Danger. The decision stated that the current mining proposal made the property's integrity (and authenticity) highly vulnerable, and that there were no planning controls in place and active mining licences with inadequate controls to stop their extension. It recommended that the State Party urgently consider halting approval of mining permits, develop General and Zonal Urban Plans, approve and implement a management plan, and develop header-pond inspection and monitoring programmes. ICOMOS had recommended the same combination. Month shown is the month of the UNESCO news item dated 27 July 2021 listed on the property page; the exact decision date was not separately confirmed.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_00"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Committee adopts Desired state of conservation; property retained on Danger List",
+      "description": "Decision 45 COM 7A.56 (extended 45th session) welcomed online meetings held in place of a reactive monitoring mission, adopted a Desired state of conservation including corrective measures, and decided to retain the property on the Danger List. It noted that the State Party said it could not halt mining permit approvals or create planning controls against further mining until the World Bank arbitration (begun in 2015) concluded.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024-03-08",
+      "title": "ICSID tribunal rules in Romania's favour in Gabriel Resources arbitration",
+      "description": "Decision 46 COM 7A.2 notes the ICSID ruling of 8 March 2024 dismissing Gabriel Resources' arbitration claim against Romania; the Europa Liberă report says the tribunal ruled for Romania on 8 March in a case in which the claimant had sought USD 6.5 billion. The Committee welcomed the ruling's possible effects on the property's state of conservation, and noted that Gabriel Resources could challenge it within 120 days.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_14",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2024-06-20",
+      "title": "Mining exploitation concession licence held by RMGC terminated after non-renewal",
+      "description": "Decision 47 COM 7A.22 states that the exploitation concession licence held by Roșia Montană Gold Corporation (RMGC) was automatically terminated on 20 June 2024, following the National Agency for Mineral Resources' refusal to renew it. RMGC challenged the non-renewal before a national court; the case was pending as of 2025 and 2026 decisions.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_08",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2024-07-12",
+      "title": "Gabriel Resources challenges the arbitration award (annulment application)",
+      "description": "Decision 47 COM 7A.22 records that Gabriel Resources challenged the 8 March 2024 ICSID award on 12 July 2024. Europa Liberă (which describes Gabriel Resources as RMGC's majority shareholder) reported that ICSID registered the annulment application on 12 July 2024 and provisionally suspended enforcement of the award while the application is considered.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07",
+        "src_14"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Committee decision 46 COM 7A.2: corrective-measure progress welcomed, property retained on Danger List",
+      "description": "At its 46th session (New Delhi) the Committee welcomed activation of the Management Committee (Corrective Measure 3), noted that the Management Plan revision and General Urban Plan were under development, that mitigation measures for polluted mine water were to be included in the Plan and that a header-pond inspection and maintenance regime was being developed, encouraged an archaeological research plan, and decided to retain the property on the Danger List. Exact decision date within 2024 was not confirmed from the sources read.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Committee decision 47 COM 7A.22: mining threat 'yet to be removed'; property retained",
+      "description": "The Committee stated that 'the threat of mining at the property is yet to be removed', welcomed the start of procedures to transfer control of the underground workings from RMGC to the National Agency for Mineral Resources, and progress on the General Urban Plan cooperation agreement, Management Plan and water-quality work, and decided to retain the property on the Danger List. Exact decision date was not confirmed from the sources read.",
+      "event_type": "political",
+      "source_ids": [
+        "src_07"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "title": "Romania submits January 2026 state of conservation report to UNESCO",
+      "description": "The State Party's report, signed by the Minister of Culture and dated only 'January 2026', says that works and initiatives are bringing 'substantial changes'. Only a partial excerpt of the report could be read, so its findings on the Management Plan, urban plan and litigation are not summarised here.",
+      "event_type": "other",
+      "source_ids": [
+        "src_11"
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "title": "ICSID annulment hearings reportedly held (11-12 May 2026)",
+      "description": "A regional news report relaying Mediafax reportedly states hearings in the annulment proceedings were held on 11-12 May 2026, with the latest recorded step being cost submissions on 1 July 2026. A Gabriel Resources press release of 19 January 2026 had said the hearing originally set for 22-23 January 2026 would be postponed. The May dates rest on the single news report.",
+      "event_type": "political",
+      "source_ids": [
+        "src_16",
+        "src_17"
+      ]
+    },
+    {
+      "date": "2026-07",
+      "title": "Committee decisions 48 COM 7A.28 and 8C.2: property retained on the Danger List",
+      "description": "At its 48th session (Busan, 19-29 July 2026) the Committee noted ongoing legal challenges, reiterated that the mining threat has yet to be fully removed, said the revised Management Plan is delayed, asked for a risk assessment of water-discharge threats, a header-pond inspection and maintenance plan and information on infrastructure projects, and decided to retain the property on the Danger List, with an updated state of conservation report due by 1 February 2027. Decision 48 COM 8C.2 retains it among 52 properties. Month shown reflects the session's dates.",
+      "event_type": "political",
+      "source_ids": [
+        "src_08",
+        "src_09",
+        "src_10"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Roșia Montană Mining Landscape",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1552/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 44 COM 8B.26: Roșia Montană Mining Landscape (Romania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7945",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_03",
+      "title": "ICOMOS Evaluation: Roșia Montană Mining Landscape (Romania)",
+      "publisher": "UNESCO World Heritage Centre (hosting ICOMOS evaluation)",
+      "url": "https://whc.unesco.org/document/189208",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2021",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 45 COM 7A.56: Roșia Montană Mining Landscape (Romania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8257",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 46 COM 7A.2: Roșia Montană Mining Landscape (Romania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8471",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Roșia Montană Mining Landscape: State of Conservation, 2024",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4525",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 47 COM 7A.22: Roșia Montană Mining Landscape (Romania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8689",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 48 COM 7A.28: Roșia Montană Mining Landscape (Romania)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9018",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Decision 48 COM 8C.2: Update of the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/9208",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2026",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_10",
+      "title": "WHC/26/48.COM/8C: Update of the List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/226913",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Opened only to confirm the dates and venue of the 48th session (Busan, 19-29 July 2026) and that draft decision 48 COM 8C.2 proposed retaining the property; it contains no Roșia Montană-specific assessment.",
+      "published_date": "2026-07-27",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_11",
+      "title": "State of Conservation Report on the Roșia Montană Mining Landscape (1552 rev), State Party report, January 2026",
+      "publisher": "UNESCO World Heritage Centre (State Party report by Romania, signed by the Minister of Culture)",
+      "url": "https://whc.unesco.org/document/224754",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Only a partial excerpt (beginning at section 5) could be read; sections on the Management Plan, urban plan, licence and arbitration were not seen. Cited only for its existence, date and the State Party's own general statement about works.",
+      "published_date": "2026-01",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Roșia Montană Mining Landscape: documents and decisions page",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1552/documents/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Roșia Montană Mining Landscape: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1552/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Gabriel Resources a obținut suspendarea hotărârii prin care a pierdut procesul cu România",
+      "publisher": "Europa Liberă România (RFE/RL)",
+      "url": "https://romania.europalibera.org/a/gabriel-resources-a-obtinut-suspendarea-hotararii-prin-care-a-pierdut-procesul-cu-romania/33038969.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2024-07-16",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Roșia Montană, un brand strategic ignorat, la trei ani de când e sit UNESCO",
+      "publisher": "Europa Liberă România (RFE/RL)",
+      "url": "https://romania.europalibera.org/amp/rosia-montana-unesco-brand-strategic-romania/32930898.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Single-outlet, May 2024 assessment of local conditions; some claims (e.g. the length of galleries open to visitors) are not corroborated by a second source and may have changed.",
+      "published_date": "2024-05-05",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Roșia Montană rămâne pe Lista patrimoniului mondial în pericol (UNESCO: amenințarea reluării mineritului nu a fost eliminată)",
+      "publisher": "Alba24.ro",
+      "url": "https://alba24.ro/rosia-montana-ramane-pe-lista-patrimoniului-mondial-in-pericol-unesco-amenintarea-reluarii-mineritului-nu-a-fost-eliminata-1161251.html",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Regional outlet that, per its own text, relays information attributed to Mediafax and UNESCO; it contains no direct quotations and paraphrases. Used for the court and ICSID procedural dates (18 November court date; 11-12 May 2026 ICSID hearings; 1 July 2026 cost submissions), which are single-sourced here; the UNESCO decision content is taken from the decisions themselves. The report gives the 23 September postponement to 18 November without stating the year; 2026 is inferred from the publication date (6 October 2026).",
+      "published_date": "2026-10-06",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_17",
+      "title": "ICSID Annulment Update",
+      "publisher": "Gabriel Resources Ltd. via ACCESS Newswire",
+      "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/icsid-annulment-update-1129132",
+      "source_type": "other",
+      "tier": 3,
+      "reliability_note": "Press release by a party to the dispute (Gabriel Resources); used only for the procedural fact that a hearing set for 22-23 January 2026 was to be postponed.",
+      "published_date": "2026-01-19",
+      "accessed_date": "2026-10-15"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Funerary Practices in the Necropolises Belonging to the Ancient Communities at Alburnus Maior (Damian and Simion)",
+      "publisher": "Acta Terrae Septemcastrensis VI, 1",
+      "url": "https://magazines.ulbsibiu.ro/arheologie/publicatii/ats/ats6.1/12/alburnus maior.pdf",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Journal article opened in full-text form via the journal's site; the URL contains a space as served. Peer-review status of the journal was not checked.",
+      "published_date": "2007",
+      "accessed_date": "2026-10-15"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": true,
+    "core_claims_supported": true,
+    "status_matches_methodology": true,
+    "rationale_reflects_evidence": true,
+    "no_unsupported_prediction_language": true,
+    "conflicting_evidence_addressed": true,
+    "coordinates_verified": true,
+    "dpi_evidence_legitimate": true,
+    "last_reviewed_date_recorded": true,
+    "final_classification_approved": true
+  },
+  "review_status": "approved",
+  "last_verified_date": "2026-10-15",
+  "changelog": [
+    {
+      "date": "2026-10-15",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; matched on the Danger-List trigger (verified directly on UNESCO's property page, Danger List page and decisions 48 COM 7A.28 and 8C.2). Neighbouring status Critical Concern considered and not applied. Digital Preservation tier proposed: moderate (3 of 5 categories). Known gaps (not included because not verified): (1) UNESCO state-of-conservation pages soc/4973 (2026) and soc/4860 (2025) returned a fetch error, so the Secretariat/Advisory Body analysis for 2025 and 2026 was not read; only the Committee decisions were. (2) The 2026 State Party report (document 224754) was readable only as a partial excerpt starting at section 5. (3) The 2023 Desired state of conservation text and its individual corrective measures were not read directly (only referred to in decisions). (4) The rosiamontana.world site linked from UNESCO's page could not be opened, so any virtual tour, 3D or photo archive there was not assessed; no 3D or virtual tour was verified. (5) Exact dates within the year for the 2023, 2024 and 2025 Committee decisions were not confirmed. (6) Court and ICSID procedural dates for 2026 (18 November hearing; 11-12 May ICSID hearings; 1 July cost submissions) rest on a single regional news report relaying Mediafax (published 6 October 2026) and are stated as 'reportedly'; the 18 November date is a future scheduling fact, not an outcome. (7) The January 2026 postponement of the ICSID hearing comes from a party press release. (8) Current on-the-ground condition of the galleries, header ponds and historic buildings in 2026 was not independently assessed; condition details come from ICOMOS (2021) and a May 2024 news article. (9) Wikipedia was not used; metadata rests on UNESCO. (10) The mining proposal's earlier history (pre-2021 project, 2013 protests, legal status of earlier permits) was not independently sourced here and is omitted. Images omitted by design. VERIFIER (2026-10-15): fixes made to wording of ICOMOS PUG/PUZ attribution; 46 COM 7A.2 (Committee 'welcomed' ICSID ruling's possible effects, 120-day challenge window; mine-water measures 'to be included in PUG', not progress); 47 COM water wording (continuing, not 'by the Municipality'); neutral wording of ICSID outcome in decision_trigger; hedged 18 November court date (year inferred); removed Riyadh venue not stated on decision page; gallery 'recent' photographs claim removed and Cărnic spelling corrected. Not verified: Damian and Simion 2007 article (fetch limit reached), rationale statements on interpretation strategies/participatory approaches, 2026 session text beyond summary. SECOND VERIFIER (2026-10-15, independent check against fetched sources): (1) significance wording now 'galleries totalling 7 km' and tablets 'found in the mines' per UNESCO page; (2) Danger-List reasons: decision 44 COM 8B.26 gives no separate reasons, so the 'mining proposal highly vulnerable' wording is attributed to its integrity section and the listed threats are cited to the 2024 SoC page (src_06 added to status sources); (3) removed unsupported assertions that the property is protected under Romanian law and that the National Heritage Institute is responsible for monitoring/authored the 2026 report (report is signed by the Minister of Culture; src_11 publisher corrected); (4) removed 'controlling stake' attribution to decision 47 COM (only Europa Liberă calls Gabriel the majority shareholder); (5) added Committee's own wording that legal cases 'constrain the effectiveness of the protection and management arrangements'. Verified OK: decisions 44-48 content, 8 March / 12 July 2024 dates, 20 June 2024 licence, 52 properties in 48 COM 8C.2, 1 Feb 2027 report date, ICOMOS statements, 50 monuments / 150 m of 7 km (Europa Liberă 5 May 2024), Alba24 dates, Gabriel press release, coordinates, gallery (10 images, 2 early-1940s), documents page, Damian and Simion 2007 article. Not verifiable: soc/4973 and soc/4860 (not fetchable); src_10 published date 2026-07-27; src_15 exact title; rosiamontana.world. Note: 48 COM text dates the ICSID award 'July 2024' (apparently conflating with the annulment filing); dossier uses 8 March 2024 per 46 COM, 47 COM and press.",
+      "changed_by": "claude"
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "harry",
+      "change": "Reviewed and approved by Harry Disley: high_concern / supported; Digital Preservation Index tier moderate. review_status advanced draft -> approved."
+    }
+  ]
+}

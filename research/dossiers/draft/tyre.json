@@ -1,0 +1,413 @@
+{
+  "slug": "tyre",
+  "name": "Tyre",
+  "alternate_names": [
+    "Tyr",
+    "Tiro",
+    "Tyrus",
+    "صور"
+  ],
+  "country": "Lebanon",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 33.2692,
+    "lng": 35.1958
+  },
+  "coordinate_note": "Coordinates are those shown on UNESCO's property maps page (N33 16 09, E35 11 45), converted to decimal degrees (about 33.2692, 35.1958). The inscribed property covers 153.8 ha and is not a single point; UNESCO's 2026 state-of-conservation document refers to a 'City Site' component and AFP describes two protected areas (the City Site and Al-Bass), so this marker is only a practical reference point. An earlier draft used a Wikipedia centre-point for the modern city (about 180 m different). Needs a visual check against the property boundaries on UNESCO's interactive map.",
+  "unesco_id": "299",
+  "inscription_year": 1984,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Tyre as a major Phoenician city that was a sea power and founded colonies such as Cadiz and Carthage; its historical role declined after the Crusades, and its surviving archaeological remains are mainly from the Roman period. It was inscribed in 1984 under criteria (iii) and (vi), with a core zone of 153.8 ha. UNESCO's list entry notes the legend that purple dye was invented at Tyre.",
+  "metadata_sources": [
+    "src_00",
+    "src_01",
+    "src_16"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO's 2026 state-of-conservation document (WHC/26/48.COM/7B.Add.4, dated 14 July 2026) states that hostilities have been documented in the vicinity of the property since 2024 and that, following the outbreak of hostilities in the Middle East on 28 February 2026, direct impacts at the property and its vicinity have been reported. It reports, citing the State Party (correspondence dated 15 June 2026), that on 7 June 2026 the area at the entrance of the City Site component was struck, damaging a historic building, adjacent electric generators, offices of the Directorate General of Antiquities and the south-eastern sector of the archaeological site; ancient columns, capitals and mosaic panels in the vicinity were affected, and archaeological warehouses holding collections and site documentation were reportedly damaged. UNESCO says the full extent of damage is unknown because of the security situation and that a comprehensive field assessment is needed once access is safe. The same document says continued evacuation orders in the Tyre district block safe access for monitoring and repairs. A preliminary rapid damage assessment was submitted by the State Party on 27 June 2026. At its 48th session the World Heritage Committee (decision 48 COM 7B.94) expressed deep concern that hostilities continue to threaten and damage the property, found that the conditions needed to conserve its Outstanding Universal Value are no longer met and that it faces both current and potential threats, and inscribed it on the List of World Heritage in Danger at the State Party's request. AFP reported, citing Ali Badawi of the Lebanese culture ministry, that the 7 June bombardment struck the site's administrative office and that debris from nearby strikes damaged columns, capitals, column bases and mosaics, and AFP attributed the bombardment to Israel; the AFP article carried no Israeli statement on the damage. ICOMOS Lebanon (National Committee) attributes the strikes to Israeli forces and says no military use of the site has been established; this is an advocacy statement. Al Jazeera's open-source unit reported satellite imagery showing air raids hitting structures metres from the archaeological site. Earlier, a UNESCO rapid mission in March 2025 recorded nine instances of damage on or next to the property from the 2024 hostilities but reported no direct impact on archaeological remains or monuments. Since the 22 July 2026 listing, no Tyre-specific damage report was found in this pass; France 24 (via Libnanews) reported on 7 September 2026 Israeli strikes across southern Lebanon after 'weeks of relative calm', without naming Tyre.",
+      "first_identified_date": null,
+      "date_note": "UNESCO's 2026 document says hostilities have been documented near the property since 2024 and that UNESCO dates the 2026 escalation to the outbreak of hostilities in the Middle East on 28 February 2026; no single start date is given for the threat as a whole. Dated incidents are in events[].",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_10",
+        "src_11",
+        "src_12"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "UNESCO's 2026 document lists previously identified threats including the absence of a management plan, unclear boundaries and legal status, weak buffer-zone legislation, staff shortages, uncontrolled development, a planned highway and port redevelopment, coastal and water-related deterioration and tourism pressure, alongside military conflict. The 2025 Committee decision (47 COM 7B.176) asked for the Management Plan to be finalised (including a maritime protection zone for underwater remains), a comprehensive management strategy, a revised boundary, a buffer zone and protection regulations, and submission of details of planned road and infrastructure projects with Heritage Impact Assessments; it also welcomed the start of a traffic and mobility plan and commended improved documentation and a marine survey. The 2025 state-of-conservation page also notes that deteriorating security has severely hampered conservation and that attacks in the Tyre region led to the absence of the archaeological team, which was directly affected. These are long-standing management gaps recorded by UNESCO, not a single acute event.",
+      "first_identified_date": null,
+      "date_note": "Chronic management concerns recorded in successive UNESCO reports; UNESCO's 2026 document says the property has been under Reactive Monitoring since 1992. No single start date applies.",
+      "source_ids": [
+        "src_03",
+        "src_04",
+        "src_05"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "UNESCO's 2025 state-of-conservation page lists, among factors affecting the property (stated as not ranked by importance), water (rain and groundwater) and erosion, silting and deposition, and UNESCO's 2026 document refers to coastal and water-related deterioration among previously identified threats. No climate-specific projection, measurement or damage report for Tyre was found in the sources read, so this category is recorded as a listed, unquantified factor and is secondary to the conflict and management concerns.",
+      "first_identified_date": null,
+      "date_note": "Listed as a general factor in UNESCO reporting; no start date or measurement found in sources reviewed.",
+      "source_ids": [
+        "src_05",
+        "src_03"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical Concern was considered first and is NOT mechanically met on the evidence read, but this is a close call (see below). High Concern triggers matched: (1) Official inscription on UNESCO's List of World Heritage in Danger for substantive reasons. UNESCO's Danger List page shows Tyre inscribed in 2026, and decision 48 COM 7B.94 finds that conditions to conserve Outstanding Universal Value are no longer met and that the property faces current and potential danger. (2) Credible reports from more than one source of a specific damaging event within the last five years, with damage not yet fully assessed: the 7 June 2026 strike at the City Site entrance is described in UNESCO's 2026 document (which relays the State Party's report) and in AFP reporting (a Lebanese culture ministry official plus AFP correspondents who saw debris near the columns on 8 June), and by ICOMOS Lebanon; note that much of the detail originates with Lebanese authorities, and UNESCO says the full extent is unknown pending a safe field assessment. (3) The site sits in a region under armed conflict: France 24 reported Israeli strikes across southern Lebanon on 7 September 2026 after 'weeks of relative calm', with Israel citing alleged ceasefire violations (the source gives no ceasefire start date). Critical Concern triggers checked: (a) severe, verified damage to a significant part of the site materially affecting its survival or integrity: not established; UNESCO reports damage to the entrance area, offices, a historic building and some antiquities (columns, capitals, mosaic panels were 'affected') but says the full extent is unknown, and the March 2025 UNESCO mission had observed no direct impact on archaeological remains. (b) Active combat zone with fighting reported at or immediately adjacent to the site: a strike hit the City Site entrance on 7 June 2026, but no Tyre-specific strike report dated after the 22 July 2026 listing was found, so active combat at the site is not shown to be current. (c) Inaccessible to monitoring bodies for roughly six months or more: UNESCO's 14 July 2026 document says evacuation orders block safe access for monitoring and repairs and a joint mission can only be invited once conditions allow, but the State Party submitted a preliminary assessment on 27 June 2026 and AFP (22 July) reported that most people who fled after evacuation orders had since returned, and no source read establishes continuous inaccessibility for six months. (d) Collapse of protection: not met; the State Party requested Danger listing, the site has provisional Enhanced Protection under the 1999 Second Protocol, and UNESCO commends its protection efforts. Close call: Critical Concern is the neighbouring status. It would be met if sources established that hostilities or evacuation orders are again active at or adjacent to the property, that access for monitoring has been blocked for about six months or more, or that damage to significant fabric has been verified as severe.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is that UNESCO's Committee, at the State Party's request, inscribed Tyre on the Danger List on 22 July 2026 (date per AFP and QNA reporting) after, in UNESCO's words as quoted by AFP, finding that the site had been directly hit and that optimal conditions for protecting its Outstanding Universal Value were no longer in place; a strike damaged the City Site entrance area and some antiquities in June 2026 and the full extent of damage remains unassessed because of security conditions. UNESCO describes the reported damage as an ascertained danger and the fragile security situation as a potential danger. Against escalating that to Critical Concern: the sources read do not document severe destruction of significant ancient fabric (UNESCO says the extent is unknown rather than severe); France 24 reported renewed Israeli strikes across southern Lebanon on 7 September 2026 after 'weeks of relative calm' (without naming Tyre), and I found no Tyre-specific strike report after the July listing; the Lebanese authorities are engaged and have provisional Enhanced Protection; and a field assessment has not yet been possible, which is an evidence gap rather than a confirmed catastrophe. The status therefore reflects a formally recognised, ongoing danger with incomplete damage knowledge, which is what High Concern describes. Attribution note: UNESCO's documents say 'a strike' and do not name who carried it out in the text read; AFP reporting and ICOMOS Lebanon attribute the June strike to Israel, and no Israeli statement on the damage appeared in the reports read, so responsibility is not asserted here beyond what those sources state. Confidence is Supported rather than Confirmed: the listing and the June damage are established by UNESCO documents, but the extent of damage is unassessed, Tyre-specific conditions after July 2026 could not be established, and the Critical/High boundary is a judgment call. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_01",
+        "src_02",
+        "src_03",
+        "src_05",
+        "src_07",
+        "src_08",
+        "src_12",
+        "src_09"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of five categories are supported by evidence opened in this pass, which gives the moderate tier by the rubric. Photographic: UNESCO's public gallery (at least 12 images on its first page, with pagination to three pages; credits to a UNESCO photographer and Limes.Media). Academic/scholarly: a 2024 peer-reviewed overview of the Lebanese-Spanish-Polish excavations, and Honor Frost Foundation documentation of maritime and terrestrial projects at Tyre. Not counted, because not verified as publicly viewable or available: (1) 3D documentation: a conference paper in the ISPRS archives describes a September 2002 laser-scanning survey of Roman remains at Tyre and says 3D polygon models were produced, but no publicly viewable model was found, and the Honor Frost page mentions photogrammetry in a 2022 field season without a viewable model; (2) virtual tour: a third-party site lists two embedded Google Maps virtual visits of Tyre sites credited to UNESCO Beirut and Lebanon's Ministry of Culture (dated May 2020), but the embedded tours themselves were not opened here; (3) archival records: no digitised archive or nomination file for Tyre was found, and UNESCO's list page showed no nomination file or advisory body evaluation, and UNESCO's own state-of-conservation reports were deliberately not counted. A reviewer may wish to verify the Google Maps tours directly; if they are viewable, the virtual_tour category would become true and the tier would remain moderate. UNESCO's 2026 document reports that archaeological warehouses holding site collections and documentation were reportedly damaged on 7 June 2026, which makes the extent of publicly available digital copies of that documentation a relevant open question.",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO World Heritage Centre's public photo gallery for Tyre, with images credited to Véronique Dauge (© UNESCO) and Tim Schnarr (© Limes.Media); the first page shows 12 images and the gallery spans three pages.",
+        "url": "https://whc.unesco.org/en/list/299/gallery/",
+        "source_id": "src_13"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Aubet, Núñez and Badawi, 'The Archaeology of Tyre: The Joint Lebanese, Spanish, and Polish Excavations in the Phoenician Homeland', Near Eastern Archaeology 87(3), 2024, describing more than 25 years of excavation at the al-Bass cemetery and the acropolis of the ancient island.",
+        "url": "https://www.journals.uchicago.edu/doi/10.1086/731396",
+        "source_id": "src_14"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Honor Frost Foundation overview of maritime archaeology and related projects at Tyre (for example the Tyre North submerged mole project 2017-2025 with the Directorate General of Antiquities and the University of Perpignan, marine geophysical survey, and a 'Tyre Database' consolidating project results into a geospatial platform, listed as 2022 activity).",
+        "url": "https://honorfrostfoundation.org/?p=751",
+        "source_id": "src_15"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2024-11",
+      "title": "Tyre given provisional Enhanced Protection under the 1999 Second Protocol",
+      "description": "UNESCO's 2025 state-of-conservation page records that in November 2024 Tyre received provisional enhanced protection under the Second Protocol (1999) to the 1954 Hague Convention. The decision is cited as 4 EXT.COM 4.32. A UN in Lebanon press release dated 18 November 2024 says the Committee for the Protection of Cultural Property in the Event of Armed Conflict, in an extraordinary session on 30 October 2024, granted provisional enhanced protection to 34 Lebanese cultural properties, including Tyre, and approved international financial assistance for emergency heritage measures. (The press release also says the session was held on a 'Monday', which does not match 30 October 2024, so the exact session date is uncertain; UNESCO's page gives November 2024.)",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_05",
+        "src_06"
+      ]
+    },
+    {
+      "date": "2025-03",
+      "title": "UNESCO rapid damage assessment mission in Lebanon",
+      "description": "UNESCO's 2025 state-of-conservation page states that a UNESCO mission on 9-14 March 2025 confirmed damage on or next to the property, recording nine instances (affecting Directorate General of Antiquities offices, the Ain Hiram site, modern buildings, visitor facilities and the Al-Bass site fence). The page states that no direct impact on the archaeological remains and monuments could be observed.",
+      "event_type": "other",
+      "source_ids": [
+        "src_05",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "World Heritage Committee decision 47 COM 7B.176 on Tyre",
+      "description": "At its 47th session the Committee expressed concern about hostilities damage at and near the property, urged urgent repairs where possible and detailed structural assessments, noted the provisional Enhanced Protection, welcomed the March 2025 mission, and asked the State Party to finalise the Management Plan, revise the boundary and identify a buffer zone. It requested an updated report by 1 December 2026 (the 2026 decision later sets 1 February 2027). The 47th session was held on 6-16 July 2025 per UNESCO's state-of-conservation page. The exact adoption date is not shown on the decision page.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04"
+      ]
+    },
+    {
+      "date": "2026-02-28",
+      "title": "Outbreak of hostilities in the Middle East cited by UNESCO as the start of the 2026 escalation affecting Tyre",
+      "description": "UNESCO's 2026 document dates the 2026 escalation to the outbreak of hostilities in the Middle East on 28 February 2026, after which direct impacts at the property and its vicinity have been reported. UNESCO's document does not describe the parties or causes; AFP reports describe the conflict as between Israel and Hezbollah.",
+      "event_type": "other",
+      "source_ids": [
+        "src_03",
+        "src_09"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Reported missile strike within the buffer zone near the Roman hippodrome",
+      "description": "ICOMOS Lebanon (the national committee of ICOMOS) reportedly states in its 7 June 2026 alert that a missile strike on 6 March 2026 fell within the property's buffer zone near the Roman hippodrome. This is a single-source report from an advocacy statement; UNESCO's documents read in this pass do not describe this incident individually.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_10"
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Strike hits the entrance of the City Site component",
+      "description": "UNESCO's 2026 document reports, citing the State Party (correspondence of 15 June 2026), that the area at the entrance of the City Site component was struck on 7 June 2026, damaging a historic building, adjacent electric generators, offices of the Directorate General of Antiquities and the south-eastern sector of the archaeological site; columns, capitals and mosaic panels in the vicinity were affected, and archaeological warehouses were reportedly damaged. AFP reported (8 June) that a Lebanese culture ministry regional director, Ali Badawi, said the site's administrative office was directly struck and that debris from nearby strikes damaged columns, capitals, column bases and mosaics, and AFP attributed the bombardment to Israel. ICOMOS Lebanon likewise attributes the strike to Israeli forces. UNESCO's document does not name who carried out the strike, and the AFP report included no Israeli statement on the damage.",
+      "event_type": "damage",
+      "source_ids": [
+        "src_03",
+        "src_07",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Preliminary rapid damage assessment submitted to UNESCO",
+      "description": "UNESCO's 2026 document records that a preliminary rapid damage assessment was submitted on 27 June 2026. It also records that, according to the Minister of Culture (statement of 17 June 2026), repeated attacks had targeted the property and the State Party had requested inscription on the List of World Heritage in Danger. UNESCO says a comprehensive field assessment is still needed once access is safe.",
+      "event_type": "other",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "title": "World Heritage Committee inscribes Tyre on the List of World Heritage in Danger (48 COM 7B.94)",
+      "description": "At its 48th session in Busan, the Committee decided to inscribe Tyre on the Danger List, at the request of the Lebanese government. The decision finds that the conditions needed to conserve the property's Outstanding Universal Value are no longer met and that it faces current and potential threats; it urges all parties to the hostilities to avoid actions that could cause further damage and to meet their obligations under international law; and it asks the State Party to invite a joint World Heritage Centre/ICOMOS reactive monitoring mission when the situation allows and to submit an updated report by 1 February 2027. The date 22 July 2026 is inferred from AFP reporting (article dated 22 July saying Tyre was added 'on Wednesday'; QNA via The Peninsula also dated 22 July); the decision page itself does not show a date, and the Committee session ran 19-29 July 2026. AFP also reported that Israel told the Committee to reject what it called the 'cynical weaponization of cultural heritage' and cited Hezbollah's use of Beaufort Castle; the article did not report an Israeli response specific to Tyre.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_01",
+        "src_08",
+        "src_09"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Tyre (Lebanon): World Heritage List entry",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/ES/list/299",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read via the Spanish-language URL; the English-language page was not retrievable in this pass. Coordinates and a danger-listing indicator were not shown on the versions read.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "List of World Heritage in Danger",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/danger-list/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7B.94: Tyre (Lebanon)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/decisions/9150",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on the French-language decision page (Tyr, Liban); content relied on is the numbered paragraphs, including the paragraph deciding to inscribe Tyre on the Danger List. The page does not show an adoption date.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "State of conservation of properties inscribed on the World Heritage List, Addendum 4, Tyre (Lebanon) section (WHC/26/48.COM/7B.Add.4)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/226656",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "State-of-conservation document dated Paris, 14 July 2026, prepared for the 48th session; it contains a draft decision, and the Committee's adopted text is src_02.",
+      "published_date": "2026-07-14",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 47 COM 7B.176: Tyre (Lebanon)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8901",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "State of conservation 2025: Tyre (Lebanon)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/fr/soc/4712",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read on the French-language state-of-conservation page; it lists the 2025 report documents (WHC/25/47.COM/7B.Add.2) but those documents were not opened separately.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Lebanon: 34 cultural properties placed under enhanced protection (press release)",
+      "publisher": "United Nations in Lebanon",
+      "url": "https://lebanon.un.org/en/283868-lebanon34-cultural-properties-placed-under-enhanced-protection",
+      "source_type": "un",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024-11-18",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Lebanon heritage site damaged by Israeli bombardment: official (AFP)",
+      "publisher": "Al Arabiya English (republishing AFP)",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/lebanon-heritage-site-damaged-by-israeli-bombardment-official",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Damage details are attributed in the article to a Lebanese culture ministry official and to AFP correspondents' observations; the article carries no Israeli statement.",
+      "published_date": "2026-06-08",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "UNESCO adds war-hit Lebanese city of Tyre to list of world heritage sites in danger (AFP)",
+      "publisher": "The Times of Israel (republishing AFP)",
+      "url": "https://www.timesofisrael.com/unesco-adds-war-hit-lebanese-city-of-tyre-to-list-of-world-heritage-sites-in-danger/",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-07-22",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "Ancient Lebanese city of Tyre added to heritage danger list (AFP)",
+      "publisher": "Al-Monitor (republishing AFP)",
+      "url": "https://al-monitor.com/originals/2026/07/ancient-lebanese-city-tyre-added-heritage-danger-list",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": null,
+      "published_date": "2026-07-22",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "Urgent alert on strikes at the UNESCO World Heritage property of Tyre (ICOMOS Lebanon National Committee, 7 June 2026)",
+      "publisher": "ICOMOS Lebanon National Committee (hosted by ICOMOS)",
+      "url": "https://admin.icomos.org/wp-content/uploads/2026/06/Lebanon-Alert-on-Tyre-2.pdf",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Advocacy statement by a national committee of ICOMOS; its claims about earlier incidents (6 March, 28 April 2026) were not independently corroborated here, and its legal characterisations (for example 'deliberate and unlawful') are the committee's own views and are not adopted by HeritageWatch. A related ICOMOS Lebanon statement dated 27 May 2026 cites a different Committee decision number for Tyre than UNESCO's page does, so decision references in ICOMOS Lebanon material were not relied on. Should not be the sole support for a status-determining claim.",
+      "published_date": "2026-06-07",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "Satellite images show Israel's destruction of historical city of Tyre",
+      "publisher": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/satellite-images-show-israels-destruction-of-historical-city-of-tyre",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Based on the outlet's own open-source unit's reading of satellite images; the imagery was not independently reviewed here and the article quotes an NGO founder and carries no Israeli response. It says damage was near the heritage site and does not quantify damage to the site itself. Used as corroboration only.",
+      "published_date": "2026-06-10",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Israel intensifies South Lebanon strikes, killing 13 in new escalation (France 24 report)",
+      "publisher": "Libnanews Live (republishing France 24)",
+      "url": "https://live.libnanews.com/event/ev-1788816852783-b192",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "Aggregator republication of a France 24 item; the page names no specific towns and does not mention Tyre. Used only for the general regional situation on 7 September 2026, including that Israel cites alleged ceasefire violations.",
+      "published_date": "2026-09-07",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Tyre: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/299/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "The Archaeology of Tyre: The Joint Lebanese, Spanish, and Polish Excavations in the Phoenician Homeland",
+      "publisher": "Near Eastern Archaeology 87(3), University of Chicago Press (Aubet, Núñez and Badawi)",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/731396",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Abstract and bibliographic details read; the full article was not opened.",
+      "published_date": "2024-08-29",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Tyre, Lebanon (maritime archaeology projects)",
+      "publisher": "Honor Frost Foundation",
+      "url": "https://honorfrostfoundation.org/?p=751",
+      "source_type": "ngo",
+      "tier": 2,
+      "reliability_note": "Funder's overview page; evidences that projects exist, not their publication outputs.",
+      "published_date": "2020-06-25",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Tyre: maps",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/299/maps/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Gives the property coordinates (N33 16 09, E35 11 45) and area (153.8 ha); the interactive boundary map was not viewable in text.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-14",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude. Proposed status High Concern / Supported; close call vs Critical Concern flagged in decision_trigger. Proposed DPI tier: moderate. Known gaps (not included because not verified): (1) The English UNESCO list page for Tyre (whc.unesco.org/en/list/299/) was not retrievable in this pass; the Spanish, Arabic and Japanese versions were read, none of which displayed coordinates, so coordinates rest on Wikipedia (Tier 4, metadata only) and need a visual check. (2) Decision 48 COM 7B.94 was read on the French-language decision page; the page shows no adoption date, so 22 July 2026 comes from AFP reporting. (3) The 2026 state-of-conservation document is dated 14 July 2026 and contains a draft decision; the adopted decision text is the French page. (4) The 2025 State Party report and the March 2025 mission report were not opened; the 2025 mission findings rest on UNESCO's state-of-conservation page. (5) No Tyre-specific damage or access report dated after 22 July 2026 was found, so current access and security at the property are not verified; France 24 (via an aggregator) reported strikes across southern Lebanon on 7 September 2026 without naming Tyre. (6) ICOMOS Lebanon claims (6 March and 28 April 2026 incidents, 23 October 2024 strike about 50 m from the ruins) are single-source and were included only as reported by ICOMOS Lebanon where used (6 March). (7) Extent of damage to antiquities and to the warehouses' collections and documentation is unassessed per UNESCO; casualty and displacement figures were deliberately omitted because they were not attributed to a primary source and are not about the property. (8) Responsibility for the 7 June 2026 strike is stated only as attributed by AFP and ICOMOS Lebanon; UNESCO documents read do not name the party and no Israeli statement on the damage was found. (9) DPI leads not counted because unverified: ISPRS conference paper on a 2002 laser-scanning survey of Roman remains at Tyre (https://www.isprs.org/proceedings/XXXIV/5-W12/proceedings/79.pdf), and two embedded Google Maps virtual visits of Tyre sites listed by https://lebanonuntravelled.com/virtual-tours-of-lebanons-site/ (credited to UNESCO Beirut and Lebanon's Ministry of Culture, May 2020); the tours themselves were not opened. (10) A 2004 UNESCO state-of-conservation page (whc.unesco.org/en/soc/1440) was read for context on chronic management concerns but is not cited as a source. (11) A UNESCO news page about the listing and ICOMOS's own web news page were not retrievable; AFP republications were used for UNESCO's quoted statements. Images omitted by design. | Verification pass 2026-10-14 (independent): (1) coordinates replaced with UNESCO's own figures from the maps page (N33 16 09, E35 11 45; added src_16) instead of the Wikipedia point; (2) removed unsupported 'nominal ceasefire since mid-April 2026' claims (no source read states it; France 24 only mentions 'alleged ceasefire violations'; AFP 8 June quotes the minister awaiting a ceasefire); (3) attributed the 7 June strike report to the State Party (UNESCO document says the State Party reported it, correspondence of 15 June) rather than UNESCO asserting it; (4) corrected 28 February 2026 wording to 'hostilities in the Middle East' as UNESCO states; (5) 'archaeological team withdrew' corrected to 'absence of the team, directly affected'; (6) noted much of the 7 June detail originates with Lebanese authorities; added src_09 to status sources; (7) noted press-release session date inconsistency and that the 1 Dec 2026 report deadline is superseded by 1 Feb 2027; (8) Honor Frost 'planned' database reworded. Verified unchanged: Danger List 2026 entry, 22 July date (AFP 'Wednesday', QNA dated 22 July; a DevelopmentAid roundup says decisions announced 26 July; UNESCO page shows no date), 153.8 ha, criteria, March 2025 mission, 47 COM and 48 COM content, gallery counts, article bibliographic details. Not verified: title of ICOMOS alert and the 27 May ICOMOS statement mentioned in src_10 note.",
+      "changed_by": "claude"
+    }
+  ]
+}

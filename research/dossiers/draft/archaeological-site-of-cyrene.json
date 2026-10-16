@@ -1,0 +1,553 @@
+{
+  "slug": "archaeological-site-of-cyrene",
+  "name": "Archaeological Site of Cyrene",
+  "alternate_names": [
+    "Cyrene",
+    "Shahhat",
+    "Shahat",
+    "Kyrene"
+  ],
+  "country": "Libya",
+  "region": "North Africa (Mediterranean coast, Cyrenaica / Jebel Akhdar)",
+  "coordinates": {
+    "lat": 32.825,
+    "lng": 21.8583
+  },
+  "coordinate_note": "Converted from the coordinates given on UNESCO's property page (N32 49 30, E21 51 29.988). UNESCO lists the property as 131.675 ha in the District of Ghebel Akhdar and notes that georeferenced polygons will be published once it receives GIS data, so the marker is a practical single-point reference. Needs Harry's map check.",
+  "unesco_id": "190",
+  "inscription_year": 1982,
+  "unesco_listing_name": null,
+  "is_serial_component": false,
+  "serial_component_note": null,
+  "site_type": "cultural",
+  "significance_summary": "UNESCO describes Cyrene as a colony of the Greeks of Thera and one of the principal cities in the Hellenic world. It was later Romanized and, in UNESCO's words, remained a great capital until the earthquake of 365. It was inscribed in 1982 under cultural criteria (ii), (iii) and (vi). Paraphrased from UNESCO's property page.",
+  "metadata_sources": [
+    "src_00",
+    "src_01"
+  ],
+  "threat_categories": [
+    {
+      "category": "armed_conflict",
+      "evidence_summary": "UNESCO's State of Conservation summaries (2023, 2024) state that the Danger List threat for Cyrene is the conflict situation prevailing in the country, and list deliberate destruction of heritage and war among the factors affecting the property; the lists are alphabetical and mix proven and potential threats. In 2016 the Committee (40 COM 7B.106) deplored the conflict in the country, expressed deep concern about damage already done and threats to Libya's five properties and concluded that conditions to protect their Outstanding Universal Value no longer existed, and (40 COM 8C.1, 40 COM 7B.24) placed Cyrene on the List of World Heritage in Danger. The 2016 State of Conservation summary records that vandalism had increased and that numerous tombs on the south-west side were bulldozed, as reported by Libyan professionals at an expert meeting in Tunis (9-11 May 2016). An AFP report of 25 June 2026 states that Cyrene and other eastern Libyan sites were looted by terrorists including ISIS after 2011, and quotes the head of the Cyrene museum as saying volunteers and residents guarded the sites and no thefts were recorded in Cyrene; these are the outlet's and interviewees' statements. No active combat at or adjacent to the site was found in the sources reviewed, and the 2026 decision does not describe security conditions.",
+      "first_identified_date": "2016",
+      "date_note": "Year of Danger List inscription; instability described in sources from 2011 onward but no single start date established for this property.",
+      "source_ids": [
+        "src_07",
+        "src_08",
+        "src_11",
+        "src_09",
+        "src_10",
+        "src_17"
+      ]
+    },
+    {
+      "category": "natural_disaster",
+      "evidence_summary": "Storm Daniel (September 2023) flooded the property. The 2024 State of Conservation summary reports sewage contamination of the Spring of Apollo, flood damage, cleaning of the Roman Baths' mosaic floor after inundation and the excavation of a trench near the Strategium. Decision 46 COM 7A.20 (2024) expressed serious concern about damage caused by inundation. ASOR's project page for the Cyrene Conservation Initiative describes sustained flooding down Valley Street into the eastern half of the Sanctuary of Apollo terrace, deep trenching into unexcavated strata and mass deposition of stone and soil, and states that two years later the impacts continue to limit safe access for visitors to that area. The Committee decisions of 2025 and 2026 continue to call for a conservation strategy covering foundations, the rock escarpment and soil erosion, and for disaster risk management including an early warning system (priorities from a November 2023 UNESCO Rapid Assessment mission). The State Party reports read do not quantify the extent of damage. ALIPH funds emergency works (2024-2026) in response to the storm.",
+      "first_identified_date": "2023-09",
+      "date_note": "Storm Daniel, September 2023.",
+      "source_ids": [
+        "src_04",
+        "src_09",
+        "src_15",
+        "src_14",
+        "src_03",
+        "src_02",
+        "src_12",
+        "src_13",
+        "src_18"
+      ]
+    },
+    {
+      "category": "environmental_climate",
+      "evidence_summary": "Decisions 44 COM 7A.11 (2021) and 45 COM 7A.33 (2023) asked for updated information on damage from sewage discharged from Shahat city into Wadi Belghader; the 2023 summary records the World Heritage Centre and ICOMOS view that addressing it remains a necessity to avoid further damage. The 2016 summary already listed surface water pollution (sewage from the modern town into the wadi) among factors. Decision 46 COM 7A.20 (2024) welcomed efforts to decontaminate Wadi Belghader and the Spring of Apollo and the temporary diversion of sewage piping, and asked for a permanent solution. Decision 47 COM 7A.40 (2025) acknowledged studies on rainwater channelling and wastewater management, and decision 48 COM 7A.6 (2026) welcomed early surface-water and wastewater measures (including restoring a Roman aqueduct and extending drainage) and encouraged a comprehensive integrated water and drainage plan developed with Shahat's municipal authorities. The 2023 and 2024 summaries list surface water pollution and wildfires among factors affecting the property. Soil erosion is named among the priority areas in the 2025 and 2026 decisions. Pollution is being partly mitigated; a permanent solution has not been reported in the sources read.",
+      "first_identified_date": "2016",
+      "date_note": "The 2016 State of Conservation summary already lists surface water pollution (sewage from the modern town into Wadi Bel Ghadir) among factors; decisions 44 COM 7A.11 (2021) and 45 COM 7A.33 (2023) ask for updated information. An earlier start date was not established.",
+      "source_ids": [
+        "src_06",
+        "src_05",
+        "src_10",
+        "src_04",
+        "src_09",
+        "src_03",
+        "src_02",
+        "src_11"
+      ]
+    },
+    {
+      "category": "conservation_structural",
+      "evidence_summary": "Decisions 47 COM 7A.40 (2025) and 48 COM 7A.6 (2026) list priority areas drawn from the November 2023 UNESCO mission: weakened or exposed foundations and structures, stability of the rock escarpment in the lower north-west area, soil erosion, and disaster risk management; the 2026 decision reiterates the request for a conservation strategy. The 2024 summary states that the corrective measures and a Desired State of Conservation for removal (DSOCR) were not yet drafted or identified, and the Management Plan, a minor boundary modification, a buffer zone and a retrospective Statement of Outstanding Universal Value remain outstanding in the decisions read (the 2026 decision asks for the Statement for the 49th session). The 2016 summary identified urban encroachment and illegal housing as main threats; the 2024 summary lists housing, livestock grazing and governance among factors. The Cyrene Grand Hotel project near the Temple of Zeus was described by the Department of Antiquities as cancelled until further notice (2023 summary), and the Committee welcomed the cancellation in 2024. The 2024 summary says cracks found in the Forum's inner portico and the Greek propylaeum were likely caused by earlier restoration. Positive measures: the Committee in 2026 welcomed continued conservation work including university missions and ALIPH support, commended fieldwork despite significant institutional and financial constraints, and encouraged a coordinated monitoring framework; ALIPH reports $225,000 in emergency works (2024-2026) including consolidation at the Sanctuary of Demeter and stabilisation in the necropolis. In the June 2026 AFP report, a person overseeing renovation cited outdated equipment and a lack of resources, and the head of the museum described it as dilapidated; a senior Department of Antiquities official said requests for help since 2016 had gone unanswered, while UNESCO's Maghreb director said he was not aware of them (statements as quoted by AFP). The joint Reactive Monitoring mission requested since 2015 has not yet been carried out (earlier UNESCO missions took place between 2003 and 2008, and a Rapid Assessment mission in November 2023).",
+      "first_identified_date": null,
+      "date_note": "Chronic management and conservation concerns recorded across successive Committee cycles; no single start date established. Earliest dated source read for this category is the 2016 State of Conservation summary.",
+      "source_ids": [
+        "src_03",
+        "src_02",
+        "src_09",
+        "src_10",
+        "src_11",
+        "src_14",
+        "src_17",
+        "src_04"
+      ]
+    }
+  ],
+  "status_history": [
+    {
+      "status": "high_concern",
+      "confidence": "supported",
+      "decision_trigger": "High Concern, applying the methodology top-down. Critical: considered and not met on the evidence reviewed. (1) No authoritative source reviewed reports severe, verified destruction of a significant part of the property: decision 46 COM 7A.20 (2024) expresses serious concern about Storm Daniel flood damage and ASOR describes continuing limits on safe access to the Sanctuary of Apollo terrace, but this is damage to identified areas, and the 2025 and 2026 decisions welcome ongoing conservation work. (2) No active combat at or adjacent to the site was found. (3) The site has not been inaccessible to monitoring: a UNESCO Rapid Assessment mission visited in November 2023 and State Party reports are listed on UNESCO's documents page for 2025 and 2026, although the joint Reactive Monitoring mission (requested since 2015, still requested in 2026) has not been held. (4) Protection has not collapsed: the Department of Antiquities, Italian and other university missions and ALIPH-supported teams are working on site. High Concern triggers matched: (a) official inscription on UNESCO's List of World Heritage in Danger since 2016, for a substantive reason (the conflict situation prevailing in the country; retained by decision 48 COM 7A.6, 2026); (b) a specific damaging event within roughly the last 5 years (Storm Daniel, September 2023) documented by several independent sources (UNESCO decisions and summaries, ALIPH, ASOR, AFP) with damage not yet fully repaired and with foundation, escarpment and erosion priorities still open. Close calls: (a) Moderate vs High: the Danger List reason is the national conflict situation rather than documented fighting at the site, works are under way and the 2026 decision welcomes progress, so a reviewer could argue present conditions are nearer Moderate; this draft does not do so because of the Danger List trigger and the unresolved flood-related structural priorities. (b) Critical vs High: the nearest approach is the storm damage and limited safe access on part of the Apollo terrace, but no source reviewed reports severe loss of a significant part of the property.",
+      "rationale": "Historical damage is documented in the site's record, but the current classification is based on present conditions and the most recent credible evidence. The present picture is of a large Greek and Roman city that has been on the List of World Heritage in Danger since 2016 and was retained on it again in 2026, and that was affected by flooding in September 2023. The Committee's 2026 decision (48 COM 7A.6) welcomed Libya's continued conservation work, university missions and ALIPH support and the early drainage and water measures, but reiterated the request for a conservation strategy covering exposed foundations, escarpment stability, soil erosion and early-warning disaster risk management, identified a Management Plan as a priority, urged a Desired State of Conservation for removal and a retrospective Statement of Outstanding Universal Value, and encouraged a comprehensive water and drainage plan developed with Shahat's municipal authorities. ASOR reports that flood impacts continue to limit safe access to part of the Sanctuary of Apollo terrace, and ALIPH-funded emergency works run to 2026. Sewage pollution from Shahat has been partly mitigated, and a permanent solution has not been reported in the sources read. The evidence therefore shows a site that is actively worked on but under formal Danger List status with open structural and management items. Confidence is Supported rather than Confirmed: the findings rest on several consistent UNESCO documents, but the decisions and State Party reports were read through extracted summaries rather than as full documents, the joint Reactive Monitoring mission has not taken place so there is no recent whole-property expert assessment (the last UNESCO mission was the November 2023 Rapid Assessment), the State Party reports read do not describe current condition or security, and recent independent journalism is limited to one AFP report. Confidence does not alter the status.",
+      "effective_date": "2026-10-14",
+      "source_ids": [
+        "src_02",
+        "src_03",
+        "src_04",
+        "src_09",
+        "src_14",
+        "src_15",
+        "src_17",
+        "src_07"
+      ],
+      "recorded_by": "claude-draft",
+      "approved_by": null
+    }
+  ],
+  "digital_preservation": {
+    "category_coverage": {
+      "photographic": true,
+      "archival_records": false,
+      "3d_documentation": false,
+      "virtual_tour": false,
+      "academic_scholarly": true
+    },
+    "coverage_note": "Two of five categories (photographic, academic_scholarly) have publicly findable evidence, which gives the moderate tier by the rubric. Archival records are not counted: UNESCO's own documents index is not a digitised archive of the site, and none was found. A partner page of Iconem and the EAMENA project embeds a link to a web viewer captioned '3D model of Cyrene (2019)' credited to the Mission archeologique francaise de Libye, but the viewer itself could not be opened in this pass, so 3D documentation is marked false pending Harry's check; if that model is confirmed viewable, the count would be three and the tier would remain moderate. Scholarly papers describe 3D laser scanning and thermography of the Cyrene necropolis (Chieti University team), but only repository abstracts were read and no viewable model of those was found. No virtual tour was found. The UNESCO photo gallery spans at least two pages of 12 images (the page offers a 24-per-page view; total not stated), credited to two photographers. Coverage is uneven: the scholarly material in this pass concerns the necropolis and survey work, not the whole city. This reflects what is publicly findable in this pass and does not measure private or unpublished archives (for example Italian, French and Libyan mission records).",
+    "tier_recommendation": "moderate",
+    "evidence": [
+      {
+        "category": "photographic",
+        "description": "UNESCO's World Heritage Centre hosts a photo gallery for the property (12 images per page over at least two pages, each marked as UNESCO copyright, credited to Giovanni Boccardi and Francesco Bandarin; total count not stated).",
+        "url": "https://whc.unesco.org/en/list/190/gallery/",
+        "source_id": "src_19"
+      },
+      {
+        "category": "archival_records",
+        "description": "NOT COUNTED toward the tier. UNESCO's documents page for the property lists the 1982 ICOMOS evaluation, periodic reports, State of Conservation reports and Committee decisions. These are UNESCO's own reporting documents, not a digitised archive of the site, so they are not counted. No digitised archive of the site itself (for example excavation archives) was found.",
+        "url": "https://whc.unesco.org/en/list/190/documents",
+        "source_id": "src_01"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Menozzi and Fossataro (2010, Libya Antiqua V): interim report on field survey, GIS and excavations in the territory of Cyrene and Lamluda by the Chieti University mission (abstract read only).",
+        "url": "https://ricerca.unich.it/handle/11564/248420",
+        "source_id": "src_20"
+      },
+      {
+        "category": "academic_scholarly",
+        "description": "Menozzi and Tamburrino (2012, International Journal of Heritage in the Digital Era): laser scanning and infra-red thermographic prospecting for the painted tombs at Cyrene, feeding a GIS of the necropolis (abstract read only).",
+        "url": "https://ricerca.unich.it/handle/11564/368558",
+        "source_id": "src_21"
+      },
+      {
+        "category": "3d_documentation",
+        "description": "NOT COUNTED toward the tier. Iconem/EAMENA partner page embeds a link to a web viewer captioned '3D model of Cyrene (2019)' (credited to the Mission archeologique francaise de Libye); the viewer could not be opened, so it is recorded here for Harry to verify.",
+        "url": "https://3d.iconem.com/partners/eamena/cyrene.html",
+        "source_id": "src_22"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1982",
+      "title": "Cyrene inscribed on the World Heritage List",
+      "description": "UNESCO's property page records inscription in 1982 under criteria (ii), (iii) and (vi); the documents page lists the 1982 nomination decision (06 COM VIII.20) and ICOMOS evaluation.",
+      "event_type": "designation",
+      "source_ids": [
+        "src_00",
+        "src_01"
+      ]
+    },
+    {
+      "date": "2016",
+      "title": "Cyrene inscribed on the List of World Heritage in Danger",
+      "description": "At its 40th session the Committee placed Libya's five World Heritage properties, including Cyrene, on the Danger List (40 COM 8C.1), regretting the conflict in the country and its loss of life, and concluding that conditions to protect their Outstanding Universal Value no longer existed (40 COM 7B.106). The 2016 State of Conservation summary for Cyrene reports that vandalism had increased and that numerous tombs on the south-west side were bulldozed, as told by Libyan professionals at an expert meeting in Tunis (9-11 May 2016), and that urban encroachment and illegal housing were identified as main threats.",
+      "event_type": "protection_measure",
+      "source_ids": [
+        "src_07",
+        "src_08",
+        "src_11"
+      ]
+    },
+    {
+      "date": "2021",
+      "title": "Decision 44 COM 7A.11 retains the site on the Danger List",
+      "description": "The Committee retained the property on the List, asked for more detailed information on the proposed Cyrene Grand Hotel near the Temple of Zeus and for updated information on damage from sewage discharged from Shahat city into Wadi Belghader, and encouraged a joint World Heritage Centre/ICOMOS mission once security allows.",
+      "event_type": "political",
+      "source_ids": [
+        "src_06"
+      ]
+    },
+    {
+      "date": "2023",
+      "title": "Decision 45 COM 7A.33 retains the site on the Danger List",
+      "description": "At the extended 45th session the Committee noted that the Cyrene Grand Hotel project had been halted and that restoration was under way at the theatre in the Agora area, the Severan gate area and the sanctuary of Apollo, reiterated its request for updated information on damage from sewage discharged into Wadi Belghader, and asked for corrective measures and a Desired State of Conservation for removal, strongly encouraged a Management Plan and asked for a draft retrospective Statement of Outstanding Universal Value. The session month was not confirmed from the sources read; the decision does not mention Storm Daniel.",
+      "event_type": "political",
+      "source_ids": [
+        "src_05",
+        "src_10"
+      ]
+    },
+    {
+      "date": "2023-09",
+      "title": "Storm Daniel floods the property",
+      "description": "Storm Daniel (September 2023) caused flooding at Cyrene. UNESCO's 2024 State of Conservation summary reports sewage contamination of the Spring of Apollo, flood damage, cleaning of the Roman Baths' mosaic floor and a trench excavated near the Strategium; ASOR describes flooding down Valley Street into the Sanctuary of Apollo terrace with deep trenching into unexcavated strata. AFP reported that the storm struck eastern Libya from 10 September, flooding Derna and nearby towns. The exact date of flooding at Cyrene was not confirmed in sources read.",
+      "event_type": "natural_disaster",
+      "source_ids": [
+        "src_09",
+        "src_15",
+        "src_18"
+      ]
+    },
+    {
+      "date": "2023-11",
+      "title": "UNESCO Rapid Assessment mission",
+      "description": "The 2024 State of Conservation summary lists a UNESCO Rapid Assessment mission in November 2023 (Storm Daniel), and records an October 2023 UNESCO Heritage Emergency Fund allocation of USD 94,206 for emergency assessment missions to the flood-affected region of Libya (not specific to Cyrene). Decision 46 COM 7A.20 notes the mission's short- and medium-term findings. The mission report itself was not read; its priorities are as restated in later Committee decisions.",
+      "event_type": "assessment",
+      "source_ids": [
+        "src_09",
+        "src_04"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "Decision 46 COM 7A.20 expresses serious concern about flood damage",
+      "description": "At its 46th session (New Delhi) the Committee expressed serious concern about damage from Storm Daniel inundation, welcomed the cancellation of the Cyrene Grand Hotel project and efforts to decontaminate Wadi Belghader and the Spring of Apollo, asked for a conservation strategy and permanent solution to the sewage issue, and retained the property on the Danger List. The State Party's report covering 2024 says the Department of Antiquities and the Cyrene office are continuing to treat and mitigate the effects of Storm Daniel; it does not describe the extent of damage or mention Italian missions. The decision itself notes an assessment made with Italian archaeological missions.",
+      "event_type": "political",
+      "source_ids": [
+        "src_04",
+        "src_12"
+      ]
+    },
+    {
+      "date": "2024",
+      "title": "ALIPH-supported emergency works begin at Cyrene and Apollonia",
+      "description": "ALIPH lists emergency works (2024-2026, USD 225,000, ongoing) led by the University of Chieti-Pescara's archaeometry centre with the Department of Antiquities, responding to Storm Daniel: documentation and consolidation at the Sanctuary of Demeter, stabilisation and debris clearance in the Cyrene necropolis, and roof, drainage and storage work at the Apollonia museum. The page gives the period but not a precise start month.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_14"
+      ]
+    },
+    {
+      "date": "2025",
+      "title": "Decision 47 COM 7A.40 on Cyrene",
+      "description": "The Committee welcomed conservation work including flood-response measures, acknowledged studies on rainwater channelling and wastewater management protecting Wadi Belghadir and the Spring of Apollo, reiterated the request for a conservation strategy for four priority areas (foundations, rock escarpment, soil erosion, disaster risk including early warning), urged a draft retrospective Statement of Outstanding Universal Value, retained the property on the Danger List and requested an updated report by 1 February 2026.",
+      "event_type": "political",
+      "source_ids": [
+        "src_03"
+      ]
+    },
+    {
+      "date": "2025-09",
+      "title": "Cyrene Conservation Initiative announced",
+      "description": "ASOR's Libya updates page dates the announcement of a 12-month conservation and heritage education project at Cyrene, supported by the American Institute for Roman Culture and developed with the Department of Antiquities, to 25 September 2025; it focuses on Valley Street and the Sanctuary of Apollo terrace. ASOR's project page (undated) states flood impacts continue to limit safe access to that area.",
+      "event_type": "conservation",
+      "source_ids": [
+        "src_16",
+        "src_15"
+      ]
+    },
+    {
+      "date": "2026-06",
+      "title": "AFP report on restoration at Cyrene",
+      "description": "AFP reported on 25 June 2026 that the team overseeing renovation had cleared fallen blocks and rubble and, per the report, rebuilt a sanctuary and nearly 60 metres of an ancient wall, that the person overseeing works cited outdated equipment and a lack of resources and hoped the site would reopen to visitors in September, and that the museum head described the museum as dilapidated. Statements are as quoted by AFP.",
+      "event_type": "other",
+      "source_ids": [
+        "src_17"
+      ]
+    },
+    {
+      "date": "2026",
+      "title": "World Heritage Committee decision 48 COM 7A.6 on Cyrene",
+      "description": "At its 48th session (Busan, 2026) the Committee retained the property on the Danger List, welcomed continued conservation work including university missions and ALIPH support, welcomed early surface-water and wastewater measures and encouraged a comprehensive water and drainage plan, reiterated its request for a conservation strategy, identified a Management Plan as a priority, asked for a minor boundary modification proposal, urged a retrospective Statement of Outstanding Universal Value for the 49th session and a Desired State of Conservation for removal, said the invited Reactive Monitoring mission should take place as soon as conditions allow, and asked for an updated report by 1 February 2027. The adoption day was not stated on the page read. The State Party's report responding to the 47th session (document 224348, listed by UNESCO under 2026) says the Department of Antiquities and its Cyrene office continue treating and mitigating the effects of Storm Daniel (September 2023) with the Italian archaeological missions working at Cyrene.",
+      "event_type": "political",
+      "source_ids": [
+        "src_02",
+        "src_13"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src_00",
+      "title": "Archaeological Site of Cyrene (property page)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/190",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_01",
+      "title": "Archaeological Site of Cyrene: documents (decisions, State of Conservation reports, ICOMOS evaluation, periodic reports)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/190/documents",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Documents index page. The page lists no mission reports for this property.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_02",
+      "title": "Decision 48 COM 7A.6: Archaeological Site of Cyrene (Libya)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8998",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through the fetch tool's extracted summary, not as verbatim full text.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_03",
+      "title": "Decision 47 COM 7A.40: Archaeological Site of Cyrene (Libya)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8707",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through the fetch tool's extracted summary, not as verbatim full text.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_04",
+      "title": "Decision 46 COM 7A.20: Archaeological Site of Cyrene (Libya) (C 190)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8489",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through the fetch tool's extracted summary, not as verbatim full text.",
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_05",
+      "title": "Decision 45 COM 7A.33: Archaeological Site of Cyrene (Libya) (C 190)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/8236",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through the fetch tool's extracted summary, not as verbatim full text.",
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_06",
+      "title": "Decision 44 COM 7A.11: Archaeological Site of Cyrene (Libya) (C 190)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/7646",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through the fetch tool's extracted summary, not as verbatim full text.",
+      "published_date": "2021",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_07",
+      "title": "Decision 40 COM 8C.1: Update of the List of World Heritage in Danger (inscribed sites)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6837",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "The page itself lists the five Libyan properties but, as read, does not state reasons; reasons are in the linked decisions (40 COM 7B.24, 40 COM 7B.106).",
+      "published_date": "2016",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_08",
+      "title": "Decision 40 COM 7B.106: World Heritage properties in Libya",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/decisions/6769",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Read through the fetch tool's extracted summary, not as verbatim full text.",
+      "published_date": "2016",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_09",
+      "title": "State of Conservation: Archaeological Site of Cyrene (Libya), 2024 summary",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4543",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2024",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_10",
+      "title": "State of Conservation: Archaeological Site of Cyrene (Libya), 2023 summary",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/4294",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "2023",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_11",
+      "title": "State of Conservation: Archaeological Site of Cyrene (Libya), 2016 summary",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/soc/3399",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": "Reports damage as told to a 2016 expert meeting by Libyan professionals; these are reported accounts, not Secretariat observations.",
+      "published_date": "2016",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_12",
+      "title": "Archaeological Site of Cyrene: State of Conservation report submitted by the State of Libya (C 190), responding to 46th session decisions (covering 2024)",
+      "publisher": "UNESCO World Heritage Centre (State Party report, Libya Department of Antiquities)",
+      "url": "https://whc.unesco.org/document/218835",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Only an extracted summary was read. The report, as summarised, is for 2024 responding to the 46th session; it does not describe the extent of flood damage, current condition, security, access, funding or Italian missions.",
+      "published_date": "2025",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_13",
+      "title": "Archaeological Site of Cyrene: State of Conservation report submitted by the State of Libya (C 190), responding to 47th session decisions",
+      "publisher": "UNESCO World Heritage Centre (State Party report, Libya Department of Antiquities)",
+      "url": "https://whc.unesco.org/document/224348",
+      "source_type": "government",
+      "tier": 1,
+      "reliability_note": "Re-read 2026-10-14: the extract describes a report for 2025 responding to the 47th session decisions; UNESCO's documents page lists it under 2026 (submitted in the 2025-26 cycle). Only an extracted summary was read; it does not mention security, access, funding or water/drainage works.",
+      "published_date": "2026",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_14",
+      "title": "Emergency works at Cyrene and Apollonia sites, eastern Libya",
+      "publisher": "ALIPH Foundation",
+      "url": "https://www.aliph-foundation.org/en/projects/cyrene-and-apollonia-emergency-works",
+      "source_type": "other",
+      "tier": 1,
+      "reliability_note": "ALIPH is an international alliance for heritage in conflict areas; classed Tier 1 as an official programme body. Page is a project description (period 2024-2026, ongoing) and is undated.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_15",
+      "title": "Cyrene conservation project page (ASOR Cultural Heritage Initiatives; supporter American Institute for Roman Culture)",
+      "publisher": "American Society of Overseas Research (ASOR)",
+      "url": "https://www.asor.org/chi/updates/2025/07/cyrene-conservation-libya",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Page is undated and names no authors. Its URL path suggests July 2025, while ASOR's Libya updates page dates the project announcement to 25 September 2025; the discrepancy is unresolved, so no publication date is recorded. Supporter (American Institute for Roman Culture) is also a stakeholder in the project.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_16",
+      "title": "Libya: updates (ASOR Cultural Heritage Initiatives)",
+      "publisher": "American Society of Overseas Research (ASOR)",
+      "url": "https://www.asor.org/chi/updates/libya",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Index page of project updates; used for dates of announcements, which are the organisation's own statements.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_17",
+      "title": "In East Libya, Archaeologists Fight to Save 'Breathtaking' Ancient Greek Ruins",
+      "publisher": "Asharq Al-Awsat (English edition), AFP wire copy",
+      "url": "https://english.aawsat.com/culture/5288510-east-libya-archaeologists-fight-save-breathtaking-ancient-greek-ruins",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "AFP report republished by Asharq Al-Awsat; statements are attributed to named individuals as quoted by the reporter and are not independently verified here. Mostly covers Cyrene and Apollonia together.",
+      "published_date": "2026-06-25",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_18",
+      "title": "Unesco experts in Libya to inspect damaged heritage sites",
+      "publisher": "The EastAfrican (AFP)",
+      "url": "https://www.theeastafrican.co.ke/tea/magazine/unesco-experts-in-libya-to-inspect-damaged-heritage-sites-4395816",
+      "source_type": "journalism",
+      "tier": 3,
+      "reliability_note": "AFP report; the extract read says experts arrived 'on Monday' and describes flooding in eastern Libya generally, with a photo caption of water flowing through Cyrene's ruins. It does not describe specific damage at Cyrene.",
+      "published_date": "2023-10-10",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_19",
+      "title": "Archaeological Site of Cyrene: photo gallery",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/190/gallery/",
+      "source_type": "unesco",
+      "tier": 1,
+      "reliability_note": null,
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_20",
+      "title": "Field Survey, GIS and excavations in the territory of Cyrene and Lamluda. Interim report of Chieti Mission (Menozzi and Fossataro, 2010, Libya Antiqua V)",
+      "publisher": "Universita G. d'Annunzio Chieti-Pescara (institutional repository record)",
+      "url": "https://ricerca.unich.it/handle/11564/248420",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Repository record; only the abstract was read.",
+      "published_date": "2010",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_21",
+      "title": "Laser Scanning and Infra-Red Thermographic Prospecting for Diagnostic Mapping and Restoration Projects: The Case the Painted Tombs at Cyrene (Libya) (Menozzi and Tamburrino, 2012)",
+      "publisher": "Universita G. d'Annunzio Chieti-Pescara (institutional repository record)",
+      "url": "https://ricerca.unich.it/handle/11564/368558",
+      "source_type": "academic",
+      "tier": 2,
+      "reliability_note": "Repository record of a paper in the International Journal of Heritage in the Digital Era; only the abstract was read.",
+      "published_date": "2012",
+      "accessed_date": "2026-10-14"
+    },
+    {
+      "source_id": "src_22",
+      "title": "3D model of Cyrene (2019), partner page",
+      "publisher": "Iconem / EAMENA project",
+      "url": "https://3d.iconem.com/partners/eamena/cyrene.html",
+      "source_type": "other",
+      "tier": 2,
+      "reliability_note": "Page describes Cyrene and embeds a link to an Iconem web viewer captioned '3D model of Cyrene (2019)', credited to the Mission archeologique francaise de Libye. The viewer itself could not be opened in this pass (direct fetch blocked), so the model is not counted as confirmed.",
+      "published_date": "",
+      "accessed_date": "2026-10-14"
+    }
+  ],
+  "editorial_checklist": {
+    "sources_real_and_accessible": false,
+    "core_claims_supported": false,
+    "status_matches_methodology": false,
+    "rationale_reflects_evidence": false,
+    "no_unsupported_prediction_language": false,
+    "conflicting_evidence_addressed": false,
+    "coordinates_verified": false,
+    "dpi_evidence_legitimate": false,
+    "last_reviewed_date_recorded": false,
+    "final_classification_approved": false
+  },
+  "review_status": "draft",
+  "last_verified_date": "2026-10-14",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "change": "Initial draft dossier by Claude. UNESCO id 190 confirmed from the property page. Proposed status High Concern / Supported; DPI Moderate (photographic and academic_scholarly counted; archival_records not counted because UNESCO's own documents index is not a digitised site archive). Status derived top-down from the decision tree: Danger List inscription (since 2016, for the conflict situation) and the September 2023 Storm Daniel damage not yet fully addressed. Close calls flagged in decision_trigger: Moderate vs High (Danger List reason is national conflict situation, not documented fighting at the site; works under way) and Critical vs High (storm damage and limited access to part of the Apollo terrace, but no reported severe loss of a significant part). Known gaps: (1) UNESCO decisions 48 COM 7A.6, 47 COM 7A.40, 46 COM 7A.20, 45 COM 7A.33, 44 COM 7A.11, 40 COM 8C.1 and 40 COM 7B.106, the State of Conservation summaries (2016, 2023, 2024) and both State Party reports were read through extracted summaries, not verbatim full text. (2) The 2025 State of Conservation summary page (whc.unesco.org/en/soc/4689) could not be fetched. (3) The November 2023 Rapid Assessment mission report and the 2016 decision 40 COM 7B.24 were not read; mission details come from later decisions and summaries. (4) The documents page lists a 2026 State Party report (document 224348) that the fetch extract described as a 2025 report; its year is recorded with uncertainty. (5) No joint Reactive Monitoring mission has taken place, so there is no recent independent expert condition assessment; the State Party reports read do not describe condition, security or access. (6) Only one recent independent journalism item (AFP, June 2026) was found; its claims are attributed to named speakers and not independently verified. (7) The Iconem 3D viewer could not be opened; if confirmed viewable, 3D documentation should be true and DPI would be three categories, still moderate. (8) Not used because unverifiable or out of scope: a MDPI Geosciences article on development threats around Cyrene (title, authors and date could not be retrieved), the Global Heritage Fund/WMF page (fetch blocked), a Chieti 'Ain Hofra' photogrammetry project page, and an ASOR 2021 survey report. (9) Ancient and excavation history beyond UNESCO's description, and the month of several decisions were not established and are omitted. Images omitted by design. Re-checked 2026-10-14: decision 48 COM 7A.6 re-read (retains the site on the Danger List; welcomes conservation work, university missions, ALIPH support and preliminary water/drainage measures; asks that the invited Reactive Monitoring mission take place as soon as conditions permit; updated report by 1 February 2027). Other UNESCO pages and the Iconem page returned 403 or were blocked from this environment and were not re-opened. VERIFIER PASS 2026-10-14: re-read decisions 48/47/46/45/44 COM, 40 COM 7B.106 and 8C.1, SoC summaries 2016/2023/2024, both State Party reports, property page, documents page and photo gallery; coordinates convert correctly. Fixes: (1) 2024 State Party report does not mention Italian missions (only the 2025 report does) - corrected and the 2025 report now cited for it; (2) decision wording softened to match texts (46/47/48: 'acknowledged'/'welcomed'/'encouraged' for water plans, Management Plan 'priority', 2023 sewage 'reiterated request for information' not 'concern'); (3) sewage first identified 2016 not 2021 (2016 summary lists surface water pollution); (4) Reactive Monitoring mission requested since 2015 (not 'since 2023'); earlier missions 2003-2008 existed so 'no mission yet' reworded; (5) USD 94,206 Heritage Emergency Fund allocation was for assessment missions to the flood-affected region generally, not Cyrene-specific; (6) cracks 'likely caused by' earlier restoration; (7) 'no recent independent expert assessment' reworded to note Nov 2023 mission. NOT re-verified (fetch blocked by provenance guard): ALIPH page, both ASOR pages, AFP/Asharq Al-Awsat, EastAfrican, both Chieti repository records and the Iconem page; claims resting only on them are unchanged.",
+      "changed_by": "claude"
+    }
+  ]
+}

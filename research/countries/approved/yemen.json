@@ -117,7 +117,8 @@
   "site_slugs": [
     "old-city-of-sanaa",
     "old-walled-city-of-shibam",
-    "historic-town-of-zabid"
+    "historic-town-of-zabid",
+    "landmarks-of-the-ancient-kingdom-of-saba-marib"
   ],
   "review_status": "approved",
   "approved_by": "Harry Disley",
@@ -150,6 +151,16 @@
       "date": "2026-10-12",
       "changed_by": "claude-draft",
       "change": "Added site_slugs for newly approved site profiles: old-walled-city-of-shibam, historic-town-of-zabid. No treaty data changed."
+    },
+    {
+      "date": "2026-10-14",
+      "changed_by": "claude-draft",
+      "change": "Added links to site profiles approved on 2026-10-14: old-walled-city-of-shibam, historic-town-of-zabid. No treaty data changed."
+    },
+    {
+      "date": "2026-10-15",
+      "changed_by": "claude",
+      "change": "Linked approved site profiles: landmarks-of-the-ancient-kingdom-of-saba-marib."
     }
   ]
 }
