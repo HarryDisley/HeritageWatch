@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { prisma } from "@/lib/prisma";
+import type { Metadata } from "next";
+import { truncate } from "@/lib/seo";
 import {
   CASE_TYPE_LABELS,
   SOURCE_TIER_LABELS,
@@ -29,6 +31,24 @@ function SectionSources({ sources }: { sources: SourceLink[] }) {
       ))}
     </p>
   );
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const c = await prisma.case.findUnique({
+    where: { slug },
+    select: { title: true, summary: true, reviewStatus: true },
+  });
+  if (!c || c.reviewStatus !== "APPROVED") return {};
+  return {
+    title: c.title,
+    description: truncate(c.summary),
+    alternates: { canonical: `/casebook/${slug}` },
+  };
 }
 
 export default async function CasePage({

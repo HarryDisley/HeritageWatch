@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { prisma } from "@/lib/prisma";
+import type { Metadata } from "next";
+import { truncate } from "@/lib/seo";
 import {
   STATUS_META,
   CONFIDENCE_META,
@@ -16,6 +18,24 @@ export const dynamic = "force-dynamic";
 // hand-written page per site. Both Stonehenge and Ancient City of Aleppo
 // render from this file today; adding a third approved site later means
 // adding a dossier and re-running the importer, not writing a new page.
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const site = await prisma.site.findUnique({
+    where: { slug },
+    select: { name: true, country: true, significanceSummary: true, reviewStatus: true },
+  });
+  if (!site || site.reviewStatus !== "APPROVED") return {};
+  return {
+    title: `${site.name}: heritage status and threats`,
+    description: truncate(site.significanceSummary),
+    alternates: { canonical: `/sites/${slug}` },
+  };
+}
+
 export default async function SiteProfilePage({
   params,
 }: {

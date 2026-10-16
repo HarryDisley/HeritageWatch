@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { prisma } from "@/lib/prisma";
+import type { Metadata } from "next";
+import { truncate } from "@/lib/seo";
 import {
   MEMBERSHIP_META,
   TREATY_ORDER,
@@ -11,6 +13,24 @@ import {
 } from "@/lib/display";
 
 export const dynamic = "force-dynamic";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const country = await prisma.country.findUnique({
+    where: { slug },
+    select: { name: true, summary: true, reviewStatus: true },
+  });
+  if (!country || country.reviewStatus !== "APPROVED") return {};
+  return {
+    title: `${country.name}: heritage treaty record`,
+    description: truncate(country.summary),
+    alternates: { canonical: `/countries/${slug}` },
+  };
+}
 
 export default async function CountryPage({
   params,
